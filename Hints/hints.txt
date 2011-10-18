@@ -1,0 +1,5 @@
+We can query the airport system for position of airplanes in a particular moment
+query showing airport and time  => result as xml file (We need to parse it and obtain useful data)
+http://www.flightstats.com/go/AirportTracker/airportTrackerUpdate.do?airportCode=ORD&airportQueryDate=2011-10-18
+
+Find near military base... (still looking for it)

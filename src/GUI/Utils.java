@@ -6,4 +6,5 @@ import processing.core.PApplet;
 
 public class Utils {
 	public static PApplet globalProcessing;
+	
 }
