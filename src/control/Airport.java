@@ -7,7 +7,7 @@ public class Airport extends Location {
 
 
 	
-	public Airport(String name, float latitude, float longitude) {
+	public Airport(String name, double latitude, double longitude) {
 		super(name, latitude, longitude);
 
 	}

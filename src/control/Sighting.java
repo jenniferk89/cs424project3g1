@@ -10,6 +10,20 @@ public class Sighting {
 	public Sighting() {
 		super();
 	}
+	
+	
+
+	public Sighting(Time time, Location location, Shape shape,
+			String description, Integer numOfSightings) {
+		super();
+		this.time = time;
+		this.location = location;
+		this.shape = shape;
+		this.description = description;
+		this.numOfSightings = numOfSightings;
+	}
+
+
 
 	public Time getTime() {
 		return time;

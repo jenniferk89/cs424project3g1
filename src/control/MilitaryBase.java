@@ -6,7 +6,7 @@ public class MilitaryBase extends Location{
 	private ArrayList<Sighting> nearSightings;
 
 	
-	public MilitaryBase(String name, float latitude, float longitude) {
+	public MilitaryBase(String name, double latitude, double longitude) {
 		super(name, latitude, longitude);
 		nearSightings = new ArrayList<Sighting>();
 	}

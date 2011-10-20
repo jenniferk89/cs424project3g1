@@ -7,7 +7,7 @@ public class InterestingPlace extends Location {
 	private MilitaryBase militaryBase;
 	
 	
-	public InterestingPlace(String name, float latitude, float longitude, City city) {
+	public InterestingPlace(String name, double latitude, double longitude, City city) {
 		super(name, latitude, longitude);
 		this.city = city;
 	}

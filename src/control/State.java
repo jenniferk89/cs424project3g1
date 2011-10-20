@@ -9,7 +9,7 @@ public class State extends Location{
 	private ArrayList<City> cities;
 	
 	
-	public State(String name, float latitude, float longitude) {
+	public State(String name, double latitude, double longitude) {
 		super(name, latitude, latitude);
 		
 		this.counties = new ArrayList<County>();

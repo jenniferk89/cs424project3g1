@@ -7,8 +7,13 @@ public class City extends Location {
 	private MilitaryBase militaryBase;
 	
 	
-	public City(String name, float latitude, float longitude, County county) {
+	public City(String name, double latitude, double longitude) {
 		super(name, latitude, longitude);
+		
+	}
+
+
+	public void setCounty(County county) {
 		this.county = county;
 	}
 

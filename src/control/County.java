@@ -7,7 +7,7 @@ public class County extends Location{
 	private State state;
 	private ArrayList<City> cities;
 
-	public County(String name, float latitude, float longitude) {
+	public County(String name, double latitude, double longitude) {
 		super(name, latitude, longitude);
 		this.cities = new ArrayList<City>();
 	}

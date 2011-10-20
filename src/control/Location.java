@@ -2,14 +2,14 @@ package control;
 
 public abstract class Location {
 	private String name;
-	private float latitude;
-	private float longitude;
+	private double latitude;
+	private double longitude;
 	
 	
 	
 
 
-	public Location(String name, float latitude, float longitude) {
+	public Location(String name, double latitude, double longitude) {
 		super();
 		this.name = name;
 		this.latitude = latitude;
@@ -27,22 +27,22 @@ public abstract class Location {
 	}
 
 
-	public float getLatitude() {
+	public double getLatitude() {
 		return latitude;
 	}
 
 
-	public void setLatitude(float latitude) {
+	public void setLatitude(double latitude) {
 		this.latitude = latitude;
 	}
 
 
-	public float getLongitude() {
+	public double getLongitude() {
 		return longitude;
 	}
 
 
-	public void setLongitude(float longitude) {
+	public void setLongitude(double longitude) {
 		this.longitude = longitude;
 	}
 
@@ -51,8 +51,11 @@ public abstract class Location {
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;
-		result = prime * result + Float.floatToIntBits(latitude);
-		result = prime * result + Float.floatToIntBits(longitude);
+		long temp;
+		temp = Double.doubleToLongBits(latitude);
+		result = prime * result + (int) (temp ^ (temp >>> 32));
+		temp = Double.doubleToLongBits(longitude);
+		result = prime * result + (int) (temp ^ (temp >>> 32));
 		return result;
 	}
 
@@ -66,16 +69,14 @@ public abstract class Location {
 		if (getClass() != obj.getClass())
 			return false;
 		Location other = (Location) obj;
-		if (Float.floatToIntBits(latitude) != Float
-				.floatToIntBits(other.latitude))
+		if (Double.doubleToLongBits(latitude) != Double
+				.doubleToLongBits(other.latitude))
 			return false;
-		if (Float.floatToIntBits(longitude) != Float
-				.floatToIntBits(other.longitude))
+		if (Double.doubleToLongBits(longitude) != Double
+				.doubleToLongBits(other.longitude))
 			return false;
 		return true;
 	}
-	
-	
-	
-	
-}
+
+
+}	
