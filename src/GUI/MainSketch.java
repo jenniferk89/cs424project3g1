@@ -1,5 +1,9 @@
 package GUI;
 
+import java.util.ArrayList;
+
+import control.Sighting;
+import control.Test;
 import processing.core.PApplet;
 
 public class MainSketch extends PApplet{
@@ -15,6 +19,8 @@ public class MainSketch extends PApplet{
 
 	public void draw() {
 		stroke(255);
+		ArrayList<Sighting> dataToPlot = Test.mockData();
+		
 		if (mousePressed) {
 			line(mouseX,mouseY,pmouseX,pmouseY);
 		}
