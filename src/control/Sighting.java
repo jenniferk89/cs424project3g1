@@ -2,9 +2,10 @@ package control;
 
 public class Sighting {
 	private Time time;
-	private Position position;
+	private Location location;
 	private Shape shape;
 	private String description;
+	private Integer numOfSightings; //affected by granularity of data
 	
 	public Sighting() {
 		super();
@@ -18,12 +19,12 @@ public class Sighting {
 		this.time = time;
 	}
 
-	public Position getPosition() {
-		return position;
+	public Location getPosition() {
+		return location;
 	}
 
-	public void setPosition(Position position) {
-		this.position = position;
+	public void setLocation(Location location) {
+		this.location = location;
 	}
 
 	public Shape getShape() {
@@ -41,6 +42,18 @@ public class Sighting {
 	public void setDescription(String description) {
 		this.description = description;
 	}
+
+	public Integer getNumOfSightings() {
+		return numOfSightings;
+	}
+
+	public void setNumOfSightings(Integer numOfSightings) {
+		this.numOfSightings = numOfSightings;
+	}
+	
+	
+	
+	
 	
 	
 	

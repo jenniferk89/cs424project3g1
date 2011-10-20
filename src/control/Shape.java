@@ -8,7 +8,7 @@ public class Shape extends GeneralShape {
 
 	public Shape(String shape) {
 		//TODO make a mapping function from shape to generalShape
-		super("Pippo");
+		super("Goofy");
 		this.shape = shape;
 	}
 
