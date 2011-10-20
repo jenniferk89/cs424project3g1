@@ -22,6 +22,11 @@ public class Time {
 	public void setEndTime(GregorianCalendar endTime) {
 		this.endTime = endTime;
 	}
+
+
+	public GregorianCalendar getBeginTime() {
+		return beginTime;
+	}
 	
 	
 	
