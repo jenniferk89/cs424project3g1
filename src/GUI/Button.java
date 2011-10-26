@@ -13,7 +13,7 @@ class Button extends PApplet {
 	  } 
 	  
 	  boolean mouseOver() {
-	    return (mouseX > x && mouseX < x + w && mouseY > y && mouseY < y + h);
+	    return (Utils.globalProcessing.mouseX > x && Utils.globalProcessing.mouseX < x + w && Utils.globalProcessing.mouseY > y && Utils.globalProcessing.mouseY < y + h);
 	  }
 	  
 	  public void draw() {

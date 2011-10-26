@@ -79,7 +79,7 @@ public class MainSketch extends PApplet{
 	  boolean hand = false;
 	  if (gui) {
 	    for (int i = 0; i < buttons.length; i++) {
-	      buttons[i].draw();
+	      //buttons[i].draw();
 	      hand = hand || buttons[i].mouseOver();
 	    }
 	  }
@@ -149,9 +149,9 @@ public class MainSketch extends PApplet{
 	    ellipse(p.x, p.y, 10, 10); */
 	  }  
 	  
-	  println((float)map.sc);
-	  println((float)map.tx + " " + (float)map.ty);
-	  println();
+	  //println((float)map.sc);
+	  //println((float)map.tx + " " + (float)map.ty);
+	  //println();
 	  
 	}
 
