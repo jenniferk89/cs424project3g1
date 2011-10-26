@@ -1,15 +1,18 @@
 package control;
 
+import java.util.ArrayList;
+
 public class City extends Location {
 	private County county;
 	private int population;
 	private Airport airport;
 	private MilitaryBase militaryBase;
+	private ArrayList<Sighting> sightings;
 	
 	
 	public City(String name, double latitude, double longitude) {
 		super(name, latitude, longitude);
-		
+		sightings = new ArrayList<Sighting>();
 	}
 
 
@@ -50,6 +53,16 @@ public class City extends Location {
 
 	public County getCounty() {
 		return county;
+	}
+
+
+	public ArrayList<Sighting> getSightings() {
+		return sightings;
+	}
+
+
+	public void addSighting(Sighting sighting) {
+		this.sightings.add(sighting);
 	}
 	
 	

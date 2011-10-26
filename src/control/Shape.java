@@ -16,6 +16,19 @@ public class Shape extends GeneralShape {
 		return shape;
 	}
 
+	public ArrayList<Sighting> getSightings() {
+		return sightings;
+	}
+
+	public void addSighting(Sighting sighting) {
+		this.sightings.add(sighting);
+		super.addGeneralSighting(sighting);
+	}
+
+	public void setShape(String shape) {
+		this.shape = shape;
+	}
+
 	
 	
 	

@@ -1,11 +1,15 @@
 package control;
 
+import java.util.ArrayList;
+
 public abstract class GeneralShape {
 	private String generalShape;
+	private ArrayList<Sighting> generalSightings;
 
 	public GeneralShape(String generalShape) {
 		super();
 		this.generalShape = generalShape;
+		generalSightings = new ArrayList<Sighting>();
 	}
 
 	public String getGeneralShape() {
@@ -14,6 +18,16 @@ public abstract class GeneralShape {
 
 	public void setGeneralShape(String generalShape) {
 		this.generalShape = generalShape;
+	}
+	
+	
+
+	public ArrayList<Sighting> getGeneralSightings() {
+		return generalSightings;
+	}
+
+	public void addGeneralSighting(Sighting generalSighting) {
+		this.generalSightings.add(generalSighting);
 	}
 
 	@Override

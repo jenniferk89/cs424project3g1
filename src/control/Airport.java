@@ -9,11 +9,11 @@ public class Airport extends Location {
 	
 	public Airport(String name, double latitude, double longitude) {
 		super(name, latitude, longitude);
-
+		nearSightings = new ArrayList<Sighting>();
 	}
 
 	public ArrayList<Sighting> getNearSightings() {
-		return new ArrayList(nearSightings);
+		return nearSightings;
 	}
 
 	public void addNearSightings(Sighting nearSighting) {

@@ -12,7 +12,7 @@ public class MilitaryBase extends Location{
 	}
 
 	public ArrayList<Sighting> getNearSightings() {
-		return new ArrayList(nearSightings);
+		return nearSightings;
 	}
 
 	public void addNearSightings(Sighting nearSighting) {
