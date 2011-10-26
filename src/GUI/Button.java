@@ -34,7 +34,7 @@ class Button extends PApplet {
 	  }
 	  
 	  public void draw() {
-	    Utils.globalProcessing.draw();
+	    super.draw();
 	    Utils.globalProcessing.stroke(0);
 	    Utils.globalProcessing.line(x+3,y+h/2,x+w-3,y+h/2);
 	    if (in) {
@@ -54,7 +54,7 @@ class Button extends PApplet {
 	  }
 	  
 	  public void draw() {
-	    Utils.globalProcessing.draw();
+	    super.draw();
 	    Utils.globalProcessing.stroke(0);
 	    switch(dir) {
 	      case UP:

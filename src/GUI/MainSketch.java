@@ -44,6 +44,8 @@ public class MainSketch extends PApplet{
 	  Utils.globalProcessing.smooth();
 	  // create a new map, optionally specify a provider
 	  map = new InteractiveMap(this, new Microsoft.RoadProvider());
+	  map.MAX_IMAGES_TO_KEEP = 128; //using less images to preserve heap space
+	  
 	  // others would be "new Microsoft.HybridProvider()" or "new Microsoft.AerialProvider()"
 	  // the Google ones get blocked after a few hundred tiles
 	  // the Yahoo ones look terrible because they're not 256px squares :)
@@ -79,7 +81,7 @@ public class MainSketch extends PApplet{
 	  boolean hand = false;
 	  if (gui) {
 	    for (int i = 0; i < buttons.length; i++) {
-	      //buttons[i].draw();
+	      buttons[i].draw();
 	      hand = hand || buttons[i].mouseOver();
 	    }
 	  }
