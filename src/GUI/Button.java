@@ -18,8 +18,8 @@ class Button extends PApplet {
 	  
 	  public void draw() {
 	    Utils.globalProcessing.stroke(80);
-	    fill(mouseOver() ? 255 : 220);
-	    rect(x,y,w,h); 
+	    Utils.globalProcessing.fill(mouseOver() ? 255 : 220);
+	    Utils.globalProcessing.rect(x,y,w,h); 
 	  }
 	  
 	}
@@ -35,10 +35,10 @@ class Button extends PApplet {
 	  
 	  public void draw() {
 	    Utils.globalProcessing.draw();
-	    stroke(0);
-	    line(x+3,y+h/2,x+w-3,y+h/2);
+	    Utils.globalProcessing.stroke(0);
+	    Utils.globalProcessing.line(x+3,y+h/2,x+w-3,y+h/2);
 	    if (in) {
-	      line(x+w/2,y+3,x+w/2,y+h-3);
+	    	Utils.globalProcessing.line(x+w/2,y+3,x+w/2,y+h-3);
 	    }
 	  }
 	  
@@ -55,27 +55,27 @@ class Button extends PApplet {
 	  
 	  public void draw() {
 	    Utils.globalProcessing.draw();
-	    stroke(0);
+	    Utils.globalProcessing.stroke(0);
 	    switch(dir) {
 	      case UP:
-	        line(x+w/2,y+3,x+w/2,y+h-3);
-	        line(x-3+w/2,y+6,x+w/2,y+3);
-	        line(x+3+w/2,y+6,x+w/2,y+3);
+	        Utils.globalProcessing.line(x+w/2,y+3,x+w/2,y+h-3);
+	        Utils.globalProcessing.line(x-3+w/2,y+6,x+w/2,y+3);
+	        Utils.globalProcessing.line(x+3+w/2,y+6,x+w/2,y+3);
 	        break;
 	      case DOWN:
-	        line(x+w/2,y+3,x+w/2,y+h-3);
-	        line(x-3+w/2,y+h-6,x+w/2,y+h-3);
-	        line(x+3+w/2,y+h-6,x+w/2,y+h-3);
+	    	Utils.globalProcessing.line(x+w/2,y+3,x+w/2,y+h-3);
+	    	Utils.globalProcessing.line(x-3+w/2,y+h-6,x+w/2,y+h-3);
+	    	Utils.globalProcessing.line(x+3+w/2,y+h-6,x+w/2,y+h-3);
 	        break;
 	      case LEFT:
-	        line(x+3,y+h/2,x+w-3,y+h/2);
-	        line(x+3,y+h/2,x+6,y-3+h/2);
-	        line(x+3,y+h/2,x+6,y+3+h/2);
+	    	Utils.globalProcessing.line(x+3,y+h/2,x+w-3,y+h/2);
+	    	Utils.globalProcessing.line(x+3,y+h/2,x+6,y-3+h/2);
+	    	Utils.globalProcessing.line(x+3,y+h/2,x+6,y+3+h/2);
 	        break;
 	      case RIGHT:
-	        line(x+3,y+h/2,x+w-3,y+h/2);
-	        line(x+w-3,y+h/2,x+w-6,y-3+h/2);
-	        line(x+w-3,y+h/2,x+w-6,y+3+h/2);
+	    	Utils.globalProcessing.line(x+3,y+h/2,x+w-3,y+h/2);
+	    	Utils.globalProcessing.line(x+w-3,y+h/2,x+w-6,y-3+h/2);
+	    	Utils.globalProcessing.line(x+w-3,y+h/2,x+w-6,y+3+h/2);
 	        break;
 	    }
 	  }

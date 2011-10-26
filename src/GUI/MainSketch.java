@@ -38,9 +38,10 @@ public class MainSketch extends PApplet{
 	boolean gui = true;
 
 	public void setup() {
-	  size(1280, 1024);
-	  smooth();
+
 	  Utils.globalProcessing = this;
+	  Utils.globalProcessing.size(1280, 1024);
+	  Utils.globalProcessing.smooth();
 	  // create a new map, optionally specify a provider
 	  map = new InteractiveMap(this, new Microsoft.RoadProvider());
 	  // others would be "new Microsoft.HybridProvider()" or "new Microsoft.AerialProvider()"
@@ -66,13 +67,13 @@ public class MainSketch extends PApplet{
 	}
 
 	public void draw() {
-	  background(0);
+	  Utils.globalProcessing.background(0);
 
 	  // draw the map:
 	  map.draw();
 	  // (that's it! really... everything else is interactions now)
 
-	  smooth();
+	  Utils.globalProcessing.smooth();
 
 	  // draw all the buttons and check for mouse-over
 	  boolean hand = false;
@@ -120,24 +121,24 @@ public class MainSketch extends PApplet{
 	    Location location = map.pointLocation(mouseX, mouseY);
 
 	    // draw the mouse location, bottom left:
-	    fill(0);
-	    noStroke();
-	    rect(5, height-5-g.textSize, textWidth("mouse: " + location), g.textSize+textDescent());
-	    fill(255,255,0);
-	    textAlign(LEFT, BOTTOM);
-	    text("mouse: " + location, 5, height-5);
+	    Utils.globalProcessing.fill(0);
+	    Utils.globalProcessing.noStroke();
+	    Utils.globalProcessing.rect(5, height-5-g.textSize, textWidth("mouse: " + location), g.textSize+textDescent());
+	    Utils.globalProcessing.fill(255,255,0);
+	    Utils.globalProcessing.textAlign(LEFT, BOTTOM);
+	    Utils.globalProcessing.text("mouse: " + location, 5, height-5);
 
 	    // grab the center
 	    location = map.pointLocation(width/2, height/2);
 
 	    // draw the center location, bottom right:
-	    fill(0);
-	    noStroke();
+	    Utils.globalProcessing.fill(0);
+	    Utils.globalProcessing.noStroke();
 	    float rw = textWidth("map: " + location);
-	    rect(width-5-rw, height-5-g.textSize, rw, g.textSize+textDescent());
-	    fill(255,255,0);
-	    textAlign(RIGHT, BOTTOM);
-	    text("map: " + location, width-5, height-5);
+	    Utils.globalProcessing.rect(width-5-rw, height-5-g.textSize, rw, g.textSize+textDescent());
+	    Utils.globalProcessing.fill(255,255,0);
+	    Utils.globalProcessing.textAlign(RIGHT, BOTTOM);
+	    Utils.globalProcessing.text("map: " + location, width-5, height-5);
 
 	/*
 	    location = new Location(51.500, -0.126);
@@ -159,7 +160,7 @@ public class MainSketch extends PApplet{
 	    gui = !gui;
 	  }
 	  else if (key == 's' || key == 'S') {
-	    save("modest-maps-app.png");
+		  Utils.globalProcessing.save("modest-maps-app.png");
 	  }
 	  else if (key == 'z' || key == 'Z') {
 	    map.sc = pow(2, map.getZoom());
