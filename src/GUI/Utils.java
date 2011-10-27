@@ -19,7 +19,8 @@ public class Utils {
 	public static ArrayList<County> allCounties;
 	public static ArrayList<City> allCities;
 	public static ArrayList<Airport> allAirports;
-	public static ArrayList<MilitaryBase> allBases; //are in belong to us
+	public static ArrayList<MilitaryBase> allBases; //are belong to us
+	public static ArrayList<Shape> allShapes;
 	 
 	public static final int DEFAULT_RADIUS = 50; //50 miles as default
 	public double radius = DEFAULT_RADIUS;

@@ -64,6 +64,10 @@ public class Sighting {
 	public void setNumOfSightings(Integer numOfSightings) {
 		this.numOfSightings = numOfSightings;
 	}
+	
+	public void incNumOfSightings(Integer num){
+		this.numOfSightings += num;
+	}
 
 
 

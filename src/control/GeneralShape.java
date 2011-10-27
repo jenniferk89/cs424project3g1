@@ -55,6 +55,13 @@ public abstract class GeneralShape {
 			return false;
 		return true;
 	}
+
+	@Override
+	public String toString() {
+		return "generalShape= " + generalShape;
+	}
+	
+	
 	
 	
 }

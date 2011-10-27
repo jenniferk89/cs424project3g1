@@ -101,6 +101,16 @@ public abstract class Location {
 	}
 
 
+
+	@Override
+	public String toString() {
+		return "Location [name=" + name + ", latitude=" + latitude
+				+ ", longitude=" + longitude + "]";
+	}
+	
+	
+
+
 	
 
 }	
