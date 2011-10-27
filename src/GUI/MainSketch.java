@@ -2,6 +2,7 @@ package GUI;
 
 import java.util.ArrayList;
 
+import control.Import;
 import control.Sighting;
 import control.Test;
 import processing.core.*;
@@ -45,7 +46,7 @@ public class MainSketch extends PApplet{
 	  // create a new map, optionally specify a provider
 	  map = new InteractiveMap(this, new Microsoft.RoadProvider());
 	  map.MAX_IMAGES_TO_KEEP = 128; //using less images to preserve heap space
-	  
+	  Import.ufoHandler("ndxlAL.html.txt");
 	  // others would be "new Microsoft.HybridProvider()" or "new Microsoft.AerialProvider()"
 	  // the Google ones get blocked after a few hundred tiles
 	  // the Yahoo ones look terrible because they're not 256px squares :)
