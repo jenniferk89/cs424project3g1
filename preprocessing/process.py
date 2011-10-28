@@ -6,7 +6,7 @@ import re
 
 from geopy import geocoders
 import codecs
-g = geocoders.GeoNames()  
+g = geocoders.MediaWiki("http://wiki.case.edu/%s") 
 path = '/Users/zitterbewegung/Dropbox/school/cs424/project3/www.nuforc.org/webreports/'
 listing = os.listdir(path)
 def get_text(el, class_name):
