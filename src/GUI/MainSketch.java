@@ -7,6 +7,8 @@ import control.Sighting;
 import control.Test;
 import processing.core.*;
 import com.modestmaps.InteractiveMap;
+import com.modestmaps.core.Coordinate;
+import com.modestmaps.core.Point2f;
 import com.modestmaps.geo.Location;
 import com.modestmaps.providers.*;
 
@@ -41,10 +43,11 @@ public class MainSketch extends PApplet{
 	public void setup() {
 
 	  Utils.globalProcessing = this;
-	  Utils.globalProcessing.size(1280, 1024);
+	  Utils.globalProcessing.size(1024, 768);
 	  Utils.globalProcessing.smooth();
 	  // create a new map, optionally specify a provider
 	  map = new InteractiveMap(this, new Microsoft.RoadProvider());
+	
 	  map.MAX_IMAGES_TO_KEEP = 128; //using less images to preserve heap space
 	  Import.ufoHandler("ndxlAL.html.txt");
 	  // others would be "new Microsoft.HybridProvider()" or "new Microsoft.AerialProvider()"
@@ -76,8 +79,18 @@ public class MainSketch extends PApplet{
 	  map.draw();
 	  // (that's it! really... everything else is interactions now)
 
-	  Utils.globalProcessing.smooth();
-
+	  //Utils.globalProcessing.smooth();
+	  
+	  for(int i = 0; i < Utils.allSightings.size(); i++){
+		  Sighting s = Utils.allSightings.get(i);
+		  Location l = new Location((float)s.getPosition().getLatitude(), (float)s.getPosition().getLongitude());
+		  Utils.globalProcessing.fill(255,0,0);
+		  Point2f p = map.locationPoint(l);
+		  Utils.globalProcessing.ellipse(p.x, p.y, 3, 3);
+		  //System.out.println(p.x);
+	  }
+	  
+	  
 	  // draw all the buttons and check for mouse-over
 	  boolean hand = false;
 	  if (gui) {
@@ -86,7 +99,9 @@ public class MainSketch extends PApplet{
 	      hand = hand || buttons[i].mouseOver();
 	    }
 	  }
-
+	  
+	  
+	  
 	  // if we're over a button, use the finger pointer
 	  // otherwise use the cross
 	  // (I wish Java had the open/closed hand for "move" cursors)
