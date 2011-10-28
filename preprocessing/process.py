@@ -23,6 +23,8 @@ for infile in listing:
         string = ""
         counter = 1
         for e in t:
+            if(e == None):
+                break 
             string = string + e.text_content()
             string = string + "\t"
             #print counter
