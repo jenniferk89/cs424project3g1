@@ -74,7 +74,10 @@ public class MainSketch extends PApplet{
 
 	public void draw() {
 	  Utils.globalProcessing.background(0);
-
+	  if(true){
+		  ParallelGraph.draw(Utils.allSightings);
+		  return;
+	  }
 	  // draw the map:
 	  map.draw();
 	  // (that's it! really... everything else is interactions now)

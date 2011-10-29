@@ -23,7 +23,7 @@ public class Import {
 		String strings[] = Utils.globalProcessing.loadStrings(filepath);
 		for(int i = 1; i < strings.length; i++){
 			line = strings[i];
-			System.out.println("line " + (i+1));
+			//System.out.println("line " + (i+1));
 			parseSighting(line);
 		}
 		//TODO sync all generalShapes
