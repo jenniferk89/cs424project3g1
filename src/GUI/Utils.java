@@ -2,6 +2,8 @@ package GUI;
 
 import java.util.ArrayList;
 
+import com.modestmaps.InteractiveMap;
+
 import control.*;
 
 
@@ -13,6 +15,7 @@ import processing.core.PApplet;
 
 public class Utils {
 	public static PApplet globalProcessing;
+	public static InteractiveMap globalMap;
 	public static ArrayList<Sighting> allSightings;
 	public static ArrayList<Location> allLocations;
 	public static ArrayList<State> allStates;
@@ -34,9 +37,12 @@ public class Utils {
 	public int timeAggregationLevel;
 	//time different levels
 	public static final int DAY = 0;
-	public static final int WEEK = 0;
-	public static final int MONTH = 0;
-	public static final int YEAR = 0;
+	public static final int WEEK = 1;
+	public static final int MONTH = 2;
+	public static final int YEAR = 3;
+	
+	
+	
 	
 	
 }

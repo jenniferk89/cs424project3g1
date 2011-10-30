@@ -12,12 +12,7 @@ public class Import {
 	
 	public static void ufoHandler(String filepath){
 		
-		Utils.allSightings = new ArrayList<Sighting>();
-		Utils.allLocations = new ArrayList<Location>();
-		Utils.allStates = new ArrayList<State>();
-		Utils.allCounties = new ArrayList<County>();
-		Utils.allCities = new ArrayList<City>();
-		Utils.allShapes = new ArrayList<Shape>();
+		
 		String line;
 		
 		String strings[] = Utils.globalProcessing.loadStrings(filepath);
