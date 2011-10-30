@@ -1,0 +1,849 @@
+DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
+10/2/11 21:00	New York Mills	MN	Light	1 minute	One satellite chasing another	10/10/11	46.5177192688,-95.3733673096	
+9/25/11 18:10	Marcell	MN	Circle	60 seconds	Brilliant bright white light that seemed to be floating across the sky and then suddenly disappeared.	10/10/11	47.5956802368,-93.6901092529	
+9/24/11 22:00	Burnsville	MN	Unknown	15 min	Hovering Object Near Cliff Rd/Portland Ave S	10/10/11	44.7658500671,-93.274772644	
+9/23/11 21:15	Hugo	MN	Other	1 minute	Flame in the sky	10/10/11	45.1621894836,-92.9925765991	
+9/21/11 21:30	Maple Grove	MN	Fireball	3 minutes	Fireballs seen over Maple Grove MN	10/10/11	45.0982894897,-93.4430999756	
+9/16/11 21:20	Ramsey	MN	Circle	1 minute	Ball of Fire over Ramsey, MN seen by 2.	10/10/11	45.0170402527,-93.0994796753	
+9/15/11 02:00	Bloomington	MN	Sphere	5 Seconds	Bright sphere sitting still in sky, after 3 seconds it moved impossibly fast vertically, down behind horizon.	10/10/11	44.8204917908,-93.3063583374	
+9/10/11 20:30	Lakeville	MN	Formation	1 hour	Hovering objects with flashing lights viewed from a suburban area.  ((NUFORC Note:  Possibly a sighting of stars??  PD))	10/10/11	44.6570091248,-93.242729187	
+9/5/11 21:45	Lakeville	MN	Fireball	4-5 mins	Red light object in the Minnesota sky	10/10/11	44.6570091248,-93.242729187	
+9/4/11 13:30	Faribault	MN	Egg	5 minutes	craft, egg shaped, with U shape around half of it, slowly flying by at about 500 feet in the air, lasting about 5 minutes	10/10/11	44.2946891785,-93.2753829956	
+9/4/11 02:00	International Falls	MN	Oval	15 secs.	very small with pink and blue lights and could move very fast. It flew very close  to us	10/10/11	48.6026000977,-93.4036483765	
+9/1/11 01:22	Sherburn	MN	Triangle	1.5 to 2 minutes	object spotted, triangular in shape, 3 glowing red/amber lights, silent, 25 to 30 feet in length, made movements not possible to planes	10/10/11	43.6522903442,-94.7279968262	
+8/29/11 20:00	Gilbert	MN	Light	5 minutes	Star-like spheres for past few weeks consistant every night.	10/10/11	47.4909095764,-92.4630432129	
+8/28/11 21:45	Rochester	MN	Light	3 minutes	Lighted object in orbital motion changed color, stopped, moved erratically at varying speeds, on a non-orbital path.	10/10/11	44.0193481445,-92.4591522217	
+8/26/11 00:00	Saint Paul	MN	Light	10sec	UFO in Minnesota at midnight	10/10/11	44.9438209534,-93.0933227539	
+8/24/11 04:15	Cloquet	MN	Light	1 1/2 hrs, still there	UFO scanning, in the sky.  ((NUFORC Note:  Possibly not a serious report.  PD))	10/10/11	46.7143096924,-92.4810409546	
+8/17/11 23:10	Buffalo	MN	Unknown	10 seconds	Hovering silent craft, size of small plane, maybe spherical	8/21/11	45.172580719,-93.8762283325	
+8/17/11 18:10	Cannon Falls	MN	Cylinder	1 minute	cylindrical, white, shining, floating object moved at lightning speed hovering in several places before disappearing	8/21/11	44.5076293945,-92.9057388306	
+8/13/11 21:29	Annandale	MN	Light	5mins	Two distant orange lights hover, move slowly, maneuver, then disappear.	8/21/11	45.261390686,-94.1237487793	
+8/7/11 18:30	Minneapolis	MN	Circle	6 seconds	Round white object over Minneapolis that disappeared	8/21/11	44.9790306091,-93.2649307251	
+8/7/11 01:14	Oronoco	MN		10 minutes	shape changing radiant object in SE MN 080711	8/21/11	44.1663208008,-92.5358734131	
+8/6/11 21:50	Bloomington	MN	Light	3 min	I shortly viewed a short lived cluster of 8 lights at approximately 1500 feet over a swamp area in a river valley by an airport..	8/21/11	44.8204917908,-93.3063583374	
+7/28/11 19:30	Blackduck/Bemidji (between)	MN	Circle	A few seconds	Bright white light, comes and goes in seconds but disappears mid air	8/7/11	46.3491096497,-94.1983184814	
+7/22/11 22:40	Woodbury	MN	Unknown	5 minutes	Silent, orange, glowing craft flies over Woodbury Minnesota.	8/7/11	44.9198684692,-92.940612793	
+7/7/11 22:40	Coon Rapids	MN	Light	2 minutes	Bright light in Coon Rapids	7/17/11	45.1730918884,-93.304397583	
+7/4/11 23:00	St. Louis Park	MN	Circle	4 Minutes	Red ball was floating in the sky after the firwork display in SLP, MN	7/17/11	44.9484786987,-93.3433914185	
+7/4/11 22:30	Apple Valley	MN	Fireball	3 min	10 witnesses saw a reddish orange glowing silent object starting in the south hemisphere and dissappearing 3-4 min later in the north	7/6/11	44.7427482605,-93.2175827026	
+7/4/11 22:00	Underwood	MN	Light	45 minutes	Solid individual orange-yellow lights flying from SW tracking directly into an intense lightning storm roughly 15 min apart..	7/6/11	46.2838783264,-95.8713607788	
+7/4/11 03:00	Hastings	MN	Light	ongoing	Hard to describe sighting that is lasting for a LONG time!	7/4/11	44.7422904968,-92.851890564	
+7/4/11 00:01	Saint Paul	MN	Triangle	5 minutes	Two triangular craft were seen over a populated area of South Saint Paul, MN, at midnight July 3, to July 4, 2011.	8/7/11	44.9438209534,-93.0933227539	
+7/4/11 00:01	Saint Paul	MN	Triangle	5 minutes	Update* from the 07-28-11 report of Triangle UFO seen over St. Paul, MN, July 4th, 2011.	8/7/11	44.9438209534,-93.0933227539	
+7/3/11 03:00	Minneapolis	MN	Other	unkown	Report.	7/4/11	44.9790306091,-93.2649307251	
+7/1/11 22:00	Brooklyn Park	MN	Fireball	2 or 3 min.	red/orange balls over brooklyn Park target going east to west	7/6/11	45.1088905334,-93.3485717773	
+7/1/11 21:30	Northfield	MN	Fireball	1 min	Pulsating fireball hovering above tree line	7/4/11	44.4496002197,-93.1537628174	
+6/30/11 21:00	Grand Rapids	MN	Teardrop	5 minutes	((HOAX??))  ((NUFORC Note:  Date is flawed.  PD))  Bright shiny object changed shape as it took off!	7/4/11	47.2359199524,-93.5275268555	
+6/24/11 23:00	Babbitt	MN	Circle	10 minutes	Bright, fast moving "star" heading east over Birch Lake RV Park in Babbitt, MN.	6/27/11	47.7144889832,-91.9503936768	
+6/1/11 22:00	Brooklyn Park	MN	Sphere	2 min.	3 Red/Orange ball in night sky Brooklyn Park MN	7/17/11	45.1088905334,-93.3485717773	
+5/27/11 14:30	Mankato	MN	Changing	4-5 hours	((HOAX??))  The craft made things slow down and we blacked out a few seconds after we saw said craft.	6/27/11	44.1674003601,-94.0024108887	
+5/16/11 00:30	Avon	MN	Light	4 min	5 orange lights seen over Avon, Minnesota.	5/29/11	45.6106987,-94.4498901367	
+5/11/11 13:00	Wilno	MN	Other	7 min	5 unkown crafts over Wilno, MN	5/12/11	44.5037002563,-96.236289978	
+5/7/11	Winona	MN	Egg	1-2 min	Strange object in night sky	5/12/11	44.0512886047,-91.6385879517	
+5/5/11 23:00	East Bethel	MN	Circle	2 hours	Green circle light, that emited yellow and red colors, stayed fixed in sky for two hours.	5/12/11	45.3704109192,-93.2158813477	
+5/2/11 21:30	Brainerd	MN	Light	at least 15 minutes	Two lights that hovered and moved irregularly far off in the distance.	5/12/11	46.3531608582,-94.2006912231	
+4/28/11 21:00	Cannon Falls	MN	Light	2 hours	I saw a light in sky that looks slightly bigger than the stars, didnt move but was changing colors. looked like the colors included red	5/2/11	44.5076293945,-92.9057388306	
+4/26/11 00:30	Stillwater	MN	Sphere	less then a minute	greenish white orb/sphere appeared and disappeared over highway in Stillwater MN around 12:30 am	5/2/11	45.0567016602,-92.8105697632	
+4/21/11 00:00	Morton	MN	Rectangle	10 seconds	Large unexplainable rectangular, clear-shaped "form" seen in night sky	5/2/11	44.5501785278,-94.9875335693	
+4/1/11 22:35	Adrian	MN	Triangle	3-5 Sec	3 round lights in triangle shape moved across sky at extreme rate of speed, looked like a falling star at first but then as it came mor	4/3/11	43.63671875,-95.9819412231	
+3/22/11 05:00	Faribault	MN	Light	1 min.	I was taking out the trash at my work, and then walked around the perimeter of the hotel in the pouring rain and I just happened to loo	3/23/11	44.2946891785,-93.2753829956	
+3/1/11 07:00	Bemidji	MN	Triangle	4 minutes	Did anyone see the Triangle with lights in the sky in Bemidji, March 1, 2011 at 7:55?	3/10/11	47.4731407166,-94.8796463013	
+2/21/11 02:00	Bloomington	MN	Unknown	10 seconds	My wife and I woke up to a loud noise flying directly over our house at 2:00 AM. It was a low humming sound accompanied by a repetitive	2/23/11	44.8204917908,-93.3063583374	
+2/10/11 07:28	Rochester	MN	Egg	30 seconds	a shiny saucer or egg shaped object in the sky at Walmart store	2/18/11	44.0193481445,-92.4591522217	
+2/7/11 03:00	Piranguinho (Brazil)	MN	Flash	40 minutos	SOU POLICIAL NO BRAZIL, EU E  MEU FILHO QUE TAMBEM É POLICIAL ESTAVAMOS NA VIATURA REALIZANDO UMA INTERCPTAÇÃO EM UMA RODOVIA DE UM VEI	8/7/11	46.3491096497,-94.1983184814	
+1/22/11 21:35	Rochester	MN	Unknown	3 minutes	Black line over moon moves, then vanishes.	1/31/11	44.0193481445,-92.4591522217	
+1/15/11 22:43	Burnsville	MN	Oval	5 seconds	very fast.	1/31/11	44.7658500671,-93.274772644	
+1/12/11 19:35	Hutchinson	MN	Light	10 minutes	Hovering aircraft	1/31/11	44.8905487061,-94.3692169189	
+1/12/11 18:40	Onamia	MN	Flash	seconds	flash seen at same time in different parts of state.	1/31/11	46.0706710815,-93.6698226929	
+11/28/10 00:01	Hollandale	MN	Rectangle	20 minutes	a hollandale mn strang object	1/5/11	43.7608718872,-93.2030792236	
+11/24/10 20:00	Bemidji	MN	Fireball	About 1 to 2 minutes	Flaming Orb in Chippewa National Forest	1/5/11	47.4731407166,-94.8796463013	
+11/12/10 15:30	Maple Grove	MN	Sphere	10 minutes	Daytime Sighting in Maple Grove	11/21/10	45.0982894897,-93.4430999756	
+11/7/10 01:00	Big Lake Township	MN	Triangle	minutes	Large triangle shaped craft, lights red white and blue.	11/21/10	45.3294181824,-93.7469406128	
+11/2/10 19:45	Deerwood	MN	Oval	25 seconds	Two oval objects with soft green light inside hovering near Deerwood Mn. then moved s.e.	11/21/10	48.5583000183,-96.5916976929	
+10/29/10	Duluth	MN	Triangle	1.5 seconds	Fast moving triangular shaped object.	11/21/10	46.7879600525,-92.0998535156	
+10/28/10 22:00	International Falls	MN	Circle	5 seconds	round ball that looked like fire with flashing bottom falling out of the sky.	11/21/10	48.6026000977,-93.4036483765	
+10/22/10 05:25	Burnsville	MN	Triangle	10 min	Triangle object object seen over burnsville 5:25 am	11/21/10	44.7658500671,-93.274772644	
+10/16/10 22:45	Rochester	MN	Circle	10 seconds	Very bright circle that suddenly disappeared	11/21/10	44.0193481445,-92.4591522217	
+10/11/10 19:40	Cottage Grove	MN	Light	3-4 Minutes	Craft with two white lights in Minneapolis Approach Pattern that moved down and not forward then disappered behind the tree line.	11/21/10	44.8336601257,-92.9532165527	
+10/6/10 14:40	Chaska	MN	Teardrop	5 seconds	Silver tear drop shape object moving at a high rate of speed from north to south.	11/21/10	44.7871894836,-93.6018218994	
+9/30/10 22:30	Terrebonne (rural area)	MN	Light	at least an hour	Bright white round light,doesn't move, gets very bright then almost fades out then repeats this for a long time.((NUFORC Note:  Star?))	11/21/10	47.8322982788,-96.1376113892	
+9/11/10 22:30	Shoreview	MN	Circle	5+ hours	round bright circling orb around tower	11/21/10	45.0820083618,-93.1342697144	
+9/5/10 23:50	Aitkin	MN	Fireball	1minnute	Glowing in the tree line was an amazing aluminous orange fireball .	11/21/10	46.5333786011,-93.7073669434	
+9/3/10 22:00	Scandia	MN	Triangle	5 minutes	V/ triangular shaped. at first looked like a huge shining star. sounded like a train. nothing like a helicoptor nor plane.	11/21/10	45.2565994263,-92.8092880249	
+8/21/10 18:00	Bloomington	MN	Sphere	2 minutes	At approximately 5:45 pm on Saturday August 21st. I went for a bike ride. I looked up into the sky as I heard a jet over head. I saw th	8/24/10	44.8204917908,-93.3063583374	
+8/10/10 00:00	Saint Paul (Eastside)	MN	Other	3 + hours	UFO Sighting On Saint Paul's Eastside.	8/24/10	44.9438209534,-93.0933227539	
+8/2/10 01:00	Red Lake	MN	Diamond	1hr 20 min	spinning object with red blue lights over red lake	11/21/10	47.8765792847,-95.0148010254	
+7/28/10 00:00	Minneapolis	MN	Oval	15 mins	a oval ring of 11 light sources. seen for about 15 mins , taken shots of the sighting	7/28/10	44.9790306091,-93.2649307251	
+7/25/10 02:35	Duluth	MN	Circle	15 seconds	Bright blue-green ball with trailing light tail	7/28/10	46.7879600525,-92.0998535156	
+7/23/10 20:00	Plymouth	MN	Sphere	photo	Reflective orb revealed in digital photo of clouds.	8/24/10	45.0188102722,-93.4757995605	
+7/19/10 21:00	Scandia	MN	Diamond	10-15 min.	Twin lighted objects floating at dusk, south east of Scandia, MN	7/28/10	45.2565994263,-92.8092880249	
+7/18/10 01:16	Inver Grove Heights	MN	Light	45 minutes	Bright string of stationary lights after tornadic storms baffles stormwatcher	7/19/10	44.831199646,-93.0627975464	
+7/18/10 01:00	Coon Rapids	MN	Formation	3 hours	formation of lights in a row very close.unmarked car showed up they took photos and left.	7/28/10	45.1730918884,-93.304397583	
+7/16/10 23:30	Prior Lake	MN	Fireball	4 min. approx.	Four of us saw a phenomenon of about 12 reddish lights in the late night sky south of Minneapolis MN.	7/19/10	44.7152290344,-93.4260482788	
+7/16/10 20:00	Duluth	MN	Disk	about 1 min	Black disk shaped object moves noiselessly through air and disappears behind a tree.	7/19/10	46.7879600525,-92.0998535156	
+7/12/10 23:30	Meadowlands	MN	Light	Still going	Red-flashing light in the sky hovering and NOT moving from single spot.	7/19/10	47.0696983337,-92.7327194214	
+7/4/10 23:00	Coon Rapids	MN	Circle	5 min	July 4th, at 11pm witnessed orange fireball with traveling across the entire night sky in Coon Rapids Minnesota.	7/10/10	45.1730918884,-93.304397583	
+7/4/10 22:40	Apple Valley/Lakeville/Burnsville	MN	Light	3-5 minutes	Bright red light moves slowly across sky, pauses in mid-air for 3 minutes and fades away into nothing.	7/6/10	44.7658500671,-93.274772644	
+7/4/10 22:30	Lakeville	MN	Sphere	1 minute	Three glowing orange balls in Minnesota on july 4th 2010	11/21/10	44.6570091248,-93.242729187	
+7/4/10 22:30	Vining	MN	Unknown	about 4minnutes	red dots in night sky	7/10/10	46.2631607056,-95.5366363525	
+7/4/10 22:02	St. Paul	MN	Formation	4 minutes	3 round red lights moving in formation (line) from the West to the East.	7/10/10	44.9438209534,-93.0933227539	
+7/4/10 21:00	Fridley	MN	Light	2 minutes	Bright red/orange ball of light over Moore Lake (Hwy 65), for 2-3 min, motionless over tree line, then fades.	8/24/10	45.0850982666,-93.2632598877	
+7/4/10 21:00	Lakeville	MN	Other	10 minutes	Pyramidal-shaped Craft Over Lakeville North High School Field	7/6/10	44.6570091248,-93.242729187	
+7/4/10 21:00	Garrison	MN	Rectangle	10 min	Mille Lacs Lake, Garrison, MN, strange orange rectangle lights seen over lake.	7/10/10	46.2943000793,-93.8245620728	
+6/30/10 23:00	Magnolia Township	MN	Light	5 Minutes	Non-blinking/non-changing orange light moving west to east.	7/19/10	43.6453208923,-96.0799789429	
+5/29/10 23:12	Minneapolis	MN	Circle	60 min so far	UFO over mpls 5/28/2010.  ((NUFORC Note:  Possible sighting of Venus??  PD))	6/3/10	44.9790306091,-93.2649307251	
+5/29/10 10:30	Minneapolis	MN	Circle	5 minutes	A amber light with a surrounding halo was hovering above Wells Fargo Center for approximately 5 minutes on 3 separate occasions.  It wo	6/3/10	44.9790306091,-93.2649307251	
+5/28/10 00:16	North Mankato	MN	Sphere	:17	Object flew from the southeast gaining slight altitude as it floated across the sky just under cloud level at a high rate of speed. Obj	6/3/10	44.1700286865,-94.0149078369	
+5/27/10 22:20	Rochester	MN	Light	1 hour	Appeared to be a plane, but had three bright lights and hovered.	6/3/10	44.0193481445,-92.4591522217	
+5/21/10 23:45	Edina	MN	Unknown	ongoing	I came home from dinner with my two sisters in Minneapolis, and there were 3 lights moving in their own circular directions, converging	6/3/10	44.9116287231,-93.3482208252	
+5/16/10 21:30	Hugo	MN	Other	3 minutes	Two bright lights, pentagonal in shape an red in color, moved across the northern sky, hovered, then flew off quickly.	6/3/10	45.1621894836,-92.9925765991	
+5/8/10 22:25	Isanti	MN	Other	about 20 seconds	This was a bright, fast moving object that was in view for about 15 seconds before disappearing.	5/12/10	45.4930114746,-93.2573471069	
+5/4/10 23:40	Saint Cloud	MN	Oval	5 seconds	the bright blue oval object flew straight for 5 seconds then instantly vanished	5/12/10	45.5658607483,-94.197517395	
+4/23/10 01:45	Stillwater	MN	Sphere	30 minutes	A strange glowing / pulsating colored light was observed in the skys along with a jet that seemed to intercept it	5/12/10	45.0567016602,-92.8105697632	
+4/18/10 22:00	Truman	MN	Formation	less than a minute	Cloudy V formation UFO seen over Southern MN	5/12/10	43.8282394409,-94.428062439	
+4/18/10 09:41	Truman	MN	Triangle		we were having a fire and then we were messing with a lazar in the smoke to see the bean and then the UFO came and it scared the crap o	5/12/10	43.8282394409,-94.428062439	
+4/16/10 21:30	Wheaton	MN	Triangle	5-7 SECONDS	Flying v with lights around parimeter	1/5/11	45.8043708801,-96.4988632202	
+4/15/10 22:30	Minneapolis	MN	Disk	five minutes	disc shaped craft seen over kenwood neighborhood Minneapolis	5/12/10	44.9790306091,-93.2649307251	
+4/14/10 22:00	Rochester	MN	Sphere	5-10 seconds	Bluish bright ball of light soars over low clouds over neighborhood east to west, lit up sky, saw between cloud breaking.	5/12/10	44.0193481445,-92.4591522217	
+4/13/10 22:30	Hugo	MN	Sphere	1 Minute	Two red, glowing spheres were traveling in a manner that defied the laws of gravity and left the atmosphere with unexplainable speed.	5/12/10	45.1621894836,-92.9925765991	
+4/10/10 22:10	Grove City	MN	Triangle	5 SECONDS	Noiseless flying Triangular craft over town.	4/13/10	45.1492195129,-94.686630249	
+3/31/10 22:00	International Falls	MN	Cross	45 min	It was just after 10pm. and I was going to bed and I was going upstairs to my bedroom. As I got to my foyer I looked out my front door	4/13/10	48.6026000977,-93.4036483765	
+3/1/10 17:00	Cook	MN	Light	10 MINUTES	Abnormal lights in the northern sky.	5/29/11	47.8492584229,-92.6866912842	
+2/20/10 22:00	Marshall	MN	Light	6-10 seconds	Green, orb-like UFO spotted outside Marshall, MN.	11/21/10	44.4490089417,-95.7916717529	
+1/28/10 20:30	Stillwater	MN	Light	15 minutes	Bright lights over St. Croix River/Bayport area Minnesota	2/14/10	45.0567016602,-92.8105697632	
+12/20/09 05:40	Sartell	MN	Light	10 min	star took off after watching it	5/12/10	45.6236801147,-94.203453064	
+12/11/09 23:00	St. Louis Park	MN	Oval	7 seconds	aqua/green bright oval shaped light, stop then blast off FAST	2/14/10	44.9484786987,-93.3433914185	
+12/11/09 01:15	Inver Grove Heights	MN	Fireball	
+	Looked like something about to crash.  ((NUFORC Note:  Possible meteor??  Other reports from MN for same date.  PD))	12/12/09	44.831199646,-93.0627975464	
+12/1/09 05:50	Sartell	MN	Light	10 minutes	Appered to be a star for about 10 minutes then it took off like a bat out of _ell.	4/13/10	45.6236801147,-94.203453064	
+11/29/09 23:59	Burnsville	MN	Chevron	20 minutes	Orbiting light spheres and gold lights in boomerang shape	12/12/09	44.7658500671,-93.274772644	
+11/28/09 06:45	Spring Lake Park	MN	Sphere	5mins	we saw two spheres one large one small following we have no idea as to their size just two white spheres	12/12/09	45.1149902344,-93.2370605469	
+11/26/09 17:00	Spring Lake Park	MN	Sphere	2mins.	i would call it a sunlike sphere	2/14/10	45.1149902344,-93.2370605469	
+11/7/09 02:30	Hopkins	MN	Light	1 Hour	6 lights which looked liked stars but were moving like the UFP's seeon on TV	12/12/09	44.9224090576,-93.4134674072	
+10/31/09 20:30	Hastings	MN	Oval	10 seconds	Small fast moving Cloud like looking UFOs > Moving in same direction at same fast speed.	12/12/09	44.7422904968,-92.851890564	
+10/18/09 20:00	St. Paul (694e and also 96)	MN	Light	Several minutes	Possible UFO crash near St. Paul MN	12/12/09	44.9438209534,-93.0933227539	
+10/17/09 21:30	Maple Lake	MN	Fireball	1/2 second	Green fireball north of Maple Lake, Minnesota	12/12/09	45.2301483154,-94.0018692017	
+10/17/09 12:50	St. Cloud	MN	Light	10mins	10/17/09 st.cloud mn light 5-10mins and orange light over down town st.cloud	12/12/09	45.5658607483,-94.197517395	
+10/13/09 23:10	Crookston	MN	Triangle	3 min	Saw it over high-tension lines for a few min then flew off to the west.	12/12/09	47.774230957,-96.6064529419	
+9/25/09 21:00	Coon Rapids	MN	Cigar		Green, red, and blue pulses of light that stayed stationary in one spot for several hours with no movement.	12/12/09	45.1730918884,-93.304397583	
+9/20/09 00:47	Duluth	MN	Fireball	5 minutes	Firey orange object over Duluth, Minnesota	12/12/09	46.7879600525,-92.0998535156	
+9/19/09 23:08	Zumbrota	MN	Other	8 seconds	Octagon shaped craft made a 90 degree turn	12/12/09	44.289478302,-92.669128418	
+9/19/09 21:55	Minneapolis	MN	Light	25 Min	UFO - Viewed From Downtown Minneapolis, MN	12/12/09	44.9790306091,-93.2649307251	
+9/17/09 00:00	Brownsdale	MN	Changing	4 hrs	((HOAX??))  Hurry up and check this out wierd things fill the sky and really scary things have been happening!!!	12/12/09	43.7403793335,-92.8693237305	
+9/12/09 22:00	Inver Grove Heights	MN	Fireball	5-10 minutes	fireballsin sky	12/12/09	44.831199646,-93.0627975464	
+9/8/09 21:00	Isanti	MN	Formation	5 Minutes	2 Strange lights in a line formation.  ((NUFORC Note:  ISS and Space Shuttle in formation.  PD))	12/12/09	45.4930114746,-93.2573471069	
+9/8/09 20:30	Ely	MN	Other	5 min	star like crafts  moving at high rate of speed.  ((NUFORC Note:  ISS and Space Shuttle in formation.  PD))	12/12/09	47.9032211304,-91.8632507324	
+9/6/09 21:15	Saint Paul	MN	Formation	5 minutes	4 flashing lights moving in a formation over St. Paul, MN.	12/12/09	44.9438209534,-93.0933227539	
+8/31/09 13:50	Minneapolis	MN	Oval	2 times	While walking around Minnehah Park in Minneapolis Mn. I don't know what these are. I took these photos with a casio small digital camer	12/12/09	44.9790306091,-93.2649307251	
+8/29/09 21:15	Faribault	MN	Triangle	40 seconds	5 orange lights in a V shape in the sky moving slowly south for 40 seconds then it sped up & disappeared.	12/12/09	44.2946891785,-93.2753829956	
+8/25/09 23:45	Saint Paul	MN	Formation	2 min	strange lights in saint paul mn	8/27/09	44.9438209534,-93.0933227539	
+8/23/09 04:15	Minneapolis	MN	Light	10 min	Bright star like objects	8/27/09	44.9790306091,-93.2649307251	
+8/22/09 21:30	Annandale	MN	Light	10 minutes	A circular, rotating amber light decended and disappeared.  Then the same light later ascended.	8/27/09	45.261390686,-94.1237487793	
+8/16/09 00:10	Britt	MN	Light	30 minutes	Blinding lights over Britt,MN	8/27/09	47.6372909546,-92.5659637451	
+8/15/09 23:00	Two Harbors	MN	Light	1 hour	We watched as three jets flew over us and headed towards a bright light that did things that we to this day can not forget..	4/3/11	47.0257110596,-91.6664199829	
+7/28/09 00:30	Bloomington	MN	Circle	1 hour	((HOAX??))  lightship it changed colors very bright.	8/5/09	44.8204917908,-93.3063583374	
+7/27/09 14:00	Forest Lake	MN	Unknown	minutes	Unknown water disturbance	8/27/09	45.2819099426,-92.9841995239	
+7/25/09 04:00	Stillwater	MN	Light	30 min. +	I saw a light over my house that was brighter than any light in the sky. It looked light a plane light but it was brighter but it would	8/5/09	45.0567016602,-92.8105697632	
+7/17/09 22:00	Eagan	MN		10min	4  0ink balls of light appeared in the sky, in formation.  THey moved horizontaly and were completely silent, they floated to the west	8/5/09	44.8180809021,-93.1671295166	
+7/14/09 00:32	Inver Grove Heights	MN	Light	1 second	Bright light shoots across the sky underneath the clouds and then vanishes.	8/5/09	44.831199646,-93.0627975464	
+7/12/09 03:25	Northfield	MN	Unknown	1 minute	Basically a dark spot in the night sky with very distinct non-aircraft lights, Went from SW to NE	8/5/09	44.4496002197,-93.1537628174	
+7/6/09 00:47	Saint Paul	MN	Triangle	):47	twin cities triangle - july 6, 09	8/5/09	44.9438209534,-93.0933227539	
+7/4/09 23:59	Chisago City	MN	Triangle	15 mins	perfect triangle of moving orange lights in Minnesota	8/5/09	45.3739891052,-92.8887634277	
+7/2/09 23:30	Vergas	MN	Formation	2 min	During a vacation with my son on a lake in Minnesota we went for a late night cruise and had a couple beers while looking at the stars	8/27/09	46.6567382812,-95.8050994873	
+6/22/09 23:00	Lakeville	MN	Flash	Still going	It is about 11.00 at night and I saw two objects and one is on far south side about 40 degree angle.	8/5/09	44.6570091248,-93.242729187	
+6/14/09 23:35	Woodbury	MN	Circle	45 seconds	nightime, fuzzy circle (a bit brighter than a nightime cloud) with an intermittently flashing amber light beneath, moving quickly NNW.	8/5/09	44.9198684692,-92.940612793	
+5/25/09 00:45	Minneapolis	MN	Light	7sec	light moved from the nnw to the ssw then changed direction sharply and headed nnw, diffuse red in color.	6/9/09	44.9790306091,-93.2649307251	
+5/24/09 22:00	Milaca	MN	Light	3:00mins	Ball of light in the sky	6/9/09	45.7513084412,-93.6498718262	
+5/23/09 21:48	Zimmerman	MN	Circle	1min	We witnessed a lighted object in the sky, that was orange in color with a circular structure,	6/9/09	45.4433288574,-93.5927734375	
+5/20/09 20:30	New Brighton	MN	Rectangle	4 seconds	At dusk, watching the first stars of the evening make their appearance a bright rectangle appeared at arround 90 degrees ( almost strai	6/9/09	45.0632400513,-93.1931228638	
+5/6/09 00:45	Lindstrom	MN	Light	5 minutes	Looked like a satellite, but moved in all sorts of different directions at varying speeds.	5/12/09	45.3898010254,-92.8457565308	
+4/21/09 21:40	Embarrass	MN	Light	15 seconds	Bright amber lights, rotating around with small white lights moving quickly and erratically in night sky.	5/12/09	47.6611289978,-92.1978912354	
+4/10/09 21:30	Ramsey	MN	Teardrop	2 minutes	Red -Orange teardrop shaped ,  silent  fast moving obect	4/14/09	45.0170402527,-93.0994796753	
+4/9/09 21:30	Brainerd	MN	Disk		Expeirence of Wonderness and mystery... Never thought could be so close, yet so far away.	5/12/09	46.3531608582,-94.2006912231	
+4/4/09 23:59	Webster	MN	Light	10 seconds	Last night, about 12 midnight on April 4th 2009 I was sitting in our sunroom (large windows) at our computer looking at colleges online	4/14/09	44.5297012329,-93.3551177979	
+3/27/09 21:40	Shelly	MN	Other	20 Minutes	Saw a big blue light and a smaller red light dropped out of the blue light. They passed over me and took off up into the sky.	4/14/09	47.4591217041,-96.818031311	
+3/8/09 04:10	Minneapolis	MN	Light	1:00	strange white lights  ((NUFORC Note:  Possible advertising lights?  PD))	3/19/09	44.9790306091,-93.2649307251	
+2/10/09 12:00	Crookston	MN	Circle	15 seconds	Round, silver UFO hovers over house, disappears in broad daylight	8/24/10	47.774230957,-96.6064529419	
+2/8/09 10:00	Duluth	MN	Triangle	3 minutes	((HOAX??))  black triangle, three white lights on bottom, 1 pilot human, windy sound, slow, near woods or airport, see in craft,	4/13/10	46.7879600525,-92.0998535156	
+2/7/09 22:30	Canby	MN		8 MIN	Saw the fireball in the sky drove at it proceded to go west and dissaperd followed it for 6 min very fast and silent.	3/19/09	44.7082710266,-96.2770309448	
+1/27/09 19:00	Minneapolis	MN	Light	1 hour+	Very bright light under clouds that isn't moving.  ((NUFORC Note:  Venus, sighted through overcast?  PD))	3/19/09	44.9790306091,-93.2649307251	
+1/23/09 07:15	Bloomington/Minneapolis	MN	Triangle	20 minutess	I was driving on a highly used freeway across a bridge. I Don't remember much, I just remember feeling like this doesn't seem normal. P	3/19/09	44.950340271,-93.2524719238	
+1/21/09 18:57	Saint Louis Park	MN	Light		01/21/09 at 18:57 went outside for a smoke when I spotted this bright light that was slowly moving up and down. It was not a plane or s	3/19/09	44.9484786987,-93.3433914185	
+1/16/09 18:30	Buffalo	MN	Light	at least 2 hours	Bright, white object with flashing red, yellow, green, and blue lights hovering in the night sky seen from Buffalo, Minnesota	3/19/09	45.172580719,-93.8762283325	
+1/2/09 19:30	St. Paul	MN	Light	3 seconds	Fast shooting light through the clouds over Lake Owasso	1/10/09	44.9438209534,-93.0933227539	
+12/31/08 16:35	Minneapolis	MN	Triangle	15	Flashing triangular lights over North Minneapolis New Year's Eve 12/31/08	1/10/09	44.9790306091,-93.2649307251	
+12/27/08 18:00	St. Cloud	MN	Triangle	1 hour	triangle in the sky 12/27/08 800pm just south of st cloud betwen I94 and 75	1/10/09	45.5658607483,-94.197517395	
+12/24/08 01:40	Minneapolis	MN	Fireball	3 seconds	A large, green, glowing ball of light moved from West to east in a sharp downward angle across the southern horizon.	1/10/09	44.9790306091,-93.2649307251	
+12/13/08 17:30	New Hope	MN	Diamond	10-15 mins	((HOAX??))  Appeared two times now, Very bright red,orage,maroon, Then shoots off across the sky.	1/10/09	45.0363693237,-93.385017395	
+12/5/08 00:00	Prior Lake	MN	Sphere	2 min. approx.	A bright  light  that went from moving slowly to extremely fast to stationary and then gone with no sound or acceleration.	8/5/09	44.7152290344,-93.4260482788	
+12/1/08 07:15	Pine City	MN	Light	10 sec	Two lights north of Pine City, MN moving west.  ((NUFORC Note:  Venus and Jupiter are near Moon.  PD))	1/10/09	45.8280982971,-92.970451355	
+11/26/08 20:55	Isanti	MN	Fireball	5 senconds	Bright falling object with a blue trail.	1/10/09	45.4930114746,-93.2573471069	
+11/4/08 23:30	Owatonna	MN	Cylinder	4 Minutes	Stationary, but growing luminous cylindar shaped craft appear then dissapear.	1/10/09	44.0933799744,-93.2293777466	
+10/31/08 21:50	Hibbing	MN	Egg	1.5 seconds	object  seen in hibbing, mn traveling west faster than any plane or comet and much lower than a shooting star and brighter than an airp	1/10/09	47.4210510254,-92.9417419434	
+10/27/08 22:20	Owatonna	MN	Light	2 Min	2 Star Like Objects slowly start to move across the sky then vanish	10/31/08	44.0933799744,-93.2293777466	
+10/10/08 20:00	La Crescent	MN	Formation	10 seconds	six strange lights in the sky over La Crescent MN	10/31/08	43.8291625977,-91.3083953857	
+10/10/08 02:00	North Branch	MN	Light	5 min	Lights at night, shining into car and garage and around blinds	10/31/08	45.511428833,-92.9793701172	
+9/23/08 19:00	Minneapolis	MN	Triangle	2 min	triangle shape air craft	10/31/08	44.9790306091,-93.2649307251	
+8/31/08 04:45	Cloquet	MN	Triangle	2 minutes	Bright red lights moving in steady progression	10/31/08	46.7143096924,-92.4810409546	
+8/31/08 00:05	St. Paul	MN		3 seconds	The time of night was close to 12:05 am August 31, 2008. From my kitchen window facing north I saw a object cross from from my right to	10/31/08	44.9438209534,-93.0933227539	
+8/30/08 22:30	Flour Lake	MN	Light	8 seconds	Amber light over BWCA makes 45+ degree turn	10/31/08	48.0518913269,-90.3861541748	
+8/30/08 04:40	Duluth	MN	Formation	60 seconds	White solid larger light light followed by 8 solid red lit lights in a perfect V formation mostly - no sound.	10/31/08	46.7879600525,-92.0998535156	
+8/22/08 21:00	Maple Grove	MN	Light	3 min	Orange ball of light flying across maple grove MN.  traveling at high speed and made no sound.	10/31/08	45.0982894897,-93.4430999756	
+8/21/08 04:00	St. Paul	MN	Light	10 minutes	large white bright light moving through night time sky	12/12/09	44.9438209534,-93.0933227539	
+8/20/08 20:00	Bloomington (Minneapolis)	MN	Fireball	
+	Green orbe/fire ball over minneapolis/bloomington	10/31/08	44.8204917908,-93.3063583374	
+8/9/08 23:55	Orrock	MN	Light	7 Minutes	Object leaves sky in a flash, returns in a flash and is followed by another object	12/12/09	45.4472007751,-93.7360305786	
+7/31/08 23:15	None (Voyageurs national Park)	MN	Light	10-15 seconds	Intense light seen in Northern Minnesota's back country skies.	8/12/08	46.3491096497,-94.1983184814	
+7/30/08 22:43	New London	MN	Light	1 minute or so	Bright white light turned to red as it sped up, slowed down, and zigzagged across the sky.	8/12/08	45.3030586243,-94.9408416748	
+7/26/08 21:55	Grand Rapids	MN	Fireball	1 min 40 sec	Four fireball spheres drift across horizon	8/12/08	47.2359199524,-93.5275268555	
+7/25/08 23:00	Wipholt	MN	Rectangle	45 sec.	((HOAX??))glowing red to orange in color very bright fire like rectangular shape appering in north going east at 500' for about 45 sec.	8/12/08	47.0486602783,-94.3666763306	
+7/21/08 11:49	Duluth	MN	Light	About 1 min.	((HOAX??))  Fire-like glow... NOT FIRE EMBER!	8/12/08	46.7879600525,-92.0998535156	
+7/20/08 21:40	Brooklyn Park	MN	Sphere	5 seconds	Lime green orb of light seen descending in Brooklyn Park, MN by multiple parties	8/12/08	45.1088905334,-93.3485717773	
+7/18/08 22:20	Duluth	MN	Light	5 minutes	A brilliant white light traveling over Lake Superior north to northeast.	8/12/08	46.7879600525,-92.0998535156	
+7/14/08 03:30	Two Harbors	MN	Light	5 minutes	Three bright white lights traveling together, two out front and one chasing, over Lake Superior!	8/12/08	47.0257110596,-91.6664199829	
+7/4/08 22:35	Excelsior	MN	Formation	5 Minutes	Formation of 10 to 12 square shaped objects observed over Excelsior, MN	7/5/08	44.9028205872,-93.5686416626	
+7/4/08 22:30	Excelsior	MN	Light	15 minutes	Fireworks and then flying objects with lights	8/12/08	44.9028205872,-93.5686416626	
+7/4/08 21:00	Lindstrom	MN	Rectangle	30 minutes	Possible Chinese Laterns seen in Excelsior, MN July 4, 2008	4/13/10	45.3898010254,-92.8457565308	
+7/3/08 22:01	St. Paul	MN	Circle	10 min	Me and my girlfriend was at a event on the river in st.paul minnesota.We were standing in a line.When we were looking up into the sky a	8/12/08	44.9438209534,-93.0933227539	
+7/3/08 21:30	Bemidji	MN	Fireball	2 minutes	Large bright orange object moving slowing and quietly and then faded into the sky.	8/12/08	47.4731407166,-94.8796463013	
+6/14/08 08:43	Apple Valley	MN	Light	8:30-9:00	Dancing White Lights In The Sky During Bright Day.  ((NUFORC Note:  Student report.  PD))	7/5/08	44.7427482605,-93.2175827026	
+6/8/08 22:26	Minneapolis	MN	Light	1 minute	lighted object circling over Minneapolis, then makes a few dramatic directional changes and zooms away.	6/12/08	44.9790306091,-93.2649307251	
+6/2/08 22:30	Minneapolis	MN	Light	15 - 20 min	A three-light object was observed hovering and moving above the Wells-Fargo Bldg. in downtown Minneapolis, MN	6/12/08	44.9790306091,-93.2649307251	
+6/1/08 00:00	Glenwood	MN	Formation	60 seconds	Three seperate, individual brite lights move in VERY fast, stop instantly, hover and then individually speed off at increadible speeds	1/5/11	45.6502304077,-95.3892364502	
+5/31/08 01:30	Shoreview	MN	Circle	10 seconds	bright light moved erratically across minnesota sky	6/12/08	45.0820083618,-93.1342697144	
+5/30/08 23:30	Bemidji	MN	Other	2-3 minutes	Bright white light viewed in Hubbard county going faster then satellite's	6/12/08	47.4731407166,-94.8796463013	
+5/26/08 23:00	Evansville	MN	Other	1.5 hours	It was a clear night and there were 3 objects in the sky that 8 people seen.  ((NUFORC Note:  Twinkling star??  PD))	6/12/08	46.0068817139,-95.684463501	
+5/25/08 19:45	North Mankato	MN	Cigar	2 minutes	Small white cigar shaped object, low in sky, hovered for 2 minutes, then disappeared, no trail.	6/12/08	44.1700286865,-94.0149078369	
+5/19/08 22:00	Cottage Grove	MN	Changing	2.5 hrs	Multiple ufos with unusual lights over Cottage Grove,  MN	6/12/08	44.8336601257,-92.9532165527	
+4/17/08 23:00	North Branch	MN	Sphere	30 seconds	Saw bright lights, changing in color over South Chain Lake into backyard	6/12/08	45.511428833,-92.9793701172	
+4/16/08 21:05	Minneapolis	MN	Formation	20 seconds	20-30 orbs in birdlike formation heading east from west. City lights illuminated bottoms of orbs	6/12/08	44.9790306091,-93.2649307251	
+4/14/08 18:00	Minneapolis	MN	Light	15 minutes	Circling Shiny Objects	6/12/08	44.9790306091,-93.2649307251	
+4/14/08 13:00	plymouth	MN	Sphere	2 seconds	I was watching Tiger Woods win his 3rd green jacket at my friends house when out of the corner of my eye out the patio window I thought	1/10/09	45.0188102722,-93.4757995605	
+3/12/08 01:00	Lake Elmo	MN	Unknown	3-4 min	A number of friends and I were at a party in lake elmo at around 1 am. We went outside for a smoke break on a cloudy and drizziling nig	6/12/08	45.0040893555,-92.8797836304	
+2/21/08 20:39	Hoyt Lakes	MN	Sphere	2 to 3 seconds	A bluish/green sphere dropped out of the sky and was observed at two different locations 65 miles apart.	3/31/08	47.5200386047,-92.1469421387	
+2/18/08 23:45	White Earth	MN	Diamond	5 Seconds	A diamond shape object with lights flew just a few thousand feet in the air.	3/4/08	47.0965309143,-95.8404922485	
+2/14/08 16:20	Cass Lake	MN	Disk	2 hours	i seen the ufo and have it in my garage	6/12/08	47.4217224121,-94.5388946533	
+1/14/08 20:10	Swanburg	MN	Fireball	3 seconds	white fireball seen falling Jan. 14, 2008 in north central Minnesota	2/14/08	46.7403488159,-94.1860427856	
+1/8/08 20:45	Waconia	MN	Triangle	5 to 7 seconds	3 seemingly connected translucent white dots moved accross entire sky in 5 to 7 seconds.	1/21/08	44.8477210999,-93.7891616821	
+12/10/07 05:10	Zimmerman	MN	Unknown	20 minutes	The lights were going around something it was dark out so I couldn't see alot it hovered above the tree line from a distance.	3/4/08	45.4433288574,-93.5927734375	
+11/29/07 04:00	Duluth	MN	Disk	30 minutes	A disk-shaped UFO high in the sky at 4:00 AM CT.	3/4/08	46.7879600525,-92.0998535156	
+11/22/07 23:15	Wawina	MN	Changing	30 min	UFO with vivid flashing lights and changing shape sighted in Wawina, MN.  ((NUFORC Note:  Sighting of Sirius.  PD))	11/28/07	47.051361084,-93.118850708	
+11/7/07 22:30	Andover	MN	Light	10 minutes	Point of Light type heavenly body in the eastern sky showed significant movement in various directions on the evening of Nov. 7.	11/28/07	45.243850708,-93.3061828613	
+11/7/07 20:00	Edina	MN	Disk	5 minutes	Low flying & FAST object with lights moved across the sky- and then abruptly stopped and hovered for minutes	11/28/07	44.9116287231,-93.3482208252	
+11/2/07 18:33	Ely	MN	Cigar	15 seconds	Blue tube over Ely Jackpines	3/4/08	47.9032211304,-91.8632507324	
+10/31/07 02:15	Saint Paul	MN	Light	.5-.75 Minute	Orange points of light racing South from Perseus at great speed and altitude slowing, speeding, passing each other.	11/28/07	44.9438209534,-93.0933227539	
+10/26/07 04:30	Duluth	MN	Oval	30 min.	An oval that had a green glow and blinking light.	11/28/07	46.7879600525,-92.0998535156	
+10/22/07 18:45	Chisholm	MN	Triangle	5 Seconds	Silent, black, triangular object with no lights	1/10/09	47.4897499084,-92.8837814331	
+10/21/07 00:54	Spring Lake Park	MN	Chevron	7 seconds	Something that looked to be a flock of birds in formation of a chevron moving way too fast to be birds.	11/28/07	45.1149902344,-93.2370605469	
+10/20/07 21:00	Glencoe	MN	Light	1-2 seconds	green ball of light falling straight to the ground.  ((NUFORC Note:  Meteor??  PD))	11/28/07	44.7720413208,-94.153793335	
+10/10/07 22:00	Duluth	MN	Light	10 minutes	Bright pulsating light over lake superior.	1/21/08	46.7879600525,-92.0998535156	
+10/3/07 19:15	Burnsville	MN	Light	Hour and a half	UFO lights over Minnesota River in Burnsville that resemble the Phoenix lights.	10/8/07	44.7658500671,-93.274772644	
+10/3/07 14:00	Mora	MN	Fireball	Brief	Flaming object seen over Minnesota Sky	10/8/07	45.875541687,-93.2962493896	
+9/17/07 22:00	Clear Lake	MN	Light	3-5 Minutes	Three Lights Seen Above Lake	3/10/11	44.4556808472,-94.5158996582	
+9/3/07 15:30	North St. Paul	MN	Formation	10 min	three white circular objects in formation	10/8/07	45.0114898682,-92.9935379028	
+8/18/07 02:00	Minneapolis	MN	Other	5 minutes	UFO sited at Minnehaha Creek in Minneapokis Minnesota	10/8/07	44.9790306091,-93.2649307251	
+8/17/07 22:00	St. Paul	MN	Disk	1 minute	lighted disk with smaller brighter center light	10/8/07	44.9438209534,-93.0933227539	
+8/15/07 22:20	Duluth	MN	Light	30 seconds	Bright, white light moving towards east faded into red-orange color and disappeared.	10/8/07	46.7879600525,-92.0998535156	
+8/14/07 22:00	Mankato	MN	Diamond	5 MINS	I saw a bright light in the sky in North East direction .I thought is it Mars which was supposed to be brightest in the sky once some y	7/5/08	44.1674003601,-94.0024108887	
+8/12/07 12:30	Eagan	MN	Triangle	6 seconds	((HOAX??)) plains with huge lights on the bottem and goign really fast close to ground.	8/14/07	44.8180809021,-93.1671295166	
+8/12/07 05:00	Roseville	MN	Light	i1minute	Bright object with light flashing about once per second moved from northwest to southeast at about a 60 degree elevation at mid-transit	8/14/07	45.0215797424,-93.1492919922	
+8/3/07 22:46	Medina	MN	Light	2 minutes	Bright, fast moving star-like object	8/7/07	45.0158615112,-93.5766677856	
+7/19/07 13:00	Detroit Lakes	MN	Triangle	30 Seconds	A black triangular craft with white lights at the vertices flew across the Northern Minnesota sky headead southwest.	11/28/07	46.819480896,-95.8452377319	
+7/15/07 11:30	Motley	MN	Unknown	two events, slit second e	I've only waited until now to submit a report bacause I have not found an authentic looking source to submit it to.	8/27/09	46.3378982544,-94.6458969116	
+7/14/07 03:30	Edina	MN	Light	10 seconds	Stationary light became very bright with halo, moved north as it  dimmed into orangish color & vanished.	8/7/07	44.9116287231,-93.3482208252	
+7/11/07 21:30	St. Louis Park	MN	Formation	5 minutes	2 Objects directly overhead, travelling at the same speed and distance, heading south/southeast	8/7/07	44.9484786987,-93.3433914185	
+7/6/07 23:00	Elk River	MN	Light	2 seconds	((HOAX??))  I saw fast ball of lite moveing allmost as if it was tracing the big dipper.	3/4/08	45.3057098389,-93.572052002	
+7/6/07 23:00		MN	Circle	20 seconds	balls of light moveing slow over the sky about 200 feet up.	1/21/08	46.3491096497,-94.1983184814	
+6/20/07 23:30	Duluth	MN	Other	2minutes	Orange round glowing object moving steadily north to south without any noise lower than the plane which I also observed	8/7/07	46.7879600525,-92.0998535156	
+6/19/07 05:15	Grand Rapids	MN	Triangle	1-2 minutes	Saw three white objects in clear blue sky flying against the wind in triangular formation.	8/7/07	47.2359199524,-93.5275268555	
+6/18/07 22:55	Lanesboro	MN	Light		seen something in the night sky was very bright	8/7/07	43.7217102051,-91.9770202637	
+6/15/07 23:00	Emily	MN	Triangle	5 seconds	Large triange shape craft with many lights on bottom.	8/7/07	46.7304611206,-93.9582366943	
+6/15/07 22:45	Elk River	MN		30-45 Seconds	Light that appeared, hovered, and promptly disappeared with no sound emitted at all.	2/14/10	45.3057098389,-93.572052002	
+6/13/07 17:30	St. Paul	MN	Cigar	45 Seconds	At approximately 1730 hours on 06/13/07 I observed a White glowing Cigar shaped craft to the east of downtown St. Paul heading north. T	8/7/07	44.9438209534,-93.0933227539	
+6/10/07 20:45	Saint Paul	MN	Diamond	2 minutes (approx.)	dark diamond/clover shaped objects over Saint Paul at dusk	6/12/07	44.9438209534,-93.0933227539	
+6/8/07 21:30	Ellendale	MN	Light	3 minutes	Light coming from "hyperspace" and slowing to a normal speed with no sound and observed for 3 min.  ((NUFORC Note:  ISS??  PD))	6/12/07	43.8730010986,-93.3014678955	
+5/31/07 04:20	Big Lake	MN	Sphere	2 minutes	orange/amberish orb sighted on the ground in the early morning hours	10/8/07	45.3294181824,-93.7469406128	
+5/27/07 03:00	Maple Grove	MN	Disk	2 hrs	muted grey disk object observed silently hovering with three light green oval lights - moved extremely quickly - darting from one area	6/12/07	45.0982894897,-93.4430999756	
+5/25/07 21:00	Lakeville	MN	Light	1-4 seconds	Peculiar light streaks.	6/12/07	44.6570091248,-93.242729187	
+4/22/07 22:15	Rochester	MN	Rectangle	2 minutes	strip of lights seen above neighborhood	6/12/07	44.0193481445,-92.4591522217	
+4/18/07 00:16	Delano	MN	Triangle	2 minutes	lit up orange triangular hover  craft seen by two non-believers	4/27/07	45.0358200073,-93.7894973755	
+3/28/07 01:30	Duluth	MN	Changing	5 to 10 minutes	i looked to my south and saw a cluster of lights changed to a stright line of lights	4/27/07	46.7879600525,-92.0998535156	
+3/10/07 16:40	Isanti	MN	Changing	6 seconds	Bright light in the sky changed shape or direction then disappeared.	4/27/07	45.4930114746,-93.2573471069	
+2/1/07 21:00	Grand Rapids	MN	Fireball	3 sec	Saw bright blue ball travel across sky.	2/24/07	47.2359199524,-93.5275268555	
+1/30/07 22:10	Rochester	MN	Unknown	5 minutes	long row of lights with red light under, hovered, flew to west, dropped down below tree level, popped back up and flew faster than a nm	2/1/07	44.0193481445,-92.4591522217	
+1/23/07 01:15	Ada	MN	Teardrop	42 minutes	Teardropped shaped objects floating in the sky heading southwest out of ADA minnesota	2/1/07	47.2993202209,-96.5150909424	
+1/20/07 21:01	Jordan	MN	Triangle	20 seconds	Large lights	8/14/07	32.7705116272,35.6025543213	
+1/15/07 17:30	Babbitt	MN	Light	10 min	lights in the sky	2/1/07	47.7144889832,-91.9503936768	
+12/23/06 03:10	Raymond	MN	Unknown	At least 1 hour	Object in the Sky	2/1/07	45.015750885,-95.2385025024	
+12/9/06 20:33	Saint Paul	MN	Chevron	2 minuets	UFO in Minnesota, witnessed by three people.	12/14/06	44.9438209534,-93.0933227539	
+12/9/06 01:45	Buffalo	MN	Rectangle	3 min	Large rectangular shape- gray in color.	2/1/07	45.172580719,-93.8762283325	
+12/3/06 18:30	South St. Paul	MN	Light	2.5 hrs	Green lights from georgia to Minnesota?	2/1/07	44.891330719,-93.0371780396	
+11/24/06 19:30	Jordan	MN	Fireball	4 seconds	I was out side at about 7:30 at night with my telescope, when I happened to look up at the sky and saw what I at first thought was a sh	12/7/06	32.7705116272,35.6025543213	
+11/24/06 07:30	Jordan	MN	Fireball	4 seconds	I was out side at about 7:30 at night with my telescope, when I happened to look up at the sky and saw what I at first thought was a sh	12/7/06	32.7705116272,35.6025543213	
+11/23/06 21:00	Bellchester	MN	Unknown	1 Second	Streaking orange light made no sound at all.	8/7/07	44.3732414246,-92.5112686157	
+11/22/06 05:45	Harris	MN	Light	45 seconds	Two stationary bright lights ( like stars)in NW sky, pulsing brighter and brighter, then disappearing together.	12/7/06	45.5858383179,-92.9747085571	
+11/21/06 12:25	St Bonifacius	MN	Light	3 minutes	BRIGHT light  low in the sky- middle of the day.	12/7/06	44.9040908813,-93.7441864014	
+11/18/06 22:30	Park Rapids	MN	Triangle	4 seconds	three orange lights in a triangle over northern minnesota	12/7/06	46.9221382141,-95.0592269897	
+11/7/06 18:30	Victoria	MN	Chevron	2min	Unknown objects seen while traveling east on MN Hwy 7 near victoria road sign	12/7/06	44.8593406677,-93.6629562378	
+10/23/06 22:25	Two Harbors	MN	Unknown	2 hours	This really happened and I would like an explanation! Read it and believe it.	10/30/06	47.0257110596,-91.6664199829	
+10/11/06 19:30	Two Harbors	MN	Light	10 minutes	Northern Lights ?? Right!	12/7/06	47.0257110596,-91.6664199829	
+10/4/06 22:45	Minneapolis	MN	Other	5 Seconds	Glowing green object crosses Twin Cities at low altitude	10/30/06	44.9790306091,-93.2649307251	
+10/4/06 22:36	Plymouth	MN	Flash	3 seconds	Very bright, streaking object blueish green in color traveling west over the western suburbs of Minneapolis.	10/30/06	45.0188102722,-93.4757995605	
+9/25/06 20:40	Rogers	MN	Light	3 minutes	"Star" observed moving erratically through the evening sky	10/30/06	45.1894683838,-93.5525970459	
+9/23/06 22:30	Palisade	MN	Light	2 minutes	It flew almost all the way across the clear night horizon far too fast to be an aircraft or a satelitte, zig-zagged, then darted upward	2/24/07	46.7132606506,-93.4906921387	
+9/9/06 22:00	Farmington	MN	Fireball	3 seconds each	Blue and Purple Fireball with noise sighted.  ((NUFORC Note:  Probable hoax from student, we believe.  PD))	10/30/06	44.6391906738,-93.1443786621	
+9/4/06 19:55	Saint Cloud	MN	Teardrop	8 minutes	Definetly not a typical aircraft, military or commercial jet of any kind	10/30/06	45.5658607483,-94.197517395	
+8/31/06 19:55	Edina	MN	Light	1 minute	High in the western sky on August  31st at 7:55 p.m. in Edina M.N. USA, a star like object that was fixed in the sky dimmed , split up,	10/30/06	44.9116287231,-93.3482208252	
+8/24/06 22:00	Farmington	MN	Flash	A split second	Brilliant green flash sighted.  ((NUFORC Note:  Probable hoax from student, we believe.  PD))	12/7/06	44.6391906738,-93.1443786621	
+8/24/06 22:00	Farmington	MN	Flash	1 second	Explanation for 8/24/06 Flash (*please do not post, this is not a report*)	2/1/07	44.6391906738,-93.1443786621	
+8/20/06 04:00	Hampton	MN	Triangle	3 minutes	TRIANGULAR CRAFT HOVERING AT HAMPTON, MINNESOTA - 04:00 AUGUST 2006	2/1/07	44.6105804443,-92.9975662231	
+8/19/06 23:00	Great Scott	MN	Flash	fifetenn minutes	flashing light in deserted forest	10/30/06	47.4467086792,-92.7695770264	
+8/6/06 21:30	Woodbury	MN	Light	2 hrs	Blue green rotating lights	10/30/06	44.9198684692,-92.940612793	
+8/4/06 01:17	Brooklyn Center	MN	Disk	5 minutes	rocked back and forth while moving west	10/30/06	45.0693283081,-93.3081588745	
+8/4/06 00:00	Oakdale	MN	Cigar	one hour	hovering oblong shaped craft appeard over sky, moving 40mph or slower, in a westerly direction	10/30/06	44.9720191956,-92.9644699097	
+8/4/06	Brooklyn Center	MN	Disk	8 minutes	about  1:17 am over 252 in brooklyn center, evergreen park elementary, a brightly lit object hovered closer and closer to us.	10/30/06	45.0693283081,-93.3081588745	
+8/1/06 22:50	Randolph (near; 19 & 56)	MN	Circle	15 sec	circular, lime-green object with a tracer lime-green tail	12/7/06	44.525970459,-93.0183334351	
+8/1/06 03:00	International Falls	MN	Light	3 minutes	Lights (on craft) moving in extremely rapid zig-zags through the night sky.	3/31/08	48.6026000977,-93.4036483765	
+7/20/06 05:35	Shoreview	MN	Cigar	60 seconds	Early morning glowing object	10/30/06	45.0820083618,-93.1342697144	
+7/15/06 00:30	Shakopee	MN		2 mins	Fast Moving High Altitude Object	10/30/06	44.7980804443,-93.5266571045	
+7/14/06 00:06	Lino Lakes	MN	Other	30 Seconds	I was sitting in my bed, listening to my iPod when I looked out the windo and saw what at first I thought was an airplane.  So, I looke	7/16/06	45.1770401001,-93.1117706299	
+7/1/06 13:35	Buffalo	MN	Disk	45 sec	These were not  fireworks	7/16/06	45.172580719,-93.8762283325	
+6/29/06 23:30	Shoreview	MN	Sphere	10 Seconds	bulb like sphire out of nowhere	7/16/06	45.0820083618,-93.1342697144	
+6/28/06 23:32	Forest Lake	MN	Light	22 Minutes	Lights moved from sky to tree level, to house level and then slowly but in an unorderly way zizzaged darkened and dissapeered.	10/30/06	45.2819099426,-92.9841995239	
+6/18/06 15:00	Minneapolis	MN	Sphere	1 minute	Two spheres flying in tight formation near Ford Parkway bridge	1/21/08	44.9790306091,-93.2649307251	
+6/5/06 13:00	East Bethel	MN	Teardrop	5 minutes	Saw an object, and several Military jets flew toward it in an area where we rarely see military jets overhead.	8/5/09	45.3704109192,-93.2158813477	
+6/2/06 23:45	Andover	MN	Teardrop	10 seconds	Brilliant green craft observed near Anoka county rd 9 in Andover, MN., 1145pm 06/02/06 two witnesses	7/16/06	45.243850708,-93.3061828613	
+5/21/06 23:00	Monticello	MN	Disk		they were stars that moved all over the place	7/16/06	45.305141449,-93.7945709229	
+5/20/06 00:58	Gaylord	MN	Triangle	20 Minutes	flahing "star"  moving around for 20 minutes near the big dipper.	7/16/06	44.5530815125,-94.221321106	
+5/17/06 03:00	Walker	MN	Circle	45 Minutes	Star like object in the sky moved side to side and up and down in a jaged motion extreamly bright.	7/16/06	47.1016082764,-94.5852584839	
+5/6/06 23:45	Winona	MN	Formation	5 seconds	Four separate bright white lights traveling across the sky, distort the light from stars as they pass.	5/15/06	44.0512886047,-91.6385879517	
+5/2/06 19:15	Inver Grove Heights	MN	Circle	20 minutes	Stationary object in sky for about twenty minutes, red flashes appear in the center	10/30/06	44.831199646,-93.0627975464	
+4/25/06 10:30	Biglake	MN	Light	3-4 minutes	SO WEIRD YOU WILL HAVE TO READ MY STORY	5/15/06	45.3294181824,-93.7469406128	
+4/24/06 21:30	Loman	MN	Light	35 Minutes	Large red ball of light that multiplied into four separate lights at tree level, white lights flying at high altitudes.	7/16/06	48.5192718506,-93.8158111572	
+4/20/06 22:05	Rochester	MN	Circle	4 minutes	1 satelight and  3 unknown white and red objects that followed in the opposite direction flying silent in the sky-	5/15/06	44.0193481445,-92.4591522217	
+4/10/06 13:45	Burnsville	MN	Formation	1 minute	50 silver irridescent diamond shaped objects in the formation of a wide awkward heart that blinked in and out of view in MN	5/15/06	44.7658500671,-93.274772644	
+3/26/06 22:00	St. Paul Park	MN	Fireball		2 UFO IN SOUTH WASHINGTON COUNTY	5/15/06	44.8469200134,-92.9899902344	
+3/18/06 23:30	Excelsior	MN	Flash	1 minutes	Saw a bright flash, and a low level airplane. Saw a green flare come down from sky, but not from airplane.	5/15/06	44.9028205872,-93.5686416626	
+3/13/06 22:30	Minneapolis	MN	Triangle	15 mins	The following sighting reports are very similar to the one my mother, father, North Minneapolis and I had back in 1975. This is the sec	5/15/06	44.9790306091,-93.2649307251	
+3/13/06 04:38	Minneapolis	MN	Flash	1 second	green flash	5/15/06	44.9790306091,-93.2649307251	
+3/5/06 20:33	Minneapolis	MN	Flash	1 second	green flash	5/15/06	44.9790306091,-93.2649307251	
+2/14/06 23:00	Eagan	MN	Rectangle	30 minutes	I let my dog out to go to the bathroom.  Across the street was a huge brilliant cluster of light.  Not moving, just perfectly still abo	3/11/06	44.8180809021,-93.1671295166	
+2/6/06 14:30	Lino Lakes	MN	Oval	1 minute	silver object over Lino Lakes Minnesota	2/14/06	45.1770401001,-93.1117706299	
+2/5/06 19:45	Albert Lea	MN	Unknown	20 seconds	The object had no blinking lights and went in 3 different directions, but those turns were faster than what an airplane could achieve	2/14/06	43.6473312378,-93.3687133789	
+1/14/06 13:00	Fergus Falls	MN	Oval	1- 2 min	UFO sighted near Fergus  Falls MN.	2/1/07	46.2786216736,-96.0723876953	
+1/10/06 04:00	Plymouth	MN	Unknown	15 minutes	Possible sighting in Plymouth, MN	2/14/06	45.0188102722,-93.4757995605	
+1/9/06 07:38	Minnesota (Ottertail Co.)	MN	Triangle		((HOAX??))  triangle in the sky	2/14/06	44.5931587219,-93.8714981079	
+11/24/05 19:00	Nodine	MN	Light	1 hour	Large glowing light hovering low on the horizon.  ((NUFORC Note:  Possibly Venus.  PD))	12/16/05	43.9048881531,-91.431388855	
+11/18/05 14:30	Minneapolis	MN	Disk	20seconds	white disk shaped object!	12/16/05	44.9790306091,-93.2649307251	
+11/11/05 18:00	East Grand Forks	MN	Unknown	18:15 to 19:00	two-yellowish lights in the southern sky followed by planes coming up to the vincinity	12/16/05	47.9303092957,-97.0241775513	
+11/10/05 18:15	East Grand Forks	MN	Unknown	10 to 15 minutes	This all started when I was going to wash my dishes since they were soaking in the sink. But, I looked outside and I seen this bright l	12/16/05	47.9303092957,-97.0241775513	
+11/9/05 19:05	Minneapolis	MN	Light	30 Seconds	Appearing As A Shooting Star	12/16/05	44.9790306091,-93.2649307251	
+11/7/05 22:10	Minnetonka	MN	Light	5 min.	Bright star-like light is seen staying in one spot, then quickly moves when witnesses try to investigate further.	11/8/05	44.9400596619,-93.4673233032	
+11/7/05 19:00	Maple Grove	MN	Other		I have already sent a report on this, but wanted to mention a mistake I made. The object I seen was SSW. Would of there been possibly a	5/15/06	45.0982894897,-93.4430999756	
+11/7/05 19:00	Maple Grove	MN	Light	5 minutes	Very Bright object  and I mean Very Bright!  watched about 5 min. returned 15 min later gone	12/16/05	45.0982894897,-93.4430999756	
+11/2/05 19:00	Bigfork	MN	Unknown	Approx. 10 min.	Two UFO's Sighted in Northern MN.	11/8/05	47.7471313477,-93.6550216675	
+11/2/05	Richfield	MN	Oval	2 minutes	Orange saucer shaped stationary object hung in the sky like a fixed object. 500 Lights On Object0: Yes	1/10/09	44.8810882568,-93.2679214478	
+10/22/05 06:10	Shoreview	MN	Light	60 Minutes	Slow moving bright light moving across early morning sky!	11/3/05	45.0820083618,-93.1342697144	
+10/14/05 21:30	Park Rapids	MN	Triangle	20+ min.	((NUFORC Note:  Probable sighting of Mars?  PD))  floating, moving  object in Park Rapids,MN.	10/20/05	46.9221382141,-95.0592269897	
+10/13/05 21:00	Northfield	MN	Chevron	30 min	Chevron shaped, low flying, one side shorter than the other, scilent, seen at 21:00, circling.	2/1/07	44.4496002197,-93.1537628174	
+10/11/05 03:00	Eagan	MN	Circle	2 hours plus	((NUFORC Note:  Possible star.  PD))  Bright colorfull glowing ball.	10/11/05	44.8180809021,-93.1671295166	
+10/10/05 23:07	Brainerd	MN	Disk	5 min.	A big lighted up silver saucer.	10/30/06	46.3531608582,-94.2006912231	
+10/7/05 20:30	Scandia	MN	Changing	10 minutes	((NUFORC Note:  Possible twinkling stars, we suspect.  PD))We saw an object in the sky that didn't appear to be moving.	10/11/05	45.2565994263,-92.8092880249	
+10/6/05 01:15	Coon Rapids/Fridley	MN	Triangle	1 minute	object trailed by military aircraft flew over at high rate of speed knocking out power in certain homes.	10/11/05	45.1358108521,-93.2704315186	
+10/2/05 02:00	Edina	MN	Formation	3-5 Seconds	Triangle Formation	10/11/05	44.9116287231,-93.3482208252	
+10/1/05 19:58	Rogers	MN	Triangle	17 Minutes	Triangular UFO hovered with Stench	10/20/05	45.1894683838,-93.5525970459	
+9/28/05 22:30	Shoreview	MN	Circle	7seconds	glowing orb	10/11/05	45.0820083618,-93.1342697144	
+9/16/05 19:00	Lexington	MN	Light	20 minutes	I lIVE IN SHOREVIEW MN. WE WERE ON THE WAY TO THE D.Q. AROUND 6:45PM WE WENT TO THE ONE IN LEXINGTON WHICH IS APPROX. 10-15 MINUTES FRO	10/11/05	44.4432296753,-93.7022476196	
+9/14/05 21:30	Shoreview	MN	Sphere	40 seconds	Round, bright, low flying object silently flys overhead!	10/11/05	45.0820083618,-93.1342697144	
+9/9/05 19:00	Nodine	MN	Light	15 seconds	orange ball of light in the horizon moving rapidly then instantly disapeared	10/11/05	43.9048881531,-91.431388855	
+9/2/05 21:30	Minneapolis	MN		1 second	Flash of light in sky	9/15/05	44.9790306091,-93.2649307251	
+8/30/05 22:10	Forest Lake	MN	Cylinder	3-5 minutes	Saw two objects from backyard, 3 of us saw them, oval shaped, took pictures, moved verically up and down	10/11/05	45.2819099426,-92.9841995239	
+8/29/05 21:30	Minneapolis	MN	Oval	45 minutes	Flashing Ring floats S-SW from Minneapolis view area 45 minutes	9/2/05	44.9790306091,-93.2649307251	
+8/29/05 18:00	St. Joseph	MN	Light	20 Min.	The 3 objects appeared above the horizon at sunset One headed West and two headed North.  Very bright!	10/11/05	45.5691795349,-94.3188934326	
+8/27/05 14:30	Rochester	MN	Disk	10 Minutes	A fleet of at least 100 disc shaped UFOs dancing across the sky!	2/14/06	44.0193481445,-92.4591522217	
+8/22/05 22:25	Minnetonka	MN	Triangle	26 seconds	Triangular plane like object seen close to ground with little noise, moved very little over the course of 26 seconds then was gone.	9/2/05	44.9400596619,-93.4673233032	
+8/15/05 23:30	Shoreview	MN	Circle	5 SECONDS	STRANGE ORANGE OBJECT	10/11/05	45.0820083618,-93.1342697144	
+8/12/05 23:00	Orono	MN	Disk	10	Disc-shaped light, vivid, yet inside a cloud and appearing for 10 minutes	9/2/05	44.9904289246,-93.5919570923	
+8/10/05 10:00	Little Falls	MN	Cylinder	2-3 minutes	It was a the size and shape of a soup can, it glowed candy-apple red, and traveled from zero to fast instantly and silently.	10/11/05	45.977180481,-94.3707962036	
+8/7/05 23:45	Eagen	MN	Light	2 HOURS	 Red and Whie flashing light over Twin Cities.	9/2/05	44.8180809021,-93.1671295166	
+8/7/05 00:00	Brooklyn Center	MN	Light	1 hour	Strange colorful light in the sky	9/2/05	45.0693283081,-93.3081588745	
+8/1/05 01:30	Big Lake	MN	Sphere	60 seconds	Burnt orange ill-defined vertical diamond shape moved at 150 mph W to E at 1:30 a.m. at 300 ft.	3/19/09	45.3294181824,-93.7469406128	
+7/30/05 22:30	Dassel	MN	Flash	10 Seconds	3 unmoving bright flashes of light in the sky between big and little dipper, 5 times bigger than biggest star.	10/11/05	45.0809402466,-94.3116226196	
+7/30/05 00:15	Monticello	MN	Disk	10 seconds	Disk moved across sky, and slowed floating down toward ground.	10/11/05	45.305141449,-93.7945709229	
+7/29/05 22:21	Apple Valley	MN	Circle	30 Mins	A round object spinning horizontally with green lights on it!!	10/11/05	44.7427482605,-93.2175827026	
+7/29/05 14:00	Faribault	MN	Oval	Webcam...	Ufo seen over local elementary school webcam at 7/29/05 at 14:00 hours. Link in full description, saved picture also available opon req	10/11/05	44.2946891785,-93.2753829956	
+7/24/05 03:00	Detroit Lakes	MN	Light	5 minutes	Two green lights over 10,000 lakes festival 3am sunday morning 7-24-05, blast into sky	12/7/06	46.819480896,-95.8452377319	
+7/16/05 03:00	Chaska	MN	Light	5 seconds	Bright light quickly fading to orange then disappearing	8/12/08	44.7871894836,-93.6018218994	
+7/13/05 01:00	Longville	MN	Light	10 min	It looked like a planet - but moved	9/2/05	46.9861488342,-94.2109603882	
+7/13/05 00:30	Mora	MN	Cigar	3 minutes	I have seen a UFO from 100 yards away.	3/19/09	45.875541687,-93.2962493896	
+7/10/05 22:30	Grand Rapids (near)	MN	Triangle	one minute	Three light triangle over cabins near Grand Rapids, MN	2/14/06	47.2359199524,-93.5275268555	
+7/8/05 23:15	Owatonna	MN	Light	10 min. approx.	I thought it was a star until I watched it slowly move across the sky appearing to start and stop as it went along.	7/13/05	44.0933799744,-93.2293777466	
+7/6/05 21:00	Boundary Waters Canoe Area	MN	Cigar	20-25 mn	4 sets of light lines moving at 50 degree angles on the horizon; one appeared to have a bright light off one end.	7/13/05	47.7653541565,-91.1900863647	
+6/30/05 20:00	St. Louis Park	MN	Other	Ultra white flash	Exrtemely bright Extremely white flash of light from the ground up St. louis park mn	2/14/06	44.9484786987,-93.3433914185	
+6/18/05 21:05	Granite Falls	MN	Other	45 seconds	Cigar/Triangular shape, changing colors across skyline, met by darting white object	6/20/05	44.8061294556,-95.5500717163	
+6/15/05 23:30	Chanhassen	MN	Light	1 minute	moving star moving in curvy random pattern in sky seen in the minneapolis area	2/14/06	44.8632011414,-93.5379104614	
+6/7/05 13:00	Eagan	MN	Circle	2 or 3 minutes	5 Dark Round-Orbs in a String Form Decending form the Cloud Bank	6/20/05	44.8180809021,-93.1671295166	
+5/31/05 03:30	Golden Valley	MN	Unknown	2-3 mins	NOT a sattelite.	6/20/05	44.985748291,-93.3787765503	
+5/23/05 21:20	Little Falls	MN	Other	2 seconds	Didn't see object when I took the picture.  Noticed it while reviewing pictures.	12/12/09	45.977180481,-94.3707962036	
+5/20/05 03:00	Fergus Falls	MN	Triangle	5 minutes	I observed a bright orange triangle that made no noise and moved slowly into the North disappearing.	5/24/05	46.2786216736,-96.0723876953	
+5/20/05 03:00	Fergus Falls	MN	Triangle	2 min. (est.)	Man witnesses peculiar, orange-colored, triangular object against the night sky.	5/24/05	46.2786216736,-96.0723876953	
+5/20/05 02:53	Fergus Falls	MN	Circle	60 sec.	Woman reports witnessing a "bright red sphere" in the southern sky, viewed from her home.	5/24/05	46.2786216736,-96.0723876953	
+5/15/05 19:35	Eagan	MN	Disk	1 minute	We saw them flying over the school about a half mile away. The came straight down and then stopped above the school and took off and di	5/24/05	44.8180809021,-93.1671295166	
+5/15/05 17:00	Apple Valley	MN	Disk		I accidentally took a picture of a ufo.	6/20/05	44.7427482605,-93.2175827026	
+4/15/05 01:20	Eagan	MN	Chevron	10 seconds	Silent boomerang object szeen in sky over Eagn MN	4/16/05	44.8180809021,-93.1671295166	
+4/7/05 23:00	Hopkins	MN	Triangle	7 seconds	The first time it's was about 11pm when my wife and I first saw it. It was going from east to west. It was triangle shape with five lig	4/16/05	44.9224090576,-93.4134674072	
+4/3/05 03:50	Minneapolis	MN	Triangle	1 minute	A triangular shaped object with yellow lights flew around eradically for about a minute in the sky.	4/16/05	44.9790306091,-93.2649307251	
+3/21/05 20:00	Anoka	MN	Triangle	10 seconds	faint orange lights in shape of a triangle, moving very low, very fast.	4/16/05	45.1983299255,-93.3899688721	
+3/21/05 12:21	Cook County	MN	Triangle	5-10 minutes	three lights came out from behind a cloud and began following beside our car for 5- 10 minutes	9/2/05	47.9067420959,-90.6046829224	
+3/19/05 23:00	Annandale	MN	Circle	30 seconds	Very bright white light speeding down HWY94  low in the sky, outside minneapolis on 3/19/05 10:45 pm	5/11/05	45.261390686,-94.1237487793	
+3/13/05 23:15	Walker	MN	Unknown	10 mins	very BRIGHT light hovering over the trees	5/11/05	47.1016082764,-94.5852584839	
+3/8/05 18:00	West St. Paul	MN	Sphere	5 seconds	Blue glowing sphere descends to Earth between ground witnesses and jet pilots in Twin Cities, Minnesota.	5/24/05	44.8971481323,-93.0854034424	
+3/5/05 21:30	Grand Marais	MN	Unknown	approx 1 hr	3/5/05  Snowmobiling  9:30 p.m. on northern Mn. lake, several lights appeared above trees, blinking off and on, not moving, 45 min.	5/11/05	47.7504005432,-90.3351135254	
+2/17/05 01:38	Minneapolis/St. Paul	MN		over 10 minutes	stable tapered vertical light in sky	2/22/05	44.8797187805,-93.1997375488	
+2/16/05 01:00	Golden Valley	MN	Oval	3 minutes	At about 1:00 AM on Wedsday 16th, 2005 I just came back from a movie and as I was coming in my drive way i saw an small oval shaped obj	2/22/05	44.985748291,-93.3787765503	
+2/12/05 18:00	Jordan	MN	Sphere	15 minutes	Very bright "wing span" lights too large to seem like a plane with about 5 green lights in circular pattern in back on  2 very low  pla	2/22/05	32.7705116272,35.6025543213	
+1/28/05 21:45	Hastings (or Winona)	MN	Oval	Approx. 4 minutes	Oval shaped object performs remarkable aerial feats over Hastings, MN	2/8/05	44.7422904968,-92.851890564	
+1/28/05 18:00	Blaine	MN	Unknown	5-10 seconds	red and blue alternating lights, hovering then moving at an incredible speed then gone	2/8/05	45.1660118103,-93.208732605	
+1/26/05 16:00	Minneapolis	MN	Other	still happening	Many small white dots floating high above ground.	1/27/05	44.9790306091,-93.2649307251	
+12/21/04 01:00	St. Paul	MN	Circle	Ongoing	Appear as two very bright stars with red centers.  They are fairly fixed in the sky in a southeast location above the Mississippi River	1/11/05	44.9438209534,-93.0933227539	
+11/12/04 13:15	Minneapolis	MN	Cylinder	2 mins	Silver metallic cylinder moving slowly on Hwy 55 Minneapolis from east to west	12/3/04	44.9790306091,-93.2649307251	
+11/8/04 20:15	St. Peter	MN	Light	10-15 min	3 glowing dual colored lights above southern Minnesota town	11/9/04	44.3267593384,-93.9577484131	
+11/7/04 23:00	Shakopee	MN	Other	2 Minutes	On November 7th 2004 my friend and I seen two red lights blinking across the night sky moving very slowly.	12/3/04	44.7980804443,-93.5266571045	
+11/7/04 19:00	Zimmerman	MN	Circle		Spotted circular objects that showed up on my digital camera that wasn't there.	11/9/04	45.4433288574,-93.5927734375	
+11/7/04 16:30	Minneapolis	MN	Cylinder	6 TO 10 SECS.	Silver cylindrical object; no wings; no vapor trail; no sound passing SE to NW just before sundown.	11/9/04	44.9790306091,-93.2649307251	
+11/6/04 01:15	Mankato	MN	Fireball	1 min	round green fireball	11/9/04	44.1674003601,-94.0024108887	
+10/15/04 23:00	Minneapolis	MN	Disk	2 mins	Look to the clouds	2/1/07	44.9790306091,-93.2649307251	
+10/15/04 23:00	Saint Paul	MN	Sphere	10min	11 balls of solid light formed a circle around the horizon,  sat still for a while then quickly darted around and disappeared.	2/8/05	44.9438209534,-93.0933227539	
+10/10/04 21:00	Faribault	MN	Flash	1/2 hour	Metor or craft descending then sudden flash of light	10/27/04	44.2946891785,-93.2753829956	
+10/2/04 16:00	Burnsville	MN	Diamond	2 minutes	I saw a diamond-shaped silver object hovering with little to no motion in the southward sky.	10/27/04	44.7658500671,-93.274772644	
+9/29/04 21:10	Chaska	MN	Unknown	30 minutes	Multicolored stationary point of light in ENE sky  ((NUFORC Note:  Twinkling star, we suspect.  PD))	10/27/04	44.7871894836,-93.6018218994	
+9/25/04 13:00	St. Louis Park	MN	Oval	10 minutes	2 objects circled eachother for 5-8 minutes, only until they were directly overhead did we get to see the oval shape, and silver color.	10/27/04	44.9484786987,-93.3433914185	
+9/18/04 03:15	Spring Grove	MN	Diamond	4 hours	One very luminated bright light just hovering in the sky, than it would slowly fade,see a haze than re-appear.  ((Celestial objects??))	9/29/04	43.5609893799,-91.6369934082	
+9/17/04 23:00	Duluth	MN	Disk	1 min	It was a very eye opening experience. 500 Lights On Object0: Yes	10/8/07	46.7879600525,-92.0998535156	
+9/16/04 20:30	Grand Rapids	MN	Sphere	2 minutes	this thing was super bright!!!	9/29/04	47.2359199524,-93.5275268555	
+9/15/04 22:00	Willow River	MN			While watching a satelite (easy to spot in Northern Minnesota)  Me and my girlfriend saw  Three satelites crossing behind the one we we	2/22/05	46.3173103333,-92.8403167725	
+9/11/04 22:30	Anoka	MN	Light	3 min	quick flashing lights west of anoka minnesota	9/29/04	45.1983299255,-93.3899688721	
+9/7/04 12:00	Lakeville	MN	Unknown	15min	Four sperical orbs rotation counter-clockwise, clockwise, and stationary for about a 15min ((NUFORC Note:  Advertising lights??  PD))	9/9/04	44.6570091248,-93.242729187	
+9/6/04 00:00	Lakeville	MN	Unknown	?	Lakeville Minnesota- neighborhood sees object together	9/9/04	44.6570091248,-93.242729187	
+9/2/04 19:45	St. Paul	MN	Light	1- 2 minutes	9/2/04 On a clear blue sky evening I noticed a bright star that seemed to be going straight into the atmosphere.	9/9/04	44.9438209534,-93.0933227539	
+8/20/04 22:00	Grand Marais	MN	Other	30 minutes	3 stars moving in a triangle formation near the Minnesota-Canada border?	9/9/04	47.7504005432,-90.3351135254	
+8/19/04 19:00	St. Paul	MN	Circle	not sure	This item is from WCCO news in Minneapolis Mn	8/24/04	44.9438209534,-93.0933227539	
+8/19/04 18:20	Waconia	MN	Circle		Bright object  seen by thousands and reported on all local news stations	9/1/04	44.8477210999,-93.7891616821	
+8/19/04 18:00	Minneapolis	MN	Circle	3.5 hours	White high-altitude object suspended over Twin Cities and witnessed for 12 hours	9/1/04	44.9790306091,-93.2649307251	
+8/19/04 17:00	St. Louis Park	MN	Sphere	1-2 hours	A round, white craft flew at about 60,000 ft. in the air for about 5 hours	9/1/04	44.9484786987,-93.3433914185	
+8/19/04 17:00	Minneapolis	MN		Above the Metrodome	The round object above the Metrodome.	9/9/04	44.9790306091,-93.2649307251	
+8/19/04 17:00	Shorewood	MN	Egg	5hours	object floating over minneapolis area August 19, 2004	12/14/04	44.8993415833,-93.5892562866	
+8/19/04 17:00	St. Paul	MN	Light	3 hours	Bright light hovers for hours in broad daylight,  thousands of people see it.	8/24/04	44.9438209534,-93.0933227539	
+8/19/04 17:00	Lakeville	MN	Sphere	Several hours	Video of object over the Minneapolis metro area on 8-19-04	9/1/04	44.6570091248,-93.242729187	
+8/19/04 17:00	St. Paul	MN	Circle	>=4 hrs	White circular object observed 2.5 handspans above horizon for 4+ hours by 8 people in St. Paul, MN.	9/1/04	44.9438209534,-93.0933227539	
+8/19/04 17:00	Lakeville	MN	Light	12 hours	Video of object over the Minneapolis metro area on 8-19-04	9/1/04	44.6570091248,-93.242729187	
+8/19/04 17:00	Chaska	MN	Rectangle	4.5 hours	Bright Object in skies above Minneapolis area, August 19th, 2004.	10/27/04	44.7871894836,-93.6018218994	
+8/19/04 16:30	Saint Paul	MN	Teardrop	Several Hours	Strange object in Metro sky	9/9/04	44.9438209534,-93.0933227539	
+8/19/04 16:00	Rosemount	MN	Light	1+ hours	Bright object in daytime sky, MN	8/24/04	44.7391891479,-93.1242904663	
+8/19/04 16:00	Minneapolis	MN	Circle	2 hours	large object minneapolis baffles experts.	8/24/04	44.9790306091,-93.2649307251	
+8/19/04 15:50	Minneapolis area	MN	Other	5+ hours	Daylight star over twin cities, minnesota.	8/24/04	46.3491096497,-94.1983184814	
+8/19/04 15:30	Minneapolis	MN	Sphere	approx 2 hrs	White sphere viewed with naked eye and telescope in broad daylight was most likely a high altitude balloon	9/29/04	44.9790306091,-93.2649307251	
+8/19/04 13:00	Minneapolis	MN	Sphere	5 Minutes	I seen an object in the sky, thought it was a balloon, but it was too large and too high, in five minutes it barely moved.	12/3/04	44.9790306091,-93.2649307251	
+8/19/04 11:00	St. Paul	MN	Unknown	10 minutes	ON Aug. 19th about 11am I was heading south on Ruth street towards Battle Creek to do some mountain biking. I observed a very shiny obj	1/19/05	44.9438209534,-93.0933227539	
+8/19/04 09:00	Bloomington	MN	Unknown	8 hours	We watch an object in a fixed point in the sky, appearing metalic. Crystal Clear Blue sky. The object appeared directly overhead at abo	8/24/04	44.8204917908,-93.3063583374	
+8/18/04 21:00	Plymouth	MN	Oval	10 sec	side by side  reddish  very fast tip to tip flying surfboards in Minnesota.	10/27/04	45.0188102722,-93.4757995605	
+8/15/04 23:12	St. Paul (southern part)	MN	Formation	7minutes	three craft travel in formation above Minnesota.  ((NUFORC Note:  Possible contrail, we believe.  PD))	12/3/04	44.9438209534,-93.0933227539	
+8/15/04 05:00	St. Paul	MN	Triangle	25	Commercial pilot witnesses triangle craft  in early hours moving silently above treetops.	8/5/09	44.9438209534,-93.0933227539	
+8/14/04 23:00	North Branch	MN	Formation	1 minute	Five objects rising slowly and quickly disappearing	8/24/04	45.511428833,-92.9793701172	
+8/4/04 16:19	Apple Valley	MN	Sphere	2-3min	approximately at 16:19 I was observing the sky (it was beautiful) and there were a few passenger planes passing, going in and out cloud	8/11/04	44.7427482605,-93.2175827026	
+7/30/04 11:00	Akeley	MN	Triangle	30 minutes	encountered 33 foot ufo in road close as 20 feet for over 30 minutes duration other evidence w/ photo	12/14/04	47.0042381287,-94.7261886597	
+7/27/04 02:00	Duluth	MN	Other		We have 6 minutes 23secs of video tape on what my husband and I encountered.....	5/24/05	46.7879600525,-92.0998535156	
+7/22/04 22:30	Blaine	MN	Circle	5 minutes	Looked like planet at first (mars) it was changing colors and was stationary (hoovering) but then began to move away slowly until out o	7/25/04	45.1660118103,-93.208732605	
+7/21/04 23:00	Breezy Point	MN	Unknown	7-10 seconds	A bright light appears to intesify as it enters atomospher and then dims to small light like satellite and travels away.	7/25/04	46.5916099548,-94.2202682495	
+7/16/04 12:45	St. Cloud	MN	Chevron	7 minutes approx	Two possible craft seen in the mid-afternoon sky following the Mississippi	7/25/04	45.5658607483,-94.197517395	
+7/16/04 01:00	Maple Grove	MN	Disk	4HOURS	A CRASFT FLEW IN FROM THE EAST AT A HIGH RATE OF SPEED AND STOPED INSTANTLY AND HUVERED FOR FOUR HOURS	7/25/04	45.0982894897,-93.4430999756	
+7/15/04 23:30	Outing	MN	Formation	5 minutes	Three lights in a perfect triangle inched across the sky until directly above, then seemingly disappeared.	12/12/09	46.8189888,-93.9437026978	
+7/15/04 13:00	New Brighton	MN	Sphere	5 minutes	Black ball UFO about 75 feet across on a sunny partly cloudy day	2/1/07	45.0632400513,-93.1931228638	
+7/12/04 18:30	St. Cloud	MN	Sphere	one minute	This time I saw what looked to be spherical, and in the broad daylight!!	7/25/04	45.5658607483,-94.197517395	
+7/1/04 23:44	Edina	MN	Triangle	3 minutes	Low flying triangular object with a round white light at each corner of the triangle.	5/24/05	44.9116287231,-93.3482208252	
+6/30/04 01:15	Hubbard	MN	Other	30 min.	It was the strangest blue light we had ever seen and then it changed and started following us all the way home.	7/8/04	47.1086502075,-94.9166183472	
+6/18/04 23:30	St. Cloud	MN	Light	5 seconds	I saw a light in the sky that traveled in a straight line.  This light lasted approx. 5 seconds.  this is the second time in a month	7/25/04	45.5658607483,-94.197517395	
+6/15/04 16:14	Bloomington	MN	Unknown	SECONDS	BLURRED PHOTO OF UFO ?	11/28/07	44.8204917908,-93.3063583374	
+6/15/04 14:30	St. Paul Park	MN	Circle		moving lights that go then stop	6/18/04	44.8469200134,-92.9899902344	
+6/8/04 22:30	Mound	MN	Triangle	2 minutes	3 red lights that formed a triangle in the sky moving slowly and then just disappeared.	7/25/04	44.9347305298,-93.6586074829	
+5/28/04 23:15	Minneapolis	MN	Light	45 to hour	I saw a light in the sky, it was moving around at odd angles, would disappear and reappear. I had pointed it out to two people who were	6/18/04	44.9790306091,-93.2649307251	
+5/27/04 22:30	Minneapolis	MN	Circle	Unknown	While driving in a residential area a noticed blinking lights that stayed in the same spot.	6/4/04	44.9790306091,-93.2649307251	
+5/22/04 23:00	Inver Grove Heights	MN	Flash	2 minutes	My friend and I witnessed approximitly 12 greenish tinted lights standing still in the sky for approximitly 2 minutes...	6/4/04	44.831199646,-93.0627975464	
+5/19/04 18:45	Fairmont	MN	Circle		HBCCUFO CANADIAN REPORT:  White, round light in the sky with what had appeared to be smoke by it.	6/4/04	43.6521606445,-94.4601135254	
+5/10/04 22:45	Woodbury	MN	Triangle	15 minutes	Witnessed 3 faint lights moving NNE to SSE. Lights formed a triangle and moved VERY slowly to the SSE. About 1/3 the speed of an no	6/4/04	44.9198684692,-92.940612793	
+5/6/04 01:14	Big Lake	MN	Diamond	10 seconds	Small, burnt orange colored craft paralleled flight path of well-lit helicopter.	5/10/04	45.3294181824,-93.7469406128	
+4/1/04 20:30	St. Paul	MN	Formation	three minutes	HBCCUFO CANADIAN REPORT:  My wife noticed the flying "V" formation heading due south	4/9/04	44.9438209534,-93.0933227539	
+3/31/04 21:30	West Central	MN	Unknown	approx: 5 minutes	HBCCUFO CANADIAN REPORT:  V Shaped Lights.	4/9/04	44.4855422974,-93.4408950806	
+3/23/04 21:35	Oakdale	MN	Triangle	6 to 7 minutes	A triangular, slow moving, silent, lighted with 6 lights on base with green and blue being dominate, subdued yellow and red also,	3/28/04	44.9720191956,-92.9644699097	
+3/21/04 19:21	Champlin	MN	Fireball	10 seconds	blue fireball descending	3/23/04	45.1694984436,-93.3921966553	
+3/10/04 01:00	Rochester	MN	Chevron	45 seconds	solid red chevron-shaped ufo formation sighting in Rochester, Minnesota 2004	7/5/08	44.0193481445,-92.4591522217	
+3/7/04 01:37	Minneapolis	MN	Fireball	10 minutes	seen three fireball type crafts hovering over local park as i was walking back from friends house. the center craft had a beem of green	3/9/04	44.9790306091,-93.2649307251	
+2/13/04 19:11	Eveleth	MN	Light	15 seconds	Two large lights above the treetops about 150 feet from our car that radiated light that affected my wife and I	3/2/04	47.4605712891,-92.5353622437	
+2/12/04 20:40	Minneapolis	MN	Rectangle	4 minutes	Long rectangular vertical shaped object with several bright white strobbing lights	3/2/04	44.9790306091,-93.2649307251	
+1/19/04 19:00	Minneapolis	MN	Fireball	1 Second	bright light falling from sky	12/7/06	44.9790306091,-93.2649307251	
+12/25/03 21:40	North St. Paul	MN	Fireball	3 - 4 sec	green fireball with sparks desending slowly.  ((NUFORC Note:  We are unconvinced that this is a serious-minded report.  PD))	1/17/04	45.0114898682,-92.9935379028	
+11/29/03 18:00	To remain unknown	MN	Unknown	20 minutes	HBCCUFO CANADIAN REPORT:  Large craft showing a number of lights on it.	12/9/03	46.3491096497,-94.1983184814	
+11/10/03 07:30	Audubon	MN	Light	20 seconds	moving light in sky, changed direction and disappeared	11/26/03	46.8608703613,-95.9818878174	
+11/8/03 17:30	West Central	MN	Oval	Few seconds	HBCCUFO CANADIAN REPORT:  Object was oval in shape, turns to a vertical position and emits a red glow.	11/26/03	44.4855422974,-93.4408950806	
+11/2/03 18:00	Forest Lake	MN	Triangle	5-7 minutes	Saw a triangular shaped craft that emmitted a beam directly at us and then followed over the top of our vehicle for a short distance.	11/26/03	45.2819099426,-92.9841995239	
+10/21/03 20:45	Scandia	MN	Light	15 minutes	Bright pulsating multi-colored light turning into disk shape with circle of red lights.	10/31/03	45.2565994263,-92.8092880249	
+10/19/03 05:45	Cottage Grove	MN	Triangle	7-10 min,	A large black trianle shaped aircraft with three lights quietly and slowly hovering very low.	10/31/03	44.8336601257,-92.9532165527	
+10/14/03 23:00	Minneapolis	MN	Other	NOT SURE	ufocasebook.com/ minnesotaufo.html	8/24/04	44.9790306091,-93.2649307251	
+10/11/03 00:20	Austin	MN	Circle	5 SECONDS	THE TWO WHITE ROUND OBJECTS FLEW SYNCHONIZED SIDE BY SIDE AND EVENTUALLY VEERED OFF MADE HALF A CIRCLE AND MERGED, AND RE-ENTERED SPACE	10/15/03	43.6665916443,-92.972328186	
+10/5/03 21:10	Jenkins	MN	Chevron	10 secs	A chervon object floating in the sky suddenly drops towards the earth and disappears.	10/15/03	46.6461715698,-94.3349914551	
+9/27/03 07:00	Ask not to give this out.	MN	Light	approx: 60 minutes	HBCCUFO CANADIAN REPORT:  Blue lights and another 5 under rainbow.	10/7/03	
+9/25/03 03:00	Park Rapids	MN	Light	4 hours	Blue and Red ball of light, that just floated in the sky , TELEPATHY THEORY MY OWN ENCOUNTER	11/26/03	46.9221382141,-95.0592269897	
+9/23/03 23:30	Breckenridge	MN	Triangle	5seconds	golden brown triangle speeds across sky	9/24/03	46.2633895874,-96.5886993408	
+9/22/03 19:00	Northfield	MN	Light		Twilight Lights in Northfield, MN	1/22/04	44.4496002197,-93.1537628174	
+9/15/03 05:30	Cromwell	MN	Light	5 minutes	Cromwell, Minnesota.... Deer Hunting Opening Day....Carlton County Movings Lights	4/9/04	46.6796302795,-92.8834686279	
+9/4/03 03:15	Minneapolis	MN	Formation	20 Mins.	Three faint blue triangles high in the sky.	9/4/03	44.9790306091,-93.2649307251	
+9/1/03 23:00	Remer	MN	Light	5 min	I was on a farm in northern minnesota and just happened to glance up at the sky, I saw the big dipper and noticed three star sized ligh	3/2/04	47.0563087463,-93.9183578491	
+8/30/03 23:59	McGregor	MN	Chevron	5 minutes	Huge, stealth like craft passses over us with red and white lights, only to be followed by squadrons of fighters in its path	9/4/03	46.6063117981,-93.3086700439	
+8/30/03 23:55	McGregor	MN	Other	5 mins.	Large V shaped aircfaft slowly flying overhead while other planes scramble to catch up.	9/4/03	46.6063117981,-93.3086700439	
+8/30/03 23:55	McGregor	MN	Triangle	1:45	At 11:55 pm on August 30th, ten people who were gathered around a campfire in northern Minnesota witnessed a triangular shaped craft th	9/4/03	46.6063117981,-93.3086700439	
+8/30/03 23:55	McGregor	MN	Other	1.5 hours	Very large, slow moving, wing shaped craft was chased by 3  F15's. 4 white lights, 4 red lights.	9/4/03	46.6063117981,-93.3086700439	
+8/30/03 23:30	Brainerd	MN	Formation	2 minutes	3 seperate sighting of a series of 6 red lights taking on a wing formation, slow moving, engine sound (but not jet engine)	9/4/03	46.3531608582,-94.2006912231	
+8/30/03 23:15	Vining	MN	Other	I Seen a V shaped object 	A  large V shaped object in the night sky.	9/24/03	46.2631607056,-95.5366363525	
+8/30/03 23:00	Nisswa	MN	Other	10 minutes	A chain of lights moving slowly in the eastern sky	9/4/03	46.5201301575,-94.2887268066	
+8/28/03 23:00	Sandstone	MN	Circle	1 1/2 minutes	I saw a very bright red cirucular shaped object travel jerk through the sky	9/4/03	46.1309890747,-92.8670272827	
+8/12/03 21:30	Burnsville	MN	Light	10 seconds	Two star like objects accelerate and fade one after the other.	8/28/03	44.7658500671,-93.274772644	
+8/3/03 00:23	Fridley	MN	Other	45 minutes	Star like object in the night sky looked like it was trying to avoid a falling star?	8/4/03	45.0850982666,-93.2632598877	
+7/27/03 22:00	Stillwater	MN	Fireball	5 sec.	A family of three witness two quck flashes, then a VERY fast, dramatic fireball streak west in the night sky.	8/1/03	45.0567016602,-92.8105697632	
+7/23/03 22:35	Cottage Grove	MN	Changing	approximately 10 minutes	I saw a strange light show over suburban Minnesota	8/1/03	44.8336601257,-92.9532165527	
+7/23/03 14:30	Austin/Rochester (between)	MN	Oval	5-7 seconds	Dark grey oval seen from an aircraft	3/29/04	44.3065414429,-91.9968643188	
+7/10/03 21:00	Willmar	MN	Triangle	30 Min	Black, unlit, triangular, silent, stationary, object hovering at high altitude, July 2003 in Willmar Minnesota USA.	9/24/03	45.120639801,-95.0544891357	
+7/2/03 23:30	Lakeville	MN	Light	30 second	Bright light  formation moving at high rate of speed with no noise	7/16/03	44.6570091248,-93.242729187	
+5/30/03 01:14	Chanhassen	MN	Light	30 seconds	Very bright light close to house	6/3/03	44.8632011414,-93.5379104614	
+5/17/03 23:10	Andover	MN	Light	30	Three objects, two headed north, one headed south, all about 2 minutes apart.	5/27/03	45.243850708,-93.3061828613	
+5/17/03 12:32	Burnsville	MN	Cigar	2 seconds	cigar shaped UFO	5/27/03	44.7658500671,-93.274772644	
+4/22/03 01:00	Golden Valley	MN	Fireball	1-2 seconds	Vivid green fireball	4/27/03	44.985748291,-93.3787765503	
+4/9/03 03:30	Millville	MN	Oval	1/2  minute	star shaped moving south to west in straight, and up and down direction flashing and growing to return to star like self	4/22/03	44.2446403503,-92.2963485718	
+4/6/03 23:59	Saint James	MN	Formation	at least 30 minutes	I saw a cluster (7 min.) of tiny lights stationery in the sky like stars with shimmering lights for at least a half hour.	4/22/03	43.9822311401,-94.6276626587	
+4/4/03 14:00	White Bear Lake	MN	Disk	10min	I watched this on live t.v on cnn,fox news,msnbc.It was durning the war coverage.They were showing the live feed from baghdad.Shots wer	4/22/03	45.0826911926,-93.0123062134	
+2/15/03 02:00	Cannon Falls	MN	Light	until daylight	circular blue/white light with sparks shooting out from all sides	3/21/03	44.5076293945,-92.9057388306	
+2/3/03 02:00	Minneapolis	MN	Light	unknown	After seeing a UFO with a bunch of friends at a lake in 1974(Minnesota),I have had many odd occurances.This one happened in my home	3/23/04	44.9790306091,-93.2649307251	
+1/12/03 05:00	Pillager	MN	Triangle	10 minutes	5:00 am, Pillager, Mn. Dark, cold, clear morning! A huge, Black Triangle hovers above the Pillager Water Tower!	9/2/05	46.3287887573,-94.4746170044	
+1/2/03 20:00	Winnebago	MN	Disk	1 1/2 hrs.	We saw a disk shape craft with lights that circled around the craft changing colors from white,to red, green,and blue	3/21/03	43.7663803101,-94.1657714844	
+12/27/02 00:00	Wayzata	MN	Light	15min	A small lights that moved fast and vanished in to the sky.	3/21/03	44.9714889526,-93.5116577148	
+12/9/02 22:00	Robbinsdale	MN	Diamond	2 hours	Diamond	12/23/02	45.0317993164,-93.3365402222	
+11/28/02 10:30	St. Cloud (south of)	MN	Other	~1 minute	Large, black, foil / wing flying low over field near highway in dayimte.	12/23/02	45.5658607483,-94.197517395	
+11/28/02 05:00	Coon Rapids	MN	Light	1 HOUR 15 MINUTES	FOLLOWED IN VEHICLE BY A BRIGHT LIGHT RESEMBLING A STAR	12/23/02	45.1730918884,-93.304397583	
+11/7/02 19:40	Saint Cloud	MN	Chevron	20 seconds	Dimly lit Boomerang shaped object in St. Cloud, Minnesota	6/4/04	45.5658607483,-94.197517395	
+10/15/02	Hancock	MN			last fall in late oct. i was going to work and noticed a depression in a cattail slough. a week later went out to look at it the cattai	3/21/03	45.49792099,-95.7953414917	
+10/14/02 01:22	Savage	MN	Triangle	10 seconds	Silent delta-shaped object seen in Savage, MN against clear October night sky.	10/15/02	44.7648086548,-93.3546676636	
+10/6/02 23:00	Corcoran	MN	Light	1-2 minutes	disapearing light	10/15/02	45.1027908325,-93.5429916382	
+10/5/02 10:15	Duluth	MN	Cross	seconds	red lights in cross formation traveling east.	10/15/02	46.7879600525,-92.0998535156	
+9/28/02 23:00	Lake Kabetogama	MN	Triangle	15 seconds	My 2 friends and I were star gazing in the southern sky,almost straigt above, when we all witnessed that looked like 3 satelites moving	10/15/02	48.4886894226,-93.0238265991	
+9/20/02 02:00	Columbia Heights	MN	Triangle	5-6 Seconds	Triangle shaped object traveling east to west approximately 45 degrees above northern horizon.	4/27/04	45.0409584045,-93.2569732666	
+9/3/02 22:30	Willernie/Stillwater	MN	Other	30 minutes	We saw two balls of light aimed at each other and after they passed each other one dissappeared, the other stayed and changed colors.	9/6/02	46.3491096497,-94.1983184814	
+9/2/02 00:00	Owatonna	MN	Formation	3 sec.	White triangler formation	9/6/02	44.0933799744,-93.2293777466	
+8/19/02 20:30	Mankato	MN	Cigar	15 minutes	bright objects in the sky that two us aircraft went over to investigate	8/28/02	44.1674003601,-94.0024108887	
+8/13/02 09:45	Roseville	MN	Disk	20 minutes	Saw saucer shaped object hovering with shooting red lights, would shoot around and then instantly stop.	8/28/02	45.0215797424,-93.1492919922	
+8/10/02 22:45	Aitkin	MN	Formation	10 sec.	Triangular light formation, tree top height above my head in Aitkin Mn	11/2/04	46.5333786011,-93.7073669434	
+8/5/02 01:25	Lutsen	MN	Unknown	~2 minutes	Strobing Satellites ?	8/16/02	47.6498184204,-90.6675033569	
+6/25/02 03:00	Waconia	MN	Light	30 sec	I saw an alien	7/26/02	44.8477210999,-93.7891616821	
+6/5/02 10:20	North St. Paul	MN	Sphere		Visible by naked eye	6/12/02	45.0114898682,-92.9935379028	
+5/31/02 23:00	Rochester	MN	Light	1 minute	There were 2 erratic moving lights in the sky.	6/12/02	44.0193481445,-92.4591522217	
+5/21/02 15:30	Ely	MN	Cigar	1 hour	it was a orange cirgar shaped thing that we saw in the bwca in mn.	7/26/02	47.9032211304,-91.8632507324	
+4/12/02 22:00	Lonsdale	MN		1.5 hours	At 10 PM my wife observed a light in the southwestern sky that was odd because it was moving erratically. I joined her on the deck and 	4/25/02	44.4805717468,-93.4305267334	
+3/23/02 21:45	Harmony	MN	Fireball	5 minutes	We saw a bright red orange flickering fireball moving slowly for 5 to 7 minutes then flames falling down it then it disappeared.	4/8/02	43.5528182983,-92.010017395	
+2/18/02 04:16	Burnsville	MN	Formation	seconds	5 or 6 faint red dots in a strange formation heading east	2/22/02	44.7658500671,-93.274772644	
+2/15/02 21:05	Minneapolis	MN	Light	4 seconds	Flying from west to east nearly straight up from my location. Three dots in a string apearing to follow each other. Caught my Eye while	3/19/02	44.9790306091,-93.2649307251	
+2/13/02 13:45	Sandstone	MN	Rectangle	5 min.	It is very hard to explain	2/22/02	46.1309890747,-92.8670272827	
+12/8/01 14:32	Bemidji	MN	Triangle	6 minutes	Black, triangle, split into 4 smaller triangles, speed/shape of normal aeroplane.	1/11/02	47.4731407166,-94.8796463013	
+12/1/01 22:26	St. Peter	MN	Light	15 seconds	object with trail behind it slowly moves across sky to north and then abruptly shoots off in its continuing direction to the north.	12/5/01	44.3267593384,-93.9577484131	
+11/26/01 22:05	Minneapolis	MN	Light	5 seconds	Minneapolis-two flashes of robin egg blue lightening behind clouds, leaving sky lit a little lighter in that area for 45 minutes after.	12/5/01	44.9790306091,-93.2649307251	
+11/23/01 22:30	Monticello	MN	Sphere	1 minute	driving home and a ufo passed me and i stopped and it sped away	12/5/01	45.305141449,-93.7945709229	
+11/19/01 23:45	Maplewood	MN	Other	7-10 seconds	5 Bronze colored, elliptical shaped objects in (
+	11/20/01	45.006401062,-93.0239105225	
+11/18/01 04:20	Fergus Falls	MN	Other	2-3 minutes	V-shaped pattern of faint reddish lights	11/20/01	46.2786216736,-96.0723876953	
+11/15/01 21:00	St. Paul	MN	Unknown	8-10 seconds	Observed was a black boomerang/triangle shaped going east at approximately 500 miles an hour with no lights on at all.	11/20/01	44.9438209534,-93.0933227539	
+11/14/01 20:45	Lake Elmo	MN	Chevron	5 minutes	5 mi sighting of a soundless chevron craft with six lights as bright as those on a baseball field .	1/11/02	45.0040893555,-92.8797836304	
+10/21/01 14:00	Mound	MN	Other	1 minute	large boeing 747 followed by two smaller craft.	11/20/01	44.9347305298,-93.6586074829	
+10/14/01 20:45	Lake Elmo	MN	Chevron	5 minutes	Six lights as bright as  staium lights on chevron shaped object hovering over grove of trees.6	1/29/02	45.0040893555,-92.8797836304	
+10/13/01 19:55	Minneapolis	MN	Light	10 seconds	Very bright star disappearing quickly (10sec)	11/20/01	44.9790306091,-93.2649307251	
+10/4/01 16:00	Minneapolis	MN	Oval		a medium sized round metallic object that was suspended motionless at about 100 or so feet in the air	11/20/01	44.9790306091,-93.2649307251	
+9/21/01 08:40	Willmar	MN	Disk	12-15 seconds	FORMATION OF DISKS SHOOT ACROSS THE SKY .	3/19/02	45.120639801,-95.0544891357	
+9/11/01 06:00	Hawley	MN	Cigar	
+	cigar streaking across the sky eastward	2/24/07	46.8803596497,-96.3150405884	
+9/10/01 20:15	Duluth	MN	Light	.5	f-16's chasing light!	10/12/01	46.7879600525,-92.0998535156	
+8/30/01 23:10	Owatonna	MN	Unknown	20 min plus	Located in western sky. Not moving. Appears like a large star, but many different colors. Viewed with the binoculars, blues, greens, re	10/12/01	44.0933799744,-93.2293777466	
+8/28/01 22:30	Knife River	MN	Triangle	34-45 sec	Triangle Lights over Lake Superior, MN, Aug 2001.	7/10/10	46.9583396912,-91.7947235107	
+8/21/01 04:00	Ely (about 40-50 miles outside)	MN	Light	a minute or or two	While canoeing at 3:30 AM we saw a blinking light in the sky similar to that of an aircraft. Suddenly it lit up & sped away	11/20/01	47.9032211304,-91.8632507324	
+8/18/01 22:30	Barnum	MN	Circle	5 minutes	BRIGHT CIRCULAR UFO THAT HOVERS OVER CARLTON COUNTY MINNESOTA	9/19/02	46.5023612976,-92.6927719116	
+8/18/01 22:13	Wrenshall	MN	Triangle	1 hour	Triangular shaped ufo which darted quickly across the sky near duluth MN, but then remained stationary for a half hour.....	8/20/01	46.6162109375,-92.3854293823	
+8/12/01 20:32	New Ulm	MN	Light	20 sec	My son and I were standing out on the deck looking to the northeast at about a 10 o'clock position when we saw a very bright light goin	8/20/01	44.3122215271,-94.4611129761	
+8/11/01 22:50	Ivanhoe	MN	Light	20 seconds	Looked like a star... only moving quickly across the sky.	8/20/01	44.4601287842,-96.2574996948	
+8/6/01 03:25	Albert Lea	MN	Light	5 Min	Light moving very slowly to the west, then at a 45 degree angle, shot out of sight.	8/12/01	43.6473312378,-93.3687133789	
+8/1/01 16:30	Sandstone	MN	Cigar	2min. or so	I saw a light in the sky that disappeared in front of my eye.	12/23/02	46.1309890747,-92.8670272827	
+7/28/01 22:55	New Ulm	MN	Triangle	15 sec	I was standing out on the deck, when I saw 3 round steady buring lights that were a pale orange in color. There appeared to be 1 on eac	8/5/01	44.3122215271,-94.4611129761	
+7/23/01 03:30	St. Paul	MN	Light	1 hour	Twelve star-like objects viewed in random patterns over St. Paul, Minnesota	8/5/01	44.9438209534,-93.0933227539	
+7/22/01 03:00	St Marys Point	MN	Formation	aprox- 15 sec.	Two white lights,one infront of the other flying at the same ROS from West to East on 7/22/01 between 3 -3:30 am. no sound,no strobes.	8/5/01	44.9146118164,-92.772819519	
+7/15/01 13:00	Hugo	MN	Light	35 minutes	hovering lights that seemed to follow us around	11/20/01	45.1621894836,-92.9925765991	
+7/7/01 23:00	Poposky	MN	Unknown	40 min	me and my girlfriend were traveling north on hwy 89 leaving bemidji mn going to redlake mn and the sky was dark you could not see any s	9/4/03	47.6828804016,-94.8885116577	
+7/2/01 03:00	Greenfield	MN	Oval	long time	early this morning while it was still dark, i woke up and from my window, i saw amyriad of lights in the northeast.  it looked like a h	8/5/01	45.0820083618,-93.6759872437	
+6/30/01 22:00	Minnesota (unspecified location)	MN	Light	5-6 sec.	Bright light covering the whole sky. Lasted for about 6 or so seconds. Somewhere out in the far country of MN.	10/30/06	44.5931587219,-93.8714981079	
+6/29/01 23:15	Gheen	MN	Unknown	1-3 minutes	I WAS SITTING IN MY YARD AND NOTICED IN THE SOUTHERN SKY AN OBJECT THAT APPEARED TO BE A STAR BUT WAS MOVING TO THE NORTH AT A HIGH RAT	8/5/01	47.9679603577,-92.8073196411	
+5/18/01 23:50	St. Paul/Minneapolis	MN	Unknown	Minutes	Glowing orange UFO sent out sparks from bottom and later split in two and disappeared.  In sight for several minutes.	8/5/01	44.8797187805,-93.1997375488	
+5/18/01 21:34	Mounds View/Blaine	MN	Rectangle	8 Minutes	5/18/01 Minnesota sighting of unusual object which ejected at least 3 others before splitting in two and disappearing.	1/11/02	45.1038398743,-93.2100524902	
+5/15/01 01:00	Alden	MN		UNKNOWN	3 circles in hay field	7/8/04	43.6724510193,-93.5752410889	
+4/29/01 22:20	Moorehead	MN	Light	5 Minutes	Two lights to become three, a rescue mission?	8/5/01	46.875038147,-96.7716598511	
+4/25/01 21:35	Roseau	MN	Light	1 minute	It looked like dissapearing satellites	4/28/01	48.8444213867,-95.7683563232	
+4/4/01 16:00	Eden Prairie	MN	Circle	3 minutes	2 red illuminated objects "zig zagging" in the day lit sky over a heavily populated area, 3 minute sighting.	4/28/01	44.8586616516,-93.4601287842	
+4/3/01 11:53	Isanti	MN	Teardrop		we were just walking along the highway whean we saw 11 tear drop shapes hovering above us it had a lot of light on the sides of them th	4/28/01	45.4930114746,-93.2573471069	
+4/1/01 21:00	Stillwater	MN	Triangle	3-5 minutes	About two weeks ago my wife and I (living in Stillwater, MN) were driving to our new apartment. In fact it was the first night we were 	12/5/01	45.0567016602,-92.8105697632	
+4/1/01 19:05	Stillwater	MN				12/5/01	45.0567016602,-92.8105697632	
+3/28/01 01:35	Mahnomen	MN	Oval	0ne minute to a minute an	150- 200 feet away from object !!	8/5/01	47.3178215027,-95.9654693604	
+3/26/01 04:40	Minneapolis	MN	Light	1:00 minute	We were at FL330/33,000ft ((deleted)) bound ((deleted))-Chicago 3/26/01 @ 0440 Central Time.	4/28/01	44.9790306091,-93.2649307251	
+3/15/01 21:00	Frontenac	MN	Unknown	15 sec	Soundless fast moving craft with red pulsing light on bottom	2/1/07	44.5267715454,-92.3300628662	
+3/15/01 06:38	Minneapolis	MN	Changing	2-3 minutes	Dark object  seen in early morning sky , vanishes.	3/16/01	44.9790306091,-93.2649307251	
+3/5/01 21:30	Duluth	MN	Triangle	5 min	Aurora type of craft seen	1/11/02	46.7879600525,-92.0998535156	
+2/25/01 01:16	Plymouth	MN		very brief	One beam of light that was bright white, covered the whole sky as far as the eye could see, followed by another bright white flash	3/6/01	45.0188102722,-93.4757995605	
+2/10/01 03:25	Zimmerman	MN	Triangle	1-2 minutes	two triangular crafts emitting a blue-silver light that "danced" in the sky before zooming eastward.	2/24/01	45.4433288574,-93.5927734375	
+1/8/01 21:00	Crookston	MN	Other	2 secs	At approx 2100 hrs. local I was southbound on US Highway 75 approx 8 miles north of Crookston, MN. I was heading almost due south. I no	2/18/01	47.774230957,-96.6064529419	
+1/5/01 22:00	St. Paul	MN	Light	30 seconds	small airplane like, light, all of a sudden turn hugh and then speed off like a shooting star.	2/18/01	44.9438209534,-93.0933227539	
+1/5/01 18:50	Cotton	MN	Unknown	1 minute	A stationary red light accerated incredibly fast  and changed to orange color  and traveled  away at a high rate of speed	2/18/01	47.1692504883,-92.4766387939	
+12/23/00 16:30	Zumbrota	MN	Cigar	30 sec.	Silver cigar shaped object travelling low, and at great speed on US 52 in SE Minnesota.	1/17/04	44.289478302,-92.669128418	
+12/18/00 07:00	Loon Lake	MN	Changing	10min.	One Loony Lake you might want to fish!	12/20/00	45.1105957031,-92.8391799927	
+12/10/00 03:30	Mankato	MN	Other	45sec	Four dim lights in a row, flew over my head. One object or four seperate objects	10/30/06	44.1674003601,-94.0024108887	
+12/5/00 19:40	Brooklyn Park	MN	Triangle	1 minute	2 people witnessed a large, low flying, triangular object with 3 dim, non-blinking lights moving to the North East.	12/9/00	45.1088905334,-93.3485717773	
+11/28/00 21:30	Edina	MN	Circle	3 minutes	round, bright white light that changed into orange	12/2/00	44.9116287231,-93.3482208252	
+11/16/00 23:54	Vining	MN	Oval	long time probably overni	It was a green oval object that just sat in the water I'm not sure if it was on top of the water or just sitting under the lake of east	12/2/00	46.2631607056,-95.5366363525	
+10/23/00 00:00	White Bear Lake	MN	Triangle	10 minutes	During a latenight party a group of twenty witnessed a peculiar gathering of a fleet of pyramid shaped craft at midnight.	12/2/00	45.0826911926,-93.0123062134	
+10/9/00 23:35	Minnetonka	MN	Changing	30 to 40 sec.	I have a mini web site attached with my signature that is 3 pages, containing 30 images of UFO"s videtaped by myself, with a sony 8m/m	4/28/01	44.9400596619,-93.4673233032	
+10/4/00 22:45	New Brighton	MN	Disk	0.1	Flying Saucers Over Lake in St. Paul!	3/6/01	45.0632400513,-93.1931228638	
+9/26/00 13:00	Jordan	MN	Cigar	2 minutes	It was cigar shaped with a fin shaped tail it was very quiet it was silver and then changed to blue	12/2/00	32.7705116272,35.6025543213	
+9/24/00 09:00	Saint Paul (west)	MN	Disk	Stillwater	Well me and my dad were coming back from our lake.  Then my dad said "look up there" and when I looked up there was a space ship! Well 	4/28/01	44.9438209534,-93.0933227539	
+9/23/00 20:25	Rosemount	MN	Triangle	1 minute	A craft that blew are minds	12/2/00	44.7391891479,-93.1242904663	
+9/21/00 04:00	Dent	MN	Light	2 1/2 hours	Very bright light plus red and green lights in southeastern sky - seen for 2 1/2 hours, then moved off south.	12/2/00	46.5539588928,-95.7167205811	
+9/20/00 22:57	Marshall	MN	Triangle	5 SECONDS	A flattened out "V", made up of many pinpoints of light glided silently, smoothly, but quickly over-head	9/21/00	44.4490089417,-95.7916717529	
+9/10/00 21:10	Hermantown	MN	Triangle	5 minutes	my feiance and I were driving home from a weekend out of town. We were driving south on hwy 53 just north of hermantown minnesota..When	9/17/00	46.7786483765,-92.2116317749	
+9/1/00 22:00	Pipestone (20-30 miles north of)	MN	Triangle	5-10 minutes	silent low flying "cloaked" Triangle in Minnesota/South Dakota	10/15/02	43.9941291809,-96.3171005249	
+8/31/00 20:43	Columbia Heights	MN	Other	6 seconds	It was reddish and had rays comming out of it like when you look at the sun.	9/17/00	45.0409584045,-93.2569732666	
+8/23/00 18:30	Duluth	MN	Formation	5 min.	Unexplained lights over Lake Superior	10/27/04	46.7879600525,-92.0998535156	
+8/22/00 21:45	Wabasha	MN	Flash	15 sec	The rate of speed and no sound	8/25/00	44.3810005188,-92.0346221924	
+8/21/00 01:38	Blaine	MN	Changing	3to 4 minutes	4 shapeshifting craft checks out humans...	12/2/00	45.1660118103,-93.208732605	
+8/20/00 21:00	White Bear Lake	MN	Unknown	10 minutes	2 flashing lights in the sky, circle counter clockwise one on right goes behind moon and they moved away from each other	6/4/04	45.0826911926,-93.0123062134	
+8/8/00 22:25	Shorewood	MN	Sphere	5 minutes	Orange Orb seen flying around town in Minnesota.	8/19/00	44.8993415833,-93.5892562866	
+8/5/00 23:55	LeSueur	MN	Light	4.5 to 5 minutes	Saw 3 satellite-like objects move from Big Dipper to SSE part of sky in varying formation over about 5 minutes.	9/17/00	44.4619293213,-93.9150314331	
+6/30/00 22:40	St. Paul	MN	Circle	5 minutes	Bright White light in Orbit. suddenly dimmed in brightness. flew southwest to northeast, Witnessed By 2 people.	7/11/00	44.9438209534,-93.0933227539	
+6/29/00 21:00	Minneapolis	MN	Sphere	4 seconds	Light over minneapolis	7/11/00	44.9790306091,-93.2649307251	
+6/21/00 23:15	St. Peter (outskirts of)	MN	Circle	1min	Bright yellowins green extrmely fast cirular object leaving a light trail as it traveled upward out of sight	7/11/00	44.3267593384,-93.9577484131	
+6/15/00 18:30	Chanhassen	MN	Disk	5 seconds	I saw a quick glimpse of two dark orange sandy colored saucers probably about 20 feet each in diameter.	7/1/02	44.8632011414,-93.5379104614	
+6/15/00 02:00	Oakdale	MN	Circle		I couldnt really see because it was at night but it was a round shape and it looked as tho it was flying under an airplane or following	2/22/02	44.9720191956,-92.9644699097	
+6/9/00 23:00	Circle Pines	MN	Light	15 sec.	flaring white light	2/18/01	45.1435394287,-93.1547012329	
+6/8/00 01:00	Ely	MN	Diamond	1 min	We were camping in the Boundary Waters Canoe Area on Basswood Lake near Ely, Minnesota.  That particular evening we fished until 11:00p	7/11/00	47.9032211304,-91.8632507324	
+6/7/00 21:30	Ely (Boundary Waters CA)	MN	Light	3 minute	Unusual light over the Boundry Waters	3/4/08	47.9032211304,-91.8632507324	
+5/15/00 22:50	Shakopee	MN	Fireball	5 Sec	Fireball that changed course	10/12/01	44.7980804443,-93.5266571045	
+5/15/00 22:00	Virginia	MN	Other	30secs	These objects were well lit of gold colors, in the shape of a boomerang, or a batwing. from the size of a double fist to a little large	6/6/00	47.5227394104,-92.5329666138	
+5/13/00 23:30	Randall	MN	Triangle	5 min.	Large dark triangle against the clouds with deep orange/yellow lights on two of the three sides.	6/6/00	46.0903892517,-94.5015792847	
+4/13/00 20:00	Waite Park	MN	Light	30 seconds	A bright light was seen in the sky that remained stationary.  We lost track of it and then noticed a similar light in the northern sky.	4/26/00	45.5535888672,-94.2267684937	
+3/21/00 21:00	Duluth	MN		5 - 7 seconds	Pulsating star-like object described a semi-circle around the middle star of the handle of the Big Dipper and then vanished. No object 	4/1/00	46.7879600525,-92.0998535156	
+3/6/00 22:20	Hugo	MN	Light	30 seconds	Me and my friend witness a bright blue light moving rapidly across the sky. It moved across 60 degrees of the sky approximately, then d	3/7/00	45.1621894836,-92.9925765991	
+2/15/00 19:11	Barnum	MN	Teardrop	00:05	I had been driving home from work and I seen lights rotating.  I stopped and backed up to get a better look.  While backing up the UFO 	2/23/00	46.5023612976,-92.6927719116	
+2/1/00 23:00	Babbitt	MN	Other	8-10 minutes	Opaque white beams of light that repeatedly  hit a lamp, turning it on and off...	10/31/03	47.7144889832,-91.9503936768	
+1/16/00 18:00	Becker (approx. 5 miles W of, on Hwy 10 towards St. Cloud)	MN	Triangle	10sec	Traveling east along Hwy 10 around dusk, triangular craft spotted between Hwy and power plant.	2/16/00	45.3935317993,-93.875869751	
+11/16/99 23:15	Woodbury	MN	Rectangle	4-5 hours	I saw 4 craft floating in the sky in and near the constellation Ursa Major. They remained there for quite some time and then sped off.	11/17/99	44.9198684692,-92.940612793	
+11/16/99 18:05	Apple Valley	MN	Circle	30 second	Slow moving light very simular to airplane landing light with long trail of red sparks.	11/17/99	44.7427482605,-93.2175827026	
+11/16/99 17:15	Winona	MN	Fireball	5 Min.	Appeared to be a plane crashing leaving a smoke trail.	11/17/99	44.0512886047,-91.6385879517	
+11/15/99 07:45	Minneapolis/St. Paul	MN	Cylinder	10-15 min	Small Cylinder seen in absolutely clear sky in morning. Heading north on Hwy 35w. No other objects in sky whatsoever.	4/15/00	44.8797187805,-93.1997375488	
+10/21/99 03:45	Lakeville (south of Twin Cities about 15 miles)	MN	Light	2 1/2 hrs	Light with green flashing light on bottom, east of me about 10 o'clock position over next county, noticed while trying to view northern	11/2/99	44.6570091248,-93.242729187	
+10/12/99 23:00	Little Falls (North of)	MN	Formation	1 hour	Two bright amber lights. About 300 to 500 feet up. One slightly lower.	11/17/99	45.977180481,-94.3707962036	
+10/12/99 21:33	Minnesota (central, rural)	MN	Chevron	90 seconds	observed two chevron crafts hovering 225 & 300 feet. aprox. 500 feet from my location. They were directly to my west, and also observed	10/19/99	44.5931587219,-93.8714981079	
+10/8/99 23:15	Detroit Lakes (18 miles east of)	MN	Triangle	2 minutes	Triangular Formation of 3 lights moving at the speed and appearance of satelites.The center blocked out stars as it moved from West/NW 	10/19/99	46.819480896,-95.8452377319	
+10/5/99 20:35	Rosemount	MN	Triangle	5 seconds	I observed 2 rather small, dimly-lit long, triangular shaped objects flying in formation heading north at a rater low altitude at somew	1/7/00	44.7391891479,-93.1242904663	
+10/4/99 03:00	Rochester (MN)/to LaCrosse (WI)  (driving)	MN	Light	2+ hours	Bright lights in the sky witnessed from highway	10/19/99	46.3491096497,-94.1983184814	
+9/22/99 23:45	Maple Grove	MN	Oval	45 seconds to one minute	It hovered above us for about 1 minute without a sound and then took off.	3/6/01	45.0982894897,-93.4430999756	
+9/15/99 18:50	Minneapolis	MN	Circle	1/0 of a second?	Two witnesses to a large unidentified craft that moved but made no sound.	9/21/00	44.9790306091,-93.2649307251	
+9/11/99 23:00	Jordon (Minneapolis)	MN	Light	5 min	Satalite looking object, changed direction,stopped	10/19/99	44.8436126709,-92.9079589844	
+9/10/99 22:00	Cotton	MN	Triangle	5 seconds	I was sitting on my deck and the craft came over.  It was an inverted V shaped craft.  It took about 5 seconds to fly over. There was n	12/16/99	47.1692504883,-92.4766387939	
+9/6/99 00:40	Minneapolis	MN	Unknown	:02	Fast moving blue-white light.	9/12/99	44.9790306091,-93.2649307251	
+9/5/99 20:50	Zumbrota	MN	Circle	3-4 seconds	Two circular shaped objects came from the north, northwest and flew at a 45 degree angle to eachother.  They kept the same distance apa	10/2/99	44.289478302,-92.669128418	
+9/1/99 21:00	Coon Rapids	MN	Triangle	8-10 seconds	Large boomerang shaped invisible object blocked starlight while flying across sky	1/10/09	45.1730918884,-93.304397583	
+8/29/99 22:00	Bloomington (East Bloomington)	MN	Triangle	Several Days at the same 	This seemingly craft has been hanging around here all summer!  But tonight it came closer and we could see three lights in the shape of	9/12/99	44.8204917908,-93.3063583374	
+8/20/99 23:00	Minneapolis	MN	Sphere	3mins	Two bright Spherical shapes chasing each other at high speed	9/12/99	44.9790306091,-93.2649307251	
+8/16/99 23:00	Grand Marais	MN	Sphere	14-16 minutes	In late August, 1999, my wife and I were staying at a cabin on the ridge overlooking Lake Superior just outside Grand Marais, Minnesota	1/31/11	47.7504005432,-90.3351135254	
+8/15/99 22:00	Little Falls	MN	Light	20 seconds	I was walking a dog with my cousin in Little falls, MN atw about 10:00 p.m.  On our way back I looked up at the sky for no reason as di	3/16/00	45.977180481,-94.3707962036	
+8/5/99 19:00	Northfield	MN	Egg	10 min.	they buzzed over hyw.35 and stoped over my appartment building and then they rose up into the clouds and vanished.	8/10/99	44.4496002197,-93.1537628174	
+8/5/99 10:30	Cannon Falls	MN	Unknown	30 minutes	I'm not sure what I saw, could be satelites, maybe?	8/10/99	44.5076293945,-92.9057388306	
+8/4/99 02:50	Camp Ripley (rural, just west of)	MN	Formation	1 hr. or so.	Two hovering amber lights, one slightly below the other, fixed in place; and occasional bright blueish/green flashes.	8/30/99	46.0712509155,-94.3280792236	
+7/31/99 00:30	Akeley	MN	Triangle	32 minutes	ENCOUNTERED UFO THAT APPROACHED WITHIN 50 FEET, WAS 30 FEET WIDE AND REMAINED FOR OVER 30 MINUTES.	6/4/04	47.0042381287,-94.7261886597	
+7/20/99 03:00	Minneapolis	MN	Disk	2 min	investigated light.  saw object moving toward me. circular not a helicopter.  Saw two occupants through "windshield".  Looked human, on	10/2/99	44.9790306091,-93.2649307251	
+7/2/99 12:00	St. Paul	MN	Other	5-10 seconds	I ran across your web site and will relate my experience, I was driving to the post office with my monthly mail and this would usually 	7/11/00	44.9438209534,-93.0933227539	
+6/24/99 16:35	Minneapolis	MN	Light	10 minutes	From 4:35 p.m. to 4:45 p.m. on 6/24/99, Minneapolis, MN 55454, on Washington Avenue ("7 Corners"), I saw in the north sky a bright whit	7/5/99	44.9790306091,-93.2649307251	
+6/1/99 01:00	Breckenridge	MN	Disk	2:00 min	We seen it realy close over our us ,I panic because over me was a ufo that I would read in fiction books....	12/12/09	46.2633895874,-96.5886993408	
+4/24/99 00:30	St. Peter	MN	Triangle	15 sec	Two triangles with lights in the corner traveled east to west at high velocity towards eachother and then disapeared.	5/24/99	44.3267593384,-93.9577484131	
+4/23/99 02:33	Wanamingo	MN	Triangle	1 minute	Three light figure no noise.	8/16/02	44.303730011,-92.7907714844	
+4/2/99 22:30	St. Louis Park	MN	Egg	3 minutes	Basketball size object,metallic,flying down street than into a park.	4/26/99	44.9484786987,-93.3433914185	
+3/23/99 03:00	Plymouth	MN	Oval	2.0 hours	Iobserved an object changing colors and moving in a manner inconsistent with anything i've ever seen. I woke my wife and asked her to l	4/2/99	45.0188102722,-93.4757995605	
+3/22/99 03:30	Hikilki	MN	Oval	jkjk	((HOAX)) corn fell over	3/10/11	46.3491096497,-94.1983184814	
+1/11/99 02:45	Gilbert	MN	Circle	2 mins	this is the forth or fifth time i have seen the green balls in sky at number of locations in northern mn green circle glowing brightly 	2/16/99	47.4909095764,-92.4630432129	
+12/22/98 12:00	East Bethel	MN	Unknown	5 minutes	Well, i just recently looked at a picture that was taken late last year.  Now, I don't know if it's a jet, or a ufo.  i was hoping some	11/17/99	45.3704109192,-93.2158813477	
+11/23/98 18:05	Coon Rapids	MN	Oval	3-4 seconds	Oval object flying down at 45 degree angle with stream of light following	1/10/09	45.1730918884,-93.304397583	
+11/4/98 20:30	Plymouth	MN	Fireball	2 sec	Bright green fireball with long tail seen plummetting from overhead towards the Northwest.  Seemed to fall to earth, and not continue o	11/19/98	45.0188102722,-93.4757995605	
+10/28/98 20:35	observer enroute on MN hwy 61 north	MN	Sphere	5 seconds	skies o/cast. Objt. had app. of a meteor but w/ distinct green color. Initially dismissed as meteor	11/1/98	46.3491096497,-94.1983184814	
+9/3/98 10:30	Rochester	MN	Cigar	30 seconds	Long silvery object spotted in sky.	9/26/98	44.0193481445,-92.4591522217	
+8/28/98 05:45	Minneapolis	MN	Sphere	1 minute	Object just sat in the air glowing brightly, then dimmed.  There seemed to be no pattern to it.	11/1/98	44.9790306091,-93.2649307251	
+7/20/98 21:00	Callaway	MN	Fireball	? maybe 10 min.	Red Large Fireball flying up from earth	9/28/03	46.9819107056,-95.909286499	
+7/15/98 01:00	Minneapolis	MN	Disk	10 seconds	I saw a disk hovering above some suburbs with a light shinning down below before disappearing in a streak of light.	10/8/07	44.9790306091,-93.2649307251	
+7/5/98 23:30	Cook	MN	Light	seven to eight minutes	a point of light which flew zig-zags, loops and back and forth over an area of minnesotas north woods.  it was nearly midnight.	12/2/00	47.8492584229,-92.6866912842	
+7/5/98 01:00	Boundary Waters	MN	Egg	10 minutes	blueish/orange football size object over fishing spot- no sound	8/5/01	46.3491096497,-94.1983184814	
+7/5/98 00:00	Lake Vermillion	MN	Disk	1 1/2 hours	Massive craft seen for an hour	6/12/02	47.1767120361,-93.8665542603	
+6/20/98 07:00	Morris	MN	Egg	00:20	UFO in morning sky...jets following	4/26/99	45.5864295959,-95.9144515991	
+5/16/98 21:45	Andover	MN	Light	7 minutes	my brothers and i thought we were looking at a shooting star that started moving in diferent directions as it started moving away and g	1/28/99	45.243850708,-93.3061828613	
+5/10/98 19:00	Grand Rapids	MN	Unknown	10 Seconds	Too bright for this earth.	3/2/04	47.2359199524,-93.5275268555	
+4/26/98 21:45	Eagan	MN	Light	5 secs	I glanced skyward and saw an object moving extremely quickly across the night sky. It appeared as two points of light, seperated but tr	1/28/99	44.8180809021,-93.1671295166	
+2/15/98 19:30	Duluth	MN	Flash	60+ seconds	Various colored lights flashing after power surge & failure	1/28/99	46.7879600525,-92.0998535156	
+12/15/97 01:00	Thief River Falls	MN	Disk	10 seconds	BRASS  UPSIDE  DOWN CUP AND SAUCER. GREEN AND WHITE LIGHTS. ANIMATED OBJECTS MOVING ABOUT.  BUSINESS -LIKE.	2/18/01	48.1191291809,-96.180770874	
+11/28/97 00:45	St. Paul	MN	Fireball	5 secs., max	An orange "shooting star" in the SSE area of the sky.	6/2/98	44.9438209534,-93.0933227539	
+10/25/97 21:45	Minneapolis	MN	triangle	1 minute	A small V of lights moving very quickly from west to east	1/28/99	44.9790306091,-93.2649307251	
+10/10/97 21:00	Austin	MN	Other	1-hour	i was traveling northbound on state highway 105 approximately 8 miles south of Austin MN when an object came down directly above my car	1/28/99	43.6665916443,-92.972328186	
+10/1/97 00:00	Bemidji	MN	Triangle	10 Minutes	In october 1997 my dad and I seen 3 lights in the shape of a triangle tumbling over each other in Bemidji Minnesota.	12/3/04	47.4731407166,-94.8796463013	
+9/16/97 19:00	Minneapolis	MN	Other	1/2 minutes	Morphing Triangle	6/20/05	44.9790306091,-93.2649307251	
+9/15/97 22:00	Foley	MN	Unknown	5 min	strange bright light fades away	8/16/02	45.6643218994,-93.9095611572	
+8/24/97 21:00	Elk River	MN	Triangle	1 minute	it was three green lights in the shape of a tryangle and this took place at night, and these 3 lights flashed and  then it moved to a d	4/22/03	45.3057098389,-93.572052002	
+8/12/97 23:00	Boundary Waters	MN	Oval	30 sec.	Bright blue light appeared across lake then shot off.	9/24/03	46.3491096497,-94.1983184814	
+8/12/97 17:08	Fridley	MN	sphere	5-10secs	While walking from work to car observed a very bright orange shaped object on the just above the horizon.  The object appeared stationa	1/28/99	45.0850982666,-93.2632598877	
+8/9/97 00:30	Bloomington	MN	triangle	5 sec.	Tiangular with rounded edges and blue,red lights on the bottom that were fashing not very brightly.We were coming home from store, stor	1/28/99	44.8204917908,-93.3063583374	
+7/30/97 01:30	Fridley	MN	Fireball	4 seconds	Very large fireball flew over house. No loud noise, just a faint "whoosh" as it passed. Very quick.	2/16/00	45.0850982666,-93.2632598877	
+7/30/97 00:30	Lake Winnibigoshish (North Central MN)	MN	Other	2-3 min	Brite orange glowing object passed overhead.	1/28/99	47.449760437,-94.1725616455	
+7/28/97 23:30	Wayzata	MN	Fireball	6 seconds	Boating on Lake Minnetonka in MN on warm summer night, skies clear, fireball appeared travelling from East to West at about 60 degrees 	11/1/98	44.9714889526,-93.5116577148	
+7/15/97 19:00	Eden Prairie	MN	Other	5 minutes	I saw four silver colored( like when the sun shines on an airplane) capsuale shaped objects that were traveling east to west, very fast	1/28/99	44.8586616516,-93.4601287842	
+7/15/97 03:00	St. Cloud	MN	Sphere	10 minutes	2 orange balls connected with 7 others to become one and fly away at a high rate of speed..	6/12/08	45.5658607483,-94.197517395	
+7/15/97 01:00	Hinckley	MN	Sphere	10 minutes	Girlfriend and I were up in Hinckley, MN at a friend's cabin.  It was a clear sky with very little light polution and a lot of stars. I	2/14/10	46.0179786682,-92.945022583	
+7/4/97 16:00	St. Paul	MN	Sphere	35 seconds	"Chrome" ball over the cliffs of St. Paul	4/28/01	44.9438209534,-93.0933227539	
+6/15/97 21:00	Blaine	MN	Unknown	15-20 seconds	My name is Angie and the other two people with me at the time were my sister and her friend. We were driving back from a town called Ed	12/20/00	45.1660118103,-93.208732605	
+6/15/97 16:00	Eden Prairie	MN	Circle	45mins	White balls in the Sky.	5/15/06	44.8586616516,-93.4601287842	
+6/1/97 03:00	Eden Praire	MN	Triangle	10 sec	Driving north on old hwy 169 from little six casino by anderson lake. wife and i spotted 9 triangle white light in the shape of a trian	3/21/03	44.8586616516,-93.4601287842	
+4/24/97 21:45	New Brighton	MN	Triangle	45 minutes	20-35 triangular shaped craft sighting.Bright flashing lights at corners.	3/7/98	45.0632400513,-93.1931228638	
+2/17/97 22:15	Waseca	MN	Other	1hr30mn	We had seen a Bright light in the sky just NW of Waseca Mn,	6/6/00	44.0780410767,-93.5074234009	
+2/8/97 18:00	Stacy	MN	Unknown	1 to 2 min.	We observed something strange along the freeway with at least 5 strobe lights we thought it was going to crash, but it pulled up at the	9/26/98	45.3961486816,-92.9832229614	
+1/15/97 01:15	Mankato/Lake Crystal	MN	Sphere	about 10 seconds	Two spheres, one silver, the other emerald.  Great speed, seen from 1/4 mile away.	2/12/04	44.166053772,-93.9462585449	
+1/11/97 05:00	St. Cloud	MN	pyramid	2 min.	Right when me and my friend left the my housewe saw a bright green glowing object thatlooked like a 4 sided pyrimid then after about2 m	3/7/98	45.5658607483,-94.197517395	
+12/9/96 23:15	Hastings	MN	Triangle	Approx.15	On the night of December 8th, 1996 at 11.15 pm (central) a triangular shaped object appeared in the sky and hovered in the air for a du	3/7/98	44.7422904968,-92.851890564	
+9/11/96 22:45	Arden Hills	MN	Light		A bright white light was seen in the night sky. It quickly darted over to the north, stopped, and then took off back south and suddenly	3/7/98	45.0791702271,-93.1582565308	
+8/18/96 03:18	Coon Rapids	MN	Other	1 minute	A V shaped craft with amber colored lights that was a big as a football field heading west towards Anoka, Minnesota on August 18, 1996.	12/2/00	45.1730918884,-93.304397583	
+7/30/96 01:30	Winona (about 30miles NW of)	MN	Flash	1-2 min	The lights followed alongside the car	2/22/05	44.0512886047,-91.6385879517	
+7/25/96 01:30	Rush City	MN	Unknown	15-20min	Possible prior sighting similar to 16 Feb 2004 Amityville, NY	3/23/04	45.6847496033,-92.9642562866	
+6/15/96 07:30	Buhl	MN	Rectangle	5 minutes	Saw flying rectangle that reflected sunrise colors	7/28/10	47.4897918701,-92.7724380493	
+4/22/96 03:15	Rochester	MN		45 min.	Woman sees "bnright whitish-gold light" hovering in sky.  Two smaller lights on either side.	11/2/99	44.0193481445,-92.4591522217	
+4/14/96 02:10	Wyoming	MN		45 sec.	Man, 3 neighbors witness "huge" cluster of amber lights pass slowly from SW to NE. Sky crystal clear. Steady pace, no noise.	11/2/99	45.3364486694,-92.9986495972	
+4/14/96 02:05	St. Cloud	MN		1 minute	Man delivering newspapers sees large "trapezoid of very bright amber lights w/ strobes" pass slowly overhead SW to NE.  Silent.	11/2/99	45.5658607483,-94.197517395	
+4/14/96 02:00	Minneapolis	MN			Minneapolis FAA Center repts. calls from MI State Patrol regarding bizarre aerial event over Cheboygan & other nearby towns.	11/2/99	44.9790306091,-93.2649307251	
+2/14/96 21:30	Miltona	MN	Circle	20minutes	Circular object follows car, 4 witnesses.	9/21/00	46.0442695618,-95.2905502319	
+2/14/96 18:30	Parkers Prairie	MN	Circle	20 minutes	UFO chases car 8 miles. 4 witnesses. Several sightings afterward. 500 Lights On Object0: Yes	2/14/10	46.1533203125,-95.3282928467	
+1/15/96 02:30	Hill City	MN	Oval	30 mins	Something odd scared the hell out of me and I swear to god it was real	12/23/02	46.9936485291,-93.5985183716	
+11/10/95 20:00	Embarrass	MN	Disk	1-3 mins	craft sighted hovering over trees in rural minnesota	8/4/03	47.6611289978,-92.1978912354	
+10/2/95 19:50	Farmington	MN		5 sec.	Man witnesses very small, VERY bright light descending rapidly in NE sky.  Approx. 1/10 diameter of moon.	11/2/99	44.6391906738,-93.1443786621	
+8/19/95 01:15	Forest Lake	MN			Man wakes up w/ 2 strange cuts on cheek.  Recalls recurring dream.  Calls sheriff's office. Sends photos of cuts.	11/2/99	45.2819099426,-92.9841995239	
+6/29/95 22:45	Mankato	MN	Other	2-3 min	Ball lightning phenom	7/11/00	44.1674003601,-94.0024108887	
+6/24/95 22:45	Sibley County	MN		5 min.	Older woman alerted by barking dogs.  Sees multiple bizarre, bright, colored spheres floating across farmyard.  2nd sighting.	11/2/99	44.5795288086,-94.232170105	
+5/30/95 04:45	Byron	MN		105 min.	Man witnesses bright obj. in E sky.  It moves "strangely, fast," approached second "star," rose very quickly, disappeared. Alarmed.	11/2/99	44.0326385498,-92.6455993652	
+1/17/95 23:45	Moorehead	MN		30 min.	Man, wife, and two police officers observe two red lights in night sky.  Obj.  followed a small aircraft.	11/2/99	46.875038147,-96.7716598511	
+12/17/94 18:30	Chaska	MN	Oval	3 minutes	Sphere above the horizon, ejecting smaller spheres	11/21/10	44.7871894836,-93.6018218994	
+4/1/94 20:00	Faribault	MN	Fireball	3-4 sec	Observed a green fireball flying 30 ft above and along a river. It flew parallel to the terrain and emitted a long tall w/smoke & spark	1/28/99	44.2946891785,-93.2753829956	
+7/15/93 19:00	Minneapolis	MN	Triangle	1 Minute?	Giant triangle-shaped craft at very low altitude right over North Minneapolis	2/1/07	44.9790306091,-93.2649307251	
+7/10/93 23:45	Little Fork	MN	Other	10 minutes	There was a large bright white steady light that I could see behind the trees. At first I thought it was an airplane, but the light nev	1/22/04	48.5275001526,-92.625	
+5/17/93 22:30	Northfield	MN	Oval	3 - 5 sec.	Oval luminous object traveling north at tremendous speed.  Elongated at exceleration.  Was not transparent.  Sky: unlimited,clear visib	1/28/99	44.4496002197,-93.1537628174	
+2/15/93 01:30	Zimmerman	MN	Light	10 seconds	very long row of red lights above gravel pit horizon	12/7/06	45.4433288574,-93.5927734375	
+9/25/92 21:30	Golden Valley	MN	Flash	2.5 hours	A flashing bright, white light hovered over my neighborhood for over 2 hours.	4/1/00	44.985748291,-93.3787765503	
+7/15/92 01:30	Duluth	MN	Other	
+	luminous orange half-disk winks on then off	1/17/04	46.7879600525,-92.0998535156	
+4/13/92 01:00	Ely	MN	Light	roughly 1 min.	Sattelite objects moving at random across the sky , at speeds never seen before.	12/2/00	47.9032211304,-91.8632507324	
+6/1/91 22:30	South Saint Paul	MN	Triangle	90 seconds	It was huge , black , with lights and totally silent and triangle shaped	5/29/11	44.891330719,-93.0371780396	
+5/20/91 21:00	Northfield	MN	Formation	8 minutes	7 UFOs flying in a train formation seen in Northfield MN, 1991	4/28/01	44.4496002197,-93.1537628174	
+3/1/91 04:30	Minneapolis	MN	Egg	10 minutes	5-6 silver, egg-shaped craft desending one by one at early sunrise on Lake Calhoun in Minneapolis.	6/6/00	44.9790306091,-93.2649307251	
+12/24/90 21:00	Wayzate	MN	Light	15-20	ON CHRISTMAS EVE 1990 MY GRANDPA WAS TAKING ME HOME AFTER A CHRISTMAS PARTY.  AS HE WAS DRIVING HE SAW SOMETHING IN THE AIR.  HE PULLED	3/7/98	44.9714889526,-93.5116577148	
+9/15/90 22:30	Cloquet/Duluth	MN	Triangle	2 minutes	Large triangle object moving slowly West from Duluth, MN	2/24/07	46.7352600098,-92.3104095459	
+7/1/90 22:00	Mankato	MN	Oval	10 minutes	my girfriend and i saw an opaque outline of an oval elongated object with lights foreward, midship and aft dissappear within an instant	4/15/00	44.1674003601,-94.0024108887	
+6/15/90 23:00	Columbia Heights	MN	Unknown	1-2 min.	Something floated by me, no sound, no wind!	9/19/02	45.0409584045,-93.2569732666	
+1/1/90	Minneapolis	MN			Man reports seeing 5x objects connected by "a straight line" sometime during l990.	11/2/99	44.9790306091,-93.2649307251	
+6/10/88 03:00	Eden Prairie	MN	Light	30 Seconds	Woke up at 300 am , compelled to go over to window, bright star light approaches windowshade.	10/30/06	44.8586616516,-93.4601287842	
+6/1/88 19:00	Mankato	MN	Other	10 minutes	black submarine shapes oject at ligh speed and orange blasts	4/27/07	44.1674003601,-94.0024108887	
+2/8/88 00:10	Brooklyn Park	MN	Cylinder	3 min	In Brookyln Park MN, late at night, a silver matalic cylindrical object, floated past our window.	2/14/06	45.1088905334,-93.3485717773	
+1/25/88 04:00	Duluth	MN	Triangle	unknown	In the early morning on a winter day when I was younger, my friends and I had a sleep over, and one of my friends had a paper route, so	11/19/98	46.7879600525,-92.0998535156	
+7/12/87 15:00	White Bear Lake	MN	Disk	20 minutes	True Minnesota Sighting July 1987	12/16/05	45.0826911926,-93.0123062134	
+4/21/87 22:30	Hibbing	MN	Circle	15 min.	we saw a strange light in the sky so we pulled over to the side of the road and watched in amazment as it moved with lighting speed	6/23/99	47.4210510254,-92.9417419434	
+6/1/85 18:00	Bemidji	MN	Triangle	5 seconds	Triangular shaped object seen over rural road	5/15/06	47.4731407166,-94.8796463013	
+6/15/84 19:00	Ely	MN	Diamond	1 hour +	close encounter of the 5th kind (interaction with being from ufo)	12/2/00	47.9032211304,-91.8632507324	
+5/5/84 22:00	Cloquet	MN	Other	1hr55min	Myself, a friend, two 9-yr old children watched a pulsating craft hover over the St.Louis River in Cloquet, just at the edge of town.  	2/18/01	46.7143096924,-92.4810409546	
+5/1/84 20:00	Burnsville	MN	Rectangle	5 mins.	Enormous Rectangle object with rows of red and white lights	6/9/09	44.7658500671,-93.274772644	
+6/15/83 22:30	Red Wing	MN	Triangle	15 Minutes	Triangular UFO in EARLY 1980's...	2/18/01	44.5665817261,-92.5343475342	
+6/15/83 22:00	St. Paul Park	MN	Triangle	1 min	black triangle flew silently overhead at tree top level	2/14/10	44.8469200134,-92.9899902344	
+5/2/83 09:00	Minneapolis	MN	Disk	5'	Un vieux témoignage	4/8/02	44.9790306091,-93.2649307251	
+10/31/82 18:30	Dilworth	MN	Other	1 minute	Older sister and I witnessed 3 orange, glowing, bell shaped shaped objects in northern sky. No sound.	10/10/11	46.8756713867,-96.7017822266	
+8/1/82 19:00	Burnsville	MN	Light	2 min	Small, bright-white light disappears into another larger, diffuse light (at sunset).	10/31/08	44.7658500671,-93.274772644	
+6/1/81 22:00	South St. Paul	MN	Chevron	15-20 mns.	Golden Boomerang Object Circling Above South St. Paul, MN in Early 80s	9/24/03	44.891330719,-93.0371780396	
+6/1/81 19:00	South Saint Paul	MN	Chevron	20 mins	UFO seen above house with no noise and lights and did not hit power lines some how. Unbelivable sight especially as a young kid.	11/21/10	44.891330719,-93.0371780396	
+1/19/81 21:30	Wilmont (south of)	MN	Light	5 to 7 minutes	Coming home from a school event, I noticed a light in the northern sky. It was bright white with red flashes, moving slowly upward...	11/2/99	43.761089325,-95.8282165527	
+9/27/80 21:00	St. Paul	MN	Light	2 hrs	ufo encounter with missing time	4/28/01	44.9438209534,-93.0933227539	
+8/30/80 16:00	Rush City	MN	Unknown	30 minutes	Space suit looking things and object in the woods	8/16/02	45.6847496033,-92.9642562866	
+7/10/80 22:00	Knife River	MN		4 seconds	Day light at night	3/19/09	46.9583396912,-91.7947235107	
+7/4/80 22:00	St. Paul	MN	Oval	30 minutes	Fireworks and UFO, MN State Fair Grounds July 4th late 70's early 80's.	12/12/09	44.9438209534,-93.0933227539	
+6/1/80 18:00	Andover	MN	Disk	20 minutes	I heard a  humming noise, craft hovered for 20 minutes then zipped away about 1/4 mile hovered again then dissappeared.	4/27/04	45.243850708,-93.3061828613	
+9/29/79 10:00	New Brighton	MN	Disk	10 Minutes	A close encounter with some backup.	7/5/05	45.0632400513,-93.1931228638	
+9/25/79 20:30	Cottage Grove	MN	Circle	5 minutes	Saucer shape in city of Cottage Grove,MN seen for 5 minutes	11/28/07	44.8336601257,-92.9532165527	
+6/29/79 22:45	St. Paul	MN	Light	10 seconds	watched a yellow pt of light drop strt down, it stopped at roughly 45 deg l.o.s. to hor. it stopped, hovered a sec or two, then apparen	8/10/99	44.9438209534,-93.0933227539	
+11/21/78 23:45	North Branch (south of)	MN	Rectangle	5 minutes	That thing was not built around here	8/5/09	45.511428833,-92.9793701172	
+8/15/78 13:00	Rochester	MN	Unknown	30 minutes	Streaking white dots	9/29/02	44.0193481445,-92.4591522217	
+6/15/78 18:00	Zimmerman (3 miles east of)	MN	Teardrop	10 minutes	Was it childhood imagination or real?	3/21/03	45.4433288574,-93.5927734375	
+6/15/78 00:30	Appleton	MN	Light	1 hour	I woke up and saw it hovering noiseless over the neighbors horses and the highway. I awoke the whole family	1/11/02	45.2004013062,-96.0211029053	
+8/15/77 01:00	Rockford	MN	Unknown	2+hrs	This is no joke I'm 47 years old have a good business	2/14/08	45.086730957,-93.7353591919	
+8/10/77 21:10	Minneapolis	MN	Disk	1 minute	Saucer Shaped Craft, Late 70's in suburban Minneapolis, around 9pm.  seen at extremely close range of 40 feet	10/31/03	44.9790306091,-93.2649307251	
+5/15/77 23:00	Minneapolis	MN	Unknown	10 min. +	The red and green lights were in a triangular configuration and just hovered above the airport with no sound	4/16/05	44.9790306091,-93.2649307251	
+10/15/76 21:00	Eveleth	MN	Light	10-15 minutes	Lights above Eveleth Mn in mid 70's	3/21/03	47.4605712891,-92.5353622437	
+9/27/76 03:00	St. Paul	MN	Unknown	1 hour or so	Their was a green fog. I saw what appeared to be an oval shaped object wrapped or swaddled in a somewhat goldish, metallic material.	4/27/04	44.9438209534,-93.0933227539	
+9/2/76 03:00	Moose Lake	MN	Disk	5 minutes?	Floating down the light beam	8/5/01	46.4550514221,-92.7612915039	
+7/20/76 05:30	Roseville	MN	Rectangle	15 seconds	Saw something extraordinary	9/1/04	45.0215797424,-93.1492919922	
+7/15/76 22:00	Pine City	MN	Oval	2 hours	stargazers looking at a beautiful sky full of stars on a perfectly clear night, wittness several craft buzzing over Cross lake. One cra	4/26/99	45.8280982971,-92.970451355	
+6/15/76 03:00	Greenbush	MN	Circle	15 min	was wakened to a slowly rotating circular object that  changed colors. Seen by my neighbor at the same time.	7/16/03	48.6996612549,-96.1808013916	
+7/15/75 18:30	Ramsey	MN	Disk	1-2 Minutes	Disk Shaped Craft Hovering over Farm	8/24/04	45.0170402527,-93.0994796753	
+6/30/75 01:00	Fairmont	MN	Cigar	5 minutes	saw an extremely large cigar shaped ship moving slowly and very close to the ground.	6/12/08	43.6521606445,-94.4601135254	
+6/20/75 12:00	Brainerd (near)	MN	Cigar	2 Minutes	This is confirming the sighting from a previous post	1/10/09	46.3531608582,-94.2006912231	
+6/20/75 02:00	Brainerd (near)	MN	Circle	15 minutes	Witnessed three circle of lights, pulsating at times and stationary at first, when moving moved at tremendeous speed and erratic moveme	4/2/99	46.3531608582,-94.2006912231	
+6/20/75 02:00	East Grand Forks	MN	Light	5.sec	Has bothered me for years. I know what I saw. Cannot describe it here. I am 53 now and never will forget it. If you are interested in m	3/19/09	47.9303092957,-97.0241775513	
+6/15/75 20:00	Minneapolis	MN	Triangle	5 minutes	Sighting of triangle object and caveman (yeah, I know--sounds like I am out of my mind, but there were two of us)	4/16/05	44.9790306091,-93.2649307251	
+6/1/75 23:00	Minneapolis	MN	Triangle	4 min	Large trinagular craft spotted over Mpls, MN in 1975	7/5/08	44.9790306091,-93.2649307251	
+1/15/75 16:00	Pipestone	MN	Sphere	5 minutes	1970's sighting of small UFO that hovered, maneuvered, split into two objects, then rejoined and flew off.	4/16/05	43.9941291809,-96.3171005249	
+10/1/74 20:00	Deerwood	MN	Unknown	2 seconds	Sighting 3  An incidence occurred in mid-October, 1974. I picked my son up from wrestling practice in the evening after school. We live	12/7/06	48.5583000183,-96.5916976929	
+7/21/74 22:30	Apple Valley/Burnsville	MN	Disk	Unknown	My background is with the Department of Defense Special Technical Operations. I do not wish to mention which company or location for ob	10/31/03	46.3491096497,-94.1983184814	
+7/15/74 13:00	Vining	MN	Other	5 minutes	The date is approximate as it was long ago, but I'll never forget. I was about 12 years old riding a minibike on a gravel road when an	5/13/03	46.2631607056,-95.5366363525	
+6/20/74 16:00	Minneapolis	MN	Light	2to3minutes	It was a beautiful summer day and me and my close friend were walking my girlfriend home from school we were about 15 years old at the	11/8/03	44.9790306091,-93.2649307251	
+6/15/74 13:00	Austin	MN	Other	2hrs	brilliant multicolored cloudshaped entity (a pulsing cloud of beaming color)	3/4/08	43.6665916443,-92.972328186	
+10/1/73 20:30	North St. Paul	MN	Triangle	Two minutes	Large triangular space craft sighted above North Senior High School' football field, in North St. Paul, MN in early October 1, 1973	7/30/02	45.0114898682,-92.9935379028	
+7/15/72 17:00	Morton (9 miles north of)	MN	Triangle	5 minutes	A triangular craft w/3 lg orange lights silently flew overhead going west to east.  It then sped up and away.	1/7/00	44.5501785278,-94.9875335693	
+7/10/71 18:00	St. Cloud	MN	Light	15seconds	I was 15 at the time, and lived on a farm. Finished supper and walked out of the house to work in the barn. Between the out buidings I	5/24/05	45.5658607483,-94.197517395	
+6/15/70 21:00	Snowbank Lake	MN	Disk	8 minutes	Silver hammered disc shaped object over Snowbank Lake, Minnesota, June 1970	12/12/09	47.9840164185,-91.4194564819	
+8/1/69 22:00	Minnetonka	MN	Light	less than one minute	Large bright white light hovering in minnetonka, mn, summer, 1969	12/23/02	44.9400596619,-93.4673233032	
+7/7/69 23:00	Brainerd	MN	Triangle	20 seconds	While picking up hay bales at night, I saw a triangular shaped object speed through the night sky.	2/18/01	46.3531608582,-94.2006912231	
+7/1/69 20:00	New York Mills	MN	Disk	30 Minutes	30 Minute Encounter with Hovering Saucer 300 Yards Away	11/26/03	46.5177192688,-95.3733673096	
+10/15/68 02:00	Hastings	MN	Triangle	2 minutes	Perfect semi circle vapor trail left as soundless UFO makes a turn-around overhead.	12/2/00	44.7422904968,-92.851890564	
+7/22/68 22:00	Brainerd	MN	Circle	10 minutes	very bright light on surface of lake which traveled very quickly out of sight	3/31/08	46.3531608582,-94.2006912231	
+6/26/68 13:00	Wyoming	MN	Disk	1min	I sent this in the other day tothe national reporting site as well....My brothers and I and other friends have saw ufo's in the area ov	9/4/03	45.3364486694,-92.9986495972	
+6/12/68 02:30	St. Paul	MN	Circle	2 Minutes	Witnessed a silver and round with 2 back high fins UFO when I was 12	10/31/03	44.9438209534,-93.0933227539	
+6/6/68 20:00	Duluth	MN	Disk	2 minutes	a ship hoovered over this police car	12/12/09	46.7879600525,-92.0998535156	
+10/1/67 20:00	Minneapolis	MN	Disk	10 seconds	In October 1967, 2 Disks sited heading north over Minneapolis MN.	4/16/05	44.9790306091,-93.2649307251	
+7/1/67 01:00	Chatfield	MN	Unknown	unknown	No sighting, but strange sounds and flickering lights after midnight.	6/18/04	43.8556785583,-92.188911438	
+6/1/67 06:00	St. Paul	MN	Disk	4 minutes	Fighter Jet chases UFO	2/14/10	44.9438209534,-93.0933227539	
+6/18/66 11:00	Duluth	MN	Disk	15 min	Intell at Winnepeg disembark and debreif all passangers from a NW  727 after a close encounter over Lake Superior.	8/1/03	46.7879600525,-92.0998535156	
+6/1/66	International Falls	MN	Disk	20 min.	2-UFO's wake three/eight yr. old children at different addresses and took control of our minds, emotions, heart and soul!	11/21/10	48.6026000977,-93.4036483765	
+8/8/65 23:10	Minneapolis	MN	Changing	2 min.	A firery ball came from a high altitude at a steep angle in the northern sky. It leveled off and changed to a dome shape with a pulsati	1/28/99	44.9790306091,-93.2649307251	
+7/11/63 20:00	Albert Lea	MN	Oval	6 min	It was a round blue that glowed and moved toward us slow without making any noise.	6/18/04	43.6473312378,-93.3687133789	
+6/15/63 11:30	North St. Paul	MN	Disk	1 minute	Group of three saucer ufos sighted by five children on June 15, 1963 in North St. Paul, MN.	7/30/02	45.0114898682,-92.9935379028	
+6/1/63 22:00	Big Kandiyohi Lake	MN	Light	5 seconds	Two bright white lights that stopped in midair and disappeared over the horizon within seconds	7/5/08	44.9953308105,-94.9452896118	
+10/18/60 00:00	Burnsville	MN		1	No sound, Nothing.....The light that propelled it left a steam.nothing more.I could only see the craft because i could see	11/21/10	44.7658500671,-93.274772644	
+7/1/60 12:00	Stevens	MN	Other		HIDDEN UNDERGROUND MILITARY BASES	2/14/10	47.5266799927,-96.2760467529	
+2/1/60 22:15	St. Paul	MN	Cigar	3 seconds	A cigar-shaped UFO glided down towards the earth at a 45 degree angle, but was lost in the ground clutter.	3/16/00	44.9438209534,-93.0933227539	
+6/23/59 22:00	Minneapolis	MN	Formation	2 hrs	Flying while in the Marine Corps in a AD Skuraider & with a wing man, at apprx 6,000 ft observed Four Red cly objects estimating at 20,	1/17/04	44.9790306091,-93.2649307251	
+6/15/59 08:30	Minneapolis	MN	Other	30seconds	Silver Bullet	12/16/05	44.9790306091,-93.2649307251	
+10/20/58 21:00	St. Paul	MN	Other	2 seconds	A dull-orange craft sped southbound at low altitude and high speed toward the general direction of the airport.	3/16/00	44.9438209534,-93.0933227539	
+10/5/57 19:00	St. Paul	MN	Light	45 secs	A bright light was apparently chased by several military jets.	3/16/00	44.9438209534,-93.0933227539	
+9/10/57 19:15	St. Paul	MN	Disk	five minutes	3 UFO's saucer-shaped with flashing lights landed in field next to me, when I approached took off with great speed.	4/16/05	44.9438209534,-93.0933227539	
+3/22/56 17:30	Hampton	MN	Sphere	minutes	Commuting home from work during an ice storm I encountered a UFO.	5/10/04	44.6105804443,-92.9975662231	
+6/15/55	South St. Paul	MN	Disk	5 hours	Peter: you"ll have to call me for the whole story. it will take too long to write it down. I do not know that muc	1/5/11	44.891330719,-93.0371780396	
+6/1/55 02:00	Bagley	MN	Circle	2 hours	I was 5 years old at the time, family of 4 told they would remember nothing. I managed to break free of the (mind) control just before 	5/24/99	47.5244102478,-95.3985290527	
+8/15/49 00:00	Excelsior	MN	Circle	3-5 min.	large ball of brite light above pine trees lighting up the tops of trees.Almost directly above my father who took one photo.Then object	11/21/10	44.9028205872,-93.5686416626	
+7/15/47 17:00	Minneapolis	MN	Disk	19 minutes	July 1947 around 5 pm I saw a gray disc-like object in the sky which newscaster Cedric Adams mentioned later	4/16/05	44.9790306091,-93.2649307251	
+6/15/47 10:00	Winona (aprox.20 mi.north west of)	MN	Disk	15 sec	2 unmoving round objets side my side like eyes streight overhead above the fiew clouds that drifted under them.	4/2/99	44.0512886047,-91.6385879517	
+09/xx/92 21:30	Golden Valley	MN	Flash	2.5 hours	A strobe light flashed for 2 1/2 hours over a neighbor's house.	5/11/00	44.985748291,-93.3787765503	
+4/1/2001 09:37	Pelican Rapids	MN	Other	less than 3 seconds	i looked up for no apparent reason, and i saw a flash in the sky, it made no sound, it was a bluish color, like a flash of a camera. i 	4/28/01	46.5703392029,-96.0835494995	

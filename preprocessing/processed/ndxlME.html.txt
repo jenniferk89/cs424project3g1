@@ -1,0 +1,460 @@
+DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
+10/5/11 05:10	Lyman	ME	Formation	15 Minutes	Multiple pointed circular shere, void center, very bright, very stable in shape, not moving, very high.	10/10/11	46.4390335083,6.51975107193	
+9/25/11 23:40	Phillips	ME	Light	a few seconds	Very large light moving across the sky, disappearing behind the tree line, followed by a flash of light as if something had exploded	10/10/11	44.8237686157,-70.3407974243	
+9/19/11 22:00	Presque Isle	ME	Unknown	6 hours	5 objects seen in aroostook county sky numerous times!  ((NUFORC Note:  We suspect twinkling stars.  PD))	10/10/11	46.6816101074,-68.01537323	
+9/10/11 21:30	Harrison	ME	Circle	10 minutes	Yellowish/red spheres observed off to the southwest about  9:30 PM on 9/10/11?	10/10/11	44.1101417542,-70.6796188354	
+9/10/11 13:30	Vassalboro	ME	Cylinder	10 sec	Approximately 13:30(130pm)on Saturday September 10,2011 at Vassalboro, ME, about ten miles N of Augusta on the Holman Day Rd.	10/10/11	44.4531402588,-69.6800613403	
+9/1/11 21:00	Bernard	ME	Fireball	1 - 2 minutes	A bright orange fireball traveled very slowly , taking 1 - 2 minutes, from east to west over Bass Harbor before burning itself out.	10/10/11	44.302772522,-68.3737335205	
+8/31/11 20:14	Industry	ME	Light	3Min	Star-like obkect in sky moves silently, and changes directions.	10/10/11	44.6713218689,-70.0240859985	
+8/26/11 22:30	Portland	ME	Formation	10 minutes	4 small red disappearing lights in arch formation	10/10/11	43.6591415405,-70.256652832	
+8/20/11 22:00	Palermo	ME	Light	5-7 minutes	Bright red object traveled slowly across the sky from the southwest to northeast and then disappeared.	8/21/11	44.4134483337,-69.4544906616	
+8/16/11 20:10	Old orchard beach	ME	Formation	3-5 min.	6 slow moving balls of light disappear into a cloud	8/21/11	43.5180702209,-70.3776016235	
+8/13/11 23:00	York	ME	Circle	3 minutes	Round orange object traveling south to north over the ocean	8/21/11	43.1440200806,-70.6511535645	
+8/12/11 21:00	York	ME	Light	23:00	Bright Orange lights over York Beach!	8/21/11	43.1440200806,-70.6511535645	
+8/12/11 21:00	York	ME	Light	23:00	Bright Orange lights over York Beach!	8/21/11	43.1440200806,-70.6511535645	
+8/11/11 02:30	Orr's Island	ME	Unknown	1.5 Hours	Fireball and orbs moving very rapidly at sharp angles	8/21/11	43.7723197937,-69.9672927856	
+8/8/11 23:00	Winslow	ME	Light		Winslow sighting of two white oscilating lights	8/21/11	44.5461196899,-69.6171722412	
+8/7/11 00:41	Winslow	ME	Light	1:41	Odd oscillating white lights above Maine (Sighted in central Maine)	8/7/11	44.5461196899,-69.6171722412	
+7/12/11 01:00	Hartland	ME	Sphere	3 mins	UFOs over Great moose Lake, Maine 7-12-11	7/17/11	44.8836212158,-69.4462966919	
+7/10/11 21:30	York Beach	ME	Circle	10 Minutes	Eight round orange obects observed over York Beach.	8/7/11	43.1718215942,-70.608039856	
+7/7/11 22:15	Harrison	ME	Sphere	10 minutes	Orange Orbs in Western Maine	8/21/11	44.1101417542,-70.6796188354	
+7/5/11 23:45	New Sweden	ME	Triangle	7 minutes	Very bright red light, switching to white, on 3 triangular shapes connect to one form. Hovered over the tree line as well as flew over.	7/6/11	46.9418106079,-68.1262512207	
+7/2/11 09:00	Waterville	ME	Circle	1 minute	Movment in the sky	7/4/11	44.5527915955,-69.6313476562	
+6/21/11 09:00	Saco	ME	Oval	20 min	Saw 5 unidentified large lights with no noise or sound over saco bay. about 937pm.Each one  came from west location then stopped and al	6/27/11	43.4992485046,-70.4444885254	
+6/3/11 22:00	Portland	ME	Light	45 sec - 1 min	Bright orange orb observed flying over Casco Bay from the Eastern Promenade.	6/12/11	43.6591415405,-70.256652832	
+5/21/11 20:51	Orland	ME	Circle	15 mins	I was driving home and saw two light objects low under clouds moving very slowly; then saw six others come out of the clouds.	5/29/11	44.5696792603,-68.7372970581	
+5/7/11 21:30	Charleston	ME	Other	80secs	Two slow moving very bright triangular shaped craft flying over treetops	5/12/11	45.0880012512,-69.0406723022	
+4/15/11 20:00	Belfast	ME	Fireball	10 minutes	bright orange ball of fire in the sky	5/2/11	44.425868988,-69.0079727173	
+3/31/11 20:00	Richmond	ME	Other	15 min	Lights in sky, hoovering like object over house.  ((NUFORC Note:	5/2/11	44.0882911682,-69.8037719727	
+1/29/11 20:31	Dayton	ME	Circle	1-2 seconds	Standing outside facing east, a light green circle passed across the sky from north to south.	1/31/11	44.8110694885,-68.7818527222	
+12/15/10 00:51	Bailey Island	ME	Flash	15 min	Flashing floating light over the Atlantic	1/5/11	43.7338943481,-69.9967575073	
+11/12/10 18:30	Harrison	ME	Triangle	5 mins	DIAMOUND/TRIANGLE SHAPED CRAFT WITH RED LIGHTS ON EACH TIP -HARRISON, ME	2/8/11	44.1101417542,-70.6796188354	
+11/12/10 18:30	Harrison	ME	Triangle	5 mins	Red tipped UFO over RT 35 in Harrison, Maine	1/5/11	44.1101417542,-70.6796188354	
+11/10/10 22:00	New Sharon	ME	Oval	3-4 minutes	Two UFO's sighted in New Sharon, Maine	11/21/10	44.638671875,-70.0154495239	
+11/2/10 19:55	Woolwich	ME	Light	5 minutes	A light was i the sky it moved higher in the sky and left a white and orange trail and then disappeared it had no sound.	11/21/10	43.9335784912,-69.7782363892	
+10/23/10 20:15	Portland	ME	Triangle	2 min.	A Metallic triangular  object with dome on underside was seen in Portland, Maine.	11/21/10	43.6591415405,-70.256652832	
+9/24/10 19:45	Kennebunkport	ME	Other	15 minutes	I own a retail store in Kennebunkport, a summer resort town on the southern coast of Maine.  Yesterday, September 24, 2010, I went to m	11/21/10	43.3600387573,-70.4757003784	
+9/24/10 19:45	Kennebunkport	ME	Other	15 to 20 minutes	Thirty craft with orange lights pass overhead in Kennebunkport, Maine.	11/21/10	43.3600387573,-70.4757003784	
+9/5/10 18:35	Wells	ME	Fireball	4 minutes	Orange soundless object sceen in night sky above southern costal Maine town in early September 2010.	11/21/10	43.321849823,-70.590927124	
+9/4/10 18:15	York	ME	Light	45 minutes	White light over the ocean at York Beach Maine	11/21/10	43.1440200806,-70.6511535645	
+8/7/10 22:00	Waterboro	ME	Light	4-5 minutes total	Amber/Orangish colored light in sky...no sound at any point, for duration of sighting, no commercial flashing tail or wing lights seen	8/24/10	43.5903587341,-70.7074890137	
+7/26/10 22:49	Falmouth	ME	Disk	15 seconds	Four Red Saucer Shaped Objects Fly Over Falmouth, Maine	7/28/10	43.7338905334,-70.280380249	
+7/12/10 02:45	Portland	ME	Light	20 seconds	Venus sized light	7/19/10	43.6591415405,-70.256652832	
+7/9/10 19:00	Rangeley	ME	Oval	20 seconds	White Light Orb moving quickly across the sky with no sound...	7/19/10	44.9415512085,-70.7532501221	
+7/4/10 23:03	Eastport	ME	Changing	2 min	Bright yellow object with halo, flies NE, changes direction E, loses halo, flies E until too small to see	11/21/10	44.9096298218,-66.9989318848	
+6/24/10 01:00	Benton	ME	Circle	5 seconds	As I was sitting in my car I notice out of the corner of my eye a very large bright white light that seemed to be moving very fast acro	7/6/10	44.584690094,-69.5523223877	
+6/18/10 21:58	South Portland	ME	Light	15 seconds	bright white light darts horizon to horizon in 15 seconds	6/23/10	43.6376113892,-70.2517318726	
+5/24/10 20:00	Westbrook	ME	Oval	30 minutes	bright light in the sky in westbrook maine  ((NUFORC Note:  Either Venus, or a twinkling star??  PD))	6/3/10	43.6790008545,-70.3386230469	
+4/21/10 04:45	Yarmouth	ME	Light	20 seconds	Early morning dancing star.  ((NUFORC Note:  Possible star??  PD))	5/12/10	43.800868988,-70.1873626709	
+3/13/10 00:00	Medway	ME	Circle	1 second	A large green circle flew directly over my house.	4/13/10	45.6108512878,-68.5321884155	
+3/6/10 23:30	Cape Neddick	ME	Circle	.4 sec	Ocean-bound low-flying saucer glimpsed in Maine	4/13/10	43.2059783936,-70.6179199219	
+2/24/10 09:30	Springvale	ME	Sphere	1-3 hours	Multiple sightings of a variety of shapes of UFOlike crafts, many photos!!!	4/13/10	43.4662895203,-70.7971878052	
+2/6/10 05:45	Ellsworth	ME	Unknown	20 seconds	Green light and buzzing sound	2/8/11	44.5414009094,-68.4243087769	
+1/30/10 08:40	Kennebunk Beach	ME	Cylinder	3 plus hours	Tall white colum of extremely bright light appearing suddenly off Kennebunk beach	2/14/10	43.3452186584,-70.5023498535	
+12/4/09 04:50	Vassalboro	ME	Light	3 to 5 minutes	circular  light/orange craft out running a pursuing military helicopter	12/12/09	44.4531402588,-69.6800613403	
+11/30/09 19:30	Cumberland to Freeport area	ME	Other	30 minutes	Observed two lights hovering and then moving south south East over the coast of Maine at approx Freeport , for 30 minutes	12/12/09	39.6517715454,-78.7633285522	
+11/15/09 19:00	Belgrade	ME	Circle	5 minutes	Amber colored pulsing object with no sound hovered low to the ground for about 5 minutes.	12/12/09	44.4543914795,-69.8318328857	
+11/15/09 18:30	Litchfield	ME	Light	3 hours	November 15th 2009, I stepped out of my mother’s small home in Litchfield Maine to smoke a cigarette.  I usually stand on the porch its	12/12/09	44.1561012268,-69.9452896118	
+11/14/09 19:00	Farmingdale	ME	Flash	1 Minute	bright lights above us that lit up the night sky with no noise from the object	12/12/09	44.2397918701,-69.7711181641	
+10/3/09 03:30	Hampden	ME	Light	2 Minutes	A bright light in the treeline	10/10/11	44.7452812195,-68.8489227295	
+9/25/09 21:00	Fryeburg	ME	Flash	1 hour +/-	Flashing light over Black Cap	12/12/09	44.0155105591,-70.9821624756	
+9/20/09 18:00	Deer Isle	ME	Light	2 seconds	Large ball of light, streaking south to north, over Deer Isle, Maine.	12/12/09	44.2240600586,-68.6781768799	
+9/19/09 20:30	Cape Elizabeth	ME	Circle	15 seconds	large circular light that fanned out, released cloud, then dissapeared  ((NUFORC Note:  Missile launch.  PD))	12/12/09	43.5964202881,-70.2284698486	
+9/19/09 19:50	Berwick	ME	Triangle	20 seconds	(light with defined beam appeared very bright(looked like an upside down v). ((NUFORC Note:  Missile launch.  PD))	12/12/09	43.2659797668,-70.8643569946	
+9/19/09 19:45	Sanford	ME	Light	1-2 minutes	We were having a fire and saw a very bright cone shaped light above the tree line, it stayed for a minute or so then vanished.	12/12/09	43.4384307861,-70.7747573853	
+9/19/09 19:45	Lisbon	ME	Circle	10 seconds	Bright blue beam hovering, slowly descending to the ground. No sound at all, 6 witnesses	12/12/09	44.0252113342,-70.1003265381	
+9/19/09 19:05	Lovell	ME	Triangle	3-5 min	triangle shapes hovering over Kezar Lake at sunset.	12/12/09	44.1246185303,-70.8888397217	
+9/19/09 12:35	Waterville	ME	Sphere	10 seconds	we both could not believer what we saw	12/12/09	44.5527915955,-69.6313476562	
+9/9/09 20:17	Lyman	ME	Light	10 mins	Two lights ran across the sky, as bright as the North star but twice as fast as any sattelite.((NUFORC Note:  ISS & Space Shuttle. PD))	12/12/09	46.4390335083,6.51975107193	
+9/7/09 20:00	Wells	ME	Sphere	3 minutes	A pair of round Orange glowing craft several hundred feet in the air moving up the Maine Coastline silently.	12/12/09	43.321849823,-70.590927124	
+9/5/09 21:15	Bangor	ME	Light	25 minutes	Small star-like white light seen 3 separate times, seach time changing direction, travelling straight, and ascending until out of view.	12/12/09	44.8017082214,-68.7707672119	
+8/18/09 19:45	Orient	ME	Circle	1 to 2 minutes	bright circle of  intense light that vanished into a pinpoint	8/27/09	45.8148002625,-67.8420333862	
+8/15/09 00:00	Sorento (near)	ME	Flash	less than five min	I was at Calf Island in Frenchman's Bay, Maine with my mom camping when we saw a possible UFO.  It was a strobing red light that didn't	8/27/09	44.5110015869,-68.1803436279	
+8/14/09 20:30	Cross Lake	ME	Cylinder	15 min	Round balls of fire in sets of two	8/27/09	47.1135063171,-68.330947876	
+8/8/09 21:20	Alfred	ME	Rectangle	10 minutes	4 rectangular glowing objects glide silently by and ascend until they disappear into a point in Alfred Maine.	8/27/09	43.4762115479,-70.7148132324	
+7/12/09 18:30	Richmond	ME	Triangle	3-5 minutes	i was traveling west on 197 headed to work on a sunday night, a bright white light appeared on horizion	8/5/09	44.0882911682,-69.8037719727	
+6/25/09 21:00	Pittsfield	ME	Other	4 hours	Bright dull lights over treeline.	8/5/09	44.7835617065,-69.3817977905	
+6/13/09 16:00	East Bethel	ME	Sphere	5 minutes	large bluish sphere between  storm clouds no sound heard,	8/5/09	44.4687309265,-70.7108001709	
+5/24/09 21:45	Lisbon	ME	Oval	4 minutes	2nd time in 4 nights a Craft with a brightness with slight blue hue passed over Lisbon Maine.  ((NUFORC Note:  ISS overflight.  PD))	6/9/09	44.0252113342,-70.1003265381	
+5/21/09 22:05	Winterport	ME	Fireball	10 minutes	My mother went out to the garage to put some trash away. She was gone for about 20 minutes, I decided to go check on her to make sure s	6/9/09	44.6409988403,-68.8433074951	
+5/20/09 22:30	Lisbon	ME	Oval	5 min	Distinct Craft, huge bottom of the craft light, specific color light goes off and dissapears after 2 minutes, no flashing lights. 5	6/9/09	44.0252113342,-70.1003265381	
+5/12/09 00:00	Scarborough	ME	Circle	5 seconds	fast, amber color, no noise, 5 seconds horizon to horizon, circular, spoked wheel looking	6/9/09	43.5898590088,-70.3360671997	
+4/26/09 10:00	Corinth	ME	Diamond	5 to 8 minutes	4 diamond shaped objects flying south to north above jets in the daytime.	8/5/09	45.0015792847,-69.0281066895	
+4/24/09 04:58	Portland	ME	Sphere	2minutes	Simple truth as seen. (aircraft in vicinty whcih allowed me reference, but none chasing)	5/12/09	43.6591415405,-70.256652832	
+4/17/09 02:45	Orono (University of Maine)	ME	Triangle	7 minutes	On April 17th, on the UMaine campus, we saw a triangle shaped craft with three orange lights and one white light.	5/12/09	44.8833885193,-68.6721801758	
+3/31/09 20:00	Washington	ME	Sphere	2 + hrs	Very unusual sphere with multiple flashing colored lights, high in the southwestern sky.	4/14/09	44.2786102295,-69.3681030273	
+3/15/09 08:23	Augusta	ME	Light	1:00	Super fast white light that turned red and disapeared.	3/19/09	44.318031311,-69.7762069702	
+3/13/09 19:00	Portland	ME	Unknown	2 hours	Bright light moving slow at night!	4/14/09	43.6591415405,-70.256652832	
+2/14/09 00:00	Smyrna Mills/Oakfield/Island Falls, and Patten	ME	Cigar	A few seconds	I personally, was driving home from a boyfriend's house while on the phone with him and noticed the sky light up bright blue for just a	3/19/09	
+1/28/09 23:07	Wayne	ME	Light	4-5 minutes	Amphibious light in Wayne, Maine.	3/19/09	44.3483085632,-70.06640625	
+1/27/09 23:30	Newport	ME	Oval	5 minutes	Strange U.F.O. space craft spotted over Newport Maine.	3/19/09	44.8352508545,-69.2727203369	
+1/15/09 19:00	Holden	ME	Rectangle	4 min	Saw a greyish black stretched cube with rounded corners with bright white windows on it	3/19/09	44.7556800842,-68.6656188965	
+12/29/08 21:29	Poland	ME	Fireball	3 Seconds	Meteor streaks from Newgloucster, over Poland towards Oxford. (Maine)	1/10/09	44.0635108948,-70.3969726562	
+12/28/08 05:30	Fort Fairfield	ME	Other	15sec	I saw a star like object shoot stright up and dissiapere	3/19/09	46.7725410461,-67.8359985352	
+12/5/08 22:45	South Hiram	ME	Teardrop	5 seconds	Green light over ice skating rink in south hiram Maine	1/10/09	43.8260917664,-70.8826904297	
+11/7/08 21:20	Bangor	ME	Fireball	5-10 seconds	Fireball or "Flash-ball" maneuvers at low altitude - as seen and heard from backyard	1/10/09	44.8017082214,-68.7707672119	
+10/25/08 01:27	New Gloucester	ME	Other	25 minutes	Bright light; large upright being.  ((NUFORC Note:  Student report.  Possible hoax.  PD))	10/31/08	43.956741333,-70.2703323364	
+10/25/08 01:00	New Gloucester	ME	Light	30 minutes	Bright flash from the woods, followed by intense heat.	10/31/08	43.956741333,-70.2703323364	
+10/15/08 19:00	Gardiner (near)	ME	Formation	2 minutes	Hovering object with odd light formation- UFO or blimp	10/31/08	44.2291793823,-69.7747497559	
+9/7/08 23:00	Oakland	ME	Fireball	1 Minute	Green flash.  ((NUFORC Note:  Possible hoax?  PD))	10/31/08	44.5452194214,-69.7169723511	
+8/31/08 01:00	East Machias	ME	Light	5 minutes	Flashing lights that approached each other and flew in a circle in Maine.	10/31/08	44.7509918213,-67.3667907715	
+8/15/08 11:40	Portland	ME	Triangle	1 minute	Three white lights in a triangular pateren about 200 feet wide	10/31/08	43.6591415405,-70.256652832	
+8/9/08 21:15	Sabattus	ME	Unknown	4 minutes	Fast high moving white lights in the clear night sky that disappeared from view.	8/12/08	44.1094512939,-70.0897674561	
+8/5/08 20:25	Sangerville	ME	Circle	30 Seconds	yellow/white light seen from about three miles away	8/12/08	45.1641197205,-69.3570785522	
+8/4/08 21:15	Rockland	ME	Light	3 minutes	Maine slow moving light	8/12/08	44.0975799561,-69.1290817261	
+7/15/08 19:30	North Haven	ME	Disk	1 hour	On the night of July 15th 2008 eight unidentified crafts were seen drifting through the sky above the Fox Island Thoroughfare.	8/12/08	44.1289596558,-68.8754806519	
+7/8/08 01:00	Sebago	ME	Sphere	15 minutes	Two Interacting Orbs Appear Over Sebago Lake	8/12/08	43.8670005798,-70.3330001831	
+7/3/08 00:00	Gray	ME	Triangle		3 white-like bright lights in the shape of a triangle	7/5/08	43.8867797852,-70.3313293457	
+5/25/08 21:57	Scarborough	ME	Triangle	25 seconds	A triangle shaped object with 3 yellow lights on bottom and a white light on each corner.	6/12/08	43.5898590088,-70.3360671997	
+4/23/08 19:00	Augusta	ME	Teardrop	12 minutes	I saw a UFO	6/12/08	44.318031311,-69.7762069702	
+3/26/08 13:07	Cape Elizabeth	ME	Disk	a couple of minuets	I didnt realize that i had seen a craft but i was reviewing some photos that I took and spoted a craft taken within the same minute.	1/10/09	43.5964202881,-70.2284698486	
+2/20/08 23:00	Bethel	ME	Disk	30 minutes	I saw this sighting tonight as I looked up at the moon. It was is in the northeastern sky. Left and lower than the moon. I noticed that	3/4/08	44.4040794373,-70.7909317017	
+1/28/08 00:00	Presque Isle	ME	Fireball	2 Minutes Or Less	Huge fireball emitting a white light that lit up the entire sky, falling at amazing speeds then dissapearing.	2/14/08	46.6816101074,-68.01537323	
+1/18/08 19:05	Freeport	ME	Circle		Strange bright lights, red, and white, brighter then an airplane.	1/21/08	43.8555107117,-70.1058883667	
+1/4/08 20:00	Leeds	ME	Triangle	hrs	It was flashing different colors such as blue green and red. The lights were in the shape of a triangle and when looked at through a te	1/21/08	44.3022994995,-70.1178512573	
+12/10/07 17:00	Phippsburg	ME	Sphere	13 seconds	Burning bright orb with a plane above following it then it either burned up, crashed or just lit up when out of view	1/21/08	43.8672485352,-69.819152832	
+12/7/07 12:00	Farmington	ME	Diamond	0:00	Nighttime rendevous turns into a UFO sighting	3/4/08	44.6698112488,-70.1505584717	
+10/26/07 05:00	Otis	ME	Oval	45 min	Very bright oval shaped object silently moving up and down.	11/28/07	44.6727104187,-68.4263076782	
+10/21/07 19:00	Bucksport	ME	Sphere	20 seconds	Moving sphere in the sky	11/28/07	44.5715484619,-68.7929382324	
+10/2/07 21:30	Lubec	ME	Circle	15 seconds	Low flying  bright object appeared to zigzag  and hover.	11/28/07	44.8584594727,-66.9831008911	
+9/5/07 13:00	York	ME	Circle	uknown	round object found on photo of Maine light house.	4/17/08	43.1440200806,-70.6511535645	
+8/19/07 21:17	Dexter (in southern sky)	ME	Circle	3 minutes	two bright fast moving spheres near bangor  ((NUFORC Note:  ISS in formation with Space Shuttle??  PD))	10/8/07	45.0242118835,-69.2906188965	
+8/16/07 06:30	Mars Hill	ME	Cylinder	15 min	Object was stationary for 10 min then dissappeared.	10/8/07	46.5161705017,-67.8667907715	
+8/15/07 00:05	Bath	ME	Unknown	about 3 mins.	My wife and I were outside when we viewed a white sphere high up.  I first thought it was a satellite. It was moving in a east to west.	10/8/07	43.9130783081,-69.8141708374	
+8/10/07 22:05	Lewiston	ME	Sphere	5 minutes	Multiple lighted spherical objects moving in a linear array from southern horizon to northern horizon.  ((NUFORC Note:  Lanterns.  PD))	8/14/07	44.0985488892,-70.2183532715	
+8/10/07 22:00	Lewiston	ME	Formation	1-2 minutes	string of "orange flame" colored lights over Lewiston.  ((NUFORC Note:  Aerial lanterns, launched from a party at Bates College.  PD))	8/14/07	44.0985488892,-70.2183532715	
+8/10/07 12:00	Hancock	ME	Cigar	2 minutes	Elongated cigar shape, translucent or transparent, controlled flight, no fuselage	10/8/07	44.5281906128,-68.2532119751	
+8/4/07 21:00	Canaan	ME	Sphere	10  minutes	An fast flying ornage sphere, flaring brightly each time it made 90 and over 90 degree turns.  Seen by 8 people.	10/8/07	44.7618484497,-69.5626296997	
+7/14/07 01:00	Greenville	ME	Light	10 Minutes	Bright light seen above horizon moving up and down erratically towards the northeast.	10/8/07	45.4587211609,-69.5917205811	
+7/8/07 20:00	Damariscotta	ME	Circle	2-3 seconds	Bright white spherical object moved rapidly from east to west crossing river to the south of our home	8/7/07	44.0321083069,-69.5299987793	
+6/14/07 22:15	St. George	ME	Triangle	10 minutes	3 bright lights in triangle formation hovering over St. George Maine 6/14/2007@22:10	8/7/07	44.0179100037,-69.1996002197	
+5/8/07 23:00	Portland	ME	Light	5 minutes	Bright white light hovering near Portland International Jetport.  Object turns bright red and silver, then disappears within seconds.	6/12/07	43.6591415405,-70.256652832	
+3/3/07 18:00	Mdison	ME	Circle	22:00	((HOAX))  One white and one blue	3/8/07	44.7991981506,-69.8793869019	
+2/17/07 18:40	West Paris	ME	Rectangle	5 minutes	Transparent rectangle craft seen hovering for a few minutes	2/24/07	44.3266105652,-70.5675201416	
+2/13/07 20:00	Kingfield	ME	Light	2 hours	Multiple sightings of lights in Franklin County, Maine.	2/24/07	44.9617195129,-70.1600875854	
+2/5/07 06:30	Baltimore	ME	Circle	2 sec	quiet, close, super-sonic, white, round white light	2/24/07	43.6289100647,-70.260345459	
+2/1/07 18:45	Bowdoinham	ME	Triangle	30 seconds	An eqilateral triangle, lit at the tips, hovering just off I95 between Brunswick, and Bodoinham ME at approximately 6:45pm.	2/24/07	44.0096092224,-69.8990402222	
+1/26/07 19:10	Stockton Springs	ME	Light	seconds	Fiery orange object descended rapidly through the sky, appeared to strike earth. ((NUFORC Note:  Possible space debris or meteor??  PD)	2/1/07	44.4903106689,-68.8548965454	
+1/13/07 20:00	Poland	ME	Oval	3 mins.	orange light over mechanic falls maine,hovers and disappears	2/1/07	44.0635108948,-70.3969726562	
+1/8/07 23:45	Hampden	ME	Fireball	2 min	I was driving home when I saw a bright, yellowish, orange orb in the night sky.  The object moved at a slow rate and hovered	2/1/07	44.7452812195,-68.8489227295	
+12/18/06 12:17	Warren	ME	Cylinder	2 minutes	Cylinder shaped craft with bright diamond shaped light above	3/8/07	44.1205101013,-69.2403182983	
+11/9/06 21:00	Auburn	ME	Other	10 - 15 minutes	Bright eractic moving lights.	12/7/06	44.0977592468,-70.2292861938	
+10/27/06 19:30	Pittsfield	ME	Light	30 seconds	Was walking dog with my fiance and an airliner was passing overhead. We were looking at it and its flashing lights, which is a common s	10/30/06	44.7835617065,-69.3817977905	
+10/14/06 21:30	Ogunquit	ME	Light	5 Minutes	Two bright lights faded over five minutes.	12/7/06	43.2470092773,-70.5989685059	
+10/13/06 05:00	Brewer	ME	Light	4 min	fast moving aircraft aproaching a strange light.	12/7/06	44.7954216003,-68.7647018433	
+10/11/06 05:40	York	ME	Disk	30 seconds	Illuminated but not shiny disc  with three large pulsing lights underside, white to red, following path along the Atlantic coastline.	10/30/06	43.1440200806,-70.6511535645	
+10/8/06 17:30	Scarborough	ME	Light	10 - 15 Minutes	Very fast moving lights "chasing" each other and moving very eratically	10/30/06	43.5898590088,-70.3360671997	
+9/27/06 20:00	None	ME	Circle	1 hour +	Distant circles/spheres with red green and white lights apparantly chaseing around perimeter observed on Allagash River in Maine.	10/30/06	45.2750396729,-69.1977767944	
+9/20/06 19:30	Bangor	ME	Light	5 minutes	Pilot and passenger witness light to the northeast of their aircraft, which they could not identify.	10/30/06	44.8017082214,-68.7707672119	
+9/12/06 18:45	Hampden	ME	Triangle		My daughter and I were driving in our car when we saw a hovering triangular shape in the sky.  It had red and white lights.	10/30/06	44.7452812195,-68.8489227295	
+9/10/06 20:00	Berwick	ME	Unknown	30 seconds	i was walking down the road with my son he first saw this glowing objectit was moving slowly from the east and then it turned an shot s	10/30/06	43.2659797668,-70.8643569946	
+9/8/06 20:00	Berwick	ME	Oval	1 minute or more	BERWICK MAINE U.F.O	12/7/06	43.2659797668,-70.8643569946	
+8/5/06 01:00	Lincolnville	ME	Light	2 min	3 lights formed triangle in night sky	10/30/06	44.2814712524,-69.0096664429	
+7/30/06 19:30	West Gardiner	ME	Light	less than a minute	Very bright white object moving slowly then quickly going straight up till it could be seen no longer.	10/30/06	44.2291793823,-69.7747497559	
+6/26/06 18:35	Concordville (York Beach Area)	ME	Disk	
+	This object was Inadvertently  photographed off of Cape Neddick (Nubble Light) York Beach, Maine.  ((NUFORC Note:  Seagull.  PD))	10/30/06	43.1705818176,-70.5971984863	
+4/1/06 00:59	Windham	ME	Light	3+sec	Bright white meteor breaks up over Portland , Maine  ((NUFORC Note:  Other reports.  Possible meteor?  PD))	5/15/06	43.7921218872,-70.4093017578	
+3/28/06 20:00	Brunswick	ME	Circle	1 hour	There was a bright circular object in the southern sky around 2000. It changed color from red to blue to white in a pulsing fashion. Ob	5/15/06	43.9168014526,-69.9638519287	
+3/28/06	Sanford	ME	Circle		Looked like a disco ball in the sky.	5/15/06	43.4384307861,-70.7747573853	
+3/12/06 21:00	Augusta	ME	Sphere	15 minutes	It was in med. size and red and white lights. It is not an a/c. It followed our car on the road. ((NUFORC Note:  Student report.  PD))	5/15/06	44.318031311,-69.7762069702	
+2/17/06 18:16	Warren	ME	Sphere	seconds	Sphere with an eye or hole in it	3/11/06	44.1205101013,-69.2403182983	
+1/22/06 20:00	Brunswick	ME	Unknown	40 Minutes	I'm 35yrs old and love to look at the stars.  Tonight however I saw something extremely weird.  3 UFO's that where flying hoovering abo	2/14/06	43.9168014526,-69.9638519287	
+1/16/06 23:00	Clinton	ME	Circle	2 seconds	green object trailing haze	2/14/06	44.6362113953,-69.5065307617	
+1/16/06 21:00	Freeport	ME	Light	Approx 1 hr 45 min	Three lights form a triangle over Maine	2/14/06	43.8555107117,-70.1058883667	
+1/1/06 17:00	Crosslake	ME	Fireball	1 hour	Dull orange ball/disc hovered  over camps  across the lake. Thought was a  sodium  light, or reflection until it moved up to about 50-1	2/14/06	47.1135063171,-68.330947876	
+12/31/05 01:00	Cumberland	ME	Other	3 seconds	Strange green object dropping vertically in the semi-cloudy night sky over Cumberland, Maine.  Then suddenly dissapearing.	2/14/06	43.7999000549,-70.2533035278	
+11/22/05 19:45	Bangor	ME	Other	15 MINUTES	RED, YELLOW, AND BLUE LIGHTS OVER BANGOR, MAINE.	5/15/06	44.8017082214,-68.7707672119	
+11/10/05 21:30	Lewiston	ME	Formation	10 min span	A pair of red objects moving in parallel following 5 min later by a group of 3 red objects in parallel	12/16/05	44.0985488892,-70.2183532715	
+9/10/05 22:00	West Paris	ME	Light		TONS OF GREEN BEAMS OF LIGHTS IN THE THE SKY	10/11/05	44.3266105652,-70.5675201416	
+8/25/05 16:20	Rumford	ME	Triangle	10 minutes	On august 25th i was cooking some steak on my deck, when  i agzed toward the sky and saw a large triangular craft bordered with lights,	10/11/05	44.5551109314,-70.5517425537	
+8/16/05 23:00	South Berwick	ME	Triangle	15min	this night was hot and hughmid we had went out on the deck and laid out on the proch to watch the stars when we saw this thing zooming	2/14/06	43.233341217,-70.8087310791	
+8/12/05 22:00	Oakland	ME	Unknown	10 minutes	Silent and  Unknown.	2/24/07	44.5452194214,-69.7169723511	
+8/1/05 22:29	Skowhegan	ME	Unknown	7 minutes	did zigzag,flew stright then went higher than 50,00'heading for quebec,was white. couldnt makeout shape from2 telescopes	9/2/05	44.766368866,-69.7165908813	
+7/29/05 22:30	Berwick	ME	Light	5 Minutes	Light moving east then west then north............	10/11/05	43.2659797668,-70.8643569946	
+7/24/05 05:50	Brunswick	ME	Disk	10 seconds	Day Light Disk	9/2/05	43.9168014526,-69.9638519287	
+7/15/05 22:00	Porter	ME	Light	5 min	Friend was laying in the back of his truck. He said look i sea a plane, and pointed at it.My father said that can't be a plane because	9/2/05	43.7955284119,-70.9408721924	
+7/6/05 00:00	Brunswick (Mere Point Bay)	ME	Light	1 hour	4 star shaped lights appearing over Mere Point bay ~ Brunswick ME	7/13/05	43.9168014526,-69.9638519287	
+7/4/05 19:15	Freeport	ME	Disk	5 minutes	Daylight Disk	7/13/05	43.8555107117,-70.1058883667	
+7/3/05 22:20	Westbrook	ME	Sphere	3 minutes	moving stars that disappear	7/5/05	43.6790008545,-70.3386230469	
+6/15/05 13:00	East Millinocket	ME	Cigar	5 seconds	Seen on a clear day,was not moving at a high speed,saw no wings,heard no noise,no lights	11/28/07	45.6254806519,-68.5753479004	
+5/9/05 13:00	Cumberland	ME	Cigar	15 minutes	 ((NUFORC Note:  Anonymous source.  Hoax??  PD))  I was at a party late on Tuesday night with about 4 of my friends from college.	5/11/05	43.7999000549,-70.2533035278	
+4/29/05 21:45	Waterboro	ME	Oval	10 minutes	((NUFORC Note:  Missile launch at 2055 hrs (EDT).  PD))  2 BRIGHT LIGHTS OVERHEAD ONE EMITTING 3 RAYS OF LIGHT	5/11/05	43.5903587341,-70.7074890137	
+4/29/05 21:00	Kennebunk	ME	Circle	3 minutes	((NUFORC Note:  Missile launch at 2055 hrs (EDT).  PD))   a bright moving star	5/11/05	43.3875694275,-70.5352935791	
+4/26/05 21:30	Deer Isle	ME	Other	30 - 45 minutes	Orbs with auras moving north and a triangle shaped object moving over 30 + foot trees.	1/21/08	44.2240600586,-68.6781768799	
+4/26/05 21:00	Deer Isle	ME	Light	30 mins	Deer Isle maine Light Show	12/14/06	44.2240600586,-68.6781768799	
+4/26/05 20:30	Lewiston	ME		3 seconds	I witnessed this event this evening, 4/26/05 but your form would not let me enter today's date. ((NUFORC Note:  Iridium flare.  PD))	5/11/05	44.0985488892,-70.2183532715	
+3/16/05 18:36	Auburn/Lewiston	ME	Light	2 sightings: 40 sec. and 	Videotaped bright white ball of light travelling at a high speed across the horizon at two separate times, 10 min apart in 2 locations.	4/16/05	44.0492782593,-70.2884979248	
+3/15/05 00:00	Kennebec	ME	Light	five minutes	my friend and i saw one hovering near them in a blueberry field	5/11/05	44.3275108337,-69.7695922852	
+1/15/05 12:00	Portland	ME	Sphere	in my car	object flys through air in Portland Maine.	2/22/05	43.6591415405,-70.256652832	
+10/28/04 21:33	Orono	ME	Disk	15 seconds	The object  was about the size of a full moon, had red and white lights, then vanished.	11/2/04	44.8833885193,-68.6721801758	
+10/26/04 18:00	Lewiston	ME	Light	2 hours	A light in the sky similiar to Haley's comet during sunset 10/26/04 Tuesday evening around 18:00 hours  ((NUFORC Note:  Star??  PD))	10/27/04	44.0985488892,-70.2183532715	
+10/24/04 16:00	Hampden	ME	Light	45 seconds	bright spot of light	10/27/04	44.7452812195,-68.8489227295	
+10/18/04 18:00	Portland	ME	Other	15 min.	fireball figure in the sky.moved from one end to another.has been seen in korea and china before.	10/27/04	43.6591415405,-70.256652832	
+10/8/04 23:55	Limerick	ME	Sphere	2 seconds	This object  was a glowing pale greenish blue sphere streaking low and silent across the night sky.	10/27/04	43.6953010559,-70.7893676758	
+9/15/04 23:00	Lewiston	ME	Triangle	5 min	September 15,04 in Lewiston Maine, a triangular lit up object slowly moves over my back lawn	9/29/04	44.0985488892,-70.2183532715	
+9/14/04 22:30	Rockland	ME	Triangle	6 mins	Large Triangle spotted over Mooshead Lake ME	10/27/04	44.0975799561,-69.1290817261	
+9/11/04 23:00	Embden	ME	Triangle	approx. 1 minute	THREE LIGHTS IN TIRANGLE FORM move quickly across sky, stop get hazy and appear to just disappear.	12/3/04	44.9131202698,-69.8669433594	
+8/28/04 18:30	Piscataquis County	ME	Circle	10-30 Seconds	Well, I was watching TV, when I looked out my window (which is somewhat of a bay window) and saw a lowflying circular metallic object m	9/1/04	45.8374710083,-69.284362793	
+8/22/04 23:00	Lovell	ME	Light	60-90seconds	Very dim flashing white light moving quitely, eratically, and misteriously across the sky.	8/24/04	44.1246185303,-70.8888397217	
+8/22/04 22:00	Palermo	ME	Triangle	7 minutes	a triangle shaped formation over maine	8/24/04	44.4134483337,-69.4544906616	
+6/9/04 13:00	Brewer	ME	Diamond	2 min	Watched 3D cube for 2 min out office window.	7/8/04	44.7954216003,-68.7647018433	
+4/18/04 23:30	Belfast	ME	Light	Hours	What appears to be a star, later a ball of light flew under it.  ((NUFORC Note:  Sighting of Venus, or Sirius??  PD))	4/27/04	44.425868988,-69.0079727173	
+4/8/04 06:00	Maine (location unspecified)	ME	Unknown	3 minutes	A dream where I traveled out of my body into space and back.	4/27/04	46.8172492981,-67.9274902344	
+1/31/04 19:00	Auburn	ME	Light	15 Min.	A bright light hovering in one place over the western sky for a long time it than it was gone.	2/12/04	44.0977592468,-70.2292861938	
+1/27/04 22:00	Ogunquit	ME	Circle	20 minutes or longer	I go out at night on our porch to look at the stars. They are usually very bright here. The skys are very clear.  when I first looked u	1/31/04	43.2470092773,-70.5989685059	
+12/31/03 16:00	Lagrange	ME	Cigar	20 minutes	while driving home at dusk,noticed pinkish-orange object in sky.it was cigar shaped and lengthwise to the sky at tree level.object was	1/17/04	45.1674308777,-68.8429718018	
+12/28/03 20:25	Grand Isle	ME	Changing	+/- 10 mins.	A cluster of lights moved silently from north to south changing shape to a triangle, straight line and shallow arc of lights.	1/17/04	47.3057098389,-68.1521835327	
+12/28/03 20:25	Grand Isle	ME	Triangle	ca. 10 mins.	silent arch of pulsing lights.	1/17/04	47.3057098389,-68.1521835327	
+11/25/03 02:00	Portland	ME	Unknown	10 minutes	While at work on the Ptld, Maine, waterfront ,at 2a.m I did see bright white lights, 25-45 sec, that vanishedbehind,into a cloud ,	3/2/04	43.6591415405,-70.256652832	
+11/25/03 00:00	Scarborough	ME	Light	1-2 seconds	incredibly fast tranveling large white ball of light over scarborough	10/20/05	43.5898590088,-70.3360671997	
+11/23/03 23:48	Brunswick	ME	Circle	15-20 seconds	Very unusual, fast moving craft with sequential light display at high altitude, Maine, 23Nov03	11/26/03	43.9168014526,-69.9638519287	
+11/21/03 01:00	Waterville	ME	Cross	20min	cross shaped, six light,silent,big maby 1oo feet long,	11/26/03	44.5527915955,-69.6313476562	
+11/16/03 23:00	Appleton (near)	ME	Triangle	40+ minutes	I saw a bright odd-shaped star through my bedroom window facing southeast in a valley toward the coast of Camden, Maine (about 22  mile	11/26/03	44.2886009216,-69.25340271	
+11/13/03 18:00	Boothbay Harbor	ME	Light	20 min	Star Like UFO's that are Hidden in the Stars, But With Binoculars, Are Obviously Discs;  I Saw 10-20 tonight!!!!	11/26/03	43.8514099121,-69.6284179688	
+11/13/03 18:00	Boothbay Harbor	ME	Light	20 min	This is the Second Report I have done in the last two days.  I had written about UFO Objects that hover in the sky that first appear to	11/26/03	43.8514099121,-69.6284179688	
+11/12/03 21:00	Boothbay Harbor	ME	Disk	1 hour	Bright Red Objects with Orbiting White Lights/ Hovering Discs with Green,Red, Blue, White Lights Dancing Around It	11/26/03	43.8514099121,-69.6284179688	
+11/8/03 20:35	Portland	ME	Other	about 3-4 seconds	I was watching the lunar eclipse out by Back Cove from a soccer field. I was alone, and pretty much freezing to death. I saw a shape mo	11/26/03	43.6591415405,-70.256652832	
+11/8/03 20:17	Augusta	ME	Sphere	14 seconds	I went out side to look at the Lunar Eclipse, When i asked my Fiancee to come outside and look at the Lunar Eclipse. As I was looking a	11/11/03	44.318031311,-69.7762069702	
+11/6/03 22:30	Kittery	ME	Cylinder	20 MINUTES	BRIGHT LIGHTS NEAR NAVAL BASE	11/8/03	43.0868682861,-70.7498779297	
+10/19/03 23:30	Monson	ME	Triangle	10 - 15 Minutes	First of all I'm 17/M and I am a Junior at HS. I was sitting at home after the 2nd World Series game, when I was about ready to go to b	10/31/03	45.2918701172,-69.5046463013	
+10/1/03 00:00	Saco	ME	Circle	2 minutes	My wife and I watched a stationary bright white star much larger than a planet hover above the Ocean for about 2 minutes, and then it d	10/7/03	43.4992485046,-70.4444885254	
+9/22/03 21:00	Auburn	ME	Triangle	4 minutes	TRIANGLE LIGHTS IN SKY	9/24/03	44.0977592468,-70.2292861938	
+9/9/03 23:40	Waterville	ME	Other	about 2-3 min.	the star looking object quickly,silently moved from out of the big dipper to orions belt and disapered	9/17/03	44.5527915955,-69.6313476562	
+9/6/03 20:30	Carrabasset Valley	ME	Flash	15 min. +	Multiple flashing lights over a long period	9/9/03	45.1278381348,-70.1664810181	
+8/31/03 22:30	Yarmouth	ME	Triangle	20 Seconds	Another night of star gazing, I was viewing towards the east when I notice a triangular shaped mass of stars moving south.  As the mass	9/4/03	43.800868988,-70.1873626709	
+8/30/03 22:30	Yarmouth	ME	Light	30 minutes	Bouncing Stars	9/4/03	43.800868988,-70.1873626709	
+8/30/03	Mt. Katahdin area	ME	Egg		Unexplainable shapes in photos	4/9/04	
+8/28/03 20:00	Glenburn	ME	Other	10-15 minutes	It was very fast,round,with a orange/yellowish clow & very bright	9/4/03	44.9142189026,-68.8479995728	
+8/17/03 20:00	Alfred	ME	Rectangle	3 min	large rectangular craft in alfred me	7/16/06	43.4762115479,-70.7148132324	
+8/15/03 22:00	Millinocket	ME	Light	20 miuntes	While camping near Millinocket Lake my brother and I witnessed this light coming towards us from over the horizon.  What first appeared	3/8/07	45.6573600769,-68.708656311	
+8/7/03 22:00	Maine (northern part)	ME	Sphere	2 minutes	Green sphere seen make a V path in front of our car in Northern Maine.	8/28/03	46.8172492981,-67.9274902344	
+7/10/03 20:00	Biddeford	ME	Cross	15 minutes	they are here.	7/16/03	43.4937591553,-70.4568862915	
+7/5/03 21:00	Dixfield	ME	Circle	45 minutes	Green Circle gets chased, leaves cloud of red haze behind.	3/11/06	44.5315818787,-70.4566802979	
+4/16/03 23:00	Naples	ME	Flash	45min	2 in car followed by ship others around town saw	6/3/03	43.9708709717,-70.6105422974	
+4/16/03 23:00	Limington/Naples	ME	Light	45min.	2 in car driving to Naples Me, followed ? bright flashing white/blue lights others saw from houses we never sleep now	6/3/03	43.6835021973,-70.5869522095	
+4/13/03 19:30	Old Town (Indian Island)	ME	Changing	less than 2 min	Indian Island, Old Town ME. (Driving home)	4/27/03	44.9384689331,-68.6478424072	
+3/8/03 19:00	Windham	ME	Sphere	1 minute	A large turquoise colored sphere that moved slowly across the sky.	3/11/03	43.7921218872,-70.4093017578	
+2/13/03 22:00	South Paris	ME	Sphere	4 hours	Lots of sightings in and around South paris Maine.	3/4/03	44.2229003906,-70.5109329224	
+1/30/03 05:30	Gorham	ME	Unknown	5-10 secs, another 5-10 s	strange, strange sound im scared	3/4/03	43.6857872009,-70.4477920532	
+1/10/03 18:40	Old Town	ME	Other	4 min	we saw a bommerang shaped ship hover thain take off without making a sound.	3/4/03	44.9384689331,-68.6478424072	
+1/1/03 02:30	Holden	ME	Triangle	ten minutes	the vehicle ? was completely silent and very big. i assume the other one was in this one. it disappeared.	3/4/03	44.7556800842,-68.6656188965	
+12/31/02	Holden	ME			Description of sighting by a couple in Holden, Maine.	3/4/03	44.7556800842,-68.6656188965	
+11/24/02 15:45	Bangor	ME	Cylinder	5 min.	I saw a translucent, high flying, cylinder, with faint contrails traveling in a direction that is seldom seen in this area.	12/23/02	44.8017082214,-68.7707672119	
+11/15/02 00:00	Augusta	ME	Light	5 mins	My son and I saw this in early evening.There were a string of lightd quite brite over a low hill. It was right in town and very visible	5/15/06	44.318031311,-69.7762069702	
+11/5/02 04:00	Caribou	ME	Light	2 Minutes	I went out into the backyard of my property with my dog at 04:00 hours. It was a clear night, without moonlight, to illuminate the nigh	2/14/06	46.8592910767,-68.0112380981	
+10/16/02 15:00	Guilford/Abbot	ME	Cigar	2 Minutes	My mom and I observed silverish-grayish object above Piscatiquis River in Abbot	4/27/03	45.2750396729,-69.1977767944	
+9/13/02 01:15	Scarborough	ME	Circle	1.5 hrs	U.F.O. circle-shaped, w/ V at top white/reddish color with brilliance and movement (as if pulled by gravity)	9/19/02	43.5898590088,-70.3360671997	
+9/4/02 00:01	Richmond	ME	Sphere	12.00AM to 4PM	these objects darted about.  Quarter size objects with radiant light beams all around hovered in vertical line then darted	9/6/02	44.0882911682,-69.8037719727	
+8/30/02 21:30	Hebron	ME	Unknown	10 seconds	Starlike object moves across the Southwest sky in a zig zag pattern for  approximately 10 seconds.	9/6/02	44.1982192993,-70.4076080322	
+8/20/02 21:00	Poland	ME	Fireball	10 min	an orange light that slowly dropped and flickered out.	8/28/02	44.0635108948,-70.3969726562	
+8/19/02 21:15	Bingham	ME	Flash	21;45	On the evening of above date was travelling home and noticed  1 object high in the sky, then another catching up to it quickly, thinkin	8/28/02	45.0590782166,-69.882232666	
+8/14/02 19:30	Leeds	ME	Circle	5 minutes	Orb against the setting sun.	7/16/06	44.3022994995,-70.1178512573	
+8/14/02 19:15	Brunswick	ME	Circle	2 minutes	Four of us saw  an unrecognizable 'orb' silhouetted against the setting sun, c7:30 PM tonight in Brunswick, Maine.	8/16/02	43.9168014526,-69.9638519287	
+8/10/02 23:45	Waterford	ME	Sphere	20 Minutes	UFO spotted in Maine above a summer camp	8/28/02	44.1822891235,-70.7147293091	
+8/6/02 14:13	Skowhegan	ME	Teardrop	21 min.	Craft was teardrop shaped and was completely silent	8/28/02	44.766368866,-69.7165908813	
+8/4/02 02:00	Gardiner	ME		not known	A triple-ellipse "thought-bubble" crop formation found in  rural Gardiner, ME, investigated by BLT Research Team Inc.	8/16/02	44.2291793823,-69.7747497559	
+7/20/02 00:35	Fairfeild	ME	Disk		UFO seen on I95 in Maine near exit 35	8/16/02	44.5892906189,-69.5947418213	
+7/15/02 22:00	Pittsfield	ME	Unknown	10 min.	the one thing we will never foreget was that there was no noise just a pulsing vibration in the air......??	4/22/03	44.7835617065,-69.3817977905	
+7/12/02 23:15	Bangor	ME	Cigar	1 minute	two bright white lights(front and back), no noise, moving slow, low to ground, near airbase/airport	7/26/02	44.8017082214,-68.7707672119	
+7/5/02 03:15	Portland	ME	Light	2.5 sec	Aircraft with bright white blinking light.  Velocity 200- 500 mph 0315 hrs	7/26/02	43.6591415405,-70.256652832	
+7/4/02 01:30	Naples	ME	Circle	20 mins	3 Lights play together over Maine skies.	7/26/02	43.9708709717,-70.6105422974	
+7/2/02 22:10	South Paris	ME	Sphere	30 sec.	Bright sphere star looking craft sighted in South Paris ME.	7/26/02	44.2229003906,-70.5109329224	
+6/25/02 22:00	Waterville	ME	Light	2-5 minutes	On the evening that my son and I saw what I could not explain,we were sitting on my front steps looking towards the east.my son had got	7/16/03	44.5527915955,-69.6313476562	
+6/18/02 21:45	Yarmouth	ME	Sphere	2-3 mins	Sphere object with flashing lights falling at a slow pace, apparently on fire, no indication of crashing impact, lost sight of object.	7/1/02	43.800868988,-70.1873626709	
+5/17/02 23:45	Yarmouth	ME	Light	10 minutes	Zig zagging object emitting bright light w/faint redish hue flying very high, hovering, circling - like a tadpole swimming.	6/12/02	43.800868988,-70.1873626709	
+3/26/02 19:22	Naples	ME	Triangle		it was 7:22 pm,and it was snowing out,and i was out side shoveling,when i saw this triangular shape come across the sky.it made no soun	4/8/02	43.9708709717,-70.6105422974	
+3/14/02 00:00	Hartland	ME	Circle	APX 30 MIN	BIG AND BRIGHT	5/14/02	44.8836212158,-69.4462966919	
+3/1/02 23:30	Harpswell	ME	Cigar	5-8 minutes	I saw a cylindrical colorful object that hovered for probably 2 - 5 minutes.	3/19/02	43.8126792908,-69.9424972534	
+2/3/02 00:00	Penobscot	ME	Light	30 min	A silent craft with three lights hovering.	3/17/04	44.4604492188,-68.7057113647	
+1/3/02 21:35	Richmond/Bowdoin	ME	Chevron	20min	CHEVRON SHAPED OBJECT WITH BLIDING LIGHT AND NO SOUND FLYING AT VERY SLOW RATE OF SPEED OVER RICHMOND-BOWDOIN, MAINE	1/11/02	45.2750396729,-69.1977767944	
+11/27/01 03:00	Farmington (?)	ME	Oval	1.5 HOURS	Three oval craft seen in mid-Maine emiting pulsing white light.	12/5/01	44.6698112488,-70.1505584717	
+10/28/01 01:00	Bangor	ME	Changing	???? still there	I am an overnight DJ at WKIT in Bangor, a little before 1 PM, I received a call from a listener asking me if I knew about the odd light	11/20/01	44.8017082214,-68.7707672119	
+10/1/01 20:35	Greene	ME	Oval	10 seconds	Incandescent light-greenish Orb with Red Halo spotted in sky over Northern woods..................	10/12/01	44.194229126,-70.1329193115	
+9/30/01 21:00	Sabattus	ME	Oval	1 hour	I saw an object,	3/19/02	44.1094512939,-70.0897674561	
+9/16/01 22:00	Bar Harbor	ME	Light	30 minutes	Satellites in the sky moving at right angles without slowing down - and stopping as still as a star	5/24/05	44.3888092041,-68.2114562988	
+8/29/01 22:20	Greene	ME	Unknown	:02	UFO sightings in Southern Maine	10/12/01	44.194229126,-70.1329193115	
+8/28/01 21:00	Vassalboro	ME	Fireball	moment	streaking fireball over central maine	10/12/01	44.4531402588,-69.6800613403	
+8/24/01 22:50	Oxford	ME	Light	hour	A stationary object stood for hours the night sky. It had three flashing lights, yellow, green and red.	10/12/01	44.13230896,-70.4972000122	
+8/24/01 21:30	Kennebunk	ME	Formation	2 minutes	Trio of 'craft' in formation, dots of lights.	10/12/01	43.3875694275,-70.5352935791	
+8/22/01 22:00	Sabattus	ME		8 min.	UFO flies over Lewiston, Maine 08/22/01	10/12/01	44.1094512939,-70.0897674561	
+8/22/01 21:30	Litchfield	ME	Unknown	1 or 2 minutes	I was in the house when I heard a thunder like noise coming from outside. At first I thought it soundered like thunder but it lasted lo	10/12/01	44.1561012268,-69.9452896118	
+8/22/01 21:00	Lewiston	ME		10 minutes	Corroboration of the 8/22/01 reports in Lewiston	9/17/03	44.0985488892,-70.2183532715	
+8/21/01 17:00	Camden	ME	Other	3-4 minutes	Silver metallic flashing bell shaped craft.	12/5/01	44.2114982605,-69.0648880005	
+8/11/01 02:00	Oakland (Near)	ME	Light	unkown, at least 2+ hours	2 lights, with the brightest of the 2 changing shapes	8/20/01	44.5452194214,-69.7169723511	
+6/22/01 03:00	Rockport	ME	Unknown		What is really out there?	8/5/01	44.1867103577,-69.0815887451	
+6/1/01 22:00	Old Orchard Beach	ME	Oval	30 min.	A glowing oval-shaped object with a ring around it with pulsating lights	8/5/01	43.5180702209,-70.3776016235	
+5/19/01 03:00	Framingdale	ME	Light	my street	I have no clue but ok	10/15/02	44.2397918701,-69.7711181641	
+5/1/01 23:00	Owls Head	ME	Diamond	15 seconds	Must have been an alien satalite sent to scan our planet...doubtful it was a ship carrying actual aliens	5/24/05	44.0843811035,-69.0615997314	
+1/20/01 06:00	Cumbrland	ME	Light	15 min	Maine012001	2/18/01	43.8166389465,-70.3139801025	
+1/10/01 16:30	Waldoboro	ME	Cigar	10-15-min	red cigar shaped object in sky over Waldoboro, Maine	2/18/01	44.1033782959,-69.3699417114	
+1/1/01 19:00	North Whitefield	ME	Light	3 1/2 hours	I have seen this craft for years and would like to know what it is please.	1/3/01	44.2220191956,-69.587272644	
+12/27/00 22:10	Saco	ME	Triangle	3 minutes	It was hudge and had 7 lights on its under side and one big one in the front of it, there was no tail to this craft !!!!!!	1/3/01	43.4992485046,-70.4444885254	
+12/12/00 15:45	Kittery	ME	Light	15 mins.	Craft being chased west  south west by 4 military aircraft on the Maine New Hamphire border on 12/12/2000 at 3:45 pm.	8/5/01	43.0868682861,-70.7498779297	
+11/4/00 18:00	Sidney	ME	Circle	10 min	The thing was light lik agiant fireball and dropped little things from it then it landed in our back yard	12/2/00	44.4534111023,-69.7370223999	
+10/28/00 10:30	Portland	ME	Sphere	30 seconds	Metallic Sphere flies within 30 feet of apartment.	12/2/00	43.6591415405,-70.256652832	
+10/25/00 23:20	Portland	ME			Recounting of TV newscast,FYI	12/2/00	43.6591415405,-70.256652832	
+9/30/00 20:00	Lamoine	ME	Triangle	15 seconds	Triangular Silver Green Objected Sited in Lamoine Maine	12/2/00	44.4790382385,-68.3399887085	
+9/16/00 01:00	Portland	ME	Unknown	3 hours	implanted piece in hand.	10/7/03	43.6591415405,-70.256652832	
+8/25/00 22:30	Lewiston	ME	Circle	60 min	Third clear night  UFO sighting observed in Western sky with red and greenish blinking lights, Lewiston, Maine.	9/17/00	44.0985488892,-70.2183532715	
+8/15/00 22:30	Presque Isle	ME	Light	10 MINUTES	IT WAS A BRIGHT WHITE LIGHT WITH A SMALL CONTRAIL MOVING AT A VERY ALARMING SPEED THROUGH WHAT APPEARED TO BE VERY HIGH UP IN THE ATMOS	8/5/01	46.6816101074,-68.01537323	
+6/30/00 19:00	West Gardiner	ME	Cigar	3 min	2 crafts, one cigar shaped with bright lights seen over West Gardiner, Maine	7/5/08	44.2291793823,-69.7747497559	
+6/20/00 20:00	Stetson	ME	Light		I was washing dishes and looked out the window.  A bright yellow light was in the trees only a few hundred feet away. As I watched, it 	8/5/01	44.8898086548,-69.1432876587	
+5/20/00 13:00	Benedicta	ME	Sphere	5 sec	The object already in motion was hurtling away and ascending	2/24/07	45.8531608582,-68.4158782959	
+4/27/00 13:00	Lewiston	ME	Light	00:2	It was about 1:00 pm. My friend and I were playing Wiffle ball when A very bright, orange ball appeared out of nowhere, probably a few 	5/3/00	44.0985488892,-70.2183532715	
+4/10/00 23:00	Owls Head	ME	Diamond	minute	UFO, most likely a space probe of some type	6/20/05	44.0843811035,-69.0615997314	
+3/23/00 02:15	Norridgewock (Winding Hill Rd)	ME	Rectangle	13to15mins	A stationary object was seen in the western horrizon. The object ommited a blinding white light. After 13 minutes the object moved east	4/1/00	44.7136192322,-69.7970428467	
+3/10/00 19:20	Freedom	ME	Light	5 seconds	Bright light with diffuse edges, flying at high speed, low altitude, no sound, then disappearing suddenly	3/16/00	44.524848938,-69.291847229	
+3/9/00 19:45	Vassalboro	ME	Other	10 min?	saw bright crescent shape light through curtains; pulled back to reveal crescent with very bright beacon or headlight hovering over tre	4/1/00	44.4531402588,-69.6800613403	
+3/9/00 18:35	Portland	ME	Light	1/2 min	my name is ((deleted))  portland me  04103  on 9, march 2000(thursday) at approximately 635pm while e	4/15/00	43.6591415405,-70.256652832	
+1/15/00 19:10	Skowhegan	ME	Oval	5 minutes	Large UFO.  Oval Shaped.  Brilliant white lights around it with intense red light on top.	1/22/00	44.766368866,-69.7165908813	
+1/9/00 23:25	Sanford	ME	Light	3 seconds	i saw a fast bright object streak towards the earth, with no explosion or fire visible.	2/18/01	43.4384307861,-70.7747573853	
+12/27/99 00:00	South Berwick	ME	Light	30 min+	Object with a white and red light appeared to be "dancing" in the sky.  At times it would make quick moves up/down and diagonally, and 	1/7/00	43.233341217,-70.8087310791	
+12/7/99 19:30	Naples	ME	Light	at least an hour	My dad told me to come look at the sky, when I went outside I saw several bright lights moving around, some would blink, they didnt app	12/16/99	43.9708709717,-70.6105422974	
+11/17/99 14:30	Raymond	ME	Triangle	2 min.	my daughter saw 2 triangular,blackish objects flying toward each other in a converging point, silently, slowly. And with extreme precis	11/23/99	43.9369087219,-70.4455871582	
+10/15/99 08:00	Fairfield	ME	Light	30 min	spotted light moving through the sky at high rate of speed.  Thought to be a plane or helicopter but too fast for helicopter and han on	11/2/99	44.5892906189,-69.5947418213	
+10/3/99 19:00	Anson	ME	Sphere	4-7 seconds	Illuminated sphere moving very fast overhead in a straight line of travel from horizon to horizon. Object seemed close and possibly hal	10/19/99	44.7980613708,-69.8841400146	
+9/18/99 09:15	East Machias	ME	Light	7 min	Flare Lights	11/26/03	44.7509918213,-67.3667907715	
+9/15/99 09:00	Bath	ME	Triangle	2 minutes	Orange lights that changed to bright white	2/14/10	43.9130783081,-69.8141708374	
+8/22/99 23:30	Portland (@ the Holiday Inn)	ME	Triangle	5MIN	bright orange not to high up but move way to fast to not make any sounds,sharp turns at high speeds in and out of formation,dropped and	3/16/00	43.6591415405,-70.256652832	
+8/15/99 20:30	Bath	ME	Changing	2 minutes	A few years ago on my way to work, at about 9:30 at night I observes while driving what appeared to be a huge air plane to my left. The	10/20/05	43.9130783081,-69.8141708374	
+8/1/99 22:30	West Kennebunk	ME	Sphere	3 min.	witnessed a small unidentifiable object up close ( 25 yards)	9/2/05	43.408821106,-70.5790863037	
+7/27/99 01:30	Macwahoc	ME	Other	45seconds	just like ship chased by 2 dozen ohio cops 5 years ago except narrower than one on tv at least 5stories high 6 lights green and orange 	8/30/99	45.6282310486,-68.2634124756	
+7/23/99 19:50	South China	ME	Other	5 mins	A self luminous eliptical object was seen to be descending towards the horizon.	9/12/99	44.3972511292,-69.569442749	
+7/15/99 19:00	Oxford	ME	Disk	10 minutes	A Disk shape object spinning slowly with lights around it.  Hoovering over some trees...	2/1/07	44.13230896,-70.4972000122	
+6/27/99 23:42	Ashland	ME	Triangle	2 min	I was standing outside when I saw a light in the distance.  It was very far away, headed in a NE direction.  It was moving very slowly.	7/5/99	46.6312484741,-68.4039993286	
+6/6/99 22:00	Bangor	ME	Light	2-3 minutes	A bright light hovering in the sky, closes into itself, then takes off at an incredible speed.	7/25/04	44.8017082214,-68.7707672119	
+2/14/99 21:20	Belfast	ME	Sphere	5seconds	Wife and daughter observed bright green sphere out east window, arcing south to north towards ground.	4/2/99	44.425868988,-69.0079727173	
+12/12/98 02:30	Bangor/Falmoth (Between)	ME	Light	Until I gave up looking a	We were driving extremely early in the morning, when I looked up at the sky to watch the stars.  I noticed an unusually bright looking 	5/24/99	45.2750396729,-69.1977767944	
+11/3/98 20:13	Ogunquit	ME	Sphere	:01	GREEN illuminated sphere hurling through sky	11/19/98	43.2470092773,-70.5989685059	
+10/20/98 02:00	Lewiston	ME	Formation	1/2 hour +	While gazing up at the stars, you had to look carefully but I noticed a formation yet more a bunch of single lighted objects. They were	1/28/99	44.0985488892,-70.2183532715	
+10/11/98 22:40	Bar Harbor (Bar Island Crossover)	ME	Sphere	30 Seconds	My friend Steven and I were crossing over to Bar Island at low tide when we witnesses a green spherical object crossing the sky at a gr	11/1/98	44.3888092041,-68.2114562988	
+9/15/98 21:00	Ft. Fairfield	ME	Light	15 min	a bright light	3/4/03	46.7725410461,-67.8359985352	
+8/5/98 21:00	East Machias	ME	Light	1 minute	Light in sky got brighter and truck almost stalled out light flickered out.	11/1/98	44.7509918213,-67.3667907715	
+7/24/98 01:40	Portland	ME	Other	10 SECONDS	As I looked to the northern sky as I stepped from my car, I looked up into a constellation of stars.  Soon thereafter, it was if one of	11/21/98	43.6591415405,-70.256652832	
+7/5/98 21:00	Portland	ME	Triangle	25 Minutes	Triangle object made up of several balls of light, the back of the triangle was missing, almost like the lesser sign.	5/15/06	43.6591415405,-70.256652832	
+6/24/98 18:30	Lewiston (In Maine near)	ME	Light	Felt like a second	Blinded	12/2/00	44.0985488892,-70.2183532715	
+5/16/98 02:30	Westbrook	ME	Oval	40 seconds	This was my Prom night last year, basically my date and I were on our way back to my house, we were on route by my car and I noticed an	5/24/99	43.6790008545,-70.3386230469	
+4/22/98 16:00	Machias	ME	Light	10 MIN	Intergalactic Fisherman	8/16/02	44.7145500183,-67.4629669189	
+4/5/98 01:00	Winslow	ME	Light	5 minutes	followed home by low flying light	12/2/00	44.5461196899,-69.6171722412	
+4/4/98 23:30	Gardiner	ME	Circle	6-10 minutes	Went straight up and down for 5 minutes and then dissapeared. Later that night my Mom and I saw it agian do the same thing, only this t	1/28/99	44.2291793823,-69.7747497559	
+3/16/98 20:56	Bar Harbor	ME	Fireball	20 seconds?	It looked like an audio tape.  Was moving very slow in the night.	1/28/99	44.3888092041,-68.2114562988	
+3/5/98 22:45	Pittsfield	ME	Formation	15 min	one large craft silver spinning and emitting a strange light.  three smaller fireball-like balls moving in random directions around the	1/28/99	44.7835617065,-69.3817977905	
+2/27/98 22:10	Bangor	ME	Flash	4 seconds	Spotted strange pulsing light flying at a high rate of speed north to south.	1/28/99	44.8017082214,-68.7707672119	
+1/10/98 10:00	Beals	ME	Circle	16sec.	On my porch my friend and I saw a  round ,white light in the sky it moved  acrossed the sky faster then the average plane. After about 	1/28/99	44.5203514099,-67.6122436523	
+12/15/97 22:30	Gardiner	ME	Disk	10-15 minutes	Saw Disk-like object above trees.  Hovering then doing a oval orbit.  Watch for about 10-15 minutes.  Disapeared behind tree line.	1/28/99	44.2291793823,-69.7747497559	
+9/1/97 23:00	Albany	ME	Light	2 min	Star makes right angle turns, speeds away.	2/1/07	43.6166877747,-70.3126754761	
+8/29/97 21:30	Livermore Falls	ME	Fireball	15 minutes	It finally split into two distinct balls of bright orange fiery lights about 1000 feet above and ahead of us.	1/17/04	44.4719810486,-70.1893997192	
+8/16/97 17:00	Loring AFB	ME	Cigar	5 or 6 minutes	cigar shaped object spotted over loring air force base in maine august 1997	2/14/06	46.9387893677,-67.8939285278	
+8/15/97 15:00	Denmark	ME	Disk	seconds	Was taking pictures of the westerly New Hamphire mountains while hiking. Object was silent and appeared to be banking in the sky. It wa	3/19/02	43.9703407288,-70.8038787842	
+7/11/97 20:00	Gorham	ME	Cigar	small white plane of some	small cigar shaped ufo moveing slowy seen in same spot tiwces going the same way. Very high in the sky.	1/28/99	43.6857872009,-70.4477920532	
+7/5/97 19:30	N. Waterboro	ME	Sphere	1 min	A giant silver sphere appeared over the trees while I was fishing. The size was twice the size of any full moon.As I was rationalizing 	2/16/99	43.6242980957,-70.739616394	
+6/15/97 20:27	Swanville	ME	Light	5 min	It was a bunch of flashing lights almost like a strobe light	1/28/99	44.5218696594,-69.0023117065	
+6/10/97 12:00	Newport	ME	Disk	5 mins.	Silver saucer with white flashing lights flew overhead	10/8/07	44.8352508545,-69.2727203369	
+8/1/96 21:00	Ellsworth	ME	Chevron	00:10	Silent craft crosses highway, then follows us unknowingly.	9/21/00	44.5414009094,-68.4243087769	
+7/1/96 23:00	Brunswick	ME	Light	9 seconds	What I saw was a bright flash of gold light that appeared in one part of the sky, it died down and apeared in adifferent part of the sk	5/24/99	43.9168014526,-69.9638519287	
+6/11/96 01:00	Phippsburg	ME	Disk	15:00 Minutes	UFO seen In maine	6/12/07	43.8672485352,-69.819152832	
+6/10/96 01:00	Eddington	ME	Triangle	4 minutes	Triangular shaped UFO with blue lights hovering above field off of Route 46 in Eddington, Maine.	4/22/03	44.8138618469,-68.6269607544	
+6/1/96 02:30	Ft Mead	ME	Triangle	17min	Dark matt black. hooverd over a transformer. I sat still with fear and whatched as it had no sound, but  lights were on each of the cor	7/5/99	45.2750396729,-69.1977767944	
+1/26/96 23:59	Sedgewick	ME		2 min.	Woman w/ husband witness a white orb, larger than (apparent) size of moon, w/ "orange dots imbedded in it."  Obj. streaks off.	11/2/99	44.3076095581,-68.6155395508	
+11/17/95 22:35	Biddeford	ME		2 min.	Man leaves work at hospital, encounters large "plate-shaped obj. w/ 3 multi-color rings around it."  Obj crossed road, rose vert.	11/2/99	43.4937591553,-70.4568862915	
+11/17/95 22:27	York	ME		5 sec.	Father, son, & many bystanders witness incredible "starlike" obj. w/ "white aura, long green tail," STREAK FAST from NE to SW.	11/2/99	43.1440200806,-70.6511535645	
+11/17/95 22:26	Yarmouth	ME		5 sec.	Young man reports huge, bright white light, "w/ green wake," pass overhead very fast.  Other witnesses stopped cars.	11/2/99	43.800868988,-70.1873626709	
+9/30/95 23:10	Troy	ME			Man repts. obj. in night sky w/ flashing red, green, white lights.  Repts. than 4 of objects suddenly "came together." (Facts unclear.)	11/2/99	44.6721305847,-69.2643432617	
+9/29/95 19:30	Manchester	ME		10 min.	Man & son driving on I-95 see strange, stationary light, then 2nd streaks up.  First obj. approaches car.  Son recalls details of ship.	11/2/99	44.3242683411,-69.8782424927	
+9/29/95 19:30	Manchester	ME			Mother calls to report that her son would not go to bed "until he had drawn in detail the interior of ship" he had seen that night.	11/2/99	44.3242683411,-69.8782424927	
+8/20/95 23:00	Shapleigh	ME			Mother & daughter witness strange, bright lights, which appear to be moving relative to background stars.  (Facts incomplete.)	11/2/99	43.5389518738,-70.8447570801	
+8/15/95 21:30	Brunswick	ME	Other	30 sec	three fire orange colored lights circling a fourth light	6/18/03	43.9168014526,-69.9638519287	
+8/6/95 21:57	Moosehead Lake	ME		10 min.	USAF crew chief (ret.) & 2 nephews witness huge cigar-shaped obj. move across sky from E to W.  Had strange, triangular lights.	11/2/99	45.6442909241,-69.6527023315	
+6/30/95 22:00	Portland	ME	Formation		Objects flying over Portland, Maine in V shape	6/12/08	43.6591415405,-70.256652832	
+6/28/95 23:00	Lisbon	ME			Young man looking out window sees very  bright "star" drifting slowly across sky.  Calls police. Two witnesses.	11/2/99	44.0252113342,-70.1003265381	
+6/28/95 21:00	Portland	ME	Changing	20 min	It was still light out  we sat under it for 3 min	3/10/11	43.6591415405,-70.256652832	
+5/23/95 22:50	Woodland	ME		20 min.	Woman, husband, police officer, & sec. guard witness 2 objs., one large & white, one smaller, red & green.  8 windows in big one!	11/2/99	45.1549186707,-67.4073791504	
+4/19/95 22:19	Augusta	ME			ME State Police relay rept. of huge, fluorescent object reported by caller in Augusta.	11/2/99	44.318031311,-69.7762069702	
+3/27/95 21:50	Harmony	ME		90 min.	Retired ship captain reports strange light to NE.  (Later writes to confirm obj. is star.)	11/2/99	44.9790496826,-69.5473022461	
+2/9/95	Auburn	ME			Girl reports sighting strange object.  ( Facts unclear.)	11/2/99	44.0977592468,-70.2292861938	
+1/26/95 19:00	West South Port	ME	Unknown	1 min.	Woman in darkened, rural beach property saw object hovering over ocean, rise, dart, descend and disappear.	11/2/99	43.8249511719,-69.6731491089	
+1/15/95 12:00	Gorham	ME		2 weeks	Man called to enquire about all the strange sighting that had been reported in his area during recent past.	11/2/99	43.6857872009,-70.4477920532	
+8/24/94 23:30	Belfast	ME	Triangle	20 min.	Scared to death at a city park.  Overlooking Belfast Harbor	10/19/99	44.425868988,-69.0079727173	
+8/10/94 02:00	Macwahoc	ME	Disk	3:00min	in 1995 9months later I saw the exact same craft on an episode of unsolved mysteries except the dome on this craft was dark not illumin	8/30/99	45.6282310486,-68.2634124756	
+7/15/94 20:30	Sebago Lake	ME	Light	4mins	Bright silent lights above lake	7/5/99	43.8651809692,-70.560043335	
+6/23/94 22:00	Dresden	ME	Disk	5 minutes	dresden bog	4/16/05	44.1052017212,-69.7203674316	
+5/12/94 22:15	Winslow	ME	Disk	1 min	fast moving high altitude pulsating disc	2/1/07	44.5461196899,-69.6171722412	
+9/1/93 22:00	Bethel (Albany Township)	ME	Light	2 minutes	A bright star made right-angle turns without deceleration and sped down over the horizon.	9/29/04	44.4040794373,-70.7909317017	
+8/21/93 09:30	Biddeford	ME	Diamond	10minutes	there was my friend his wife and myself we were at a place called rotary park.its a swimming place in biddiford. we had just finished s	4/28/01	43.4937591553,-70.4568862915	
+6/1/93 05:30	Clinton	ME	Other	10 seconds	Bright star	12/16/05	44.6362113953,-69.5065307617	
+8/15/92 23:00	Limerick	ME	Circle	3-5 minutes	traveling downhill out of Limerick I saw a huge solid globe emitting light around it, standing still in the sky.	2/14/08	43.6953010559,-70.7893676758	
+7/26/92 23:30	East Corinth	ME	Oval	45 minutes	A large object came across a field, hovered directly overhead at about 150', then played "cat and mouse" games with me for about 45 min	4/2/99	45.0023803711,-69.0228500366	
+6/30/92 20:00	Millinocket	ME	Triangle	30 minutes	Alternating red lights in the Northern Maine Woods	5/24/05	45.6573600769,-68.708656311	
+6/1/92 23:00	not shure	ME	Circle	5 min.	Red Lights Over The State Of Maine.	1/10/09	45.2750396729,-69.1977767944	
+2/23/92 19:00	East Winn/Winn.	ME	Sphere	30 minutes	A curious sphere crossed the roads four times.  Changing its color and the "material" it was "made" from (witnessed in e. Winn, Winn Me	2/16/99	45.2750396729,-69.1977767944	
+4/1/91 21:00	Limerick	ME	Disk	15 minutes	disk, spheres	5/24/05	43.6953010559,-70.7893676758	
+11/17/90 04:30	Hallowell	ME	Fireball	2 minutes	Night turns to morning light and back again	3/4/03	44.2869415283,-69.7904129028	
+10/15/90 03:00	North Windham	ME	Fireball	5-7 min	It was a firball that made a perpendicular manuver in North Windham, Maine in 10/90	4/28/01	43.8340797424,-70.4383926392	
+12/24/89 23:45	Orrington	ME	Triangle	15 minutes	Large dark triangular object with two round lights on either end and smaller circular lights in the middle	1/10/09	44.7349395752,-68.8224105835	
+10/1/89 21:30	Orono	ME	Disk	15-20 seconds	Silent Lo-flying Craft with Dome and Bright White Lights	11/26/03	44.8833885193,-68.6721801758	
+7/1/89 23:00	Lovell	ME	Triangle	5 - 10 Minutes	Black Triangle over Lake Kezar in Lovell Maine in the Late 1980's	8/12/08	44.1246185303,-70.8888397217	
+6/15/89 21:00	Patten	ME	Triangle	15 minets	Patten Maine 1989 or 1990, sounded like a strong thunder storme on a clear night."moving towards Baxster State or Allegash"	2/18/01	45.9966392517,-68.4499435425	
+10/15/88 19:55	Orono/Bangor	ME	Triangle	10-15 minutes	Delta shaped craft seen over UMO (1988?) Oct 15 - very quiet and still to slow moving	8/20/01	44.8879470825,-68.8043212891	
+10/10/88 21:00	New Gloucester	ME	Unknown	few minutes	I'm still afraid to look at the sky at night.	1/10/09	43.956741333,-70.2703323364	
+8/8/88 23:00	Benton	ME	Sphere	1 to 2 minutes	Reflective spherical object on or above my car going with the flow and then took off with now noise and no lights.	8/12/01	44.584690094,-69.5523223877	
+4/4/88 02:00	Brunswick	ME	Unknown	10 secs	Navy aircraft completely illuminated by moving, elevated bright green light hovering over airfield	5/11/05	43.9168014526,-69.9638519287	
+6/1/87	Kittery	ME	Unknown	unknown	HI, THIS IN IT'S SELF IS NOT A VISUAL BUT A CONTACT OF AN ALIEN TYPE BEING WITH MY DAUGHTER IN OUR OWN BACK YARD IN THE SUMMER OF 1987.	2/18/01	43.0868682861,-70.7498779297	
+5/1/87 23:00	Winslow	ME	Unknown	15 minutes	This sighting happened beck in the 80'S in winslow maine. I was about 7 or 8 and my brother was about 10 or 11. one night i snuck into	6/3/10	44.5461196899,-69.6171722412	
+10/15/84 19:00	Skowhegan	ME	Disk	5 to 10 min	I was working at a church cleaning the parking lot in the evening approx 7 pm. I looked up towards the sky and I could see and object c	11/16/02	44.766368866,-69.7165908813	
+10/1/84 21:00	Acton	ME	Triangle	3 min.	Silent, very large, one white headlight, red lights around edges	4/2/99	43.5329017639,-70.9091567993	
+8/7/84 21:00	Caribou	ME	Egg	15 minutes	Three of us saw a large object with a searchlight darting and traveling over fields in northern Maine.	8/7/07	46.8592910767,-68.0112380981	
+3/18/84 02:30	Alton	ME	Other	40min	Mother Ship sighting in 1984	10/15/02	45.0313987732,-68.7292022705	
+11/1/82 06:15	Woolwich	ME	Changing	5 minutes	Lifelong UFO's	11/28/07	43.9335784912,-69.7782363892	
+7/8/81 20:00	Lisbon Falls	ME	Fireball	30 seconds	Sphere covered by a blueish flame, traveling north to south, 500 to 700 kts at an altitude around 1500 ft AGL.	2/18/01	43.9966392517,-70.0606079102	
+10/15/80 23:00	Jonesport	ME	Oval	hour or two	green gas sorta cloud very slow south to movement started from horison not much to say about it but it was witness at the same time by 	9/13/02	44.5325317383,-67.5991134644	
+9/15/80 21:00	Southwest Harbor	ME	Light	5 mins	Large round white light	12/19/03	44.2798309326,-68.3250274658	
+7/30/80 22:00	Clinton	ME	Oval	30 minutes	Luminous, oval ring of light	12/16/05	44.6362113953,-69.5065307617	
+6/1/80 09:00	Oldtown	ME	Sphere	3-4 minutes	hovering silver sphere and large triangular craft summer 1980	2/14/06	44.9384689331,-68.6478424072	
+12/20/79 22:00	Houlton	ME	Triangle	3 minutes	I was sitting in a parking Lot,when I noticed this triangular shaped object fly directly over head	11/9/99	46.124080658,-67.8405075073	
+9/21/79 01:00	Cape Elizabeth (near; location unspecified by witness)	ME	Light	Two Hours	At approximately 1AM in September of 1979, a police officer two towns south from the town I work in called our mutual neighboring polic	5/15/06	43.5964202881,-70.2284698486	
+11/27/78 19:00	Baileyville	ME	Light	3 hours	My ex and I was coming home from his parents house and I was about ready to give birth to my first son.  We stopped at a pull off a mil	3/23/04	45.1531105042,-67.4108276367	
+9/15/78 10:00	Wells	ME	Triangle	one minute	huge, diamond shape object flying low  in southern Maine	10/30/06	43.321849823,-70.590927124	
+2/15/78 02:00	Eastport	ME	Cigar	2 MINS	glowing orange cigar shape light, that streached like an elastic.	2/22/05	44.9096298218,-66.9989318848	
+8/15/77 20:30	Caribou (rural Suburb of)	ME	Light	5-10 seconds	I observed a green,circular light travel across my field of view while near a potato field at night.	8/30/99	46.8592910767,-68.0112380981	
+8/15/77 02:00	Portage Lake	ME	Disk	10 minutes?	Back in what I believe was 1977 maybe 78 my family and I took a trip to our farm in Portage Lake Maine. At the time I was in the 5th gr	8/12/01	46.7852516174,-68.5090103149	
+12/25/76 19:00	Winslow	ME	Disk	3 minutes	two disks edge on with light on botom flying in formation.	2/1/07	44.5461196899,-69.6171722412	
+10/2/76 22:00	Limestone	ME	Disk	30	Craft was seen over the nuclear storage area of Loring A.F.B.	1/28/99	46.9122085571,-67.8255691528	
+10/2/76 01:00	Charleston AFS	ME	Unknown	20 Min	On this date I was stationed at Charleston AFS, ME and worked in the reciever section of the AN/FPS-27A Search radar located at the sit	4/16/05	45.2750396729,-69.1977767944	
+9/1/76 19:00	St. Agatha	ME	Light	10 minutes	This very bright light getting brighter and not moving,  I kept my eyes on it ,	2/18/01	47.2432518005,-68.3180084229	
+8/10/76 22:30	Sebago	ME	Light	6 seconds	a point of light appeared, moved from N to S, stopped. from stopping point to west, back to stopping pt., then to east. back to s.p., t	2/16/99	43.8670005798,-70.3330001831	
+6/20/76 00:00	Limestone (Loring AFB)	ME	Cigar	15 Min	what i saw avoided radar and physics flying so slow	12/14/06	46.9122085571,-67.8255691528	
+10/27/75	Limestone	ME	Light	20:00?	Loring AFB 1975 Sighting	6/12/08	46.9122085571,-67.8255691528	
+9/29/75 21:00	St. Agatha	ME	Light	10 minutes	moved and stopped across the horizon at incredible rate of speed	8/24/04	47.2432518005,-68.3180084229	
+8/8/75 21:30	Damarascotta Lake	ME	Disk	10. min	Hello, My name is Jonathan Shea, I saw, not only me but my sister and little brother, were about to leave the boat after I saw what I s	9/21/00	44.129776001,-69.4963226318	
+12/5/74 20:30	Presque Isle	ME	Other	2 mins	cigar shaped lights pass over Presque Isle and disappear over airport (when closed)	1/21/08	46.6816101074,-68.01537323	
+11/10/74 21:00	York	ME	Triangle	1 minute	triangle with lights, and something like landing "legs"	10/20/05	43.1440200806,-70.6511535645	
+8/23/74 02:30	North Windham	ME	Disk	45 MIN.	UNEXPLAINED LIGHTS THAT WENT UNDERWATER FASTER THAN THE SPEED OF LIGHT	2/18/01	43.8340797424,-70.4383926392	
+6/30/74	Caribou Maine	ME	Disk	over several months	I believe the sightings happened in summer of 1974.  I was an airman stationed at Loring airforce base.  The night of the first sightin	10/10/11	46.8592910767,-68.0112380981	
+8/1/73 04:00	Kittery	ME	Formation	10 Seconds	A VERY fast light point object that was viewed for about 10 Seconds.	3/7/98	43.0868682861,-70.7498779297	
+7/10/73 00:00	Bar Harbor	ME	Circle	45 mins	Brilliant, white, perfectly round objects, jetting back and forth, up and down, in night skies.	11/21/10	44.3888092041,-68.2114562988	
+6/1/73 19:00	Eddington	ME	Circle	1 minute	dark circle dim lights from above showed shape stopped in it's path when we spotted it took 90% turn quick stopped turned parrellel too	2/16/00	44.8138618469,-68.6269607544	
+9/1/71 14:00	Dexter	ME	Sphere	1 minute	I was thirteen then. My grandmother, mother and I were having an ice cream in the car outside a diner. About 45-50 degrees south we saw	1/28/99	45.0242118835,-69.2906188965	
+8/27/69 21:00	Enfield	ME	Oval	10-15min	The object would stop and move and then blink off and be somewhere else in the sky. And started moving again but at a slow pace!	4/16/05	45.2489013672,-68.5667037964	
+10/30/68 22:00	Loring AFB	ME	Unknown	one hour	ufo incident over Loring AFB	11/28/07	46.9387893677,-67.8939285278	
+10/1/68 20:00	Kennebunkport	ME	Circle	5-10 minutes	While at the boathouse at St.Athonys one night we noticed what at first we thought was a bright star getting larger.It seemed to dart a	3/19/02	43.3600387573,-70.4757003784	
+9/15/67	Caribou	ME	Disk	10 seconds	Three sightings: disc, zig-zagging star, bar of light	8/5/01	46.8592910767,-68.0112380981	
+9/10/67 00:00	Brownville	ME	Circle	3 minutes	Three  metallic circles saw on the western horizon.	4/27/04	45.3078193665,-69.0329208374	
+7/20/67 09:00	West Lake	ME	Circle	4-5 SECONDS	I SAW A ORANGE GLOW LIGHT IN THE DEEP WOODS AT NIGHT MOVING SLOWLY AND CLOSE TO THE TREE TOPS 2 OF MY BUDDIES AT CAMP SAW IT ALSO	1/17/04	46.40184021,-68.1176528931	
+6/1/67	Bangor	ME			Craft landing behind Bangor State Hospital with associated garage door openings and closings in 1967.	11/21/10	44.8017082214,-68.7707672119	
+6/1/67	Bangor	ME		10 minutes	i was watching the news on WABI-tv,bangor,maine and they had an interview with a bangor police officer, telling how he went to investig	12/12/09	44.8017082214,-68.7707672119	
+8/17/66 01:45	Bass Harbor	ME	Disk	5 min	Disk shape object seen in Blue Hill Bay, Bass Harbor, ME , 1966	10/31/03	44.2402114868,-68.3524169922	
+7/4/66 00:00	Cape Rosier	ME	Light	hour?	glowing green ball moving across the horizon on July 4, 1966, in Cape Rosier, Maine	3/19/09	44.331401825,-68.7994003296	
+9/27/65 05:00	Waterville	ME	Circle	3-5 minutes	Round blue circular object hovers and dissolves in Maine.	10/7/03	44.5527915955,-69.6313476562	
+6/28/65	Vassalboro	ME	Disk	1 min	round about 300 " in diameter .silver  with windows.no sound	12/2/00	44.4531402588,-69.6800613403	
+3/15/65 17:00	Waterville	ME	Egg	10 MINS	i dont remember going to my room but when i woke up i went to the site at the end of the drive hidden by the high pile of snow and ther	3/7/98	44.5527915955,-69.6313476562	
+7/3/63 21:00	East Vassalboro	ME	Triangle	3 minutes	Black triangle with central orange light moving slowly across sky.	2/1/07	44.4508285522,-69.6065597534	
+6/1/60 20:00	Vassalboro	ME	Oval	1-2 hr	Multi experiences with unknown.	6/12/07	44.4531402588,-69.6800613403	
+7/4/59 20:00	Gardner Lake (Extreme northeastern  US)	ME	Oval	15 min.	Craft desending ,from high rate of speed to a very slow speed, traveling across Gardner Lake - Landeed on east side of lake	9/12/99	44.7747955322,-67.3550186157	
+8/8/58 15:00	Scarborough	ME	Disk	10 minutes	I was a young girl around 1958 when I saw a saucer-shaped craft on the ground in daylight resting between two sets of power lines	4/16/05	43.5898590088,-70.3360671997	
+6/30/58 16:00	Camden (Penobscot Bay)	ME	Disk	Seconds?	Mother and pre-teen son witness a silver disc crash into Penobscot Bay.	7/16/06	44.2114982605,-69.0648880005	
+6/11/54 02:00	Glenburn	ME	Unknown	2- SECONDS	A FLASH OF METALIC LIGHT REFLECTING OF A OBJECT MOVING AT MY GUESS AT 3-4 000MPH	1/17/04	44.9142189026,-68.8479995728	
+1/1/54	Brunswick	ME	Unknown	unknown	This descripition is second hand from my father.  He was a radar operator at Brunswick Navy Air Station from 1954-58.  The guys that we	3/9/04	43.9168014526,-69.9638519287	
+9/15/52 14:00	Norridgewock	ME	Disk	4-5 MINUTES	SUNNY DAY, WITHIN 450 FEET, LOW...REPORTED TO DOW A.F.B.   IN BANGOR. NO NOISE SLOW ANTI GRAVITY DEF. NOT FROM EARTH!	12/2/00	44.7136192322,-69.7970428467	
+7/1/46 13:30	South Portland	ME	Oval	10 seconds +/-	motionless, dark oblong, noon sky over ocean, felt Energy-Pull of Observing craft; when spotted,accelerated straight upwards fast	6/12/08	43.6376113892,-70.2517318726	
+5/28/10 21:00	Solon	ME	Unknown	don't know	entry in my great-grandmother's diary,date 28 may 1910,refers to watching the comet zig-zaging in the sky, followed by a zig-zag diagra	12/5/01	44.9499588013,-69.8601913452	
+10/?/98 09:00	Beals Island	ME	Circle	20sec.	((NUFORC Note:  Probable satellite.  PD))  Small light in the sky about the size of a star.	10/20/05	44.5132064819,-67.6113357544	

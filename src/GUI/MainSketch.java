@@ -31,6 +31,8 @@ public class MainSketch extends PApplet{
 	PanButton down = new PanButton(14,57,14,14,DOWN);
 	PanButton left = new PanButton(5,41,14,14,LEFT);
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
+	
+    HBar theScroll = new HBar(100,600,25,924);
 
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
@@ -55,29 +57,31 @@ public class MainSketch extends PApplet{
 	  // the Yahoo ones look terrible because they're not 256px squares :)
 
 	  // set the initial location and zoom level to London:
-	  //  map.setCenterZoom(new Location(51.500, -0.126), 11);
+	    map.setCenterZoom(new Location(34.04f, -95.69f), 4);
 	  // zoom 0 is the whole world, 19 is street level
 	  // (try some out, or use getlatlon.com to search for more)
 
 	  // set a default font for labels
 	  font = createFont("Helvetica", 12);
-
+	  
 	  // enable the mouse wheel, for zooming
 	  addMouseWheelListener(new java.awt.event.MouseWheelListener() { 
 	    public void mouseWheelMoved(java.awt.event.MouseWheelEvent evt) { 
 	      mouseWheel(evt.getWheelRotation());
 	    }
 	  }
-	  ); 
+	  );
+	  
+	 
 
 	}
 
 	public void draw() {
 	  Utils.globalProcessing.background(0);
-	  if(true){
-		  ParallelGraph.draw(Utils.allSightings);
-		  return;
-	  }
+	  //if(true){
+		//  ParallelGraph.draw(Utils.allSightings);
+		//  return;
+	  //}
 	  // draw the map:
 	  map.draw();
 	  // (that's it! really... everything else is interactions now)
@@ -160,7 +164,7 @@ public class MainSketch extends PApplet{
 	    Utils.globalProcessing.fill(255,255,0);
 	    Utils.globalProcessing.textAlign(RIGHT, BOTTOM);
 	    Utils.globalProcessing.text("map: " + location, width-5, height-5);
-
+	    
 	/*
 	    location = new Location(51.500, -0.126);
 	    Point2f p = map.locationPoint(location);
@@ -168,6 +172,7 @@ public class MainSketch extends PApplet{
 	    fill(0,255,128);
 	    stroke(255,255,0);
 	    ellipse(p.x, p.y, 10, 10); */
+	    theScroll.drawContent();
 	  }  
 	  
 	  //println((float)map.sc);
