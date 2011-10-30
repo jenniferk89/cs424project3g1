@@ -55,7 +55,7 @@ public class MainSketch extends PApplet{
 	  // the Yahoo ones look terrible because they're not 256px squares :)
 
 	  // set the initial location and zoom level to London:
-	  //  map.setCenterZoom(new Location(51.500, -0.126), 11);
+	    map.setCenterZoom(new Location(34.04f, -95.69f), 4);
 	  // zoom 0 is the whole world, 19 is street level
 	  // (try some out, or use getlatlon.com to search for more)
 
@@ -74,10 +74,10 @@ public class MainSketch extends PApplet{
 
 	public void draw() {
 	  Utils.globalProcessing.background(0);
-	  if(true){
-		  ParallelGraph.draw(Utils.allSightings);
-		  return;
-	  }
+	  //if(true){
+		//  ParallelGraph.draw(Utils.allSightings);
+		//  return;
+	  //}
 	  // draw the map:
 	  map.draw();
 	  // (that's it! really... everything else is interactions now)
