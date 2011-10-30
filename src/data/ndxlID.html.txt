@@ -1,0 +1,415 @@
+DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
+10/5/11 06:45	Boise	ID	Unknown	one min	Bright Flashes	10/10/11	43.6069793701,-116.193412781	
+10/1/11 15:00	Boise	ID	Unknown		UFO Gowen Field october 1st 2011	10/10/11	43.6069793701,-116.193412781	
+9/29/11 01:26	Idaho Falls	ID	Triangle	3 min	triangel shape 3 light one one each coner greenish yellow made no noise at all moving very fast	10/10/11	43.4920005798,-112.041992188	
+9/26/11 21:30	Boise	ID	Oval	hour	multi-color flashing lights with bright white in the middle. Hovering with no noise every night.  ((NUFORC Note:  Sirius?  PD))	10/10/11	43.6069793701,-116.193412781	
+9/16/11 22:30	Boise	ID	Light	5 Minutes	Two seperate lights that flashed and then started moving towards one another.	10/10/11	43.6069793701,-116.193412781	
+9/10/11 23:30	Twin Falls	ID	Fireball	1 min	Orange fiery-looking orb appeared to be floating at the treeline.	10/10/11	42.5561904907,-114.469612122	
+9/10/11 05:20	Ammon	ID	Light	21 min	i saw this object in the east southeast sky, it had many colors and moved at great speed in all directions but seemed to stay close to	10/10/11	43.4676094055,-111.969276428	
+9/5/11 00:30	Pocatello	ID	Light	15 minutes	Not quite a satellite.	10/10/11	42.874710083,-112.450569153	
+8/30/11 22:30	Boise	ID	Light	5 Minutes	Reported light may not have been the ISS.	10/10/11	43.6069793701,-116.193412781	
+8/30/11	Felt	ID	Triangle	5 minutes	A near duplicate sighting, eleven yr.s apart. same general location	10/10/11	43.8718109131,-111.18006897	
+8/25/11 21:30	Nampa	ID	Cross	2 minutes	2  witness what appeared to be a low flying small aricraft completely on fire streak across the night sky.	10/10/11	43.582611084,-116.569633484	
+8/25/11 21:30	Mountain Home	ID	Circle	30 sec	5 bright orange lights seen by 3+  Air Force personnel in Idaho	10/10/11	43.131439209,-115.69342041	
+8/16/11 22:22	Boise	ID	Light	10 minutes	Bright Red UFO Seen Over Boise at End of Hyde Street Fair	10/10/11	43.6069793701,-116.193412781	
+8/15/11 22:00	Boise	ID	Circle	5 minutes	high flying thing.  ((NUFORC Note:  ISS over-flight at 21:57 hrs.; SW to NE.  PD))	8/21/11	43.6069793701,-116.193412781	
+8/12/11 15:00	Emmett	ID	Disk	6 mins	the craft was very shiny	8/21/11	43.8741188049,-116.500061035	
+8/5/11 23:45	Cambridge	ID	Triangle	2 minutes	Triangle shaped figure flying low making no noise and flashing red and blue lights very fast	8/21/11	44.5721893311,-116.676048279	
+8/4/11 22:00	Post Falls	ID	Light	25 seconds	Bright light on mountain top by cell tower- receded behind mountain after 25 sec	8/7/11	47.7115287781,-116.948097229	
+8/3/11 22:49	Nampa	ID	Triangle	10 minutes	Two large amber glowing objects over Nampa/ Caldwell  Idaho	8/7/11	43.582611084,-116.569633484	
+7/23/11 23:00	Lewiston	ID	Light	less than 30 seconds	Fast traveling bright light that appeared and disappeared in less than 30 seconds.	8/7/11	46.4186515808,-117.016662598	
+7/17/11 13:00	Lewiston	ID	Triangle	20 minutes	Three delta, possibly "bat-shaped" objects observed flying due west between 10,000 and 25,000 feet at very high rate of speed.	8/7/11	46.4186515808,-117.016662598	
+7/4/11 22:45	Star	ID	Fireball	2 mins	REDDISH-ORANGE anomoly appears in the sky about 25 degrees above horizon, moves, changes course, drifts overhead as if observing .	7/6/11	43.6919517517,-116.487968445	
+7/3/11 22:50	Nampa	ID	Fireball	2 minutes X2	Two very bright red objects travelling with missile-like speed across the entire night sky NNW to SSE	7/4/11	43.582611084,-116.569633484	
+6/25/11 16:40	Carey (15 miles east of; on Hwy 20)	ID	Rectangle	3 minutes	Rectangular object observed for three minutes, then it instantly vanished.	7/4/11	43.3134117126,-113.945877075	
+6/25/11 01:00	Stanley	ID	Light	20 minutes	3 alternating color, fast moving lights over Stanley Lake in Stanley, Idaho.	7/4/11	44.2171707153,-114.936439514	
+5/10/11 00:07	Boise	ID	Unknown	2 minutes	Stationary flashing lights in SE sky from Boise, Idaho	5/12/11	43.6069793701,-116.193412781	
+5/5/11 22:00	Nampa	ID	Triangle	5 min+or-	I was taking my evening walk in a westernly direction when I noticed a very bright light in the northwest. The light was many times bri	5/29/11	43.582611084,-116.569633484	
+5/5/11 09:15	Lewiston	ID	Fireball	4 minutes	3 fireballs around lewiston idaho	5/12/11	46.4186515808,-117.016662598	
+5/1/11 00:55	Pocatello	ID	Light	three minutes	I saw several bright red lights in the WNW sky that didn't blink and faded in less than three minutes from the time I first spotted the	5/2/11	42.874710083,-112.450569153	
+4/30/11 22:30	Nampa	ID	Chevron	+/- 5ive min.	Lights many times brighter than the backgroung of stars!	5/2/11	43.582611084,-116.569633484	
+4/22/11 23:00	Burley	ID	Light	3 minutes	Mystery disc seen from 50 or less feet away zooms off!!	5/29/11	42.5348587036,-113.793258667	
+4/9/11 05:00	Coeur d'Alene	ID	Other	30 sec	object stood stationary but moved great distances in seconds and stood stationary again	5/2/11	47.6718597412,-116.776161194	
+3/20/11 19:00	Chicago	ID	Cigar	2 mins	It was the vapor trail that made a ring in the sky.	3/23/11	43.5306587219,-116.542236328	
+3/19/11 22:30	Boise	ID	Oval	3-4 minutes	Amber light hoovering in the west sky	4/3/11	43.6069793701,-116.193412781	
+3/1/11 05:15	Burley	ID	Fireball	30 minutes	Bright fireball in sky 15 miles away hovering in sky for 30 minutes until sun rises.	5/29/11	42.5348587036,-113.793258667	
+1/17/11 18:32	Coeur d' Alene	ID	Circle	5-25 seconds	Circle moving fast left trail of light about twice the size of the full moon.	1/31/11	44.3890686035,-114.659370422	
+1/15/11 01:30	Shoshone	ID	Light	20 minutes	Saw strange light going in circles, then it shot up to space.	3/10/11	42.9361000061,-114.408660889	
+1/8/11 03:00	Glenns Ferry	ID	Light	every morning	Is this a enormous star or a planet?	1/31/11	42.9546089172,-115.299919128	
+11/14/10 23:00	Rathdrum Prairie	ID	Triangle	45 sec - 1 min	triangle shaped object with 3 bright lights and 1 dull pulsating light underneath the craft it moved silently	11/21/10	44.3890686035,-114.659370422	
+10/20/10 19:00	Boise	ID	Fireball	5 minutes	Fireball changes directions a stops in the sky.	11/21/10	43.6069793701,-116.193412781	
+10/2/10 00:00	Boise	ID	Light	1 hr	Im sitting here looking south west at a bright light that is the only thing in the sky, not a single star can be seen from the lights o	11/21/10	43.6069793701,-116.193412781	
+9/3/10 10:45	Hayden	ID	Triangle	10 sec	three dim lights in the sky.	11/21/10	47.7572288513,-116.791267395	
+9/3/10 10:20	Hayden Lake	ID	Triangle	about 30seconds	Boomerand shaped lights in the sky and where moving fast in circles.	11/21/10	47.765789032,-116.757972717	
+8/25/10 22:39	Caldwell	ID	Light	5 min.	bright blue light	8/30/10	43.6674385071,-116.692588806	
+8/24/10 16:05	Garden City	ID	Flash	4 minutes	Quick Flashing Object Ascends Over Fair Grounds And Pulses Motionless In Sky	8/24/10	43.6602706909,-116.279747009	
+8/24/10 08:00	Boise	ID	Disk	2 minutes	Multiple sightings of very fast, bright, disk shaped flying things.	8/30/10	43.6069793701,-116.193412781	
+8/20/10 13:00	Nampa	ID	Cigar	5 minutes	cigar shaped UFO. Mediam grey.  no noise. large. elevation about the hight of normal helicopter flying overhead.	11/21/10	43.582611084,-116.569633484	
+8/15/10 22:00	Caldwell	ID	Cylinder	3 seconds	UFO Rods have been filmed in daylight--Now read about how to see them at night.	11/21/10	43.6674385071,-116.692588806	
+8/12/10 12:30	Boise	ID	Triangle	40 minutes and counting	There are recurring crafts hovering and flying over boise that are not of this world.	8/24/10	43.6069793701,-116.193412781	
+7/20/10 21:15	Burley	ID	Disk	5 seconds	Disc shaped UFO sighted over Idaho	8/24/10	42.5348587036,-113.793258667	
+7/17/10 23:00	Bruneau/Mountain Home (between)	ID	Triangle	1-2 Minutes on and off	3 Lights, 25 Ft. Off The Ground Forming A Triangle Flash In And Out Twice & Then From Afar Coyotes Howl At It For 4-5 Minutes	7/28/10	44.3890686035,-114.659370422	
+7/17/10 21:00	Mountain Home (observatory)	ID		5-10 seconds	Telephoned Report:  Three witnesses observe three distinctly yellow lights maneuvering around astronomical observatory.	7/19/10	43.131439209,-115.69342041	
+7/13/10 10:30	Victor	ID	Changing	5-10 minutes	Rod shaped appearance that in photos look more like double lights during daytime.	8/30/10	43.5999794006,-111.111366272	
+7/12/10 22:00	Cambridge	ID	Sphere	2+ hours	A second sighting in a small rural Idaho town.	7/19/10	44.5721893311,-116.676048279	
+7/11/10 22:45	Boise	ID	Other	20 seconds	Large translucent orange/gold v-shaped object flying from wast to west in straight line	7/19/10	43.6069793701,-116.193412781	
+7/10/10 22:00	Moore	ID	Light	1 hr.	ALIEN LANDING OF UNKNOW ORIGIN TO GO ALONG WITH STRANGE BEHAVIOR OF WILD ANIMALS AND PEOPLE IN THE AREA  500 Lights On Object0: Yes	11/21/10	43.7360115051,-113.366462708	
+7/8/10 23:00	Cambridge	ID	Circle	15-20 min	A bright light spinning and weaving over a small town in Idaho.	7/10/10	44.5721893311,-116.676048279	
+7/3/10 22:00	Nordman	ID	Light	1 hour	Strange slow moving orange light traveling from west to east then turned abruptly and disappeared.	7/6/10	48.6318016052,-116.944869995	
+6/27/10 02:55	Pocatello	ID	Light		a light moving fairly fast.	7/6/10	42.874710083,-112.450569153	
+5/11/10 22:37	Boise	ID	Light	minute	sporadically fast moving bright light too low to be a satellite and to high to be a plane fades into the stars after a minute	5/12/10	43.6069793701,-116.193412781	
+5/8/10 12:45	Fort Hall	ID	Disk	1to 2 minutes	silver disk hovering above house	6/3/10	43.0298690796,-112.437149048	
+5/1/10 06:00	Fruitland	ID	Triangle	5 minutes	Triangular shaped something hovering over a dairy farm.	2/18/11	44.0088806152,-116.918609619	
+4/20/10 23:59	Post Falls	ID	Light	In filed by my house	It was looking at my house, in tryed to act fast for us to not see it back.	5/12/10	47.7115287781,-116.948097229	
+3/18/10 21:00	Meridian	ID	Fireball	1 hour	looks like hundreds of lights in a circle and is moving slowly across the sky. It changes form and does not look like anything that is	4/13/10	43.611000061,-116.392227173	
+2/2/10 20:00	Wendell	ID	Light	20 min approx.	Amber lights appearing in the skies over Wendell, ID 8:00PM 02/02/2010	2/14/10	42.775428772,-114.704772949	
+2/1/10 21:00	Wendell	ID	Light	20 minutes	Amber lights moving in a diagnal angle seen south of wendell idaho	2/14/10	42.775428772,-114.704772949	
+1/22/10 04:40	Boise	ID	Changing	20-25 seconds	33' Wide White Object seen over Boise, ID, emitting Screeching/Shrill Noise (01/22/10)	2/14/10	43.6069793701,-116.193412781	
+1/16/10 19:30	Boise	ID	Changing	2 minutes	Red Light Above Boise Descends at Tremendous Speed, Stops to Hover, Emits Radiation - All filmed by Observer 01/16/2010	2/14/10	43.6069793701,-116.193412781	
+12/30/09 21:04	Boise	ID	Light	10 seconds	Bright white light moving downward south of Boise then leveling off.	2/14/10	43.6069793701,-116.193412781	
+10/5/09 20:10	Eagle	ID	Fireball	4 minutes	A bright fire ball light hovering in the lower sky over Boise Eagle  area.	12/12/09	43.6951904297,-116.350166321	
+9/23/09 01:00	Meridian	ID	Disk	2 Hrs	Over 2 hours long UFO hoovers nears Boise, Idaho skys.	12/12/09	43.611000061,-116.392227173	
+9/18/09 23:00	Boise	ID	Light	20 minutes	Red, slowly pulsating light, that hovered in the north for twenty minutes.	12/12/09	43.6069793701,-116.193412781	
+9/18/09 21:50	Boise	ID	Light	15:00	Bright red light in sky moving very slow and at a random pace.	12/12/09	43.6069793701,-116.193412781	
+9/18/09 21:10	Boise	ID	Circle	30 minutes	Circle of intensely bright red lights that initially spewed out falling lights and hovered for a long time before receding slowing up.	12/12/09	43.6069793701,-116.193412781	
+9/18/09 21:00	Boise	ID	Light	20 Mins	A red light North of Boise, erratic/still, movment!	12/12/09	43.6069793701,-116.193412781	
+9/15/09 21:37	Post Falls	ID	Light	5 minuates	Unkn object following aircraft	12/12/09	47.7115287781,-116.948097229	
+9/10/09 21:30	Emmett	ID	Circle	60 sec	Light looked like a star but bigger and brighter went across the sky semi fast got dimmer. ((NUFORC Note:  Satellite??  PD))	12/12/09	43.8741188049,-116.500061035	
+7/21/09 22:00	Greenleaf	ID	Light	30 seconds	saw light in the southwestern sky of Idaho around the area of greenleaf light appeared in the eastern sky then disappeared	8/5/09	43.6697616577,-116.815246582	
+7/20/09 23:14	Boise	ID	Light	10 Seconds	Very bright object aprox 1000ft agl, steady west to east course, suddenly dims to complete dark.  Similar to shooting star fadeout, yet	8/5/09	43.6069793701,-116.193412781	
+7/4/09 21:49	Plummer	ID	Rectangle	1 minute 45 seconds	Bright orange object over Northern Idaho.	8/5/09	47.3351898193,-116.88609314	
+6/29/09 23:00	Midvale	ID	Fireball	3-4 minutes	Large orange fireball, turning to orange light heading North to South in central Idaho sky, hovering at times then disappearing.	8/5/09	44.4718589783,-116.735237122	
+6/20/09 10:00	Workey	ID	Other	2 minutes	A bright glowing hour glass shaped object  which was stationary in the night sky	8/5/09	47.40076828,-116.919487	
+6/12/09 00:47	Hayden	ID	Triangle	5 minutes	TRIANGULAR FLY BY AGAIN... 3 WHITE FLASHING LIGHTS ONE PULSING RED LIGHT	8/5/09	47.7572288513,-116.791267395	
+6/11/09 00:30	Hayden	ID	Triangle	3 Minutes	TRIANGULAR OBJECT WITH WHITE AND RED FLASHING LIGHTS	8/5/09	47.7572288513,-116.791267395	
+6/3/09 23:25	Hayden	ID	Formation	25 minutes	3 CONCURRENT SIGHTINGS WITHIN 25 MINUTES OF EACH OTHER:  At 23:25 on 6/03/09 my girlfriend and I were stargazing when I noticed what I	6/9/09	47.7572288513,-116.791267395	
+6/3/09 23:25	Hayden	ID	Other	4 hours	20 Glowing Boomerang shaped objects during 5 sightings over 4 hours	8/5/09	47.7572288513,-116.791267395	
+4/15/09 12:00	Montpelier	ID	Cross	about 3 minutes	4 lobed craft hovering over Montpelier, ID in broad daylight.	7/4/11	42.3176383972,-111.301628113	
+3/12/09 16:15	Boise	ID	Sphere	5 minutes	White Spherical objects seen	3/19/09	43.6069793701,-116.193412781	
+2/21/09 09:00	Weiser	ID	Unknown	45 mins	BRIGHT WHITE OBJECT CHANGEING IN COLOR MOVEING OVER INDIAN HEAD MOUNTAIN	3/19/09	44.2459182739,-116.970108032	
+1/31/09 21:00	Wendell	ID	Light	10-15 minutes	Bright red/orange lights move into diagonal formation	5/12/09	42.775428772,-114.704772949	
+1/28/09 18:00	Nampa	ID	Light	Approx. 100 seconds	Interesting light in sky, definitely space-object, behaved like satellite, but was momentarily very, very bright	3/19/09	43.582611084,-116.569633484	
+1/19/09 18:27	Post Falls	ID	Unknown	6 sec	Anamoly in long exposure photo	3/19/09	47.7115287781,-116.948097229	
+11/29/08 17:00	Buhl	ID	Diamond	all night	while fishing on the snake river my wife and I saw two star like objects move a great distance across the horizon before dusk.	1/10/09	42.5986595154,-114.760147095	
+10/17/08 23:00	Riggins	ID	Oval	30 minutes	Was out hunting and looked up and saw what seemed like a star blinking. Then we put a spotting scope to it and the object remained stat	10/31/08	45.4221992493,-116.314796448	
+10/1/08 20:03	Idaho Falls	ID	Light	15 seconds	Stationary lights in the path of the ISS	10/31/08	43.4920005798,-112.041992188	
+9/27/08 03:30	City of Rocks National Reserve	ID	Unknown	1-2 hours	Color changing light moving erratically just off the horizon in the distance.	10/31/08	44.3890686035,-114.659370422	
+9/21/08 02:30	Rathdrum	ID	Unknown	40 minutes	At approximately 2:30 on September 21, 2008 I heard a buzzing sound that appeared to be coming from my roof. I stepped onto the porch a	10/31/08	47.8113708496,-116.896438599	
+9/21/08 02:30	Rathdrum	ID	Unknown	40 minutes	Dear Mr. Davenport, Here is a brief description of my brothers experience.I'm listing my contact information because we do not want it	10/31/08	47.8113708496,-116.896438599	
+8/24/08 21:00	Coeur d'Alene	ID	Light	15 minutes	I saw what appeared to be a satellite, but then it stopped moving, then moved in several directions.	10/31/08	47.6718597412,-116.776161194	
+8/18/08	Pocatello	ID			((HOAX??  Contact information is bogus.))  Trying to submit a sighting; under one week old.	10/31/08	42.874710083,-112.450569153	
+8/9/08 22:30	Orafino	ID	Flash	45 minutes	Saw flashes of light, like strobes, at high altitude but not in a straight line and only every ten seconds or so	8/5/09	46.4796295166,-116.255401611	
+8/4/08 23:00	Boise	ID	Other	8-10 minutes	((HOAX??))  Noted a star/spider shaped craft with yellow lights and blinking lights at ends.	8/12/08	43.6069793701,-116.193412781	
+8/4/08 22:10	Pocatello	ID	Light	5 Minutes	09/04/08 at approximately 22:10 hours a bright light moved West to East, zigged and zagged then disappeared. ((NUFORC Note:  ISS.  PD))	8/12/08	42.874710083,-112.450569153	
+7/28/08 00:30	Rexburg	ID	Formation	1 min	Course-correcting lights in formation, with possible nuclear site connection	6/9/09	43.8260917664,-111.783088684	
+7/15/08 22:14	Coeur d'Alene	ID			perfect shape of a very bright oval UFO,  the size of the  UFO was the size of moon in lenght.	8/12/08	47.6718597412,-116.776161194	
+7/15/08 16:00	Twin Falls	ID	Triangle	2 minutes	White, triangular object over Twin Falls, ID	8/12/08	42.5561904907,-114.469612122	
+7/13/08 22:00	Hamer	ID	Light	2 hours	We saw several light objects in pairs stationary in the sky and then move in different directions at a high rate of speed.	8/12/08	43.9265289307,-112.205299377	
+5/26/08 22:00	Priest Lake	ID	Light	1hr 15min	Two high altitude, high speed lights half hour apart, no sound, no blinking, yellowish color	6/12/08	48.6094322205,-116.875648499	
+5/26/08 02:15	Lava Hot Springs	ID	Changing	about 2minutes	I observed about 30 amber lights which changed position and shape in the night sky over southeastern Idaho.	6/12/08	42.6184387207,-112.014221191	
+4/3/08 22:45	Rexburg	ID	Cone	3-5 minutes	big, black, dragon shapped object, no lights, slowly gliding at high altitude, kind of a small blur around it	4/17/08	43.8260917664,-111.783088684	
+3/24/08 01:30	Meridian	ID	Other	15 seconds	230 to 250 foot wide Crescent or manta ray shaped object with no audio or lighting low altitude and high speed in Merdian idaho	6/12/08	43.611000061,-116.392227173	
+3/22/08 00:25	Nampa	ID	Light	5 seconds	bright light moving rapidly accross the sky, stops then accelerates at a 90 degree angle	3/31/08	43.582611084,-116.569633484	
+3/11/08 22:00	Challis	ID	Chevron	10 min.	Cited five orange/redish lights flying horizontal in an arched formation over Challis, Idaho.	3/31/08	44.5048408508,-114.236816406	
+3/11/08 22:00	Challis	ID	Triangle	1 minute	Triangular formation of lights with fourth light out of formation traveling slowly and quietly.	3/31/08	44.5048408508,-114.236816406	
+2/20/08 06:00	Arco Dessert	ID	Fireball	30 seconds	Fireball crashes in Idaho	3/4/08	44.3890686035,-114.659370422	
+2/19/08 05:30	Moscow	ID	Other	45 seconds	Bright,strobe-like colorful lights, high in SW sky, no sound, followed by orange dripping from sight of light.  ((Meteor))	3/4/08	46.7323493958,-117.000541687	
+2/15/08 22:00	Worley	ID	Unknown	3min	moved slowly in the clouds during a snowstorm no noise went from south to north withflood lights shining all over the area as it moved	4/17/08	47.40076828,-116.919487	
+12/20/07 08:30	Rigby	ID	Fireball	3 min.	A little line of light riggiling up to space.	1/21/08	43.6722106934,-111.914367676	
+11/29/07 18:50	Boise	ID	Light	10 minutes	A collection of flashing lights moving quickly across the sky.  Too many to be airplanes.	3/4/08	43.6069793701,-116.193412781	
+11/11/07 20:05	Twin Falls	ID	Unknown	30seconds	v- shaped object,approx  5 lights on each side rectangle in shape, no noise at all, very fast.	11/28/07	42.5561904907,-114.469612122	
+9/13/07 21:30	Hayden	ID	Light	15 sec	very strange kind of made the hair on your neck stand up!!!!	10/8/07	47.7572288513,-116.791267395	
+9/1/07 03:30	Worley (south of)	ID	Unknown	2 minutes	Unexplained lights above US 95 south of Worley, ID. 500 Lights On Object0: Yes	1/21/08	47.40076828,-116.919487	
+8/29/07 12:40	Saint Maries	ID	Cigar	few minutes	Silent silvery-white cigar or blimp shaped craft spotted over saint maries Idaho	10/8/07	47.3162384033,-116.566253662	
+8/28/07 21:30	Marsing	ID	Light	25 minutes	Red lights over Snake River near Marsing, Idaho	10/8/07	43.54529953,-116.809547424	
+8/27/07 22:00	Sandpoint	ID	Light	1 hour	Flashing erractic UFO	10/8/07	48.2729911804,-116.547790527	
+8/21/07 00:30	I-84 (near Utah border)	ID	Light	15 seconds	Large, bright light streaking smooth and low across the night sky, off the side of the highway.	1/21/08	42.6283111572,-113.679458618	
+8/19/07 10:30	Idaho Falls	ID	Unknown	30 sec	Bright lights unlike any traditional aircraft.	10/8/07	43.4920005798,-112.041992188	
+7/30/07 23:00	Rathdrum	ID	Oval	45 sec.	oval white object  hovering at distance, then changed color to a brighter gold and silver, then took off gone.	8/7/07	47.8113708496,-116.896438599	
+7/30/07 14:00	Post Falls	ID	Disk	3 seconds	Around the end of July 2007, I was sitting in a chair on my back porch enjoying the warm weather under cloud cover which was at the nor	3/19/09	47.7115287781,-116.948097229	
+7/14/07 20:45	White Bird	ID	Oval	2 sec	Bright fast moving object very low in the skymoving west to east.	8/7/07	45.7609214783,-116.301338196	
+7/10/07 21:00	Sand Point	ID	Changing	24 min	we got on film a very differnt anomalie it looked like a moon then a star burst  and flairs and pulsing it was unbeliveable then just b	8/7/07	48.2729911804,-116.547790527	
+7/1/07 21:55	Lewiston	ID	Light	5 minutes	I was walking back from my shop to my house and looked up.  The sky was partly overcast, but no rain, a few stars were visible.  My att	8/7/07	46.4186515808,-117.016662598	
+6/26/07 16:00	Boise	ID	Disk	2-3 minutes	4 white or cream disk-shaped UFOs in pairs about a minute apart over Boise, Idaho	8/7/07	43.6069793701,-116.193412781	
+6/22/07 01:00	Round Valley	ID	Circle	3 to 4 seconds	Large Ball of Blue White Light  Falling Toward Earth	3/4/08	42.354839325,-111.711479187	
+3/14/07 22:00	Boise	ID	Circle	1 hour	Very bright changing color circle shape object moving slowly east to west over Boise towards Ontario, I got video but my camera was pro	4/27/07	43.6069793701,-116.193412781	
+12/27/06 07:40	Bellvue	ID	Flash	2 Seconds	Electric Blue EMP in central IDAHO	2/1/07	43.4622802734,-114.259910583	
+12/25/06 14:10	Los Angeles	ID	Changing	30 seconds	WE SAW A UFO!	3/4/08	45.0190124512,-113.970535278	
+9/11/06 22:06	Boise	ID	Rectangle	4minutes	Rectangular object,bright lights in front. fainter ones behind, indicating shape longer thanis was wide, with no noise.	10/30/06	43.6069793701,-116.193412781	
+8/15/06 17:00	Tensed (near)	ID	Other	45 seconds	A small metalic hourglass shaped object slowly rotating and hovering parallel to phone lines and highway	11/28/07	47.1607704163,-116.923171997	
+8/1/06 01:00	Idaho Falls	ID	Cigar	2 mintues	CIGAR UFO RIGHT ABOVE US!!	10/30/06	43.4920005798,-112.041992188	
+7/20/06 05:00	Idaho Falls	ID	Sphere	20 min	Sphere in Sky	10/30/06	43.4920005798,-112.041992188	
+7/19/06 18:33	Nampa	ID	Other	Short	Strange object in photo	10/30/06	43.582611084,-116.569633484	
+7/18/06 23:25	Boise	ID	Circle	15 sec.	We reported this last night, but found a video on your site that better describes what we saw. It looked JUST like this video: http://w	10/30/06	43.6069793701,-116.193412781	
+7/18/06 23:20	Boise	ID	Disk	15 sec.	White/red glowing object, no sound as it moved from the East end of the Boise Valley, south to the north and then dissappearing.	10/30/06	43.6069793701,-116.193412781	
+7/15/06 20:15	Hailey	ID	Fireball	10 second	moving south to north, looked like a superbright meteor, ball of fire, melted away suddenly, fairly slow moving	7/16/06	43.521068573,-114.316436768	
+6/23/06 01:00	Boise	ID	Circle		a big circle sitting in the sky different lights going off and rotating	7/16/06	43.6069793701,-116.193412781	
+6/19/06 12:00	Boise	ID	Unknown	5-10 minutes	LARGE FAST DISC REPORTED TO MHAFB YEARS AGO	7/16/06	43.6069793701,-116.193412781	
+6/15/06 23:52	Buhl	ID	Triangle	5 minutes	A triad of star-like lights, arranged in the shape of a miniature Aries, slowly passed from NW to SE in a possible formation.	7/16/06	42.5986595154,-114.760147095	
+6/6/06 08:00	Boise	ID	Triangle	1 min	Large Black Triangle shaped craft seen north of Boise Idaho	7/16/06	43.6069793701,-116.193412781	
+6/1/06 21:45	Boise	ID	Cigar	2-3 min	cigar shaped craft with fire tail.	7/16/06	43.6069793701,-116.193412781	
+6/1/06 21:37	Nampa	ID	Fireball	3-5 seconds	Incredible fireball breaking up over S/W Idaho	7/16/06	43.582611084,-116.569633484	
+6/1/06 21:00	Meridian	ID	Fireball	3seconds	Bright white tail burning east to west parallel to the ground.	7/16/06	43.611000061,-116.392227173	
+6/1/06 05:00	Meridian	ID	Cigar	5 min	Bright lights approaching an intersection then dissapearing and green and red lights going into the sky	10/30/06	43.611000061,-116.392227173	
+5/15/06 18:00	Moscow	ID	Triangle	35 Seconds	I was sitting in the passenger's side of the car, and i saw a dark triangular shape in the sky, and then drift in the clouds.	11/28/07	46.7323493958,-117.000541687	
+5/13/06 22:05	Twin Falls	ID	Circle	ongoing	Five round white objects, stationery (N,NE,NW) flashing green and red lights above Twin Falls, Idaho.	5/15/06	42.5561904907,-114.469612122	
+5/10/06 01:00	Moscow	ID	Triangle	4 hours	I was otside studying for a final and was looking up when what was a light at first darted and then instantly came to a stop.	5/15/06	46.7323493958,-117.000541687	
+5/9/06 23:40	Lewiston	ID	Triangle	10+minutes	3 sets of  lights (changing color) in a triangle formation moving slowly over Lewiston valley.	7/16/06	46.4186515808,-117.016662598	
+5/7/06 00:00	Idaho Falls	ID	Triangle		3 lights flashing colors. rotating.  ((NUFORC Note:  Possible hoax ortwinkling star.  Witness elects to remain totally anonymous.  PD))	7/16/06	43.4920005798,-112.041992188	
+5/7/06 00:00	Idaho Falls	ID	Triangle	1 minute	A BIG TRIANGULAR  OBJECT	10/30/06	43.4920005798,-112.041992188	
+4/29/06 22:13	Idaho Falls	ID	Disk	15 seconds	5 UFOs Viewed Over the Course of 90 Minutes, 3 Saucers and 2 Odd Formations	5/15/06	43.4920005798,-112.041992188	
+4/29/06 01:00	Boise	ID	Light	ongoing	v-shaped light suspende in the sky for long period of time.  ((NUFORC Note:  Possible celestial body.  PD))	5/15/06	43.6069793701,-116.193412781	
+4/1/06	Fairfiled	ID	Light		Multiple sightings of lights and disks over Fairfield, Idaho of several years.  ((NUFORC Note:  Celestial bodies or satellites?  PD))	5/15/06	43.3460998535,-114.791999817	
+3/19/06 22:45	Boise	ID	Other	30 minutes	Went outside to let pet out and saw in the southwest sky a cluster of lights flashing red, green and blue.  The object did not move but	5/15/06	43.6069793701,-116.193412781	
+3/14/06 14:00	Downey	ID	Cigar	15 min	The silver shiny object.	6/12/08	42.4280891418,-112.124351501	
+3/4/06 22:59	Idaho falls	ID	Triangle		very very scary	3/11/06	43.4920005798,-112.041992188	
+3/2/06 21:00	Mountain Home	ID	Unknown	10 seconds	Row Of Lights Over Idaho (similar to lights over AZ 3/97)	3/11/06	43.131439209,-115.69342041	
+2/18/06 03:32	Boise	ID	Rectangle	2 minutes	Repeated sightings.	3/11/06	43.6069793701,-116.193412781	
+2/9/06 18:35	Coeur d'Alene	ID	Light	5 to 10 minutes	Changing colored lights on object viewed from Dalton Gardens possibly traveling low over Coeur d'Alene, Idaho to the south.	2/14/06	47.6718597412,-116.776161194	
+1/5/06 15:00	Idaho (rural)	ID	Triangle	5minutes	Stationary triangle flying object, silent with double lights at each corner of the triangle.	3/11/06	43.6076889038,-116.513191223	
+12/12/05 20:00	Carmen	ID	Sphere	3/4 second	A very fast bright white ball	12/16/05	45.2494316101,-113.895088196	
+11/15/05 23:00	Fernwood	ID	Circle	1 hour	more than one person[strangers] have come to my unique viewing mountainside	5/15/06	47.1108894348,-116.3931427	
+11/5/05 22:00	Boise	ID	Formation	10 Minutes	red, white and blue lights	2/14/10	43.6069793701,-116.193412781	
+10/15/05 04:00	Ammon	ID	Triangle	25 minutes	((NUFORC Note:  Possibly not a serious report.  PD))  Black Triangle UFO spotted and had a encounter.…	10/20/05	43.4676094055,-111.969276428	
+10/13/05 15:12	Twin Falls	ID	Disk	1or 2 Min.	Glowing craft in the day time.	10/20/05	42.5561904907,-114.469612122	
+10/13/05 05:05	Boise	ID	Chevron	3-4 seconds	Fast and middle-low flying Boomerang with 3 lights and no sound !	10/20/05	43.6069793701,-116.193412781	
+10/9/05 18:00	Garden City	ID	Other	1.min	apple or urn shaped objects flying with birds following a commercial aircraft	10/30/06	43.6602706909,-116.279747009	
+9/18/05 21:00	Dalton Gardens	ID	Light	Seconds	Night time view of (possible space craft)	10/11/05	47.7262001038,-116.776039124	
+9/10/05 12:00	Payette	ID	Circle	10 min	two white circles flying and then one hovering.	10/11/05	44.0742912292,-116.936531067	
+9/8/05 21:30	Spirit Lake	ID	Light	2 minutes	Object due north very bright (redish) and stationary then faded and 30 seconds later moved rapidly downward	10/11/05	47.9415283203,-116.899787903	
+8/20/05 22:15	Blackfoot	ID	Disk	10 minutes	UFO siting in Blackfoot, Idaho at lecture on flying saucers	10/11/05	43.1889915466,-112.345542908	
+7/15/05 22:00	Nampa	ID	Other	30 mins	July 2005 Meridian "field lights" -- night flights of cropdusters?	9/2/05	43.582611084,-116.569633484	
+7/11/05 23:30	Boise	ID	Light	5 Min	Slow moving light that disappeared	7/13/05	43.6069793701,-116.193412781	
+7/11/05 23:25	Challis	ID	Oval	2min	A light flew across the sky to a blinking star, then disappeard.	7/13/05	44.5048408508,-114.236816406	
+7/8/05 00:05	Meridian	ID	Disk	15 seconds	A beaming strong light shined on us and the object flew by.   ((NUFORC Note:  Probably an aerial applicator aircraft.  PD))	7/13/05	43.611000061,-116.392227173	
+7/8/05 00:05	Meridian	ID	Disk	5 seconds	I was approached by a strang flying light driving home in july.  ((NUFORC Note:  Probably an aerial applicator aircraft.  PD))	7/13/05	43.611000061,-116.392227173	
+7/4/05 20:05	Pocatello	ID	Cigar	25 seconds	Craft moved from north to south and then accelerated and disappeared from sight.	9/2/05	42.874710083,-112.450569153	
+6/30/05 00:00	Twin Falls	ID	Light	30 sec	Bright star that grew larger (approached) and suddenly streaked away at 90degree angle.	10/10/11	42.5561904907,-114.469612122	
+6/28/05 02:00	Mullan	ID	Other	1 minute	Weird things happening in the mountians of northern Idaho.	9/2/05	47.4691085815,-115.799911499	
+6/19/05 11:00	Burley	ID	Circle	15 seconds	the craft was traveling at a high rate of speed the 1st time it appeared. I was quizzical the 1st time I seen it and then it did a 45 t	6/20/05	42.5348587036,-113.793258667	
+5/10/05 17:00	Sandpoint	ID	Other	10 sec.	A  missle/cigar -shaped object "suspended" just below the body of a small jet landing in Sandpoint. ID.	5/11/05	48.2729911804,-116.547790527	
+5/3/05 20:30	Riggins	ID	Oval	2 evenings	Unbelievable speed and able to stop  and hover with no sound.	5/11/05	45.4221992493,-116.314796448	
+4/30/05 05:00	Hayden	ID	Light	10-15 secs.	someone please report back to me on this case.  It is unusual, in that I have not read too many similar descriptions on your site.P	10/10/11	47.7572288513,-116.791267395	
+3/17/05 08:30	Idaho Falls	ID	Cigar	20-30 minutes	From my driveway, due South, I observed a "jetstream" in the sky and saw a "plane" descending rapidly straight down vertical. My initia	5/24/05	43.4920005798,-112.041992188	
+3/10/05 20:05	Emmett	ID	Light	2 to 3 minutes	Bright red light droping smaller orange lights from underneath, made a u turn heading southeast, dimed then winked out	5/11/05	43.8741188049,-116.500061035	
+3/10/05 05:40	Worley	ID	Triangle	6 min	Vertical Triangular object hovers high above ground.	5/11/05	47.40076828,-116.919487	
+3/8/05 20:00	Idaho Falls	ID	Fireball	0.3 second	It was not a UFO.  It appeared in the southern sky, a comet-like flash, perhaps re-entry of falling debris.  It was brighter than any s	5/11/05	43.4920005798,-112.041992188	
+3/3/05 23:40	Boise	ID	Diamond	5 mins.	Bright Star Turns into Pitch Black Diamond with blinking lights.	4/16/05	43.6069793701,-116.193412781	
+2/27/05 19:50	Boise	ID	Disk	approximately One (1) min	Golden lights formed what appeared to be windows on a large saucer shaped object in the Boise foothills area	4/16/05	43.6069793701,-116.193412781	
+1/2/05 01:00	Melba	ID	Egg	2 min	This object was a dark color and had white flash lights with a green color left behind it as it flew	1/27/05	43.375831604,-116.529876709	
+11/28/04 16:53	Spirit Lake	ID	Light	6 seconds	While watching International Space Station from Northern Idaho on Nov. 28th, 2004, observed Extremely bright light to the left.	12/3/04	47.9415283203,-116.899787903	
+10/13/04 21:40	Twin Falls	ID	Light	1 MIN	two orange lights moving in a straight line with each other disapeard	10/27/04	42.5561904907,-114.469612122	
+10/6/04 22:30	Nampa	ID	Formation	1 hour	Bright orange rectangles that turned into a blinking, hovering light, followed by a line of blue and red planes with triangles.	10/27/04	43.582611084,-116.569633484	
+9/23/04 21:54	Twin Falls	ID	Other	3 min	09/23/04 2154 Hours Observed Orange lights in formation of half circle total 8 lights in all	10/27/04	42.5561904907,-114.469612122	
+9/22/04 22:10	Marsing	ID	Unknown	45 min	Spotted UFO in the clear autumn night traveling across the sky in a SE direction toward an Air Force Base	9/29/04	43.54529953,-116.809547424	
+8/22/04 01:00	Boise	ID	Oval	30 seconds?	Green Oval Shaped UFO Sighted Near Gowen Air Field US Air Force Base Boise Idaho	4/27/07	43.6069793701,-116.193412781	
+8/11/04 23:10	Pocatello	ID	Formation		4 lighted objects moving swiftly in a line across the sky	8/24/04	42.874710083,-112.450569153	
+7/31/04 02:45	Boise	ID	Light	30 minutes	Strange lights over the Boise foothills (Venus??)	8/11/04	43.6069793701,-116.193412781	
+7/30/04 21:00	Coeur d'Alene	ID	Light	30 seconds	I was walking home at dusk on a summer night, when I looked up to the sky, and saw a ball of light, that looked a lot like a star, but	6/9/09	47.6718597412,-116.776161194	
+7/20/04	Orofino	ID	Light	10.00pm to 2.00 am	i dont spell or typ all that good if you whant to have some one call me thats ok i dont want to have my name get out saw some werd stuf	7/25/04	46.4796295166,-116.255401611	
+7/15/04 13:00	Lewiston	ID	Cylinder	30 seconds	cylinder-shaped silver-metallic object(s) in a triangle formation (one leading in front,two alomgside behind/close and three objects be	5/24/05	46.4186515808,-117.016662598	
+7/12/04 00:00	Island Park	ID	Disk	3 minutes	Object coming out of the sky	8/11/04	44.4233512878,-111.371170044	
+7/10/04 01:00	Blackfoot	ID	Chevron	10 min	ever since then we started to look up at the sky and where surprised to see how many sighting we were encountering.	10/30/06	43.1889915466,-112.345542908	
+5/14/04 22:38	Grand View	ID	Triangle	8 minutes	Large black triangle at high altitude moving NW to SE at slow rate.	6/4/04	42.991191864,-116.09728241	
+5/6/04 03:45	Boise	ID	Oval	few minutes	blueish grey oval spotted in the air	5/10/04	43.6069793701,-116.193412781	
+4/15/04 04:00	Hayden	ID	Light	one minute	Driving south from Hayden, Idaho to Coeur d'Alene, Idaho about 4AM mid-April 2002.I looked over to the east and three star-like obj	6/18/04	47.7572288513,-116.791267395	
+4/15/04 01:00	Hayden	ID	Unknown	10-15 sec	UFOs may only be intraterrestial, military or other-than-normal occurance, not extraterrestial.	7/5/08	47.7572288513,-116.791267395	
+2/12/04 19:30	Post Falls	ID	Formation	3 seconds	2 lights travelled from North to South in about 3 seconds @ 7:30 pm on 2-12-04.	3/2/04	47.7115287781,-116.948097229	
+12/23/03 07:15	Sandpoint	ID	Unknown	1.5 hour	light streak in the morning sky that seemed to fall to the earth leaving a spectacular funnel like plume reaching high altitude.	1/17/04	48.2729911804,-116.547790527	
+12/19/03 18:00	Boise	ID	Cigar	4 minutes	This object has well defined colored square lights that moved across back and forth along a horizontal plane.  It's upper and lower se	1/17/04	43.6069793701,-116.193412781	
+12/10/03 22:00	Boise	ID	Unknown	10 minutes	This all happened very fast, it seemed like 3 seconds but when I went back in, it was ten minutes.	12/19/03	43.6069793701,-116.193412781	
+11/21/03 22:05	Lewiston	ID	Light	20 minutes	Bright, steady white light with blue and red flashes	12/9/03	46.4186515808,-117.016662598	
+11/20/03 19:00	Kuna	ID	Triangle	5-6min	Triangular object with pulsating lights hovered near Meridian Rd., then slowly flew off towards Boise, ID	1/17/04	43.4884300232,-116.422653198	
+11/8/03 00:05	Marsing	ID	Flash	flash then several minute	While sitting in living room talking about the bible, a brillant flash came through the windows, ran outside seeing meteriors shooting	11/8/03	43.54529953,-116.809547424	
+10/22/03 20:00	Rockford	ID	Oval	ufo sighting	My sister and I were leaving Blackfoot to head out to Aberdeen where Ab-Cent Myndid (local band) was recording a EP. when we came up to	10/31/03	43.1908111572,-112.534477234	
+10/15/03 00:30	Boise (south of)	ID	Triangle		New Area 51 in Idaho	3/2/04	43.6069793701,-116.193412781	
+10/13/03 11:50	Pocatello	ID	Oval	10sec	disc shape or deffinitly oval shape.	10/15/03	42.874710083,-112.450569153	
+10/10/03 20:05	Grand View	ID	Light	12-15 seconds	Bright light above Mt. Home AFB	10/15/03	42.991191864,-116.09728241	
+8/12/03 02:30	Bruneau	ID	Sphere	10/20 seconds	Green Orb falling from sky	4/13/10	42.6954612732,-115.673866272	
+7/18/03 22:00	Twin Falls	ID	Sphere	30 minutes	Low flying green orbs	7/23/03	42.5561904907,-114.469612122	
+7/17/03 02:00	Sandpoint	ID	Other	5 hours	Object on orbital path around the moon.	7/23/03	48.2729911804,-116.547790527	
+7/9/03 23:15	Boise	ID	Formation	10 min.	Light formation passes directly over 3 witnesses.	7/16/03	43.6069793701,-116.193412781	
+7/3/03 02:30	Pocatello	ID	Circle	20 minutes	I was outside on the front porch of my house at about 2:30 am MST basically just cooling off since it was quite warm inside the house.	7/16/03	42.874710083,-112.450569153	
+6/23/03 22:30	Boise	ID	Light	10 seconds	Extremely bright light that faded to a small red point of light and accelerated rapidly	7/16/03	43.6069793701,-116.193412781	
+5/28/03 23:00	Boise	ID	Triangle	10 seconds	A rapidly moving "shimmering shadow" with orange leading edges	6/3/03	43.6069793701,-116.193412781	
+5/22/03 21:00	Grangeville	ID	Disk	5-6 minutes	Disc or sphere shaped object - appeared like a very bright star at first	5/27/03	45.9255905151,-116.119003296	
+4/23/03 23:45	Sandpoint	ID	Sphere	3 seconds	An aqua blue sphere with a long trail shot across the night sky.	4/27/03	48.2729911804,-116.547790527	
+3/1/03 21:00	Burley	ID	Triangle	45 min	We saw a very large, slow moving craft.	9/24/03	42.5348587036,-113.793258667	
+2/24/03 21:45	Twin Falls	ID	Light	30 sec	The blue light light up the sky and then disappeared as if it came out of nowhere.	3/4/03	42.5561904907,-114.469612122	
+2/16/03 21:30	Arco	ID	Fireball	12 seconds	I was heading sw toward the craters of the moon, and directly ahead I saw what I thought was a star falling from the sky. It was larger	2/25/03	43.6361618042,-113.300758362	
+2/10/03 06:15	Grangeville	ID	Light	5 minutes	3 separate lights, 1moved in "S" design, stop mid flight and start again, another colorful and curved flight also stopped	2/11/03	45.9255905151,-116.119003296	
+2/9/03 23:00	Grangeville	ID	Light	1 minute	At first looked like falling star but stopped and hovered then moved off again and disapeared	2/11/03	45.9255905151,-116.119003296	
+2/8/03 19:50	Sandpoint	ID	Unknown	5 seconds	Bright white light moving very fast  above cloud cover from east to west in eastern sky	2/11/03	48.2729911804,-116.547790527	
+1/14/03 06:50	Boise	ID	Cigar	2 minutes	Early morning sighting left me dizzy	2/5/03	43.6069793701,-116.193412781	
+1/7/03 22:30	Post Falls	ID	Teardrop	About 4 hours	Several teardrop shaped fading lights, emmited soft sighing sound. It felt like 10 minutes, but lasted 4 hours.	2/5/03	47.7115287781,-116.948097229	
+11/28/02 07:16	McCall	ID	Other	2 minutes	Observed fiery debris field of object moving west to east.	12/23/02	44.9107017517,-116.098060608	
+11/19/02 07:00	Pollock	ID	Changing	20 min.	Bright light SSE of Pollock, Idaho at 20 degrees above horizon that remained stationary for 20 min (spherical to crescent).	11/20/02	45.3205184937,-116.349113464	
+10/28/02 18:45	Idaho	ID	Formation	5 min	While driving home, we saw 8 white lights flashing in a formation for about 5 minutes.The object was moving slowly over the Idaho/O	11/4/02	43.6076889038,-116.513191223	
+10/12/02 19:30	Rose Lake	ID	Light	10 minutes	Strange sphere above north Idaho.	10/15/02	47.5524749756,-116.468254089	
+10/1/02 15:00	Athol	ID	Teardrop	3-5 min.	high polished chrome-teardrop shaped object hovering over a busy North Idaho Hi-way in mid afternoon	4/27/04	47.9477996826,-116.707473755	
+9/23/02 04:00	Idaho City	ID	Changing	20 minutes	At 4 a.m., star-like, brilliant, flashing red and green colors, seemed to change shape to a thin line under binoculars.	9/28/02	43.8296318054,-115.832550049	
+8/25/02 12:45	Cascade	ID		1:45	time loss	8/28/02	44.5155296326,-116.041473389	
+8/10/02 22:50	Sandpoint	ID		?	Posted a report a few hours ago, the date should have been Sat. 8/10. NOT Fri 8/09	8/16/02	48.2729911804,-116.547790527	
+7/30/02 02:20	Nampa (outside)	ID	Cigar	approx. 3 minutes	5-6 lights, very bright, approaching rear of my vehicle, arose very fast, dissappeared, no noise or sound	8/16/02	43.582611084,-116.569633484	
+7/15/02 22:30	Nampa	ID	Light	5 sec	Just west of Nampa, ID.  Bright white light moves away rapidly.	9/29/04	43.582611084,-116.569633484	
+7/12/02 02:00	Pocatello	ID	Triangle	30 Minutes	Multiple Objects	4/27/07	42.874710083,-112.450569153	
+7/2/02 14:30	Boise	ID	Sphere	45 seconds	Shining sphere speeds accross sky towards Southeast.	7/26/02	43.6069793701,-116.193412781	
+4/24/02 19:00	Coeur d'Alene	ID	Sphere	35 minutes	A sphere with a sail on top that changed into triangular shape then back to spherical, that would shrink then expand & blink lights	9/19/02	47.6718597412,-116.776161194	
+4/10/02 23:20	At a pullout on the highway	ID	Triangle	10 seconds	Three star like objects moved slowly then faded one by one	4/25/02	
+2/25/02 08:24	Weiser	ID	Cone		a silent, dark, cone shaped air craft	3/19/02	44.2459182739,-116.970108032	
+2/25/02 08:23	Weiser	ID	Cone		moving slow and up , cone shape  no sounds	3/19/02	44.2459182739,-116.970108032	
+2/16/02 21:30	Arco	ID	Sphere	3 seconds	As I was driving i saw what at first i thought to be a falling star then i relized it was moving to slowly and thought it was an airpla	2/25/03	43.6361618042,-113.300758362	
+2/12/02 19:50	Post Falls	ID	Light	20 minutes	POST FALLS IDAHO SIGHTING 2/12/02	2/22/02	47.7115287781,-116.948097229	
+11/7/01 19:00	McCall	ID	Oval	?	I looked out to the north...high abouve the tree line, and i saw this light that was a bit brighter than the stars...i could see red an	11/20/01	44.9107017517,-116.098060608	
+10/19/01 22:05	Wendell	ID	Light	7-8 minutes	Brite lite in sky over southern Idaho.	11/20/01	42.775428772,-114.704772949	
+10/15/01 21:22	Smiths Ferry	ID	Fireball	5 sec	fireball was blue green in color moving approximately nnw to ssw seemingly horizontal and either flamed out or went behing tree line	11/20/01	44.3028182983,-116.08846283	
+9/12/01 03:00	Boise	ID	Other	10 seconds	Giant blue V flying south over airport during 9-11 no-fly	12/12/09	43.6069793701,-116.193412781	
+8/15/01 21:30	Firth	ID	Light	30 secs	two light s coming from opposite directions, circled each other , then flew back to the original direction	12/23/02	43.3035507202,-112.184959412	
+8/12/01 12:10	Coeur d'Alene	ID	Light	00:06	light was seen, moved and got quickly bright then at the peak of its brightness it disappeared.	8/20/01	47.6718597412,-116.776161194	
+8/11/01 23:00	Coeur d'Alene	ID		1 hour plus	Red, Geen, Blue, and White flashing lights on stationary craft	8/20/01	47.6718597412,-116.776161194	
+8/7/01 23:00	Nampa	ID	Disk	30 sec.	((HOAX??))  Close sighting UFO	3/19/09	43.582611084,-116.569633484	
+8/6/01 22:00	McCall	ID	Unknown	3min.	Flashing lights moving from West to East	8/12/01	44.9107017517,-116.098060608	
+7/27/01 00:45	Meridian	ID	Diamond	30 Sec. - 2 hours	Three Head Lights, Plasma bottom, Different colors, Bizzar flying Patterns, 2 encounters almost exactly 1 year apart.	8/5/01	43.611000061,-116.392227173	
+7/13/01 07:53	Eagle	ID	Circle	7:59	smal circular light in sky lasted  6 min.	8/5/01	43.6951904297,-116.350166321	
+6/23/01 18:30	Pocatello	ID	Other	not sure	two bright white objects with tails	8/5/01	42.874710083,-112.450569153	
+6/9/01 12:30	Idaho Falls	ID	Cylinder	2-3 min	Saw a multi-colored UFO fly from one side of me to the other for 2-3 mins.	8/5/01	43.4920005798,-112.041992188	
+5/13/01 23:30	Rexburg	ID	Light	35 minutes	A very odd light that could not be a conventional aircraft that changed colors as if it was blending from one color to another.	8/5/01	43.8260917664,-111.783088684	
+4/24/01 22:15	Boise	ID			Woman reports witnessing strange light in the eastern sky, against the foothills.	4/28/01	43.6069793701,-116.193412781	
+4/24/01 13:15	Bellevue	ID	Changing	2 minutes	A large clearly visible object that moved at low and high rates of speed and joined 3 other objects.	4/28/01	43.4622802734,-114.259910583	
+4/20/01 10:00	Moscow	ID	Changing	3 min	Pulsating objects, hovered, absorbed, left.	4/28/01	46.7323493958,-117.000541687	
+4/1/01 20:30	Moscow	ID	Changing	12 minutes	Pulsating Orbs, molding into and out of each other.	4/28/01	46.7323493958,-117.000541687	
+3/30/01 22:30	Orofino (16 miles east of)	ID	Unknown	2 hours	Glowing deep red clouds floating against the wind going from horizon to horizon	4/1/01	46.4796295166,-116.255401611	
+3/13/01 22:00	Ketchum	ID	Unknown	1 minute	High-altitude craft with red glow, executed brief series of non-Newtonian manouvers over Sun Valley, Idaho.	3/16/01	43.6825790405,-114.36366272	
+3/6/01 18:00	Weiser	ID	Disk	10 minutes	large disk shaped craft emitting bright light	3/16/01	44.2459182739,-116.970108032	
+2/20/01 17:15	Lewiston	ID	Oval	18 Min	While playing ball with my children at a local airport park. we observed a small dot in the Northwest sjy. thinking it was a small plan	3/19/02	46.4186515808,-117.016662598	
+2/5/01 18:40	Boise	ID	Diamond	5-10 minutes	A kite-shaped object with white lights in each corner was seen flying over central Boise and toward Meridian.	2/18/01	43.6069793701,-116.193412781	
+1/31/01 21:00	Jerome	ID	Formation	1 min.	four lights, amber colored, faded out one at a time from right to left in the southwest sky of southern idaho	2/18/01	42.7241210938,-114.515808105	
+1/22/01 20:32	Sandpoint	ID	Light	5 min	Large flickering light low in the night sky that faded slowly away, but did not move.	2/18/01	48.2729911804,-116.547790527	
+1/6/01 19:00	Payette	ID	Light	~ 1 hr	Third consecutive night of sighting.  Very active tonight.	2/18/01	44.0742912292,-116.936531067	
+1/6/01 07:15	Payette	ID	Light	45 min.	Flashing light moving erratically for sustained period of time.	2/18/01	44.0742912292,-116.936531067	
+12/24/00 21:20	St. Maries	ID		15 - 20 minutes	Swooshing sound, bright white/red lights,light up whole area obove and surrounding house in Idaho	2/18/01	47.3162384033,-116.566253662	
+11/22/00 17:15	Coeur d'Alene	ID	Light	7 minutes	Bright orange-yellow light, two-story high, with structure underneath when observer got closer, did not move or streak, hovered above t	12/9/00	47.6718597412,-116.776161194	
+10/23/00 17:30	Kamiah	ID	Cigar	10 min each	(This report will include 3 seperate sightings on the same night from different locations. All witnesses are members of the same family	12/2/00	46.227268219,-116.028633118	
+10/4/00 20:30	Caldwell	ID	Light	about 15 minutes	Saw a large light change colors and eventually dim to nothing on El Paso Rd.	12/2/00	43.6674385071,-116.692588806	
+9/27/00 21:45	Challis	ID	Triangle	45-60sec	An enormous triangular silent object just floating 200 feet straight above us.	12/2/00	44.5048408508,-114.236816406	
+9/26/00 21:30	Kerrywood	ID	Flash	2 minutes	spotted flashing light ,then a glowing ball of light.	12/2/00	44.3890686035,-114.659370422	
+9/15/00 22:45	Idaho Falls	ID	Chevron	2 to 3 minutes	Fast, low flying, Boomerang, no sound!	11/26/03	43.4920005798,-112.041992188	
+8/6/00 23:59	Twin Falls	ID	Fireball		Well, me and my friend were out watching the stars and then we saw one big glowing light that was pretty bright. We wathced that one fo	9/17/00	42.5561904907,-114.469612122	
+7/21/00 22:10	Riggins	ID	Fireball	2-3 seconds	Large slow moving fireball seen in North central Idaho	7/29/00	45.4221992493,-116.314796448	
+7/19/00 23:30	Boise	ID	Circle	4- 5 minutes	Blue, pulsating, flashing lights....separate crafts.	7/23/00	43.6069793701,-116.193412781	
+7/18/00 23:10	Twin Falls	ID	Sphere	70 sec	obserbed military air craft chase whit light sphere.  intensity like a star in cassoipea  from south to north in straight line.  could 	7/23/00	42.5561904907,-114.469612122	
+7/3/00 17:00	Meridian	ID	Other	10 - 15 sec.	Was observing another aircraft when I saw this object, making no sound, travel in a straight line from west to east an go out of sight.	7/11/00	43.611000061,-116.392227173	
+6/30/00 19:30	Mountain Home AFB	ID	Triangle	10 to 15 min	My mother was visiting I stepped outside to get fresh air it was a beautiful night and the sky was very clear. I looked up at the sky t	3/11/06	43.0574493408,-115.857063293	
+6/23/00 00:15	Blackfoot	ID	Light	15 sec.	Four lights in two sets, each set rotating/spiraling going north and changing red and white.	7/11/00	43.1889915466,-112.345542908	
+6/10/00 21:30	Orofino/Weippe	ID	Triangle	20 minutes	Triangle as big as a CITY	4/13/10	44.3890686035,-114.659370422	
+4/15/00 04:00	Hayden	ID	Light	one minute	CAN ANYONE TELL ME WHAT i SAW? THREE STAR OR PLANET-LIKE OBJECTS SPACED IN WHAT APPEARED TO BE ABOUT AN INCH APPART, PROBLABLY ABOUT 2	2/22/05	47.7572288513,-116.791267395	
+2/13/00 18:42	Sandpoint (NE of)	ID	Light	45 sec.	Bright light moving from west to east, which went from the horizon to directly overhead in less than a minute, with no sound.	2/16/00	48.2729911804,-116.547790527	
+1/11/00 21:00	Boise	ID	Unknown	all night	During the night I saw lights moving like battling in the sky.  Movements were evasive in nature, random ziz zaging and spiralling in s	1/22/00	43.6069793701,-116.193412781	
+12/9/99 22:00	Rupert	ID	Light	few minutes	HBCCUFO CANADIAN REPORT:  Cluster of lights formed one large object.	4/9/04	42.6180381775,-113.668731689	
+10/20/99 07:25	Boise	ID	Light	3 minutes est	Bright gold color light that flew west to east.	11/2/99	43.6069793701,-116.193412781	
+9/23/99 22:50	Hailey	ID	Circle	Still there	Tonight at 10:30PM in the eastern sky just above the mountains we saw what appeared to be Venus or a very bright star and decided to vi	10/2/99	43.521068573,-114.316436768	
+9/23/99 18:25	Victor/Teton Mountain Range	ID	Formation	25 minutes	Saw two very bright white lights to the east accompanied by several other dimmer white lights.  25 minutes of unusual movement, individ	10/2/99	44.3890686035,-114.659370422	
+9/21/99 19:15	Post Falls	ID	Fireball	20 minutes	Driving eastbound I-90 near ID/WA stateline. Observed fireball with other cars stopped by side of highway for approx. 20 minutes.	10/2/99	47.7115287781,-116.948097229	
+9/15/99 21:36	Nampa	ID	Triangle	2-3 minutes	I witnessed a very large triangle moveing very slow heading northeast torward northern oregon. It had a white blinking light on each co	10/2/99	43.582611084,-116.569633484	
+9/15/99 20:00	Nampa	ID	Unknown	45 Seconds	Witnessed white contrail that appeared to go from level flight to straight down.  Contrail actually indicated 90 degree turn S to W to 	10/2/99	43.582611084,-116.569633484	
+9/12/99 20:00	Idaho City	ID	Light	3-4 minutes	bright light that  vanishes	6/21/00	43.8296318054,-115.832550049	
+9/11/99 21:30	Boise	ID	Teardrop	5 sec.	unknown object,possible space junk,illuminated the sky from east to west -- intensely blue in color.	10/2/99	43.6069793701,-116.193412781	
+8/15/99 14:00	Greencreek	ID	Cigar	3 minutes	Middle of day, an object was in the sky, no loud noise that would be like a plane of that size.  It wasn't small.  It was in the countr	7/1/02	46.1069717407,-116.26701355	
+8/5/99 05:15	Meridian	ID	Light	30 seconds	A white light, typical of visible orbiting satellites, moved erratically on a westerly course in the pre-dawn sky.	8/10/99	43.611000061,-116.392227173	
+7/28/99 22:50	Twin Falls	ID	Fireball	3-4sec	green fire ball larger than full moon tail 6-7 times longer than fireball going due north  at time of spoting arched doun, because of c	8/10/99	42.5561904907,-114.469612122	
+7/9/99 23:00	Cascade (7 miles NW  city of)	ID	Light	10 seconds	"Star" brightend in shy, then slowly faded away to invisible	8/10/99	44.5155296326,-116.041473389	
+6/25/99 22:00	Idaho Falls	ID	Unknown	10 seconds	3 lights above a well known park	1/21/08	43.4920005798,-112.041992188	
+6/20/99 01:40	Boise	ID	Light	3-5 minutes	Solid white light,the appearance of a star, moved from the east to the west at a solw pace. No noise was audible and the light did not 	7/5/99	43.6069793701,-116.193412781	
+6/20/99 01:20	Boise	ID	Other	20-30 seconds	Horse shoe shaped craft, very silent (no sound) 2,000 foot altitude, 4 dull lights on bottom, area between lights was reddish glow, fro	11/2/99	43.6069793701,-116.193412781	
+6/10/99 00:00	Firth	ID	Disk	15 min.	I was awaken by a humming sound, so I got up and walked to the window and saw two bright flying objects.	6/23/99	43.3035507202,-112.184959412	
+6/3/99 22:45	Post Falls	ID	Triangle	20 minutes	My friend and I were sitting outside talking when she noticed a large object moving in the sky, there were clouds and we were able to s	6/23/99	47.7115287781,-116.948097229	
+5/26/99 15:00	Arco	ID	Circle	20min	Stange Flying object	1/31/04	43.6361618042,-113.300758362	
+5/22/99 03:10	US Hwy 200 between MP 39 & 40	ID	Light	60 sec	I saw a bright white light approximately 80 ft. above the lake and approximately 2 football fields length away from me.	6/23/99	
+3/17/99 19:55	Boise	ID	Unknown	10 seconds	Two redish lights moving together, quickly, without sound in a West to East manner.	4/2/99	43.6069793701,-116.193412781	
+2/26/99 19:30	I-84  (near ID/UT border)	ID	Light	60 secs.	A bright light in the night sky above I-84 near Idaho Utah border.	4/2/99	42.6283111572,-113.679458618	
+1/2/99 20:00	Spirit Lake (rural)	ID	Light	1 hour	while looking toward the east we noticed a bright starand upon further examination we noticed that it changed colors from red to green 	5/24/99	47.9415283203,-116.899787903	
+12/21/98 18:30	Rupert (5 miles north of)	ID	Disk	10 minutes	Dark night, craft "sliding" erraticly from NW to SE, bright white lights spaced around in circle with millions of "sparklers" inbetween	9/12/99	42.6180381775,-113.668731689	
+11/24/98 01:30	Sandpoint	ID	Light	30min	My friend and I witnessed strange lights over my back yard. We watched whatever it was decend closer and closer to the pond in my back 	1/28/99	48.2729911804,-116.547790527	
+11/22/98 18:30	Boise	ID	Disk	2 seconds	A disc shaped object was captured on video.	1/28/99	43.6069793701,-116.193412781	
+11/14/98 21:15	Fenn	ID	Fireball	30 seconds	ball of light shot across sky - lit up like daytime at 9:15 PM	1/29/02	45.9658203125,-116.264076233	
+10/29/98 20:30	Caldwell (approx 40 miles nw)	ID	Light	40-50 sec	at first looked to be a very bright star,it began to get brighter and brighter and coming closer and larger.Then turned at high speed t	10/12/01	43.6674385071,-116.692588806	
+10/25/98 21:20	Pocatello	ID	Light	apx. 10 min.	I was looking out my kitchen door when I saw at a distance a bright flickering white light that appeared to have a diamond shape with r	11/1/98	42.874710083,-112.450569153	
+10/22/98 03:30	Rupert	ID	Sphere	2 minutes	I was on my way to milk cows at my dairy, like any morning. A bright purple sphere was to the north of my house when I walkes out the d	12/12/09	42.6180381775,-113.668731689	
+9/6/98 22:15	Idaho Falls	ID	Other	1 to 2 Minutes	Very large wedge (flying wing) with tall winglets (Looked to be about 15 to 20 feet tall)at each wing tip. There were what looked to be	5/11/00	43.4920005798,-112.041992188	
+8/25/98 13:00	Sandpoint	ID	Disk	10 seconds	While traveling north on rapid lightning, my husband, myself and a family friend observed a bright silver disc hovering motionless in t	4/2/99	48.2729911804,-116.547790527	
+7/15/98 01:30	Council	ID	Triangle	35 min.	Krackowski "Fast-Proton" Detection   Vessel	8/1/03	44.7292785645,-116.432830811	
+7/13/98 23:05	Idaho Falls	ID	Triangle	20-30 Seconds	Saw two triangular objects in near proximity of each other with circular white lights near the points of each of the objects.  I soon r	11/21/98	43.4920005798,-112.041992188	
+6/25/98 11:00	Boise	ID	Sphere		sphere seen right on  the outside of boise, idaho.	2/16/99	43.6069793701,-116.193412781	
+5/21/98 20:00	St. Charles	ID	Other	9 hours	Ship flies into lake	8/11/04	42.1125602722,-111.388786316	
+2/15/98 23:30	Blackfoot	ID	Flash	5 minutes	3 silent flashes in the cloud followed later with stone silence.	9/2/05	43.1889915466,-112.345542908	
+8/28/97 22:00	Coeur d'Alene	ID	Triangle	ap. 35min.	my self and several others saw a ship fly over our house , very quiet, no sound at all, was black no lights, had a true shape to it,Tri	11/19/98	47.6718597412,-116.776161194	
+8/15/97 22:00	Idaho Falls	ID	Other	5 seconds	WHAT APPEARED TO BE A DUAL ENGINE PROP JET FLEW OVER MY HOUSE AT NIGHT, HAD NO LIGHTS AND THERE WAS NO SOUND	1/11/02	43.4920005798,-112.041992188	
+8/2/97 18:45	Caldwell	ID	Disk	20 min	I work at a large potato pracessing plant plant 2 miles west of Caldwell .It was a clear bright sunny day hot 90 - 100 degress . I was 	8/19/00	43.6674385071,-116.692588806	
+6/14/97 00:00	Meridian	ID	Triangle	3 min	My Child and friends were outside looking at stars when thay saw a triangle shape moving right over there heads than slow down than too	4/2/99	43.611000061,-116.392227173	
+5/20/97 21:15	Caldwell (far west of, towards Oregon)	ID	other	20mins.	My neigbor viewed  what looked like a verticalcontrail,orange, for 10mins. at his work,then  drovehome,viewed it for 10mins., I then ca	11/20/02	43.6674385071,-116.692588806	
+11/12/96 22:30	Donnelly	ID	Triangle	5 minutes	Black triangle in the mountains of Idaho	4/27/07	44.7314605713,-116.078346252	
+9/5/96 23:00	Snake River (ID/OR border)	ID	Sphere	3 minutes	bright spherical object above Snake River	2/14/06	46.4199867249,-117.032302856	
+7/3/96 23:00	Salmon River	ID	Light	6 mins	Red glowing ball of light, chased by black helicopters over the Salmon River	5/15/06	44.9194793701,-115.324935913	
+6/15/96 03:05	Boise	ID			Two boys skateboarding & photographing w/ camcorder capture multiple, bizarre objs. on film.  Some cone-shaped, others round.	11/2/99	43.6069793701,-116.193412781	
+6/15/96 22:00	Coeur d'Alene	ID	Formation	3 minutes	3 flying objects that trailed one after the other and flew in loose curves and heading roughly south.	8/16/02	47.6718597412,-116.776161194	
+5/12/96 02:00	Idaho Falls	ID	Light	1 minute	I never have told anyone about this because of the illegal nature of what we were doing when the event occured. Given the anonymous nat	5/28/05	43.4920005798,-112.041992188	
+5/4/96 23:15	Fagle	ID		20 min.	Woman & daughter see very brilliant light w/ "little lights spinning out of it."  1st obj. appears to land, 2nd arrives!  Police.	11/2/99	44.3890686035,-114.659370422	
+4/28/96 01:45	Idaho Falls	ID		4 sec.	Group of young people witness blue-green light--"ball of fire"--streak down at angle.  4 min. later, hear 2x loud booms.  Dramatic!	11/2/99	43.4920005798,-112.041992188	
+4/28/96 01:40	Idaho Falls	ID		4 sec.	Sheriff's deputy sees EXTREMELY bright blue-green ball of light--"1/2 diameter of moon"--streak down, disappear. Lit 1/4 of NW sky.	11/2/99	43.4920005798,-112.041992188	
+3/9/96 01:15	Boise	ID		90 sec.	Two young men in public park witness "meteor," then realize there are multiple tiny V-shaped objs. overhead. Objs. form wedges.	11/2/99	43.6069793701,-116.193412781	
+1/7/96 17:00	Boise	ID	Triangle	4-5 minutes	Huge triangle shaped object seen hovering over Boise Idaho	3/2/04	43.6069793701,-116.193412781	
+12/14/95 04:24	Boise	ID			FAA employee observes six objects descend out of the night sky and explode into fragments very close to ground.  Bizarre sight.	11/2/99	43.6069793701,-116.193412781	
+10/14/95 22:30	Sandpoint	ID		20 sec.	Man calls to report multiple witnesses to "green fireball" over WA, ID, MT.  Very strange object!	11/2/99	48.2729911804,-116.547790527	
+9/24/95 20:25	Boise	ID		20 min.	Woman calls to report seeing large, triangular-shaped, black mass hovering, moving slowly.  Son sees same thing from diff. loc..	11/2/99	43.6069793701,-116.193412781	
+9/5/95 23:00	Boise	ID		30 min.	Three adults witness what appears to be "a straight line of 5-7 lights" hovering motionless in sky.  Definite, distinct colors.	11/2/99	43.6069793701,-116.193412781	
+8/29/95 05:50	Boise	ID		1 sec.	Man repts. sighting bright white light streaking E to W 60 deg. above S horizon.  1/3 diameter of full moon. 2nd sighting by others.	11/2/99	43.6069793701,-116.193412781	
+8/15/95 21:00	Sandpoint	ID	Disk	one minute	Very large disk shape, many portholes, silver in color, nestled between two hills	11/17/99	48.2729911804,-116.547790527	
+7/23/95 23:00	Snake River	ID		15 sec.	12 passengers on tour boat see "manta ray" pass directly overhead.  Delta-shaped wings appeared "to ripple." Strange black color.	11/2/99	46.4199867249,-117.032302856	
+4/19/95 23:00	Lake Sullivan	ID	Light	5-6 HRS. APPROX.	((This is the third of several of these experiences, all of which I now feel are connected. If visitors to this site have any questions	2/16/99	43.3143157959,-114.156593323	
+3/8/95 05:45	Ammon	ID		2 min.	Mother reports children approached by circular obj. w/ lights. Directly overhead. Telepathic msg. reported.	11/2/99	43.4676094055,-111.969276428	
+1/18/95 19:00	Grangeville	ID			Woman reports dramatic "meteor shower" over northern Idaho.	11/2/99	45.9255905151,-116.119003296	
+12/8/94 02:45	McCall	ID	Fireball	10 seconds (?)	Couple awakened by bright lights illuminating home.  Neighbors saw same obj. hovering overhead.  Power failure reptd.	11/20/01	44.9107017517,-116.098060608	
+7/15/94 15:30	Caldwell	ID	Triangle	5 minutes	Copper Triangular UFO hovers over field then disappears in 1994	2/1/07	43.6674385071,-116.692588806	
+7/8/94 01:30	Priest River	ID	Disk	90 mins or so	Classic saucer with colored lights circling the rim; stationary for a long time so we got a GOOD look!	8/10/99	48.1805496216,-116.905471802	
+6/8/94 22:30	Idaho Falls	ID	changing	10 min.	Strange, form-changing objects seen over Idaho Falls.	1/28/99	43.4920005798,-112.041992188	
+2/10/94 23:55	Lewiston (Near)	ID	Triangle	5 minutes	Triangular craft hovering over bridge then moving downriver.	4/2/99	46.4186515808,-117.016662598	
+7/15/93 22:00	Moscow	ID	Other	3 minutes	Moscow, ID-Row of 5-6 off white lights moving silently & slowly east to west summer 93.	8/12/08	46.7323493958,-117.000541687	
+9/6/92 01:30	Kamiah	ID	Circle	1o minutes??/	at first there were window size lights, then a round lighted object, then the round object by itself that shot from ground level to the	12/2/00	46.227268219,-116.028633118	
+9/5/92 01:30	Kamiah	ID	Circle	10 minutes	maybe a  somewhat round craft with three large lights per side, with a seperate round craft	12/2/00	46.227268219,-116.028633118	
+8/6/92 01:00	Kamiah	ID	Unknown	10 minutes	March 21, 2005  NUFOR  Attn: Peter Davenport  I talked with you on the telephone and made a drawing rendition of what I and my wife wit	5/24/05	46.227268219,-116.028633118	
+7/10/92 01:00	Swan Falls/Kuna	ID	Formation	1-2 hours	3-7 small "stars" that moved across the sky in various formations for 2 hours	12/2/00	43.330078125,-116.413909912	
+6/20/92 00:30	Fruitland	ID	Light	1 minute	Bright light that zig-zagged in the sky.  Speed of pattern and size is impossible with human-made aircraft.	9/24/03	44.0088806152,-116.918609619	
+4/1/92 10:00	Nampa	ID	Sphere	5 minutes	In 92' I saw a huge green orb in the middle of the road near the Nampa airport	9/2/05	43.582611084,-116.569633484	
+9/10/91 21:30	Lewiston	ID	Light	A half an hour	A large panning light that would move from position to position faster than seemily possible.	11/21/10	46.4186515808,-117.016662598	
+8/29/91 03:00	Donnelly	ID	Unknown	1/2 hour	When there is an animal mutilation, what can you hear?	6/3/10	44.7314605713,-116.078346252	
+4/15/91 22:00	Malad/Downy	ID	Circle	10 seconds	UFO SPOTTED IN SOUTHEASTERN IDAHO IN RECENT YEARS	1/11/02	44.3890686035,-114.659370422	
+10/1/89 16:00	MacKay	ID	Disk	2 TO 3 MIN	LARGE SAUCER	2/14/10	43.9144287109,-113.612083435	
+4/15/89 03:30	Idaho Falls	ID	Rectangle	10 minites	12'x8' rectangle emmiting blinding lights riding my car bumper until i stoped.	3/16/01	43.4920005798,-112.041992188	
+8/1/84 04:00	Sandpoint	ID	Disk	45 seconds	Day time sighting; UFO Saucer playing loud music.	4/28/01	48.2729911804,-116.547790527	
+1/13/84 02:12	Idaho (I-90 interstate)	ID	Changing	30 Minutes	Amazing Sight and Long Encounter time  - Shape Change of Object	12/2/00	43.6076889038,-116.513191223	
+7/10/83 21:00	Mountain Home	ID	Oval	15 min	There was 6-7 oval, pure white objects of about 30' X15'.One circled my car twice and then shot away.	11/3/05	43.131439209,-115.69342041	
+6/15/83 18:00	Sandpoint	ID	Disk	1.5 min.	It was early evening in the summer. I can remember hearing music coming from outside the house. My brother and I ran outside where my m	4/28/01	48.2729911804,-116.547790527	
+3/1/83 19:00	Sandpoint	ID	Disk	3 minutes	Outside in our front yard, we heard a craft overhead.  It sounded like music was coming from it.  There were lights, and it seemed disc	4/28/01	48.2729911804,-116.547790527	
+9/20/82 19:00	Dixie	ID	Disk	4 hrs	High mountain Idaho sighting, disc shaped revolving lights underneath,like a memory game,30 ft across.	10/31/03	43.3146705627,-115.444450378	
+9/16/81 18:00	Twin Falls	ID	Other	unkown	ufo sighted in Twin Falls Idaho 1981 in the fall or late summer any other information related to this would be appreciated.	5/14/02	42.5561904907,-114.469612122	
+6/26/80 19:00	Parma	ID	Unknown	00:01	Bright Flash- Pregnant wife getting up off of ground, 30 feet away.	2/16/00	43.7864990234,-116.942977905	
+6/1/80 18:00	Homedale	ID	Fireball	unknown	Witnessed a fireball in the western sky above the Owyhee Mountains just before sunset.	5/24/99	43.6167297363,-116.934333801	
+10/15/78 19:00	Coeur d'Alene	ID	Oval	10 seconds	Object raised vertically from lake and zips off horizontally like a lightning bolt.	2/14/08	47.6718597412,-116.776161194	
+8/2/78 23:00	Shelley	ID	Light	10 seconds	Stationary bright light over foothills stays still for 10 seconds and then flies out of sight in less than a second.	11/8/03	43.380531311,-112.124168396	
+1/1/78 13:00	Sagle	ID	Sphere	20 Seconds	Hovering gray, grapefruit size, shaped sphere that travels at lightning speed.	10/8/07	48.2029495239,-116.549003601	
+5/28/77 00:00	Meridian	ID	Disk	20 minutes	It passed over our house and the other houses dead center of them at such a slow speed, I couldn`t figure how it could stay in the air,	6/18/03	43.611000061,-116.392227173	
+5/28/77 00:01	Meridian	ID	Disk	20 minutes	It passed over our house and the other houses dead center of them at such a slow speed, I couldn`t figure how it could stay in the air,	7/16/03	43.611000061,-116.392227173	
+8/30/75 22:00	White Bird	ID	Light	15-20 minutes	UFO Pinball?	12/3/04	45.7609214783,-116.301338196	
+7/15/75 14:00	Paul/Burley (Near)	ID	Cigar	5 min	Large cigar shaped craft seen stationary at high altitude. Then zoomed off.	7/5/99	44.3890686035,-114.659370422	
+8/15/74 22:30	Chubbuck	ID	Other	multiple fly by	approach from east sky, several lights in symetrical boomerang shape, orbited earth in about 10 min. saw again same flight path much hi	11/1/98	42.9295196533,-112.466461182	
+7/24/73 02:24	Blackfoot	ID	Triangle	Approx. 4 minutes	Smooth, rounded triangular object, stone grey, no lights or markings, dome on bottom, silent.	3/7/98	43.1889915466,-112.345542908	
+1/12/68 22:00	American Falls	ID	Disk	20seconds	Large glowing green in color looking up at the bottom it was round	6/6/00	42.7840003967,-112.854858398	
+8/25/67 03:15	Princeton	ID	Disk	30 mins.	Flying Saucer: August 1967-A Teen's Observation	5/11/05	46.9137191772,-116.834671021	
+6/23/67 22:30	Boise	ID	Light	2 minutes	Light landing on runway, traveling past end zone, travelling overland over roadless area then turning to merge into freeway traffice	6/18/04	43.6069793701,-116.193412781	
+6/1/67 23:59	Boise	ID	Disk	one hour	Large Mining UFO mining resourses on Earth	2/24/01	43.6069793701,-116.193412781	
+8/16/57 21:30	Smith's Ferry	ID	Disk	10 minutes	When a disk UFO passes within a few feet of the truck cab, the Air Force calls it a lost missile.	6/3/10	44.3028182983,-116.08846283	
+8/1/57 12:00	Arco	ID	Disk	THREE MIN.	A surveying crew of five disturbed a landed craft that lifted up during mid day and then flew away after observing us.	4/13/10	43.6361618042,-113.300758362	
+7/2/50 13:00	Coeur d'Alene	ID	Cigar	10 seconds	Bright Orange, Cigar-Shapped Object Travelling at 18,000 MPH	8/12/08	47.6718597412,-116.776161194	
+7/15/47 15:00	Hazelton (Northeast of)	ID	Disk	10 Min.	The Object was Huge,Saucer-shaped,beautiful silver,no sound,no exhaust-No lights as it was early afternoon.	8/5/01	42.5962295532,-114.13860321	
+06/00/72 19:00	Emmett	ID	Fireball	5 seconds	I witnesseed a blue-green ball followed by a golden trail. The event moved North to South. The event also was audible. It created a low	12/2/00	43.8741188049,-116.500061035	
+Continious fall '98-sprin 01:00	Careywood & Bayview (Pend Oreille Lake)	ID	Light	few minutes	Ball of light similiar to reported "Earht Lights" except there is little or no know quake or similiar activity known in area.  Lights z	9/19/02	47.9999998212,-116.622380242	

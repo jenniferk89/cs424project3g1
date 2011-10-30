@@ -21,7 +21,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 1/12/11 23:00	Mobile	AL	Flash	5 minutes	ufos playing in the night sky near the southern cross star cluster	1/31/11	30.6943566,-88.0430541	
 12/27/10 17:00	Alabaster	AL	Circle	30 minutes	2 ufo's seen over mall in Alabaster, Alabama	1/5/11	33.2456227,-86.843085	
 12/13/10 23:45	Eufaula	AL	Light	10 minutes	Observed a stationary blinking light for 10 minutes in the constellation Orion on the night of Dec. 13, 2010.	1/5/11	31.9102535,-85.15039	
-12/5/10 21:00	Huntsvile	AL	Formation	20-30 MIN	5 blue lights seen, later chased by fighter jets.	1/5/11	12/1/10 08:20	Huntsville	AL	Other	15 seconds	My sister and I saw a 747 hovering in the air not moving forward or backward, just sitting still in the air about 1 mile away from the	1/5/11	34.7303688,-86.5861037	
+12/5/10 21:00	Huntsvile	AL	Formation	20-30 MIN	5 blue lights seen, later chased by fighter jets.	1/5/11	
+12/1/10 08:20	Huntsville	AL	Other	15 seconds	My sister and I saw a 747 hovering in the air not moving forward or backward, just sitting still in the air about 1 mile away from the	1/5/11	34.7303688,-86.5861037	
 11/18/10 23:00	Oxford	AL	Circle	5 MIN	IT LOOKED LIKE A BALL OF Fire ABOUT THE SIZE OF A SOFTBALL IT CAME DOWN AT A ANGEL THEN STRAITEND AND WHENT ABOUT 50 FEET UP AND OVER S	11/21/10	33.6092718,-85.8155198	
 11/17/10 04:30	Gadsden	AL	Sphere	about 15 min	White sphere witnessed by my nieces and orange ball witnessed by all of us on same day.	7/4/11	34.0092703,-86.015175	
 10/29/10 17:30	Bessemer	AL	Teardrop	Twenty Minutes	Four guys see five teardrop/candle light objects spreading a mist, turn into cones, becomes long slivers, and split in the sky.	11/21/10	33.3713996,-86.97077	
@@ -30,7 +31,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 10/12/10 19:13	Daphne	AL	Chevron	45 sec	Chevron shape lights moving slowly, Daphne AL	11/21/10	30.6296718,-87.889063	
 10/4/10 00:30	Birmingham	AL	Triangle	4 minutes	Black triangle materialized overhead and proceeded southbound	11/21/10	33.5206608,-86.80249	
 8/12/10 22:30	Montgomery	AL	Unknown	One minute	High, fast, zig-zag/wobbly flight pattern ...	8/24/10	32.3668052,-86.2999689	
-7/25/10 20:40	Troy to Montgomery	AL	Circle	1:20 min	Bright White Light that followed us!	7/28/10	7/24/10 22:00	Florence	AL	Light	20 MIN.	CALLED OUTSIDE BY NEIGHBORS TO LOOK AT STRANGE LIGHTS, RED GLOWING LIGHTS THAT SEEMED TO BE FLOATING , NO SOUND HEARD , PROBALLY 30  +	7/28/10	34.8301525,-87.665257	
+7/25/10 20:40	Troy to Montgomery	AL	Circle	1:20 min	Bright White Light that followed us!	7/28/10	
+7/24/10 22:00	Florence	AL	Light	20 MIN.	CALLED OUTSIDE BY NEIGHBORS TO LOOK AT STRANGE LIGHTS, RED GLOWING LIGHTS THAT SEEMED TO BE FLOATING , NO SOUND HEARD , PROBALLY 30  +	7/28/10	34.8301525,-87.665257	
 7/21/10 10:46	Brantley	AL	Triangle	2 minutes	Large triangle shaped craft chased by a helicopter	7/28/10	31.066846,-87.0908027	
 7/15/10 22:30	Citronelle	AL	Unknown	15 min	Light similar to star, disappeared, changed direction in matter of seconds, no sound, no blinking lights, and moved at atleast Mach 3	7/28/10	31.0957034,-88.24756	
 7/14/10 01:00	Killen	AL	Cylinder	ongoing	One or two balls or cylinders of light drifting slowly west to east with intermittent quick movement up and down and back to the west	7/19/10	34.8600148,-87.528898	
@@ -78,7 +80,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 12/21/08 19:30	Citronelle	AL	Sphere	30 seconds	Chrome Sphere and mind control?	1/10/09	31.0957034,-88.24756	
 12/14/08 02:00	Anniston	AL	Light	20 min	1 bright light was seen North North west of location near 431/Bynum Leatherwood road. The light was motionless for about 18 min and the	1/10/09	33.6598257,-85.8316318	
 12/5/08 21:40	Ashville	AL	Unknown	still ongoing @ 22:24	Srange lights/unknown craft observed in E/ESE sky of NorthEastern St.Clair Co. on night of 12/05/2008. ((NUFORC Note:  Sirius??  PD))	1/10/09	33.8338331,-86.269972	
-11/24/08 19:00	Phenix City & Columbus,Ga	AL	Light	5 minutes	Many slow moving lights moving in the same direction crossing two cities.	1/10/09	11/19/08 22:10	Tuscaloosa	AL	Cigar	2 seconds	large blue bullet shaped object crossing sky of tuscaloosa alabama	1/10/09	33.2098407,-87.5691735	
+11/24/08 19:00	Phenix City & Columbus,Ga	AL	Light	5 minutes	Many slow moving lights moving in the same direction crossing two cities.	1/10/09	
+11/19/08 22:10	Tuscaloosa	AL	Cigar	2 seconds	large blue bullet shaped object crossing sky of tuscaloosa alabama	1/10/09	33.2098407,-87.5691735	
 11/18/08 07:40	Prattville	AL	Disk	8-10 seconds	I saw a bright reflection fairly low in the sky.  The reflection was in the shape of a disc.  It hovered for a few seconds and then dis	1/10/09	32.4599328,-86.45922	
 11/3/08 21:00	Fairview	AL	Sphere	4-5 seconds	Giant green light appears ,drops and disappears.	1/10/09	34.2473868,-86.683419	
 11/2/08 23:00	Daphne	AL	Unknown	30 minutes or more	Blue/Red/Green flashing object above Mobile, Al.  ((NUFORC Note:  Sirius?  PD))	1/10/09	30.6296718,-87.889063	
@@ -194,13 +197,15 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 11/10/06 05:00	Huntsville	AL	Unknown	45 seconds	Two bright lights which appeared to be stars.  They slowly faded out of sight.	12/7/06	34.7303688,-86.5861037	
 11/6/06 16:00	Birmingham	AL	Teardrop	few hours	Hanging object in Southeastern sky US 11-06-06	12/7/06	33.5206608,-86.80249	
 10/20/06 11:30	Birmingham	AL	Sphere	2 minutes	((HOAX??))  metallic sphere tailing fighter jet	12/14/06	33.5206608,-86.80249	
-10/1/06 21:00	Sandrock	AL	Unknown	10min.	SEVERAL OBJECTS VERY HIGH IN THE SKY  AT NIGHT, GLOWING RED, AND JOINING IN PATTERNS.	10/30/06	8/27/06 21:00	Madison	AL	Formation	1 hour	A formation of four to five lights that for at least an hour would circle around each other, then dash off in different directions.	10/30/06	34.7099951,-86.751702	
+10/1/06 21:00	Sandrock	AL	Unknown	10min.	SEVERAL OBJECTS VERY HIGH IN THE SKY  AT NIGHT, GLOWING RED, AND JOINING IN PATTERNS.	10/30/06	
+8/27/06 21:00	Madison	AL	Formation	1 hour	A formation of four to five lights that for at least an hour would circle around each other, then dash off in different directions.	10/30/06	34.7099951,-86.751702	
 8/22/06 20:00	Toney	AL	Triangle	10 minutes	2 triangular ships over my sons football game	10/30/06	34.8367545,-86.3127644	
 8/13/06 21:00	Huntsville	AL	Oval	1 minute	Large bright blue object moving in a box like pattern at an incredible rate of speed until it vanished my moving vertically.	10/30/06	34.7303688,-86.5861037	
 8/8/06 08:30	Boaz	AL	Oval	5 min	bright light oval shape crusing speed, then turned angle, then sped out of sight into space	10/30/06	34.2017098,-86.153923	
 8/6/06 23:00	Foley	AL	Unknown	30 minutes	My children were swimming in our pool at 11 PM. They came in because they saw 3 different flashes of light & it scared them. I (the Mot	10/30/06	30.3999064,-87.664295	
 7/19/06 03:30	Montgomery	AL	Disk	2 Hours	Massive UFO event in Montgomery, Alabama	10/30/06	32.3668052,-86.2999689	
-7/10/06 19:18	Vierfontein (South Africa)	AL	Unknown	40 minutes	Seen a colorfull flashing UFO.	7/16/06	7/5/06 21:30	Florence	AL	Light	3 minutes	Intense Bright Object that flew over our house & field.	10/30/06	34.8301525,-87.665257	
+7/10/06 19:18	Vierfontein (South Africa)	AL	Unknown	40 minutes	Seen a colorfull flashing UFO.	7/16/06	
+7/5/06 21:30	Florence	AL	Light	3 minutes	Intense Bright Object that flew over our house & field.	10/30/06	34.8301525,-87.665257	
 6/8/06 22:00	Atmore	AL	Other	20 min. (??)	late at night / horseshoe shaped craft / 17 lights off and on / 20 mins then vanishes / sees crafts often /	6/12/07	31.0317136,-87.492937	
 5/23/06 22:30	Moulton	AL	Light	about 3 min	A light proceeded across the sky from south to north i did not observe any thing to set it apart from an airplane	7/16/06	34.4843037,-87.283136	
 5/18/06 21:00	Gulf  Shores	AL	Unknown	5 minutes	We saw a triangled shaped  object in the sky in Gulf Shores ALA, approx one mile up not moving.	4/27/07	30.2702676,-87.698582	
@@ -210,11 +215,15 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 2/10/06 20:00	Cusseta	AL	Light	10-15 minutes	4 lights going in circle pass through each other.  ((NUFORC Note:  Advertising lights??  PD))	2/14/06	32.7786296,-85.3096169	
 2/1/06 22:00	Wagarville	AL	Fireball		What I thought as a falling star coming towards us at a rapid speed from the northwest automatically stopped. It hovered for a few minu	5/15/06	31.4362772,-88.0283358	
 1/28/06 18:15	Heflin	AL	Triangle	a few seconds	Low flying angular object seen near Hollis Crossroads. Heflin, Alabama. Jan. 28 2006	2/14/06	33.6472032,-85.570155	
-1/3/06 18:50	Aliceville/Carrolton/Livingston	AL	Sphere	1 hour	Greenish-Blue Sphere Shape Object Seen Over Alabama's Skies. People In Multiple Sites Witness Same Thing.	2/14/06	12/30/05 13:25	Melbourne (Australia)	AL	Disk	15 minutes	12/30/05 silver object  hovering for 15 mins	2/14/06	12/21/05 17:00	Hoover	AL	Other	15 min	slow moving Fireball in the sky.  ((NUFORC Note:  Possible contrail, we suspect.  PD))	2/14/06	33.4053867,-86.8113782	
-12/19/05 11:00	Foely	AL	Oval	11:22	it was oval and was silver with a bright light on the side.	2/14/06	12/2/05 00:00	Montgomery	AL	Rectangle	10 seconds	Montgomery AL  Rectangle Object with no sound flew West to East  10 Seconds	12/16/05	32.3668052,-86.2999689	
+1/3/06 18:50	Aliceville/Carrolton/Livingston	AL	Sphere	1 hour	Greenish-Blue Sphere Shape Object Seen Over Alabama's Skies. People In Multiple Sites Witness Same Thing.	2/14/06	
+12/30/05 13:25	Melbourne (Australia)	AL	Disk	15 minutes	12/30/05 silver object  hovering for 15 mins	2/14/06	
+12/21/05 17:00	Hoover	AL	Other	15 min	slow moving Fireball in the sky.  ((NUFORC Note:  Possible contrail, we suspect.  PD))	2/14/06	33.4053867,-86.8113782	
+12/19/05 11:00	Foely	AL	Oval	11:22	it was oval and was silver with a bright light on the side.	2/14/06	
+12/2/05 00:00	Montgomery	AL	Rectangle	10 seconds	Montgomery AL  Rectangle Object with no sound flew West to East  10 Seconds	12/16/05	32.3668052,-86.2999689	
 12/1/05 18:00	Gadsden (south side of)	AL	Other	1 1/2 HOURS	A ILLUMINATING LIGHT SHOW, WITH BLUE SPHERES, AND ONE BRIGHT LARGE TRIANLED LT.	12/16/05	34.0092703,-86.015175	
 11/29/05 07:44	Grove Hill	AL	Triangle	5 seconds	Large triangle craft near commerical aircraft	6/12/08	31.7032588,-87.775863	
-11/28/05 09:10	Guaymas Sonora (Mexico)	AL	Fireball	60segs	I was driving South on the road,Forme Hermosillo to Guaymas , the sky was blue, There was no clouds Somethinhg bright on the sky , call	12/16/05	11/19/05 18:30	Gurley	AL	Circle	2 hours	Flurry of small bright flashing lights going east to west in random formation as if they were bees that were disturbed.	12/16/05	34.7000115,-86.376813	
+11/28/05 09:10	Guaymas Sonora (Mexico)	AL	Fireball	60segs	I was driving South on the road,Forme Hermosillo to Guaymas , the sky was blue, There was no clouds Somethinhg bright on the sky , call	12/16/05	
+11/19/05 18:30	Gurley	AL	Circle	2 hours	Flurry of small bright flashing lights going east to west in random formation as if they were bees that were disturbed.	12/16/05	34.7000115,-86.376813	
 11/8/05 05:11	Enterprise	AL	Light	10 seconds	Silent Moving Bright Light makes "impossible" 90 degree turn to the west	12/16/05	31.3284928,-85.845793	
 10/21/05 20:00	Heflin	AL	Sphere	30 minutes	Huge ball of light seen on the ground in Talladega National Forest / Sweetwater Lake	12/16/05	33.6472032,-85.570155	
 10/13/05 20:00	Millbrook	AL	Changing	2hrs	((NUFORC Note:  Probable twinkling star?  PD))  Sky was clear with stars.	10/20/05	32.503526,-86.372728	
@@ -253,9 +262,11 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 11/3/04 20:15	Chalybeate Springs	AL	Unknown	5 min	going down a dark road between chalybeate springs and moluton me and my were goning down the road when i saw about 6 lights which at fi	12/3/04	34.565093,-87.2266849	
 10/4/04 05:30	Montgomery	AL	Light	5 minutes	Bright moving light spotted east of Montgomery, AL in early a.m. ~2 hours before sunrise	10/27/04	32.3668052,-86.2999689	
 10/2/04 19:30	Orange Beach	AL	Light	15 min	Observed light at high altitude chane directions in an impossible way.	10/27/04	30.2932495,-87.583596	
-9/12/04 21:00	Attalla/Gadsden	AL	Triangle	20 minutes	It was so quiet the cattle in the field didn't even run from it.	7/16/06	8/19/04 22:15	Orange Beach	AL	Circle	~30 seconds	Orange Lights over Gulf of Mexico (Orange Beach, Ala.) ((NUFORC Note:  Flares??  PD))	9/29/04	30.2932495,-87.583596	
+9/12/04 21:00	Attalla/Gadsden	AL	Triangle	20 minutes	It was so quiet the cattle in the field didn't even run from it.	7/16/06	
+8/19/04 22:15	Orange Beach	AL	Circle	~30 seconds	Orange Lights over Gulf of Mexico (Orange Beach, Ala.) ((NUFORC Note:  Flares??  PD))	9/29/04	30.2932495,-87.583596	
 8/16/04 19:00	Gulf Shores	AL	Triangle	5 minutes	Object looked to be a mile high ,at least half mile wide with five lights three feet across on bottom.	3/19/09	30.2702676,-87.698582	
-8/10/04 21:23	Hoover/Bluff Park	AL	Triangle	several seconds	triangle of white and red lights	8/11/04	8/6/04 22:15	Huntsville	AL	Light	15 seconds	Bright light moving and fading to dark, like high altitude rocket thruster, seen briefly near Cassiopea.	8/11/04	34.7303688,-86.5861037	
+8/10/04 21:23	Hoover/Bluff Park	AL	Triangle	several seconds	triangle of white and red lights	8/11/04	
+8/6/04 22:15	Huntsville	AL	Light	15 seconds	Bright light moving and fading to dark, like high altitude rocket thruster, seen briefly near Cassiopea.	8/11/04	34.7303688,-86.5861037	
 7/25/04 14:50	Huntsville	AL	Triangle	bout 20 mins	Object flys slowly over Huntsville Alabama	8/11/04	34.7303688,-86.5861037	
 7/10/04 20:00	Piedmont	AL	Circle	one hour	Several objects in sky - seemed to be twirling and flashing red - green - blue and white lights and would hover then very quickly move	5/24/05	33.9266523,-85.615745	
 6/8/04 00:40	Birmingham	AL	Circle	45 seconds	Was at the rail yard, out-skirts of town, at given time, on report. Saw what appeared to be neither "space debris" but a round object	6/18/04	33.5206608,-86.80249	
@@ -284,7 +295,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 11/3/03 00:00	Morris	AL	Diamond	1-2 hours	I saw what i thought was a star going super nova.	11/8/03	31.1562887,-85.4152111	
 11/1/03 20:11	Wind Creek State Park	AL	Light	30 min	bright lights in the sky	11/26/03	32.863181,-85.9338518	
 10/24/03 23:45	Mobile	AL	Triangle	1 minute	First sighting of triangular bright white object moving over Mobile, AL. at night from the south	11/8/03	30.6943566,-88.0430541	
-10/18/03 19:00	Tuscumbia/Cherokee (between)	AL	Other	about 10 minutes	I saw an red glowing arrowhead shaped object hovering in the sky.	10/31/03	10/17/03 20:45	Opp	AL	Triangle	15 mins	Triangle Shaped craft between Opp and Andalusia	10/31/03	31.2848225,-86.256981	
+10/18/03 19:00	Tuscumbia/Cherokee (between)	AL	Other	about 10 minutes	I saw an red glowing arrowhead shaped object hovering in the sky.	10/31/03	
+10/17/03 20:45	Opp	AL	Triangle	15 mins	Triangle Shaped craft between Opp and Andalusia	10/31/03	31.2848225,-86.256981	
 10/17/03 00:30	Opp	AL	Sphere	several hours	Strange stationary lights in the sky.	10/31/03	31.2848225,-86.256981	
 10/16/03 02:00	Opp	AL	Formation	two nights straight	Mostly stationary blinking lights(one set in a formation),  seperate witnesses. ((NUFORC Note:  Suspected "twinkling" stars.  PD))	10/17/03	31.2848225,-86.256981	
 10/8/03 18:00	Banks (outside of)	AL	Disk	few seconds	Large disk shape moving across the sky,then dissappers	10/15/03	31.8133927,-85.836648	
@@ -364,7 +376,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 1/7/00 23:00	Montgomery	AL	Triangle	4to5min	low slow bright light, no sound	1/22/00	32.3668052,-86.2999689	
 12/5/99 04:30	Toney	AL	Fireball	three seconds	There was a bright fireball in the southern sky that was so intense that it not only illuminated the ground but also hurt your eyes to 	12/16/99	34.8367545,-86.3127644	
 12/5/99 04:25	Sterrett (15 miles south of Birmingham)	AL	Disk	1.5 hours	4:30 AM Sunday morning December 5, 1999.  I witnessed a light that lit up my entire back yard and then an explosion sound followed. I a	12/16/99	33.448718,-86.479982	
-12/5/99 04:20	Colombiana	AL	Rectangle	5 sec	15-20 people witnessed an unexplainable event on dec. 5th 1999 which lit the sky as if daylight	10/30/06	12/5/99 04:20	Birmingham	AL	Sphere	5SEC	HUGE BALL OF LIGHT, FALLING DIAGNOL, THROUGH THE CLOUDS. LIT UP THE SKY AS IF IMMEDIATELY DAYLIGHT. APPEARING TO MAKE IMPACT SEVERAL MI	12/16/99	33.5206608,-86.80249	
+12/5/99 04:20	Colombiana	AL	Rectangle	5 sec	15-20 people witnessed an unexplainable event on dec. 5th 1999 which lit the sky as if daylight	10/30/06	
+12/5/99 04:20	Birmingham	AL	Sphere	5SEC	HUGE BALL OF LIGHT, FALLING DIAGNOL, THROUGH THE CLOUDS. LIT UP THE SKY AS IF IMMEDIATELY DAYLIGHT. APPEARING TO MAKE IMPACT SEVERAL MI	12/16/99	33.5206608,-86.80249	
 12/5/99 04:20	Weogufka	AL	Fireball	7 sec	((Witness reports fireball over Alabama.  Many other reports.))	12/16/99	33.0165092,-86.3121969	
 11/3/99 21:00	Leighton (La Grange Mountain)	AL	Triangle	5 minutes	Three orange\red lights in triangular shape pulsating down from the stars but not moving,stayed stationary,then disappeared.	11/23/99	34.6986249,-87.529115	
 10/29/99 17:45	Tuscaloosa	AL	Circle	15 minutes	We saw a strange contrail and craft.	11/9/99	33.2098407,-87.5691735	
@@ -398,7 +411,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 10/15/98 21:00	Enterprise	AL	Triangle	15 minutes	Large black triangular ship seen near Enterprise, Alabama.	2/1/07	31.3284928,-85.845793	
 8/28/98 05:45	Mobile	AL	Light	approx. 1 minute	A string of what appeared to be about a dozen streetlights, but obviously were NOT. (Mobile, AL)	2/1/07	30.6943566,-88.0430541	
 8/18/98 21:15	Silverhill	AL	Disk	3 minutes	disk shaped craft with sequential lights at approx, 100' altitude crossing fields then hiway I was traveling.	7/23/00	30.5455987,-87.749494	
-8/13/98 01:00	Tuskegee National Forest @ HWY 85	AL	Disk	unknown	Large white glowing disk.  Transparent.  Smaller craft coming from it	1/28/99	7/22/98 17:43	Athens	AL	Disk	10 seconds	UFO sighting in Athens, Alabama	7/26/02	34.7844835,-86.951378	
+8/13/98 01:00	Tuskegee National Forest @ HWY 85	AL	Disk	unknown	Large white glowing disk.  Transparent.  Smaller craft coming from it	1/28/99	
+7/22/98 17:43	Athens	AL	Disk	10 seconds	UFO sighting in Athens, Alabama	7/26/02	34.7844835,-86.951378	
 7/12/98 20:00	Decatur	AL	Other	2 min or so i ran in scar	8 Tentcle type things made of beams attached to a circular craft.	8/11/04	34.6059254,-86.9833417	
 7/4/98 23:00	Huntsville	AL	Light	5-10 MIN.	I was at work when I noticed what appeared to be a tower which was southeast from my location.It had a red flashing light on the top an	6/23/99	34.7303688,-86.5861037	
 7/3/98 21:30	Huntsville	AL	Light	15 minutes	red ball of light hovering and moving without sound, shot sparks which produced three white lights that formed a vertical formation und	11/21/98	34.7303688,-86.5861037	
@@ -410,16 +424,19 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 4/23/97 18:00	Guntersville	AL	Oval	2MIN	new glass like craft seen	2/14/08	34.3672871,-86.263411	
 4/5/97 14:00	Fairhope	AL	Other	30 SECONDS	Witness observes tire-shaped object w/windows.	1/28/99	30.5243593,-87.883814	
 4/5/97 14:00	Fairhope	AL	Circle	1 minute	Man walking dog sees tire-shaped object w/windows. No sound, no animal reaction.	9/26/98	30.5243593,-87.883814	
-3/29/97 20:00	Phoenix City	AL		3.45 HRS.	CLOSE ENCOUNTER/CAUGHT ON VIDEO on march 29 1997 I lost over 3 hrs.while filming hale bop,(CAPTURED CRAFT,BEINGS ON VIDEO.)I THOUGHT I 	1/28/99	2/26/97 20:00	Mobile	AL	Oval	10 min	An oval, dark blue, light blue exaust.	1/28/99	30.6943566,-88.0430541	
+3/29/97 20:00	Phoenix City	AL		3.45 HRS.	CLOSE ENCOUNTER/CAUGHT ON VIDEO on march 29 1997 I lost over 3 hrs.while filming hale bop,(CAPTURED CRAFT,BEINGS ON VIDEO.)I THOUGHT I 	1/28/99	
+2/26/97 20:00	Mobile	AL	Oval	10 min	An oval, dark blue, light blue exaust.	1/28/99	30.6943566,-88.0430541	
 12/11/96 17:15	Birmingham	AL		105 sec.	Pastor repts. seeing a "bright ball of fire w/ speed of a falling star" streak W to E. Slows, stops, turns 180 deg., shoots to NW.	11/2/99	33.5206608,-86.80249	
 9/15/96 21:00	Woodville	AL	Triangle	3 Minutes	Object had 4 white lights shining their beams behind it. They swept around to the front and it took off north.	5/28/05	34.6255867,-86.279193	
 9/1/96 17:00	Tuscaloosa	AL	Disk	
 	Saucer skirts clouds, disappears	5/12/10	33.2098407,-87.5691735	
 6/18/96 17:30	Alabama (location unspecified)	AL	Fireball	3min	hovering ball of fire	5/15/06	32.7504062,-86.7502625	
-4/22/96 17:00	Gunteersville	AL	Circle	2min	new type of ufos almost un seeable to the eye	1/17/04	4/2/96 13:00	Mussel Shoals	AL	Other	4 sec.	Man, lying on back looking up, sees tiny bright white speck streak across blue sky from W to E.  Obj. zigzagged twice, disappeared	11/2/99	32.6148571,-87.9716834	
+4/22/96 17:00	Gunteersville	AL	Circle	2min	new type of ufos almost un seeable to the eye	1/17/04	
+4/2/96 13:00	Mussel Shoals	AL	Other	4 sec.	Man, lying on back looking up, sees tiny bright white speck streak across blue sky from W to E.  Obj. zigzagged twice, disappeared	11/2/99	32.6148571,-87.9716834	
 1/31/96 02:00	Heflin  (Talladega National Forest at Oak Level)	AL	Light	2-3 hrs	Parked at hunting spot appx 2 a.m. with vehicle facing west. saw bright light  moving north to south at speeds not humanly possible the	4/26/99	33.6472032,-85.570155	
 1/15/96 22:00	Birmingham (Huffman/Centerpoint)	AL	Teardrop	10 Minutes	I was working security at a local hospital and was sitting in security truck, which had a monitor for the Birmingham Police Dept instal	6/12/07	33.5206608,-86.80249	
-12/24/95 22:00	Centreville/Selma (area on state road 219 between)	AL	Fireball	+/- 5 seconds	Fireball over rural Alabama	8/5/01	11/13/95 00:15	Birmingham	AL		2 sec.	Man standing outside sees what looks like "shooting star." Obj. split into 3 lights, "like isosceles triangle," shot across sky to SE	11/2/99	33.5206608,-86.80249	
+12/24/95 22:00	Centreville/Selma (area on state road 219 between)	AL	Fireball	+/- 5 seconds	Fireball over rural Alabama	8/5/01	
+11/13/95 00:15	Birmingham	AL		2 sec.	Man standing outside sees what looks like "shooting star." Obj. split into 3 lights, "like isosceles triangle," shot across sky to SE	11/2/99	33.5206608,-86.80249	
 11/1/95 22:30	Daphne	AL	Triangle	30 seconds	Triangular shaped object with 3 lights, passes over house at low altitude and made no sound.	1/21/08	30.6296718,-87.889063	
 10/22/95 02:30	Bessemer	AL		15 min.	Man, wife, 2 children,  driving down long hill, see bizarre cluster of lights, "like Christmas tree in the sky."  Multiple witnesses.	11/2/99	33.3713996,-86.97077	
 8/25/95 01:00	Morris	AL	Other	40 seconds	There was a roundish object with glowing, shifting lights lining the edges of the craft as it hovered silently above the trees.	11/20/01	31.1562887,-85.4152111	
@@ -437,7 +454,7 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 6/1/94 17:00	Montgomery	AL	Rectangle	5 min	Strange object over Montgomery Alabama	8/7/07	32.3668052,-86.2999689	
 3/15/94 14:00	Columbus City	AL	Cylinder	3 seconds	Large Black Cylinder Flies Above Mountain Lakes Near Guntersville, Alabama	10/30/06	34.460644,-86.233315	
 6/15/93 22:00	Trussville	AL	Light	about a minute	UFO, resembling a star, flying across Trussville, AL in approximately 1993.	2/1/07	33.6376865,-86.584293	
-6/15/93 21:00	Salem	AL	Triangle	1 hour	Triangular craft whit no lights or exhaust flying way too slow at less than 100 feet off the ground	2/22/05	31.779018386,35.2253007889	
+6/15/93 21:00	Salem	AL	Triangle	1 hour	Triangular craft whit no lights or exhaust flying way too slow at less than 100 feet off the ground	2/22/05	31.556589,-8.699415	
 1/20/93 21:00	New Hope	AL	Triangle	5 min	On that night it was very cold. I had carried the trash out and notice a bright light at the horizon. Being fascinated by all things in	4/1/01	34.5370435,-86.412851	
 9/23/92 02:34	Wetumpka	AL	Triangle	about 2 minutes	MY DAD had a deck beside the House, where i occasionaly sit & watch the stars at Night I sometimes go out to look at the stars once or	5/24/05	32.5393519,-86.20524	
 8/18/92 17:00	Wagarville	AL	Fireball	1 minute	A single yellow "fireball" appeared just over the tree line off highway 43 in Wagarville, Alabama. Moments after spotting the object, 5	3/16/00	31.4362772,-88.0283358	
@@ -449,7 +466,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 7/15/87 22:30	Collinsville	AL	Triangle	10 minutes	Huge Triangular Craft	4/27/07	34.2673557,-85.86315	
 10/15/86 14:00	Pinson	AL	Circle	Abt. 10 Seconds	Redish orange , traveling slowly and quietly!	10/31/03	33.7042638,-86.6664307	
 12/15/85 17:30	Auburn	AL	Unknown	5 min. +	Bright lighted object 30 feet above me, rose, sped away, emitted shower of sparks in distance	5/11/05	32.6107509,-85.486893	
-12/5/85 05:00	Manaus-Amazonas (Brazil)	AL	Egg	10:00	this case happen to me and my brother my english is not so good but i will try to tell you ,what happen  that night. I was sleeping in	8/7/07	8/16/85 19:00	Columbia	AL	Other	1.5	"I don't know what the hell that is"	7/13/05	31.2967591,-85.110311	
+12/5/85 05:00	Manaus-Amazonas (Brazil)	AL	Egg	10:00	this case happen to me and my brother my english is not so good but i will try to tell you ,what happen  that night. I was sleeping in	8/7/07	
+8/16/85 19:00	Columbia	AL	Other	1.5	"I don't know what the hell that is"	7/13/05	31.2967591,-85.110311	
 5/1/85 20:30	Lanett	AL	Light	10 seconds	It came, it saw , it left but where did it go or come from?	8/24/10	32.8618372,-85.206843	
 12/1/84 18:00	Montgomery	AL	Fireball	Seconds	Southeast toward Northwest, low, large, lighting up sky,red, with a tail  which  split off behind.  May  have entered Florida, crossed 	3/7/00	32.3668052,-86.2999689	
 6/1/84 17:15	Mobile	AL	Sphere	5 minutes	A single round object traveling due west stopped and another similar object emerged and flew southwest. First object  continued west.	8/11/04	30.6943566,-88.0430541	
@@ -475,7 +493,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 4/15/75	Huntsville	AL	Light	couple of hours	Light flying over the area in a scallopped pattern, I walked into the woods for a few minutes that turned out to be a couple of hours.	7/15/05	34.7303688,-86.5861037	
 11/25/74 22:00	Verbena	AL	Sphere	5 minutes	Big Bobbing red light	4/16/05	32.7498505,-86.5113668	
 10/22/74 20:00	Oneonta	AL	Circle	10 sec	Big,  round , with lights,  but no sound,  moving slow,	10/30/06	33.9392319,-86.493204	
-9/1/74 20:00	Auburn/Montgomery (between)	AL	Rectangle	30 minutes	A flattened "thread spool" shaped object with alternating white and red lights passing approximately 500 feet above us. 1/2 hour durati	10/31/03	6/15/74 22:30	Calera (outskirts of)	AL	Disk	10-15 minutes	Group of youth on hike see the"un-explained."	3/21/03	33.1286259,-86.736612	
+9/1/74 20:00	Auburn/Montgomery (between)	AL	Rectangle	30 minutes	A flattened "thread spool" shaped object with alternating white and red lights passing approximately 500 feet above us. 1/2 hour durati	10/31/03	
+6/15/74 22:30	Calera (outskirts of)	AL	Disk	10-15 minutes	Group of youth on hike see the"un-explained."	3/21/03	33.1286259,-86.736612	
 4/2/74 23:30	Birmingham (Wisteria Dr., .5 mi down)	AL	Disk	3:00 mins	I vehemently did not believe the sightings of 1974 Spring in Birmingham, seems they appeared purposely so that I would believe, 3 craft	11/30/99	33.5206608,-86.80249	
 11/15/73 18:00	Colbert Heights	AL	Disk	5 minutes	Hovering object with circulating yellow and green lights slowly began to move before attaining hyper speed from virtual dead stop	11/3/05	34.6609244,-87.6944746	
 10/17/73 23:30	Montgomery	AL	Light	15 minutes	Lights appear out of the woods and chase vehicle.	2/14/08	32.3668052,-86.2999689	
@@ -488,7 +507,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 5/14/73 20:00	Madison	AL	Disk	1 hour	This is a definate government cover-up	5/12/09	34.7099951,-86.751702	
 2/3/73 16:00	Fort Rucker	AL	Light	10 seconds	Red Light Appears to Go Right Through Cockpit	2/1/07	31.3428227,-85.715381	
 1/8/73 21:00	Mussel Shoals	AL	Oval	20 seconds	Glowing orange detailess object with outline shape of a car moving slowly across sky  until disappearing behind clouds.	3/11/06	32.6148571,-87.9716834	
-11/1/72 00:00	?	AL	Light	30 mins	ufo over mountians,two men went missing	4/28/01	10/29/72 15:30	Monroeville	AL	Cylinder	15 seconds	Fighter jet chasing object in the sky over south Alabama	2/14/08	31.5165492,-87.327986	
+11/1/72 00:00	?	AL	Light	30 mins	ufo over mountians,two men went missing	4/28/01	
+10/29/72 15:30	Monroeville	AL	Cylinder	15 seconds	Fighter jet chasing object in the sky over south Alabama	2/14/08	31.5165492,-87.327986	
 8/25/72 08:30	Coldwater	AL	Triangle	6 min	seen in 1972 and seen later too	8/24/10	33.3534495,-87.7611242	
 6/15/72 20:30	Union Grove	AL	Formation	2 hours	UFOs observed by WWII veteran and multiple Army and National Guard members.	2/14/10	34.4025601,-86.448322	
 1/1/72 20:00	Huntsville	AL	Unknown	2 minutes	3 lights, light speed, no sound, 90 degree turn	4/16/05	34.7303688,-86.5861037	
@@ -511,7 +531,8 @@ DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
 5/15/65 14:00	Gadsden	AL	Sphere	45 sec. aprox.	Blue ball drifted down to within reach, backed away as I reached then shot away after I reached again.	1/21/08	34.0092703,-86.015175	
 8/22/64 18:40	Florence	AL	Disk	1 minute	Typical "saucer shaped craft" followed a valley leading to a major hydroelectric plant on the Tennessee River.	3/21/03	34.8301525,-87.665257	
 6/15/61 12:00	Huntsville	AL	Triangle	about 3-4 minutes	The craft just sat over us, no sound, no lights.	6/18/04	34.7303688,-86.5861037	
-6/15/58	Florala ?	AL	Disk	?	Object sighted near Alabama - Florida  border	12/23/02	8/1/56 00:00	Bradford	AL	Sphere	20 seconds	moving sparkling white/ yellowish/orange/flat black sphere paused 20 feet over my head	10/10/11	33.7520454,-86.7038799	
+6/15/58	Florala ?	AL	Disk	?	Object sighted near Alabama - Florida  border	12/23/02	
+8/1/56 00:00	Bradford	AL	Sphere	20 seconds	moving sparkling white/ yellowish/orange/flat black sphere paused 20 feet over my head	10/10/11	33.7520454,-86.7038799	
 6/5/56	Elmore	AL	Sphere	1 hour	Me and my cousins where playing near morter creek, near elmore ,out in woods.A disk shaped sphere came out of sky and  it was hover	10/7/03	32.5451075,-86.322364	
 6/30/51 19:00	Birmingham	AL	Unknown	3 seconds	I was suddenly aware of most of the sky being filled with a white light. No sound. It moved away quickly (one to three seconds) with no	10/30/06	33.5206608,-86.80249	
 8/15/49 22:00	Tarrant City	AL	Circle	ten+ minutes	Glowing large orange ball in Alabama sky August, 1949.	6/12/08	33.585104,-86.771657	
