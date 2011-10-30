@@ -1,0 +1,88 @@
+DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
+9/15/11 19:50	Moncton (Canada)	NB	Fireball	Greater than 10 minutes, 	Fire like light round with undefined border seen through cloud cover at 19:50 15 Sep 11	10/10/11	46.0883598328,-64.7782592773	
+8/31/11 22:15	St. Andrews (Canada)	NB	Teardrop	30 seconds	One bright yellow/orange teardropped shaped object floating/bouncing lightly for 30 seconds until it disappeared	10/10/11	45.0779304504,-67.0538330078	
+8/31/11 21:15	Rothesay (Canada)	NB	Light	90 seconds	brith light moving fast.	10/10/11	45.3942718506,-65.9861602783	
+8/29/11 17:15	Saint Andrews (Canada)	NB	Light	2-3 minutes	Possible UFO siting over the St. Croix River during Hurricane Irene in St.Andrews, New Brunswick.	10/10/11	45.0779304504,-67.0538330078	
+8/14/11 10:00	Grand Bay-Westfield (Canada)	NB	Light	2 Minutes	Light over house	8/21/11	45.2982177734,-66.1920623779	
+8/8/11 21:00	Miramichi (Canada)	NB	Fireball	5 to 6 minutes	saw orange glowing flying very low and slow,changed direction and climbed out of sight	10/10/11	47.031162262,-65.1777954102	
+6/2/11 18:00	St. Andrews (Canada)	NB	Sphere	2 min	UFO Objects Found	10/10/11	45.0779304504,-67.0538330078	
+4/22/11 21:30	Hampton (Canada)	NB	Light	3 min	Bright light NE of Hampton elavation 40 degrees heading E rising  then north.	5/2/11	45.524181366,-65.8291015625	
+2/4/11 19:00	Saint John (Canada)	NB	Light	10 minutes	Multiple amber colored lights in the night sky over Saint John	2/8/11	45.2734184265,-66.0641174316	
+1/1/11 22:00	Miramich (Canada)	NB	Light		I was drawn outside by the sound of fireworks, and thought it would be a good idea to bring the dog to do his buisness...As I watched t	1/5/11	47.031162262,-65.1777954102	
+1/1/11 00:20	Saint John (Canada)	NB	Circle	3 MIN	TWO ORANGE CIRCLES SEEN  AND PICTURES OF THIRD CIRCLE ALL MOVING AWAY	1/5/11	45.2734184265,-66.0641174316	
+12/8/10 00:00	Fredericton (Canada)	NB	Disk	1 hr	((HOAX??))  multiple object sightings	7/4/11	45.9606399536,-66.6391220093	
+9/18/10 11:00	Dieppe (Canada)	NB	Light	2 minutes	Bright light grew larger and brighter.	11/21/10	46.0950393677,-64.7508468628	
+9/2/10 22:30	St. Andrews (Canada)	NB	Changing	2-3 min	Bright orange object enters atmosphere, flies south, stops, than fades to nothing	11/21/10	45.0779304504,-67.0538330078	
+8/23/10 22:10	Tracadie Sheila (Canada)	NB	Triangle	4 minutes	Bright orange triangle object moving over treetops, on a clear full moon night.	8/24/10	47.5213088989,-64.9106369019	
+6/26/10 22:55	Saint John (Canada)	NB	Sphere	4 minutes	Strange sphere passing through night sky	7/28/10	45.2734184265,-66.0641174316	
+5/12/10 23:18	Riverview (Canada)	NB	Diamond	5 minutes	It stopped and changed directions frequently, and eventually disappeared.	6/3/10	46.0570907593,-64.8000869751	
+4/3/10 23:30	Miramichi (Canada)	NB	Triangle	2-5 min	Triangle ufo seen flying of the city of miramichi, 3 lights on on the edges and a search light in the center	4/13/10	47.031162262,-65.1777954102	
+4/3/10 21:57	Moncton (50.42km before)(Canada)	NB	Other	30 sec	Large Square UFO over Car Ahead of Me, on Route #2 Highway, Nearing Moncton, New Brunswick	4/13/10	46.0883598328,-64.7782592773	
+7/30/09 00:00	St  Leonard (Canada)	NB	Light	20 seconds	small silent craft with 1 steady white light and a smaller flashing red light next to it hovers over industrial sawmill at night.	12/12/09	47.1666984558,-67.8833007812	
+6/24/09 00:40	Moncton (Canada)	NB	Unknown		Falling star north west of moncton.	8/5/09	46.0883598328,-64.7782592773	
+5/2/09 20:45	Tracadie-Sheila (Canada)	NB	Sphere	35 to 45 sec	Orange ball with black top ?	5/12/09	47.5,-64.9167022705	
+4/10/09 00:20	Tabusintac (Canada)	NB	Sphere	1 minute	Large red, glowing object seen in Tabusintac, NB	4/14/09	47.3284416199,-65.0106964111	
+8/28/08 00:15	Moncton (Canada)	NB	Fireball	1 hour	Odd fireball seen in Moncton night skies.	10/31/08	46.0883598328,-64.7782592773	
+11/1/07 23:00	Fredericton (Canada)	NB	Fireball	3-5 seconds	Meteor-like green UFO	11/28/07	45.9606399536,-66.6391220093	
+10/20/07 06:00	Neguac (Canada)	NB	Cigar	?	I noticed something odd in the picture when I used it as a sceensaver...there were no planes when I took it	11/28/07	47.2529907227,-65.073059082	
+10/12/07 19:00	Monton (Canada)	NB	Oval	an going	8 circling lights seen in Moncton N.B.	11/28/07	46.5222511292,-66.1928634644	
+9/8/07 23:35	Fredericton (Canada)	NB	Formation	5 seconds	V-formation of lights travelling over suburban street	10/8/07	45.9606399536,-66.6391220093	
+8/9/07 19:55	Riverview (Canada)	NB	Triangle	5 minutes	Object looked like a Concord (plane), size of a 50-passenger plane, no markings, no windows, but it was flying backwards.	10/8/07	46.0570907593,-64.8000869751	
+7/22/07 03:00	Beaver Dam (Canada)	NB	Light	45 minutes	Multiple "Power Ups" in small area of sky	8/7/07	45.8822479248,-66.6812362671	
+6/17/07 02:30	Saint John (Canada)	NB	Fireball	10 mins	Flashing starlight objects hovering in sky.  ((NUFORC Note:  Stars or planets??  PD))	8/7/07	45.2734184265,-66.0641174316	
+5/4/07 01:05	Beaver Dam/Oromocto (Canada)	NB	Light	10 Minutes	Lights over Oromocto	6/12/07	46.5222511292,-66.1928634644	
+2/17/07 19:20	Port Elgion (Canada)	NB	Circle	6 min	red green and yellow colours hovering in th sky	2/24/07	46.0546913147,-64.09425354	
+12/23/06 20:00	Renous (Canada)	NB	Cylinder	5-6 seconds	While driving through a game refuge, I saw this yellowish - white cylindrical object very high above the  trees.	1/21/08	46.801410675,-65.8116836548	
+9/28/06 05:15	Beresford (Canada)	NB	Light	10 minutes	On Sept. 28th, Two stationary, brightly blinking lights appeared approx. 10 kilometers east northeast. Stationary for about 10 minutes.	10/30/06	47.7164115906,-65.7045822144	
+9/27/06 00:00	Fredericton (Canada)	NB	Unknown	30 sec	UFO sighting near Fredericton.	12/7/06	45.9606399536,-66.6391220093	
+8/15/06 19:30	Fredericton (Canada)	NB	Cigar	10 seconds	Metal like object, size of plane, no jet stream, no wings, no tail, not moving at a great pace. Disappeared within seconds	10/30/06	45.9606399536,-66.6391220093	
+8/9/06 22:25	Cap Pele/ Port Elgin area (Canada)	NB	Fireball	5-10 min	2 Bright Orange/ White Fireballs - Fading darting and hovering - seems to interact somewhat.	10/30/06	42.2974832279,-82.9639650933	
+7/27/06 15:00	Gagetown (near) (Canada)	NB	Disk	1 minute	I can't explain what I saw.	10/30/06	45.7781295776,-66.1523895264	
+6/6/06 20:00	Woodstock (Canada)	NB	Disk	10 MIN	NOTICED OBJECTS IN  PICTURES.	7/16/06	46.1502494812,-67.5739517212	
+3/28/06 22:45	Penobsquis (Canada)	NB	Unknown	30 mins	flashing lights in the tree line late at night that went straight up and down	5/15/06	45.7747192383,-65.3873977661	
+1/17/06 17:30	Fredericton (Canada)	NB	Cigar	20 min	it was a dark metalic long object,  the smoke trail was faint.	2/14/06	45.9606399536,-66.6391220093	
+11/29/05 06:50	Edmundston (Canada)	NB	Unknown	3 minutes	Edmundston, NB, Canada lights going fast in the sky turn 90 degrees at speed that we could not explain	12/16/05	47.3737106323,-68.3251037598	
+6/23/05 16:00	Bathurst (Canada)	NB	Light	4 min	Clear day, light in sky	7/5/05	47.6167793274,-65.6488876343	
+11/21/04 00:15	Saint John (Canada)	NB	Triangle	1 MIN	BRIGHT WHITE AND ORANGE TRIANGLE OBJECT - SAINT JOHN NB CANADA HIGHWAY 1 SOUTH	12/3/04	45.2734184265,-66.0641174316	
+4/20/04 01:30	Moncton (Canada)	NB	Sphere	2 minutes	Sphere with bright headlight.	12/3/04	46.0883598328,-64.7782592773	
+4/14/04 19:30	Moncton and surrounding area (Canada)	NB	Triangle	over one hour	Inteligent behaviour(escaping) phenomenal speeds multiple reports	7/25/04	
+3/31/04 23:00	Inkerman/Tracadie (Canada)	NB		30 minutes	Flying UFO with tree different lights colors (blue,red,yellow) changing direction faster than anything i had ever seen before!!!	4/9/04	46.5222511292,-66.1928634644	
+1/30/04 20:00	Kent County (Canada)	NB	Changing	20 minutes	A bright object ,with multi-colored lights seen in the southern sky,just above the trees,then it rose up and travelled north.	1/31/04	46.6664505005,-64.9341125488	
+1/2/04 21:00	Lameque (Canada)	NB	Light	1 hour	FLYING OBJECT  WITH CHANGING LIGHTS  AND  CHANGING COLOR	1/22/04	47.7933998108,-64.650970459	
+1/1/04 11:30	Saint-Louis (Canada)	NB	Changing	2min	three dots making circles around  themselves	3/2/04	46.5222511292,-66.1928634644	
+8/13/03 22:30	Moncton (Canada)	NB	Diamond	5 min	Hovering objects in sky	8/28/03	46.0883598328,-64.7782592773	
+7/28/03 23:00	Woodstock (Canada)	NB	Light	2 hours	lights moving north	8/1/03	46.1502494812,-67.5739517212	
+7/14/03 02:00	Saint John (Canada)	NB	Disk	2 minutes	2 feet long disked shape saucer , multiple sightings  500 Lights On Object0: Yes	6/12/07	45.2734184265,-66.0641174316	
+2/16/03 20:36	Sackville (Canada)	NB	Light	15 seconds	Single white light that dove downward	3/4/03	45.8996696472,-64.3746414185	
+2/9/03 02:10	Indian Mountain (Canada)	NB	Circle	approx. 7 minutes	Smooth, round orange ball moving through the sky and going down into the trees.	3/21/03	46.1591415405,-64.9341430664	
+9/15/02 11:00	Fredericton (Canada)	NB	Unknown	3 minutes	low, noiseless hovering object - shape indistinct.	1/27/05	45.9606399536,-66.6391220093	
+7/6/02 21:00	Moose Mountain (Canada)	NB	Triangle	5 MIN	NEW BRUNSWICK FARMER	11/2/04	46.6049842834,-67.6464538574	
+6/30/02 22:30	Saint John (Canada)	NB	Light	2hrs	it looked like a very fast moving tiny star very high , very high. it did not leave a trail of light it did not land or fade.	7/26/02	45.2734184265,-66.0641174316	
+10/16/01 20:00	Doaktown (Canada)	NB	Unknown	hours	bright object bobbeb & weaved in the air and moved unconventionally for 2 nights in a row.	2/22/02	46.5560913086,-66.1276092529	
+9/28/01 23:55	Fredericton (Canada)	NB	Disk	almost 60 seconds	We saw a disk-like object flying flawlessly through the sky with a series of six or seven red lights....	10/12/01	45.9606399536,-66.6391220093	
+9/28/01 23:55	Fredericton (Canada)	NB	Formation	1 min	6 lights moving in a steady pace	10/12/01	45.9606399536,-66.6391220093	
+8/26/01 17:50	Moncton (Canada)	NB	Teardrop	about 3 minutes	Two craft flying parralel and one of them dissapeared.	10/12/01	46.0883598328,-64.7782592773	
+8/18/01 00:10	Woodstock (Canada)	NB	Light	3 seconds	at the time of the incident, i thought nothing strange of it, as i was attending a povincial ball tournament with my son s ball team in	8/20/01	46.1502494812,-67.5739517212	
+6/19/01 02:00	Riverview (Canada)	NB	Unknown	7 seconds	Cylindar shaped ufo and flaring light in sky	8/5/01	46.0570907593,-64.8000869751	
+8/18/00 12:28	Saint John (Canada)	NB	Circle	ONE TO TWO MINUTES	UFO OBJECT SEEN IN MIDDLE OF DAY	4/28/01	45.2734184265,-66.0641174316	
+7/20/00 21:00	Lakeville (Canada)	NB	Other	5 minutes	A rock like craft slowly moved across the night sky, it emitted a smaller same shape craft and zipped away.	1/31/04	46.3421936035,-67.6896972656	
+8/16/99 18:00	Gillispie (along U. S. border) (Canada)	NB	Changing	5  minutes est,	((HOAX??))  I saw a UFO that resembled the Star of David.	2/24/07	46.5222511292,-66.1928634644	
+8/15/99 00:00	Saint John (Canada)	NB	Disk	3 Seconds	Disk shaped object with green lighted tail.	10/31/03	45.2734184265,-66.0641174316	
+8/12/98 22:24	New Brunswick (Canada)	NB	Circle	1 hour	bright orange light in the sky moving in zigzag, side by side and up and down.	12/2/00	45.2743415833,-66.0628814697	
+6/8/97 20:30	Maplewood (Canada)	NB	Other	5 to 10minutes	I was looking out my bedroom window when I saw a shiney sliver object in the sky which didn't move.  I watched for a couple of minutes 	12/2/00	46.1780815125,-67.2333374023	
+7/20/96 23:00	Moncton (Canada)	NB	Rectangle	60 seconds	It flow over the woods north of my house, slowly came towards the house, that night there was a meteor shower , thats what I thought it	12/2/00	46.0883598328,-64.7782592773	
+9/14/95 20:40	Columbus (Canada)	NB		5 sec.	Man steps outside house to smoke, see obj. extending out over edge of roof.  Sees bizarre obj. w/ solid, hazy lights streak off.	11/2/99	45.9820868322,-66.6375248636	
+5/2/94 22:00	Glassville (Canada)	NB	Diamond	5 minutes	My Dad and I were driving down the street when I looked up and saw it, it was huge, it had a triagular top and bottom with revolving li	4/2/99	46.4804611206,-67.4233627319	
+6/15/93 22:00	Moncton (Canada)	NB	Disk	approx. 8 minutes	we were parked in the woods, with my headlights turned off. 3 of us. I had trouble turning the small volkswagon around on that narrow r	8/28/02	46.0883598328,-64.7782592773	
+6/1/92 23:20	Gagetown (Canada)	NB	Oval	2 minutes	Army Training Exercise	12/16/05	45.7781295776,-66.1523895264	
+6/1/92 23:20	Gagetown (Canada)	NB	Oval	2 minutes	Mutual Sighting	5/2/11	45.7781295776,-66.1523895264	
+6/1/92 01:30	Gagetown (Canada)	NB	Disk	10 to 15minutes	Canadian Forces Reservist UFO sighting in Gagetown, NB	7/16/06	45.7781295776,-66.1523895264	
+7/12/88 23:00	Sainte-Anne of Madawaska (Canada)	NB	Sphere	45 Seconds	Bright orange sphere	1/21/08	46.5222511292,-66.1928634644	
+9/15/78 22:30	Edmundston (Canada)	NB	Disk	1hour	After witnessing a ufo, with my family, I beleive that my mother and myself were abducted the next night.	12/2/00	47.3737106323,-68.3251037598	
+7/1/73 22:00	Saint John (Canada)	NB	Circle	1-2mins	Bright white flash in NB Canada	2/14/06	45.2734184265,-66.0641174316	
+8/15/70 21:30	Grand Bay (Canada)	NB	Unknown	ten minutes	strange maneuvers, various colored lights, over a drive-in theater, and chased within two minutes by three jets	3/23/11	45.2982177734,-66.1920623779	
+1/15/68 19:30	Memramcook (Canada)	NB	Other	+- 15 min ??	Car sized flashing light followed silently overhead	2/12/04	46.0061416626,-64.5434265137	
+6/1/66 22:00	Three Rivers (Canada)	NB	Cigar	20 min	cigar like object very large 300+ft 300 ft off ground remote location crossing valley along t.c. newbrunswick canada	2/14/06	47.921662481,-66.0204582532	
+10/3/55 06:00	Stanley (near) (Canada)	NB	Disk	2 Hours	This is a true story as given to me	4/16/05	46.2941818237,-66.7326202393	
+6/1/48	Napan (Canada)	NB	Rectangle	20 sec	while working on the farm they noticed a cube shape object (tumbling) by about the same speed as a plane but much lower.It was the size	3/19/02	47.0038148302,-65.4167788136	
+23:00	Milltown (Canada)	NB	Circle		I wonder where they are today, and if they are coming back to visit us again	6/4/04	46.5222511292,-66.1928634644	

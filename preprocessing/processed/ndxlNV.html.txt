@@ -1,0 +1,797 @@
+DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
+9/24/11 03:48	Las Vegas	NV	Oval	:04	Five green lights in an oval form appeared and disappeared from the clouds	10/10/11	36.1719093323,-115.139968872	
+9/24/11 03:30	Las Vegas	NV	Light	3 hours	I noticed a bright blue light in the middle of the sky.  ((NUFORC Note:  We suspect a sighting of a twinkling star.  PD))	10/10/11	36.1719093323,-115.139968872	
+9/19/11 22:00	Yerington	NV	Unknown	30 sec	small very fast craft spoted in nevada desert with a hellicopter.	10/10/11	38.9896583557,-119.163208008	
+9/18/11 22:35	Las Vegas	NV	Sphere	10 min	Bluish dim glow with redish rotating spheres	10/10/11	36.1719093323,-115.139968872	
+9/16/11 19:30	Blue Diamond	NV	Fireball	5 seconds	White & green fireball impacts mountain range behind Blue Diamond, Nevada	10/10/11	36.047618866,-115.406730652	
+9/15/11 19:15	Pahrump	NV	Flash	7 TO 10 SEC	SECOND EVENT IN TWO NIGHTS THIRTY MINUTES APART. MORE DRAMATIC SAME COLOR OF GREEN WHIT LIGHT OVER PAHRUMP, NV.	10/10/11	36.213558197,-115.991416931	
+9/14/11 20:21	Pahrump	NV	Fireball	25 seconds	Bright ball of light over the desert.	10/10/11	36.213558197,-115.991416931	
+9/14/11 19:45	Henderson	NV	Unknown	30 seconds	Saw the light in Las Vegas before it turned green and yellow	10/10/11	36.0308189392,-114.981086731	
+9/14/11 19:45	Pahrump	NV	Unknown	30-45 seconds	Green light in the sky	10/10/11	36.213558197,-115.991416931	
+9/14/11 19:45	Las Vegas	NV	Fireball	10 seconds	Green fireball followed by red tail,	10/10/11	36.1719093323,-115.139968872	
+9/14/11 19:40	Pahrump	NV	Fireball	30-45 sec	BRILLIANT GREEN WHITE LIGHT LASTING 45 SECONDS WEST TO EAST DIRECTION OVER PAHRUMP, NV	10/10/11	36.213558197,-115.991416931	
+9/14/11 19:30	Henderson	NV	Fireball	5 Seconds	Fireball with a long tail	10/10/11	36.0308189392,-114.981086731	
+9/14/11 19:00	Las Vegas	NV	Other	2 - 3 minutes	Possible Explanation for Green Light In Sky in Las Vegas	10/10/11	36.1719093323,-115.139968872	
+9/14/11 19:00	Las Vegas	NV	Fireball	minute	Shooting star like craft seen looking S-SW from northwest Las Vegas	10/10/11	36.1719093323,-115.139968872	
+9/11/11 05:30	Reno/Carson City	NV	Light	3 min	Blue/green semi-circle light object near Washoe lake NV along 395	10/10/11	38.9862632751,-119.957122803	
+8/23/11 16:00	Las Vegas	NV	Cylinder	10 seconds	Bright metallic blimp shaped object flying east right between the flight path of two planes.	10/10/11	36.1719093323,-115.139968872	
+8/19/11 20:30	Las Vegas	NV	Teardrop	8 Minutes	2 bright colored, fire like, teardrop shaped beings in the sky.	8/21/11	36.1719093323,-115.139968872	
+8/17/11 22:30	Reno	NV	Disk	30 sec or less	Reno area fast traveling object	8/21/11	39.5273895264,-119.813407898	
+8/17/11 02:00	Las Vegas	NV	Sphere	30 seconds	Bright round object seen flying south  underneath path of airplaine.	10/10/11	36.1719093323,-115.139968872	
+8/15/11 17:00	Battle Mountain (54 miles from)	NV	Cigar	2 minutes	When: •	Monday, August 15, 2011 •	Approximately 5:45-6pm PST Where: •	Highway 305 in Nevada •	Roughly 54 miles to Battle Mountain, NV c	8/21/11	40.6405487061,-116.936897278	
+8/9/11 10:30	Rose Mountain Pass	NV	Cigar	15 seconds	A very bright capsule shaped object high in the sky was seen by my wife and me as we drove along the Mount Rose pass catching our atten	10/10/11	39.3564682007,-116.655410767	
+7/28/11 10:30	Beatty	NV	Flash	120 seconds	Intense bright flashing light cluster possible diamond or triangle giant craft over Nye county Nevada	8/7/11	36.90832901,-116.759429932	
+7/11/11 22:25	Las Vegas	NV	Sphere	20sec	Red glowing sphere or northwest las vegas (lone Mountain & 215)	7/17/11	36.1719093323,-115.139968872	
+7/9/11 10:45	Sparks	NV	Oval	2 min	About a dozen car-sized silver round objects dance above Sparks Nevada	7/17/11	39.5410003662,-119.749191284	
+6/28/11 03:50	Henderson	NV	Fireball	1.5 sec	Meteor?	7/4/11	36.0308189392,-114.981086731	
+6/14/11 09:45	Las Vegas	NV	Teardrop	1 hour +	Long duration daylight sighting of 2 craft west/southwest of Las Vegas strip	8/7/11	36.1719093323,-115.139968872	
+5/26/11 22:30	Las Vegas	NV	Flash	5 minutes	Red and white flashing UFOs.	5/29/11	36.1719093323,-115.139968872	
+5/26/11 04:15	Sparks	NV	Disk	ongoing	Long slender white object.	5/29/11	39.5410003662,-119.749191284	
+5/5/11 20:33	North Las Vegas	NV	Light	1 minute	White light over N. Las Vegas, NV.  ((NUFORC Note:  ISS passed overhead here at 20:30 hrs.  PD))	5/12/11	36.1989593506,-115.118537903	
+5/1/11 21:00	Las Vegas	NV	Changing	9:40pm	I have recordings and pictures of unidentified objects that dispence out others with multiple colorings inside my home.	5/29/11	36.1719093323,-115.139968872	
+4/30/11 20:22	Las Vegas	NV	Unknown	4-6 seconds	I saw something flame and fall from the sky. It was either a Meteor, space junk, or an airplane.	5/2/11	36.1719093323,-115.139968872	
+4/16/11 22:00	Reno	NV	Circle	4 sec	green circular object traveling over reno extremely fast.	5/2/11	39.5273895264,-119.813407898	
+4/6/11 17:00	Las Vegas	NV	Triangle	10 Minutes	Triangle shaped UFO hovers overhead.	5/2/11	36.1719093323,-115.139968872	
+4/4/11 22:30	Carson City	NV	Triangle	10 seconds	greyish/flat black in color no lights triangular shape with no noise from craft	5/2/11	39.1648788452,-119.766998291	
+4/4/11 08:30	Las Vegas	NV	Oval	45 MIN	UFO over Las Vegas NV 4/4/2011 8:30PM	5/2/11	36.1719093323,-115.139968872	
+4/3/11 14:35	Henderson	NV	Oval	1 Minute	Jet-black, oval, fast, shiny, made sharp turns, Over Mccarran Airport/ Henderson.	4/3/11	36.0308189392,-114.981086731	
+3/31/11 15:30	Las Vegas	NV	Unknown	15 min	Las Vegas UFO Sighting 3.31.2011	4/3/11	36.1719093323,-115.139968872	
+3/6/11 04:45	Las Vegas	NV	Circle	5 minutes	four to five circular dark objects at spring mountian state park	3/10/11	36.1719093323,-115.139968872	
+3/5/11 21:34	Vegas	NV	Other	3min	mothership siteing for more info contact ((number deleted))	3/23/11	36.1719093323,-115.139968872	
+2/23/11 20:00	U. S. Highway 93	NV	Light	20 minutes	many orange lights seen in north eastern nevada	3/10/11	39.3362312317,-114.809410095	
+2/3/11 20:00	Tonapah	NV	Unknown	30 min	U.S. Goverment   testing strange craft	2/18/11	38.0654907227,-117.231933594	
+1/29/11 18:00	McGill	NV	Oval	30s-1min.	Bright green light, oval, and quick	1/31/11	39.4028892517,-114.779830933	
+12/26/10 17:08	Reno	NV	Circle	5 seconds	12/26/2010 17:08 Reno Nevada circle 5 seconds moved across sky from west to east	1/5/11	39.5273895264,-119.813407898	
+12/24/10 22:30	Las Vegas	NV	Diamond	3 minutes	diamond shaped craft from north to south, crossed orion constellation 2230 12/24/2010	1/5/11	36.1719093323,-115.139968872	
+12/24/10 19:30	Reno	NV	Light	1-2 minutes	Strange lights over Reno on Christmas eve	2/18/11	39.5273895264,-119.813407898	
+12/16/10 11:40	Sparks	NV	Disk	2 mins	Looking out of the window of my house I saw a flying disc. It was white on top and metallic on the bottom. There was just one. It was t	1/5/11	39.5410003662,-119.749191284	
+12/8/10 20:35	Henderson	NV	Light	2 seconds	Blue light screaming across the Nevada skyline	1/5/11	36.0308189392,-114.981086731	
+11/4/10 21:30	Reno	NV	Formation	seconds	two light formations moving across reno, nevada	11/21/10	39.5273895264,-119.813407898	
+11/4/10 00:30	Las Vegas	NV	Oval	2 hours	Circular object with blue/red/green flashing center lights and glowing edges seen over Las Vegas skies.  ((NUFORC Note:  Stars??  PD))	11/21/10	36.1719093323,-115.139968872	
+10/31/10 05:15	Las Vegas	NV	Rectangle	1 hour	Noticed a bright white light moving across the sky in the north/northwest sky of Las Vegas, Nevada.  It appeared high in the sky.  It w	11/21/10	36.1719093323,-115.139968872	
+10/19/10 20:33	Hazen/Fallon	NV	Triangle	4 seconds	At night  a flicker of light, then steady Red/Oranges Orbs in a Triangle Pattern consisting of 5-6 located on the bottom of UFO.	11/21/10	39.3564682007,-116.655410767	
+10/13/10 22:45	Las Vegas	NV	Changing	15 seconds	Shapeshifting object seen over Las Vegas drive-in movie theater.  ((NUFORC Note:  Possibly migratory birds??  PD))	11/21/10	36.1719093323,-115.139968872	
+10/13/10 14:30	Las Vegas	NV	Circle	10 Minutes	Sighting of 3 UFO's in the Las Vegas region in triangle formation that moved to a straight line.	11/21/10	36.1719093323,-115.139968872	
+10/8/10 18:00	Las Vegas	NV	Light	5 mins	Lights, orbs or UFO's were seen and filmed over Las Vegas the north mountains 10/08/10	11/21/10	36.1719093323,-115.139968872	
+9/24/10 20:00	Nevada	NV	Rectangle	15 minutes	Highway 95 Lights No Sound Craft	11/21/10	41.3189582825,-115.978553772	
+9/24/10 19:30	Henderson	NV	Fireball	.5 second	Bright Green Fireball in night sky travelling west-east over Henderson NV  Food for Less parking lot 9-24-10	11/21/10	36.0308189392,-114.981086731	
+9/4/10 13:00	Las Vegas	NV	Disk	picture	After looking at pictures taken on i phone saw strange disk in one of the pictures	11/21/10	36.1719093323,-115.139968872	
+8/15/10 04:00	Las Vegas	NV	Oval	30 minutes	UFOs seem to show some kind of interest with hills and mountains	1/31/11	36.1719093323,-115.139968872	
+8/9/10 08:35	Las Vegas	NV	Other	10 Minutes	A Thin Slice of Black over the Las Vegas mountain range	8/24/10	36.1719093323,-115.139968872	
+7/27/10 15:00	Las Vegas	NV	Disk	2-3 minutes	Large, white, dome shaped object spotted near a  "Janet" plane in Las Vegas	8/24/10	36.1719093323,-115.139968872	
+7/19/10 21:30	Pahrump	NV	Light	45-60 seconds	Object appearing as sattelite with amazing speed stops and maneuvers in many ways.	7/28/10	36.213558197,-115.991416931	
+7/16/10 11:00	Primm	NV	Other	3-5 minutes	((HOAX??))  Object hovering over my car.	8/24/10	35.6105995178,-115.390701294	
+7/14/10 23:24	Las Vegas	NV	Light	9 mins	Fast moving light  , it had  levels of lights . White like colors sparkling from it as it  change pattern 2 time .	7/19/10	36.1719093323,-115.139968872	
+7/9/10 23:00	Wellington	NV	Flash	10 minutes	Flashing Light	8/24/10	38.7591514587,-119.380592346	
+7/6/10 01:20	Gardnerville	NV			This is regarding the first report listed for the town of Gardnerville in the state of Nevada, 2010. What the person describes as seein	11/21/10	38.9411392212,-119.750137329	
+7/6/10 01:20	Gardnerville	NV	Light	15-20 min	a bright light in the night sky started to move in a zig zag counter clockwise pattern, hovering in one spot occasionaly.	7/6/10	38.9411392212,-119.750137329	
+6/25/10 00:37	Las Vegas	NV	Flash	10 sec	Disc shaped object fashing red light in s spinning motion like 10 flashes per sec.	7/6/10	36.1719093323,-115.139968872	
+5/30/10 13:45	Las Vegas	NV	Unknown	30 mins	Object with no contrails, fly erratically over Las Vegas Valley.	6/3/10	36.1719093323,-115.139968872	
+5/25/10 14:00	Las Vegas	NV	Oval	5 minutes	Las Vegas Nevada. White orb in the sky spotted at 2:00PM, Orb then disappeared and re-appeared several times over a period of about 5 m	6/3/10	36.1719093323,-115.139968872	
+5/25/10 13:30	Las Vegas	NV	Changing	ONE MINUTE	25/5/10 OVER NEVADA WHITE IN COLOUR TURNED VERY QUICK BRIGHT SUNNY AFTERNOON	6/23/10	36.1719093323,-115.139968872	
+5/15/10 22:30	Las Vegas	NV	Cross	30 sec.	Radially flashing lights on cross shaped object in Eastern sky.	6/3/10	36.1719093323,-115.139968872	
+4/30/10 21:00	Sparks/Reno	NV	Flash	20 minutes	Red light flashing in a pattern while flying around the perimeter of Reno and Sparks.	5/12/10	39.6011810303,-119.7289505	
+4/29/10 00:52	Las Vegas	NV	Chevron	3-4 seconds	Chevron-shaped flying wing with 7 large round white lights	5/12/10	36.1719093323,-115.139968872	
+4/20/10 21:00	Las Vegas	NV	Fireball	10 Minutes	12 Flickering Orange Lights Over Las Vegas, NV	5/12/10	36.1719093323,-115.139968872	
+4/3/10 20:15	Las Vegas	NV	Light	10 seconds	i saw strange lights over las vegas.	5/12/10	36.1719093323,-115.139968872	
+3/31/10 01:30		NV	Teardrop		unusual  flying objects taken by flash earth satalite  over nevada highway	11/21/10	39.3564682007,-116.655410767	
+3/17/10 19:00	Las Vegas	NV	Circle	15-20 min	Slow/upward moving dark, circular object observed approximately above Mt. Charleston in NW Las Vegas that disappears suddenly	4/13/10	36.1719093323,-115.139968872	
+2/26/10 17:15	Las Vegas	NV	Oval	20 minutes	2 dark color ovals hovering very high in the sky for 20 minutes.	4/13/10	36.1719093323,-115.139968872	
+2/15/10 05:55	Las Vegas	NV	Circle	5 seconds	I was outside when my dad and I were looking up in the sky and we saw two bright lights.I went to get the telescope and when we looked	4/13/10	36.1719093323,-115.139968872	
+1/23/10 05:38	Carson City	NV	Light	6 sec	3 blue lights over carson city in the vicinity of  E 5th st.	2/14/10	39.1648788452,-119.766998291	
+1/23/10 01:30	Reno	NV	Cigar	5 minutes	bright beam of light may have landed in reno, nevada	2/14/10	39.5273895264,-119.813407898	
+1/17/10 22:30	Las Vegas	NV	Other	20 SECONDS	Sighting of a Glowing Ring floating down then across and past our hotel window. 2 different sightings.	2/14/10	36.1719093323,-115.139968872	
+1/16/10 21:20	Henderson	NV	Chevron	6 seconds	small stealth bomber shaped object flew overhead silently	2/14/10	36.0308189392,-114.981086731	
+1/14/10 01:40	Reno	NV	Flash		A real ufo i cant believe it	2/14/10	39.5273895264,-119.813407898	
+12/26/09 06:15	Reno	NV	Unknown	2 seconds	Faint object  seen shooting over Cold Springs Valley in Reno, Nevada	2/14/10	39.5273895264,-119.813407898	
+12/15/09 06:44	Ashton	NV	Formation	2 Minutes	I was driving South on US Highway 95 near Ashton,NV on 12/15/2009 at 6:44 P.M.. To the East and to the South East I noticed five lights	2/14/10	36.7562904358,-116.66381073	
+11/30/09 22:15	Gardnerville	NV	Unknown	continuous	Noticed flashing lights out my kitchen window along with beams of light , projectiles and meteors falling near by.  ((Sirius??))	12/12/09	38.9411392212,-119.750137329	
+11/17/09 23:14	Las Vegas	NV	Flash	5-8seconds	Green Flash	12/12/09	36.1719093323,-115.139968872	
+11/7/09 16:45	Reno	NV	Cylinder	2 seconds	flight from las vegas to reno - southwest airlines--made plane pitch, drop, and shutter for a few minutes  ((Turbulence??  PD))	12/12/09	39.5273895264,-119.813407898	
+10/27/09 06:00	Henderson	NV	Circle	10 minutes	flying object in the sky	12/12/09	36.0308189392,-114.981086731	
+10/26/09 17:30	Las Vegas	NV	Oval	12 mins.	On October 26, 2009 I was out on my front porch area watching an inordinate number of aircraft departing McCarran International Airport	12/12/09	36.1719093323,-115.139968872	
+10/25/09 11:33	Gardnerville	NV	Circle	1 min	Watched shiny objected prolly 30000ft in the air fly west at an unreasonably fast speed then dissapear.	12/12/09	38.9411392212,-119.750137329	
+10/21/09 19:35	Henderson	NV	Unknown	10 sec	bright white light in S.W. sky over Henderson, Nv. oval in shape	12/12/09	36.0308189392,-114.981086731	
+10/19/09 21:00	Vya (ghost town)	NV	Light	10-15 min	Lengthy witnessing of an unkn light making incredible maneuvers in the northern Nevada Sky near Vya.	5/2/11	41.563041687,-119.856887817	
+10/14/09 20:30	Reno	NV	Light	20 sec	Brite light seen over reno,nv. This is the 2nd time I have seen this light and it's not a shooting star.	12/12/09	39.5273895264,-119.813407898	
+10/2/09 22:00	McGill	NV	Light	20 minutes	Strange lights in the sky	12/12/09	39.4028892517,-114.779830933	
+9/26/09 19:30	Las Vegas	NV	Light	30 seconds	Bright light moving across the night sky	12/12/09	36.1719093323,-115.139968872	
+9/9/09 13:00	Mesquite	NV		10 to 15 mins	((HOAX??))  dino over nevada	12/12/09	36.8039283752,-114.067222595	
+8/29/09 12:00	Boulder City	NV	Rectangle	3-5 minutes	Square/rectangular object seen over mountains during the day.	12/12/09	35.9786109924,-114.834037781	
+8/27/09 05:15	Wellington	NV	Diamond	30	pulsating diamond shapped object	12/12/09	38.7591514587,-119.380592346	
+8/21/09 04:00	Reno	NV	Circle	30 seconds	LARGE CIRCULAR DISK APPEARS FROM NOWHERE, THEN MOVES EAST AND FLAMES OUT	2/14/10	39.5273895264,-119.813407898	
+8/8/09 22:00	Reno	NV	Disk	45 minutes	Disk-shaped object sighted with rotating lights, only a few hundred feet away.	8/27/09	39.5273895264,-119.813407898	
+8/5/09 08:37	Indian Springs	NV	Cylinder	10 min	UFO Sighting Indian Springs NV, off Highway US 95	8/27/09	36.5778884888,-115.672653198	
+7/28/09 20:45	Elko	NV	Other	All  Night	This is a possible ufo crash site very fresh.	12/12/09	40.8356285095,-115.767631531	
+7/25/09 21:08	Reno	NV	Fireball	1 minute	Bright light observed over Reno, Nevada.  Disappears suddenly.  ((NUFORC Note:  ISS sighting.  PD))	8/5/09	39.5273895264,-119.813407898	
+7/23/09 21:50	Las Vegas	NV		10 seconds	Star like object moving north west to south east at higher rate of speed than an aircraft but much slower than a meteor.  No strobe or	8/5/09	36.1719093323,-115.139968872	
+7/21/09 23:00	Reno	NV	Light	30 seconds	Mysterious Bright Light moving very fast across the sky.	8/5/09	39.5273895264,-119.813407898	
+7/20/09 22:00	Las Vegas	NV	Light	2hours	fuzzy cloud like images. ((NUFORC Note:  Probably advertising lights.  PD))	8/5/09	36.1719093323,-115.139968872	
+7/20/09 10:00	Henderson	NV	Disk	still continuing	Three bright lights above Seven Hills that are non moving.	8/27/09	36.0308189392,-114.981086731	
+7/14/09 10:56	Pahrump	NV	Unknown	3 minutes	Small white object at high altitude	8/5/09	36.213558197,-115.991416931	
+7/14/09 09:15	Henderson	NV	Other	20 Minutes	Large Red Balloon over Las Vegas	8/5/09	36.0308189392,-114.981086731	
+7/12/09 02:30	Las Vegas	NV	Light	2 seconds	green light seen over nellis afb shoots into outerspace.	8/5/09	36.1719093323,-115.139968872	
+6/29/09 02:00	Las Vegas	NV	Disk	Several hours	Disk-like, very bright object in the sky with lights	8/5/09	36.1719093323,-115.139968872	
+6/14/09 09:15	Las Vegas	NV	Other	2 seconds	the turtle shaped craft blinked out..disappeared.	8/5/09	36.1719093323,-115.139968872	
+6/14/09 01:00	Elko	NV	Light	Hour	My friend noticed a bright light outside my window. We watched it for a while.  ((NUFORC Note:  Probable star or planet?  PD))	8/5/09	40.8356285095,-115.767631531	
+6/7/09 19:50	Las Vegas (northwest)	NV	Sphere	5 minutes	Object seen floating over North West Las Vegas	6/9/09	36.1719093323,-115.139968872	
+6/7/09 16:00	Las Vegas	NV	Oval	5 minutes	Hovering Gray Egg	4/13/10	36.1719093323,-115.139968872	
+6/5/09 03:00	Henderson	NV	Triangle	5 min	Very tall and slim pyramid shape on it's side. The point was heading south. Black. silent	6/9/09	36.0308189392,-114.981086731	
+5/18/09 19:50	Laughlin	NV	Circle	30 min	Laughlin sighting  ((NUFORC Note:  Confirmed high-altitude research balloon.  PD))	6/9/09	35.1674880981,-114.572639465	
+5/18/09 09:00	Pahrump	NV	Flash	15 seconds	05/18/09  9:00 pm There was this large bright flashing light that moved rapidly across the southern sky.	6/9/09	36.213558197,-115.991416931	
+5/9/09 10:40	Reno	NV	Oval	20 min	A shimmering dot like object seen thru binoculars at approx 45 degrees moving right-left eradically in field.	6/9/09	39.5273895264,-119.813407898	
+5/8/09 19:30	Las Vegas, Nevada, Airspace	NV	Triangle	15 minutes	strange light in a shape of a triangle over Las Vegas	6/9/09	
+4/23/09 21:00	Las Vegas	NV	Unknown	5 minutes	Jets take off toward the north then orange lights glow in succession repeatedly.	5/12/09	36.1719093323,-115.139968872	
+4/16/09 21:45	Las Vegas	NV	Cigar	3 minutes	This stuff is real! I, Mr.Non-believer, saw this. With my own eyes.	5/12/09	36.1719093323,-115.139968872	
+4/7/09 22:30	Las Vegas	NV	Formation	20 to 30 seconds	Green lights across las vegas, fast, tightly formationed and switching places, low flying and gone within 30 seconds.	4/14/09	36.1719093323,-115.139968872	
+3/27/09 21:30	Las Vegas	NV	Formation	10 seconds	delta formation of lights by LAS	4/14/09	36.1719093323,-115.139968872	
+1/31/09 10:15	Elko	NV	Light	20 mimutes	Two stationary red lights spotted by multiple persons flashing over Elko Nevada.	3/19/09	40.8356285095,-115.767631531	
+1/22/09 19:30	Las Vegas	NV	Diamond	30 sec	a diamond shape with four lights ufo definitely not a plane of jet	3/19/09	36.1719093323,-115.139968872	
+1/14/09 20:00	Battle Mountain (south of; on Hwy. 95)	NV	Oval	1/2 HOUR	TWO LIGHTS MOVING AT THE SPEED OF LIGHT FOLLOWED BY OVAL CRAFTS FLYING IN MID-SPACE BETWEEN A RURAL HWY AND  A MOUNTAIN RANGE...	8/7/11	40.6405487061,-116.936897278	
+12/26/08 19:52	Minden	NV	Changing	5 minutes	A strange orange light big enough to be enough to be plane moved across the sky but soon stopped and soon  phased out	1/10/09	38.9549789429,-119.765708923	
+12/22/08 06:50	Reno	NV	Unknown	less than 5 seconds	A turquoise light appeared and then there seemed to be a creature appearing from the spacecraft	1/10/09	39.5273895264,-119.813407898	
+12/21/08 12:30	Mt. Charleston	NV	Diamond	5 Sec	On our way back home from our ski trip [dad and I], I decided to record the scenery one last time. We didnt notice the peculiar object	1/10/09	36.2597198486,-115.644897461	
+12/14/08 05:00	Las Vegas	NV	Light	15-25 sec	Thought it was a shooting star, until it began to move horizontally and blink intermittingly	1/10/09	36.1719093323,-115.139968872	
+11/15/08 17:00	Reno	NV	Triangle	8-10 seconds	From flock of birds, to plane crash, to WTF is that!	1/10/09	39.5273895264,-119.813407898	
+10/30/08 18:30	Jean	NV	Disk	4 seconds	fluorescent white disk shaped object rapidly moving from northeast to southwest over Jean, Nevada	1/10/09	35.7792015076,-115.325088501	
+10/15/08 15:37	Rye Patch	NV	Disk	30 minutes	object observed while Riding ATV's in Rye Patch Nevada	10/31/08	40.4482688904,-118.290039062	
+10/12/08 23:00	Las Vegas	NV	Changing	15 mins	About 23:00 I opened the drapes and I looked towards the sky.	10/31/08	36.1719093323,-115.139968872	
+10/10/08 04:00	Carlin	NV	Disk	10 mins	Ufo sighting in Carlin, NV, at the pilot truck stop. 500 Lights On Object0: Yes	7/19/10	40.7168006897,-116.106002808	
+10/8/08 01:30	Las Vegas	NV	Disk	4 hours	Multi colored, lighted spinning craft with greyish brown cloud surrounding it and bright white light over Henderson, NV.  ((Star??))	10/31/08	36.1719093323,-115.139968872	
+10/6/08 20:00	Henderson	NV	Other	1 minute	Bright blob over henderson NV	10/31/08	36.0308189392,-114.981086731	
+10/5/08 21:00	Las Vegas	NV	Changing	20-30 Minutes	The Vegas Lights Are Not From a Casino!	10/31/08	36.1719093323,-115.139968872	
+10/4/08 21:26	Las Vegas	NV	Circle	1 hour	Friend in N. Las Vegas Nevada has just called me 9:26pm PDT on 04OC08 PDT). ((NUFORC Note:  Advertising lights.  PD))	10/31/08	36.1719093323,-115.139968872	
+9/27/08 19:00	Las Vegas	NV	Triangle		Black triangle with flaching red light flying east across Las Vegas.	10/31/08	36.1719093323,-115.139968872	
+9/27/08 17:00	Las Vegas	NV	Sphere	40-50 minutes	Sphere over Las Vegas viewed from the pool of the Imperial Palace Hotel.	10/31/08	36.1719093323,-115.139968872	
+9/26/08 18:00	Las Vegas	NV	Sphere	10 seconds	A Sphere of light was seen hovering next to the Stratosphere building in Las Vegas.	10/31/08	36.1719093323,-115.139968872	
+9/25/08 20:30	Las Vegas	NV	Unknown	5 seconds	"Shooting Star" Slows, Turns, and Spirals Inward	10/31/08	36.1719093323,-115.139968872	
+9/23/08 17:53	Las Vegas	NV	Triangle	35 seconds	A triagle in orbit flys long way with six to eight light then disappears.	10/31/08	36.1719093323,-115.139968872	
+9/12/08 20:00	North Las Vegas	NV	Disk	2 minutes	Large saucer shaped spacecraft sighted 9-12-08 around 8 P. M. in North Las Vegas, NV.	10/31/08	36.1989593506,-115.118537903	
+9/11/08 20:30	Las Vegas (approx 200 mi north of)	NV		20 sec	3 lighted craft passed slowly off the left wing of our plane over central Nevada	10/31/08	36.1719093323,-115.139968872	
+9/6/08 03:30	Las Vegas	NV	Light	10 Min +	PILOT OBSERVATION:  Four lights climb and pace commercial  airline flight.	5/12/10	36.1719093323,-115.139968872	
+8/26/08 20:35	Eureka	NV	Light	10 minutes	Flashing red lights performing in an unusual manner.	10/31/08	39.5145797729,-115.961761475	
+8/22/08 15:50	Reno	NV	Diamond	30 mins.	Diamond, Spherical UFOS over Reno	10/31/08	39.5273895264,-119.813407898	
+8/9/08 01:00	Reno	NV	Sphere	5 secs	Normally you can't see bright stars  in downtown Reno but when i was  looking up at the sky i saw a bright sphere dance around for a se	8/12/08	39.5273895264,-119.813407898	
+8/3/08 22:15	Henderson	NV	Changing	60 minutes	Rapid shape changing bright white light vanishing.	8/12/08	36.0308189392,-114.981086731	
+8/2/08 23:35	Henderson	NV	Changing	60 minutes	Photos I took of UFO changing shapes and making very abrupt movements	8/12/08	36.0308189392,-114.981086731	
+7/5/08 23:00	Carson City	NV	Light	5 Seconds	A big white light flying across my bedroom window	11/21/10	39.1648788452,-119.766998291	
+7/5/08 04:00	Tonopah	NV	Changing	1 hour	Jelly fish tendrils pulsing lights in glowing formation on desert horizon.	2/14/10	38.0654907227,-117.231933594	
+7/5/08 00:00	Laughlin	NV	Fireball	4 sec's	Green ball of light hovering over Colorado River in Laughlin NV	8/12/08	35.1674880981,-114.572639465	
+7/1/08 22:00		NV	Light	02:00	bright object in northwest sky with repeat pattern every 12 mins.	7/5/08	39.3564682007,-116.655410767	
+6/27/08 03:50	Elko	NV	Light	10 minutes	((HOAX))  strange light in the night sky	7/5/08	40.8356285095,-115.767631531	
+6/17/08 12:00	Mesquite	NV	Disk	4 Min	Large gray domed disc that was perfectly still and made no noise 2460 feet away and 500 feet high.	8/12/08	36.8039283752,-114.067222595	
+6/14/08 23:05	Elko	NV	Light	5-7 minutes	Two brilliant, solid red lights moving slowly across the skies in Northeast Nevada	7/5/08	40.8356285095,-115.767631531	
+6/14/08 23:00	Elko	NV	Light	16 minutes	2  large Red stationary lights , time span of 16 minutes, above Elko, Nv  on 06/14/08 at 23:00	7/5/08	40.8356285095,-115.767631531	
+6/13/08 09:30	Rachel	NV	Unknown	30 minutes	UFO spotted over Area 51, apparent communication with base.	7/5/08	37.6446990967,-115.742996216	
+6/13/08 07:30	Las Vegas	NV	Changing	10 Minutes	star light object in vegas that stayed stationary then it into a cigar shaped object with both ends lit. after 10 minutes disappeared	4/14/09	36.1719093323,-115.139968872	
+5/19/08 19:03	Virginia City Highlands	NV	Circle	3 min	shiny round object flying along mountain ridge and then down to tree line	6/12/08	39.3807983398,-119.641998291	
+5/16/08 20:00	Boulder City	NV	Light	5 min	Bright red/orange lights in the greater Las Vegas area	6/12/08	35.9786109924,-114.834037781	
+5/8/08 12:36	Las Vegas	NV	Sphere	10-12 minutes	Witnessed a small object that actually stopped moving alltogether twice and lasted about 15 minutes before it disappeared out of site.	6/12/08	36.1719093323,-115.139968872	
+4/30/08 09:00	Las Vegan	NV	Other	5 min	30 OR MORE STAR LIKE OBJECT FLYING IN MOVING FORMATION	6/12/08	36.1719093323,-115.139968872	
+4/30/08 08:18	Las Vegas	NV	Changing	10 min	I was driving west on flamingo i saw these object fly behind the New york New York and I raced to my hotel to get my camera all the whi	1/10/09	36.1719093323,-115.139968872	
+4/29/08 20:00	Reno	NV	Fireball	6 seconds	Large round glowing yellow fireball traveling at a high rate of speed, then suddenly stopping and disappearing	6/12/08	39.5273895264,-119.813407898	
+4/24/08 21:10	Spring Creek	NV	Rectangle	3 seconds	Large lime-green luminescent rectangle, lights moving within it,   in the southeastern sky at 9:10pm Pacific Time.	6/12/08	39.9333496094,-117.851089478	
+4/18/08 20:00	Las Vegas	NV	Light	Approximately an hour	The object  sped through the sky at an extremely high velocity.	6/12/08	36.1719093323,-115.139968872	
+4/18/08 19:55	Las Vegas	NV	Light	5 sec - Ten minutes?	White Sphere darts from in front of the moon towards Test Site with possible electronic effects.	6/12/08	36.1719093323,-115.139968872	
+4/16/08 02:30	Nye County (central)	NV	Unknown	1 minute ?	sensation felt, as if being scanned, with a low pulsating hum heard	3/10/11	38.0465888977,-116.473220825	
+4/13/08 19:30	Roswell	NV	Oval	ufo	THE CRAFT WAS BLUE!!!!!	6/12/08	36.099281311,-115.078369141	
+4/10/08 20:00	Las Vegas	NV	Sphere	3 seconds	White Sphere loiters than darts towards east	6/12/08	36.1719093323,-115.139968872	
+4/5/08 04:20	Henderson	NV	Circle	ongoing	White, round light with white tail moving quickly, but sporadically.	6/12/08	36.0308189392,-114.981086731	
+4/2/08 22:45	Incline Village	NV	Light	23:15	Bright multicolored light.   ((NUFORC Note:  Sighting of the star, Sirius??  PD))	4/17/08	39.2500610352,-119.959281921	
+3/21/08 23:45	Reno	NV	Changing	roughly 45 minutes	My friend and I encountered an object in the sky that at first we thought was a plastic bag. Then we noticed this thing was roughly 8,0	3/31/08	39.5273895264,-119.813407898	
+3/10/08 13:30	Las Vegas	NV	Light	10 minutes	UFO's practicing with the Thunderbirds?	3/31/08	36.1719093323,-115.139968872	
+2/28/08 15:00	Reno	NV	Sphere	3 Minutes	Black Sphere moving silently west against wind currents	3/4/08	39.5273895264,-119.813407898	
+2/16/08 17:52	Rachel	NV	Other		Boomerang shaped object flying over highway 375 in vevada by area 51	3/4/08	37.6446990967,-115.742996216	
+2/16/08 13:50	Laughlin	NV	Disk	20 seconds	02/116/08 in Laughlin, NV a disc shaped object was in the sky, non-moving but tilting at different angles.	3/4/08	35.1674880981,-114.572639465	
+2/15/08 18:15	Reno	NV	Light	2 minutes	One bright light moving silently east of Reno Nevada	3/4/08	39.5273895264,-119.813407898	
+2/13/08 20:30	Las Vegas	NV	Cigar	5-6 mins	Object  seen 2/13/2007	3/4/08	36.1719093323,-115.139968872	
+2/13/08 19:32	Reno	NV	Other	5min	they been traveling quickly around peavine mountain to quick to be any plane jet or helicopter, same type of thing i saw the last few y	2/14/08	39.5273895264,-119.813407898	
+1/24/08 20:50	Las Vegas	NV	Oval	5 seconds	Object obseved for a few seconds...Then Disappeared!	2/14/08	36.1719093323,-115.139968872	
+1/21/08 09:24	Henderson	NV	Cone	3 minutes	((HOAX??))  Fast moving UFO goes in the direction of Area 51.	2/14/08	36.0308189392,-114.981086731	
+1/15/08 22:00	Spring Creek	NV	Formation	2 minutes	light becomes bright then turns into group of objects and dissapears	3/4/08	39.9333496094,-117.851089478	
+1/13/08 01:00	Las Vegas	NV	Circle	1 second	real UFO picture. {crystal clear}	1/21/08	36.1719093323,-115.139968872	
+1/10/08 19:30	Las Vegas	NV	Unknown	5 min?	Strange lights above the highway on a stormy night.	3/19/09	36.1719093323,-115.139968872	
+1/1/08 00:02	Las Vegas	NV	Disk	2 minutes	Three glowing discs above Las Vegas New years.	1/21/08	36.1719093323,-115.139968872	
+12/23/07 09:00	Las Vegas	NV	Circle	2 minutes	Bright object in the sky with what appeared to be modules on it.	4/14/09	36.1719093323,-115.139968872	
+12/10/07 22:30	Pyramid Lake	NV	Oval	aprox 5 mins	Extremely large noisy object seen at close range lights up mountainside and takes off.	3/4/08	40.0270500183,-119.551567078	
+12/4/07 17:00	Current	NV	Unknown	45 minutes	Amber light observed in rural Nevada very far away from military test range	3/4/08	38.7427101135,-115.473579407	
+12/4/07 02:30	North Las Vegas	NV	Fireball	4 seconds	inside of car lit up white for a sec. looked out side and saw a blue/green/yellow ball. very bright and then took off and left trail of	3/4/08	36.1989593506,-115.118537903	
+12/4/07 01:45	Las Vegas	NV	Unknown	2 seconds	Streak of Fire in Las Vegas Sky	3/4/08	36.1719093323,-115.139968872	
+12/1/07 00:15	Stateline/Minden	NV	Unknown	not sure	Unusually bright light in sky, moving erratically.	3/4/08	39.3564682007,-116.655410767	
+11/25/07 07:30	Winnemucca	NV	Light	10 min	ufo over the hill of winnimucca nevada	6/12/08	40.9731712341,-117.735313416	
+11/20/07 17:15	Reno	NV	Triangle	5 minutes	Triangular object above freeway	11/28/07	39.5273895264,-119.813407898	
+11/10/07 23:50	Las Vegas	NV	Triangle	1 minute	My girlfriend and I were taking our dog for a walk down the street headed southeast at around 11:40 pm.  We came to a corner and we sto	11/28/07	36.1719093323,-115.139968872	
+11/5/07 21:00	Tonopah	NV	Cigar	5 sec.	11/05/07 21:00p.m. 10 miles N of Tonopah Nev. Cigar shape with 3 bright red/orange circles inside instantly appeared and 5 sec. later i	11/28/07	38.0654907227,-117.231933594	
+10/30/07 18:27	Las Vegas	NV	Disk	2 to 3 minutes	Disc over my apt complex with a military plane and helicopter (air force i assume)	11/28/07	36.1719093323,-115.139968872	
+10/29/07 05:25	Las Vegas	NV	Light	10 sec	traveling bright white light spotted over las vegas	11/28/07	36.1719093323,-115.139968872	
+10/28/07 01:17	Las Vegas	NV	Unknown	4 min. ??	large transparent like blur 1400 to 1600 sq. ft. overhead for 2 to 3 min.	11/28/07	36.1719093323,-115.139968872	
+10/23/07 06:27	Las Vegas	NV	Other	Unknown	same craft was sighted in Hemet, CA	3/4/08	36.1719093323,-115.139968872	
+10/20/07 23:30	Las Vegas	NV	Sphere	less the 10 seconds	orange sphere 20 to 30 feet in diameter sharp edged flying south low altitutde. bright flash over large area	3/4/08	36.1719093323,-115.139968872	
+10/14/07 15:00	Las Vegas	NV	Light	10 minutes	Star-like light in the daytime sky over Las Vegas.	11/28/07	36.1719093323,-115.139968872	
+10/13/07 08:35	Henderson	NV	Changing	1.5	UFOs over henderson, nv	11/28/07	36.0308189392,-114.981086731	
+9/27/07 20:00	Las Vegas	NV	Triangle	20 seconds	Myself, and two police officers, observed a flying triangle flying over us in the Las Vegas sky.	10/8/07	36.1719093323,-115.139968872	
+9/27/07 14:00	Reno	NV	Rectangle	30 seconds	Large rectangle, invisible apart from its outline	3/19/09	39.5273895264,-119.813407898	
+9/26/07 04:00	Henderson	NV	Other	10 Seconds	Very fast half moon craft.	10/8/07	36.0308189392,-114.981086731	
+9/15/07 01:00	Las Vegas	NV	Light	between 10-15 minutes	My daughter and I saw a small light flying on the corner of the roof of the Wynn Hotel.	3/4/08	36.1719093323,-115.139968872	
+9/9/07 22:00	Las Vegas	NV	Other	30 sec	Deep orange lights surrounding two oval wings that was slow moving and then disappeared.	10/8/07	36.1719093323,-115.139968872	
+9/8/07 04:30	Reno	NV	Unknown	15 Minutes	UFO flutters, makes right angle turn and accelerates to impossible speed.	10/8/07	39.5273895264,-119.813407898	
+9/7/07 05:30	Las Vegas	NV	Light	a second	Light beam and saucer seen over strip through random picture	3/4/08	36.1719093323,-115.139968872	
+9/5/07 21:15	Reno	NV	Changing	2minutes	On our vacation my husband and myself were outside on the hotel balcony, where we saw 4 objects rise from a distant mountain. They had	10/8/07	39.5273895264,-119.813407898	
+8/27/07 00:15	Rachel	NV	Disk	2-3 minutes	Nevada desert UFO blazing near Area 51!	10/8/07	37.6446990967,-115.742996216	
+8/24/07 11:30	Sparks	NV	Formation	10 mins	Group of daytime lights observed in Sparks.	10/8/07	39.5410003662,-119.749191284	
+8/22/07 20:30	Las Vegas	NV	Circle	few minutes	light circle with knob-like shapes on 2 sides seen above moon trailing plane and then ascended until it disappeared. this was observed	10/8/07	36.1719093323,-115.139968872	
+8/20/07 05:00	Fernley	NV	Circle	4-5 hrs	((HOAX??))  UFO'S HOUVER OVER DESERT FLOOR AROUND ABOUT 10,000 FT.	10/8/07	39.6012115479,-119.246368408	
+8/19/07 21:00	Spanish Springs	NV	Light	3 minutes	Two lights moving across sky in tandem.	10/8/07	39.647819519,-119.707298279	
+8/15/07 00:00	Reno	NV	Sphere	5 seconds	A purple sphere jetted left...and then right.and the left ..and then right again VERY fast and dissapeared	10/8/07	39.5273895264,-119.813407898	
+8/7/07 21:39	Las Vegas	NV	Oval	5 minutes	stars moving in sin city	8/14/07	36.1719093323,-115.139968872	
+8/5/07 04:00	Las Vegas	NV	Other	15 seconds	Looked like Haiti UFOs seen the same weekend.	8/14/07	36.1719093323,-115.139968872	
+7/20/07 21:20	Carson City	NV	Cigar	2 minutes	UFO Military Aircraft	8/7/07	39.1648788452,-119.766998291	
+7/12/07 01:00	Las Vegas	NV	Light	2 Hours	Lights (red, green, yellow, orange and blue) rotating around a brilliant white light due west of Las Vegas at about 30 degrees.	8/7/07	36.1719093323,-115.139968872	
+7/10/07 22:00	Las Vegas	NV	Disk	2 min	Disk shaped object with rotating lights seen from the Las Vegas strip.	8/7/07	36.1719093323,-115.139968872	
+6/27/07 15:00	Nevada	NV		anytime	If you look at area 51 from a satellite view, you will see at the North side of the base its self. That there is a image of what is cal	8/7/07	41.3189582825,-115.978553772	
+6/18/07 22:25	Las Vegas	NV	Light	10 seconds	White Sphere preforms complex manoeuvre in airspace over the southern edge of the Test Site	6/12/08	36.1719093323,-115.139968872	
+6/14/07	Elko	NV	Unknown	approx 5 minutes	unknown light over retail store	8/7/07	40.8356285095,-115.767631531	
+6/7/07 03:30	Las Vegas	NV	Light	10 min. +	UFO over Las Vegas on June 7. 2007	6/12/07	36.1719093323,-115.139968872	
+6/4/07 00:30	Las Vegas	NV	Unknown	2-3 seconds	See you later: appears to leave the Earth!	3/19/09	36.1719093323,-115.139968872	
+5/30/07 22:00	Elko	NV	Sphere	2 weeks	Two VERY bright , transluscent spheres over Nevada	6/12/07	40.8356285095,-115.767631531	
+5/30/07 22:00	Elko	NV	Unknown	no to sure	Saw the light in Elko Nv to	8/7/07	40.8356285095,-115.767631531	
+5/24/07 11:19	Henderson/Las Vegas	NV	Cigar	10 minutes	Recently retired airline pilot from Northwest Airlines. Saw the craft from my shower window and noticed it was not moving very fast. It	6/12/07	36.1967582703,-115.142921448	
+5/19/07 20:30	Las Vegas	NV	Light	still ongoing	high altitude, stationary, extremely bright light object	6/12/07	36.1719093323,-115.139968872	
+5/16/07 07:30	Lovelock	NV	Cigar	15 minutes	Yesterday a friend called to let us know he had been in SFO,CA and left on the 16 and tried to visit us but no answer to his call.We ch	6/12/07	40.1802902222,-118.475189209	
+5/15/07 13:00	Nevada	NV	Light		brilliant light	10/8/07	41.3189582825,-115.978553772	
+5/12/07 18:00	Reno	NV	Oval	3 min	White spherical object over Reno Nevada at 18:00 starting just above tree level, over airport then over mountains.	6/12/07	39.5273895264,-119.813407898	
+4/26/07 21:00	Reno	NV	Light	1 minute	A white light dropped slowly from the sky & shifted to a level flight and faided out.	4/27/07	39.5273895264,-119.813407898	
+4/21/07 12:15	Las Vegas	NV	Oval	3-4 minutes	The object was heading east, it was to my north and seemed to be at a constant velocity.	4/27/07	36.1719093323,-115.139968872	
+3/13/07 01:20	Las Vegas	NV	Triangle	0-10 mins.	Two crafts flying from Area 51 towards Nellis Air Force Base within 5 minutes of each other.	4/27/07	36.1719093323,-115.139968872	
+3/4/07 11:00	Las Vegas	NV	Circle	11:00	One day,as i was looking outside of my room a circle shaped light beeming object appeared out of the blue,the light werew bright/the ai	4/27/07	36.1719093323,-115.139968872	
+1/28/07 02:00	Fallon	NV	Circle	2 to 3 Hours	Fallon, NV  1/27/2007  2AM - 5 AM   Spheres appear nightly now and divide and seperate, come to desert floor and stay longer thanbefore	2/1/07	39.474899292,-118.777618408	
+1/25/07 02:10	Las Vegas	NV	Light	20 minutes	Bright, multicolored light seen west of Las Vegas	2/1/07	36.1719093323,-115.139968872	
+1/8/07 17:30	Las Vegas	NV	Light	1 hour +	Red light stayed in sky for over 1 hour	4/27/07	36.1719093323,-115.139968872	
+12/29/06 14:00	Elko	NV	Sphere	15  minutes	Spherical object at great height moving at high rate of speed from south to north	2/1/07	40.8356285095,-115.767631531	
+12/25/06 08:00	Henderson	NV	Sphere	2 min	shiny spherical object accompanies jet leaving McCarran airport.	2/1/07	36.0308189392,-114.981086731	
+12/19/06 18:33	Mustang	NV	Triangle	3-4 mins	This is an update on the Lyon County UFO I have the correct date and time I had written it down sorry for guessed time and date i was c	2/24/07	39.5212593079,-119.627799988	
+12/15/06 19:30	Silver Springs	NV	Triangle	3-4 mins	Triangular Object over Mustang, Nevada	2/24/07	39.410369873,-119.226150513	
+12/8/06 21:00	Las Vegas	NV	Cylinder	2 minutes	Cylinder shaped object was illuminated inside, contained figures within and left at the speed of light.	4/13/10	36.1719093323,-115.139968872	
+12/1/06 21:10	Gardnerville	NV	Light	36 minutes	Orange and Red object seen from Gardnerville Nevada 12/01/06.  6 Witnesses in Nevada/California	12/7/06	38.9411392212,-119.750137329	
+11/27/06 00:30	Las Vegas	NV	Sphere	1 hour	Blue Orb sighted from Las Vegas, over Area 51 Mountain Range, traveling at incredible speeds.	12/7/06	36.1719093323,-115.139968872	
+11/10/06 14:32	South Lake Tahoe	NV	Circle	Photo	Strange object over Lake Tahoe, CA.	12/7/06	38.9575881958,-119.943069458	
+10/30/06 19:30	Reno	NV	Formation	20 minutes	Cluster of nine satellites flying together, two veering around others.	12/7/06	39.5273895264,-119.813407898	
+10/21/06 18:54	Reno	NV	Unknown	6 seconds	Reno, NV  Green Spherical Luminous Object over Reno	10/30/06	39.5273895264,-119.813407898	
+10/19/06 12:10	Las Vegas	NV	Chevron	15 mins	very brght white-bat wing shape-stationary 10-15 mins. then gone	10/30/06	36.1719093323,-115.139968872	
+10/15/06 08:30	Las Vegas	NV	Circle	20 minutes	White Balls and Bright Light in the Vegas moring sky.	10/30/06	36.1719093323,-115.139968872	
+9/28/06 20:30	Henderson	NV	Other	4 Seconds	I was sitting in my back yard talking to a friend on the phone.  The night was dark, the moon was just over the west mountains and was	10/30/06	36.0308189392,-114.981086731	
+9/17/06 23:47	Pahrump	NV	Light	10 minutes plus	Moving Star-Type lights In the Sky	10/30/06	36.213558197,-115.991416931	
+9/17/06 03:30	Las Vegas	NV	Chevron	.45 sec	boomerrang V -shaped object ,very large at  height but close enough to distinguish that it was not commercial nor militaryas my experi	10/30/06	36.1719093323,-115.139968872	
+9/12/06 15:30	Mojave Desert	NV	Sphere	30min or more	2 silver spheres that dissepeard and came back all the time keeping the same posistion over mojave desert for 30min or more	10/30/06	39.3564682007,-116.655410767	
+9/2/06 22:00	Gerlach	NV	Light	15-20 sec.	LIGHTS -OVER- BURNING MAN 2006-  DURING THE BURN!!!	3/19/09	40.6529693604,-119.351898193	
+8/27/06 21:30	Las Vegas	NV	Light	2 hours	Strange light in western sky over Las Vegas	10/30/06	36.1719093323,-115.139968872	
+8/24/06 10:30	Pahrump	NV	Cigar	5 seconds	2 of these objects looked to be chasing or following each other, they were as low as the speed limit sign as i was driving down the str	10/30/06	36.213558197,-115.991416931	
+7/17/06 21:04	Las Vegas	NV	Sphere	three seconds	A large orb the size of a man`s fully extended hand passed over central Las Vegas at 21:04 this evening during a period of heavy lightn	10/30/06	36.1719093323,-115.139968872	
+7/9/06 05:00	Las Vegas	NV	Disk	unknown	two discs above a mountain	6/12/07	36.1719093323,-115.139968872	
+7/4/06 14:00	Laughlin/Bullhead City	NV	Other	4min	Rotating Rounded Octogon sighted Independence day	10/30/06	35.133633,-114.540468	
+6/19/06 11:40	Zephyr Cove	NV	Rectangle	3 min	Black triangle with one light at each end moving somewhat slow	8/7/07	39.0039710999,-119.947250366	
+6/6/06 03:50	Las Vegas	NV	Unknown	15min	Three flying objects seen over Las Vegas	7/16/06	36.1719093323,-115.139968872	
+5/21/06 10:45	Las Vegas	NV	Sphere	15 minutes	Small white object over Las Vegas	7/16/06	36.1719093323,-115.139968872	
+5/2/06 01:30	Las Vegas	NV	Circle	5 minutes	5 objects travelling at high speed and fliying  in patterns that would defy currently known limits.	7/16/06	36.1719093323,-115.139968872	
+5/1/06 14:30	Las Vegas	NV	Diamond	2min 30sec	Sighting from Stratisphere observation deck	5/15/06	36.1719093323,-115.139968872	
+4/28/06 21:35	Reno	NV	Formation	45 seconds	Group of four points of light moving in a deliberate and manner unconventional for aircraft or satellites	5/15/06	39.5273895264,-119.813407898	
+4/19/06 02:30	Las Vegas	NV	Light	about 2 hrs	Four short grayish black-eyed aliens appeared in my room.	5/15/06	36.1719093323,-115.139968872	
+3/23/06 19:25	Las Vegas	NV	Oval	2 – 3 minutes	Yellow Orange oval ring seen over the Northwest Las Vegas valley.	5/15/06	36.1719093323,-115.139968872	
+3/22/06 21:45	Las Vegas	NV	Light	
+	I was driving home and facing east, I saw four lights all in a horizontal row, the first one was brightest then the rest were not quite	5/15/06	36.1719093323,-115.139968872	
+3/4/06 16:00	Las Vegas	NV	Sphere	10 minutes	4 objects in the sky over Las Vegas. Very high and bright as stars in daylight.	3/11/06	36.1719093323,-115.139968872	
+3/2/06 15:30	Laughlin	NV	Other	2 minutes	Unusual daylight sighting at Laughlin Nevada during the Ufo Congress	5/15/06	35.1674880981,-114.572639465	
+2/20/06 15:00	Las Vegas	NV	Triangle	15 minutes	While walking south on the east side of 2'nd street  between Ogden and Fremont street in Downtown las Vegas.. I noticed a black object	3/11/06	36.1719093323,-115.139968872	
+2/14/06 00:00	Pioche	NV	Disk	1 hour	getting used to seeing strange hovering (things) in the sky here in Nevada	3/11/06	37.9297103882,-114.451713562	
+2/4/06 04:00	Eureka	NV	Chevron	10 seconds	3 bright connected lights rose up in north then headed south gathering speed high overhead and sped straight south and over horizon in	2/14/06	39.5145797729,-115.961761475	
+2/3/06 09:30	Las Vegas (30 miles north of)	NV	Other	3-5 min	I saw the object about a mile before we got to it, it was standing perfectly still, wide wing span and narrow vertically, silver plates	2/14/06	36.1719093323,-115.139968872	
+12/22/05 17:00	Mesquite	NV	Changing	10 min	when below the clouds, object appeared to change shapes, looked black, and something was emitted or dropped from object or craft,	2/14/06	36.8039283752,-114.067222595	
+12/8/05 15:00	Las Vegas	NV	Circle	1 min	Large, circular object hovering over mountain. It was visible directly forward while travelling on the I-15 southbound.	12/16/05	36.1719093323,-115.139968872	
+12/7/05 20:00	McDermott	NV	Unknown	30 seconds	UFO's are very active in the Oregon, Nevada and Idaho area.	12/16/05	41.9980316162,-117.719192505	
+12/5/05 01:00	Los Alamos	NV	Disk	5 minutes	There were three saucer UFO's flying about in a triangle pattern. Lasted about 5 minutes.	2/14/06	36.2507667542,-115.162368774	
+11/5/05 00:05	North Las Vegas	NV	Fireball	2 seconds	Crashing UFO in las vegas	11/8/05	36.1989593506,-115.118537903	
+11/3/05 20:40	North Las Vegas	NV	Light	+- 5 mins	I was traveling south on I-15 at Mile Marker 66, just watching the road and looking up into the sky.  I could see the Star or planet (i	11/8/05	36.1989593506,-115.118537903	
+10/31/05 05:11	Las Vegas	NV	Other	60 seconds	Light like a star that got brighter and brighter before a sudden fading and disappearance.	11/3/05	36.1719093323,-115.139968872	
+10/30/05 20:00	Rachel	NV	Other	45 minutes	AFTER ENJOYING A BURGER AT THE LITTLE ALI-INN…	11/3/05	37.6446990967,-115.742996216	
+10/27/05 03:00	Elko	NV	Light	light	Soild Beam of Light; Lazer	3/11/06	40.8356285095,-115.767631531	
+10/24/05 20:00	Ely (7 mi. south of)	NV	Sphere	10 minutes	2 bright red lights south of ely	11/3/05	39.2470397949,-114.894828796	
+10/4/05 17:00	Winnemucca	NV	Circle	5 seconds	i am an oil painter so I take pictures of sunsets and clouds etc. The night of October 4th the sky was beautiful to the northeast of Wi	12/16/05	40.9731712341,-117.735313416	
+9/30/05 18:45	Reno	NV	Fireball	less than a minute	Fireball seen in sky over SE Reno.	10/11/05	39.5273895264,-119.813407898	
+9/29/05 04:07	Reno	NV	Chevron	10 seconds	Dimly lighted chevron object moving quickly over NW Reno.	10/11/05	39.5273895264,-119.813407898	
+9/24/05 09:30	Spring Creek	NV	Rectangle	unknown	rectangle object with plus and minus symbols was not seen until pix was enlarged.	11/3/05	39.9333496094,-117.851089478	
+9/22/05 21:00	Lareto (Baja Mexico)	NV	Unknown	30 minutes	Bright Lights 30 miles North of Lareto, Baja Mexico	11/3/05	39.4774017334,-119.754997253	
+9/21/05 07:00	Las Vegas	NV	Cone	30 minutes	Large glowing streak in sky with two strange objects.	10/11/05	36.1719093323,-115.139968872	
+9/5/05 19:55	Las Vegas	NV		5 minutes	Three bright craft traveling at immense speeds at impossible trajectory variants displaying some type of cloaking capability.	10/11/05	36.1719093323,-115.139968872	
+8/30/05	Incline Village	NV	Cylinder	10 Min	rainbow color lights over Lake Tahoe area, Cylinder object makes animals in area act strange and howel before apperance	9/2/05	39.2500610352,-119.959281921	
+8/25/05 18:00	Henderson	NV	Disk	5 minutes	Three stationary saucer shaped objects over Sunrise Mountain, east side of Las Vegas, NV, August 2005.	3/4/08	36.0308189392,-114.981086731	
+8/15/05 02:00	Las Vegas	NV	Light	1-2 minutes	A formation of a dozen independent green lights moves across the night sky over Las Vegas.	9/15/05	36.1719093323,-115.139968872	
+8/14/05 13:30	Las Vegas	NV	Circle	Less than 5 minutes from 	It was almost like we were being watched and once it knew we were aware of it's presence and that I was going for my camera, it took of	9/15/05	36.1719093323,-115.139968872	
+8/12/05 05:20	Reno	NV	Light	at least 20 minutes	I saw three strange lights moving erratically over the foothills behind my house, departing in different directions at different times.	9/2/05	39.5273895264,-119.813407898	
+7/15/05 22:45	Las Vegas	NV	Light	1 min	Balls of light in the shape of a triangle	9/2/05	36.1719093323,-115.139968872	
+7/6/05 23:00	Rachel	NV	Light	4 minutes	Lights in sky East of Rachel, Nv	7/13/05	37.6446990967,-115.742996216	
+6/5/05 21:35	Yerington	NV	Cylinder	2-5 seconds	BLUE GREEN Cylinder/Bullet object with RED aura seen over Yerington, Nevada	6/20/05	38.9896583557,-119.163208008	
+6/1/05 21:00		NV	Circle	10- 20 minutes	((NUFORC Note:  Probable hoax.  PD))  Unbelievable lights in the sky. at least 60 lights in circle formations.	6/20/05	39.3564682007,-116.655410767	
+5/30/05 11:00	North Las Vegas	NV	Sphere	6 hours	3 White spheres in Las Vegas on memorial day.	6/20/05	36.1989593506,-115.118537903	
+5/21/05 22:00	Warm Springs	NV	Light	8 seconds	Large bright blue-white lights tracking in formation with our car	5/24/05	38.1908187866,-116.370002747	
+5/20/05 20:03	Henderson	NV	Sphere	1 min 27 sec	Six photos of unusal object at sunset on May 20th 05.	6/20/05	36.0308189392,-114.981086731	
+5/15/05 20:55	Las Vegas	NV	Light	>1 min	looked like a sattelite in speed,shape and color	5/24/05	36.1719093323,-115.139968872	
+5/15/05 00:57	Las Vegas	NV	Triangle	30 seconds	Huge, glowing triangle flying over route 215 in Las Vegas, NV	5/24/05	36.1719093323,-115.139968872	
+4/18/05 13:00	Las Vegas	NV	Disk	A minute or less	Looking north in Las Vegas I saw a grey disc  moving erratically which vanished on a straight  incline after less than a minute.	5/11/05	36.1719093323,-115.139968872	
+4/13/05 13:00	Las Vegas (near)	NV	Light	45 seconds	Flashing sphere changes to black disk	4/16/05	36.1719093323,-115.139968872	
+4/6/05 21:30	Reno	NV	Light	3.5 hours	Lights north over Reno	4/16/05	39.5273895264,-119.813407898	
+3/25/05 23:30	Las Vegas (east of)	NV	Light	30 seconds	Sudden lights east of Vegas	4/16/05	36.1719093323,-115.139968872	
+3/22/05 16:00	Reno	NV	Oval	a few seconds	White, oval shaped object, disappeard suddenly. Another sighting more recently, same kind of object.	7/5/05	39.5273895264,-119.813407898	
+3/19/05 23:00		NV	Changing		Hi, this isn't an actual sighting, but rather a warning.  I take this subject matter seriously and a message board I visit recently beg	5/11/05	39.3564682007,-116.655410767	
+3/15/05 21:00	Las Vegas	NV	Other	4min	it came above us twice,in the same pattern  in a matter of seconds.	3/11/06	36.1719093323,-115.139968872	
+3/13/05 01:30	Boulder City	NV	Triangle	10 seconds	Black Triangle With Dim Lights	5/11/05	35.9786109924,-114.834037781	
+3/9/05 22:15	Las Vegas	NV	Triangle	45 minutes	Alot of activity north of Las Vegas	5/11/05	36.1719093323,-115.139968872	
+3/1/05 22:15	Las Vegas	NV	Triangle	1.5 to2 secs	Trianglular Shaped ,appeared to be metallic. No lights on craft..It was illuminated by the light from below.  It seemed to have "Stream	4/16/05	36.1719093323,-115.139968872	
+2/27/05 00:00	Reno	NV	Unknown	1 hour + 25 min	A color-changing, spark-like migrating light in the western sky -- seen in Reno, NV ((NUFORC Note:  Possibly Sirius.  PD))	4/16/05	39.5273895264,-119.813407898	
+2/26/05 18:34	Nevada (rural desert)	NV	Disk	1-2 minutes	nellis test range/ area 51 discs	4/16/05	41.3189582825,-115.978553772	
+2/26/05 14:46	Incline Village	NV	Unknown	5 mins.	Unknown light/disc over Incline Village, NV - Disc changed color from white to red/spinning rainbow color, then disappeared after 5 min	4/16/05	39.2500610352,-119.959281921	
+2/18/05 05:31	Beatty	NV	Formation	17 minutes	Longitude: 116.7 W, Latitude: 36.9 N I'm a commercial pilot for United Airways, Flight 17.I took off from Las Vegas International t	2/22/05	36.90832901,-116.759429932	
+2/18/05 03:00	Las Vegas	NV	Triangle	8 minutes	SIGHTED IN LAS VEGAS DESERT.....	2/22/05	36.1719093323,-115.139968872	
+2/10/05 21:30	Reno	NV	Fireball	5 seconds	Blue-white fireball comes down on Reno, Nevada	2/22/05	39.5273895264,-119.813407898	
+1/20/05 12:00	Henderson	NV	Triangle	3:00 min.	The craft was high and large with a wind breaze as it just sits there.i was takeing out the trash and my hands were slippery and greacy	10/11/05	36.0308189392,-114.981086731	
+1/15/05 10:00	Searchlight	NV	Other	5 to 7 sec.	Odd looking Nevada daylight sighting.	7/16/06	35.4657707214,-114.915122986	
+1/15/05 00:00	Las Vegas	NV	Other	party	It was about midnight we were having fun playing around then it happened ((NUFORC Note:  Note a serious report, we suspect.  PD))	2/8/05	36.1719093323,-115.139968872	
+1/1/05 00:05	Las Vegas	NV	Oval	5 seconds	I had never seen such speed of an object up on the sky.	1/11/05	36.1719093323,-115.139968872	
+12/3/04 20:30	Winnemucca	NV	Triangle	10 seconds	Viewed a large V shaped pattern of square lights moving quickly overhead from NE to SW.	12/14/04	40.9731712341,-117.735313416	
+11/24/04 20:00	Nevada (above; in flight; 37000 ft.)	NV	Unknown	40 Minutes	Starlike objects made impossible maneuvers while I was on a flight at 37000 feet	3/19/09	41.3189582825,-115.978553772	
+11/19/04 23:00	Las Vegas	NV	Light	5 hours	On or about this date i caught a freght train out of las vegas as i was leaveing town headed west towards la  i noticed that the light	1/19/05	36.1719093323,-115.139968872	
+11/13/04 15:00	Las Vegas	NV	Oval	don't know	In 1965 at Fort Lewis Wa. me and 2 other soldiers saw 3 circle shaped glowing Ufo's in the night sky.	12/3/04	36.1719093323,-115.139968872	
+11/2/04 03:00	Las Vegas	NV	Teardrop	3-5 min	Large fireball shape moving from east to west over the mtns.  Noticed  aircraft above it from a distance	11/9/04	36.1719093323,-115.139968872	
+10/26/04 20:00	Vya	NV	Fireball	5-10 minutes	Multiple Fireballs in the sky	11/2/04	41.563041687,-119.856887817	
+10/14/04 14:20	Reno	NV	Changing	2 hours	White snake -like plume with objects on either end	12/14/04	39.5273895264,-119.813407898	
+10/1/04 17:00	Las Vegas	NV	Cylinder	A few seconds	((HOAX??))  Short encounter with space craft on my way into my parking lot area.	2/14/10	36.1719093323,-115.139968872	
+9/4/04	Pyramid Lake	NV	Light	03:am-6:am	Sept 4, 2004 sighting of a light over Pyramid Lake Nevada. light was sitting over the lake floating above the water. I watched	9/9/04	40.0270500183,-119.551567078	
+8/29/04 11:00	Pahrump	NV	Other	3 to4 mins	IT WAS A BOOMARANG SHAPE NO MARKING ON THE UNDERSIDE,WHITE IN COLOR NO LANDING GEARS AND NO FLAPS HAS LIGHT ON THE EDGES MADE NO SOUND	10/27/04	36.213558197,-115.991416931	
+8/17/04 21:45	Fallon	NV	Light	1 minute	The object was flashing white light while moving one direction then changed direction and disappeared	8/24/04	39.474899292,-118.777618408	
+8/5/04 22:45	Sparks	NV	Other	2 hours	1small steady light splitting into 6, with circulating lights on bottom.	8/24/04	39.5410003662,-119.749191284	
+8/5/04 22:08	Reno	NV	Formation	3 minutes	Possibly huge craft, two red lights, flying over Reno.	8/11/04	39.5273895264,-119.813407898	
+8/5/04 21:00	Sparks	NV	Disk	2 hours	Objects in the sky give terrific light show!!!  (Venus??)	8/11/04	39.5410003662,-119.749191284	
+7/26/04 17:38	Henderson	NV	Sphere	40 seconds	It was a partly cloudy sky when my brothers and cousin saw 8 white spheres flying crazy around 1 sphere, but when I called my mom out t	8/11/04	36.0308189392,-114.981086731	
+7/21/04 12:45	Reno	NV	Disk	20 minutes	At about 12:45pm on July 21st this year, two close friends and I were on my back patio smoking when one of my friends spotted something	12/3/04	39.5273895264,-119.813407898	
+7/13/04 02:00	Reno	NV	Light	3 hours	there was colored lights crossing back and forth across the navada mountains and a bright blue flame in a field	2/14/06	39.5273895264,-119.813407898	
+7/10/04 21:20	Las Vegas	NV	Sphere	1 minute	A glowing balloon-like object with a slight orange glow moving across the sky.	7/25/04	36.1719093323,-115.139968872	
+7/9/04 21:15	Reno	NV	Light	10 minutes	two bright lights were fading in and out and sped off at incredible speeds	5/24/05	39.5273895264,-119.813407898	
+7/6/04 02:00	Las Vegas	NV	Triangle	5-10 minutes	black triangle rose above mountaintops hovered and shot off at very high speed returned minutes later and landed near the same spot	7/25/04	36.1719093323,-115.139968872	
+7/5/04 23:00	Sparks	NV	Circle	6 minutes	Bright white circle object that dimed and started to blink red and white, dissapeared!	7/8/04	39.5410003662,-119.749191284	
+7/3/04 13:00	Las Vegas	NV	Unknown	Dunno	Unknown object over mountain ridge.	7/25/04	36.1719093323,-115.139968872	
+7/2/04 22:30	Rachel	NV	Triangle	25 min	triangular lights over rachel nevada	7/8/04	37.6446990967,-115.742996216	
+6/30/04 17:55	Las Vegas	NV	Circle	3-5 second	An alien space or an u.f.o that is not an alien space craft.	8/11/04	36.1719093323,-115.139968872	
+6/25/04 22:00	Reno	NV	Sphere	at home	While looking out my living room, I saw a glowing red UFO come down and land on a few branchs, then flew off northwards at high speeds	10/30/06	39.5273895264,-119.813407898	
+6/25/04 14:45		NV	Light	10 seconds	These orange lights that have been spotted lately...these seem to be the exact same lights I saw over the Wendover, Nevada airport, and	7/8/04	39.3564682007,-116.655410767	
+6/19/04 04:52	Henderson	NV	Circle	20 seconds	ROYAL BLUE BALL WITH SMALL ORANGE BALLS WITH THICK  RED FIRE STREAK	7/25/04	36.0308189392,-114.981086731	
+6/19/04 04:30	Mesquite	NV	Flash	5 seconds	Bright flashes from a streaking object light up the sky and leave a large smoke trail over Mesquite, Nevada.	6/23/04	36.8039283752,-114.067222595	
+6/4/04 23:15	Reno	NV	Light	2 minutes	Satellite looking object making right angle turn	6/18/04	39.5273895264,-119.813407898	
+6/2/04 19:00	Pahrump	NV	Oval		Frist we did not see them or hear them.  I have a digital Binocular camera.  been taken pictures for about a month with it and never an	6/18/04	36.213558197,-115.991416931	
+6/2/04 18:00	Pahrump	NV	Formation	1 hour	didn't see anythign nor did we hear anything but there they were.	7/8/04	36.213558197,-115.991416931	
+5/29/04 22:00	Sparks	NV	Circle	40 seconds	Red light	6/18/04	39.5410003662,-119.749191284	
+5/26/04 16:00	Henderson	NV	Other	20 min.	i was entering my house when i noticed what appeared to be awindblown sheet around 250to300 yds. in the sky. on second glance ifigured	6/4/04	36.0308189392,-114.981086731	
+5/20/04 23:25		NV	Light	45 min	red light in sky move from one place to another and come together and make  a big red ball	3/11/06	39.3564682007,-116.655410767	
+5/7/04 21:00	Nevada (on a highway in)	NV	Triangle	10 minutes	just read this	6/4/04	41.3189582825,-115.978553772	
+5/5/04 23:30	l.as Vegas	NV	Teardrop	1min	Are you guys sure you don't work for the Government, perhaps the Air Force?  To you, every sighting is venus.  Well, if venus crashes i	5/10/04	36.1719093323,-115.139968872	
+5/5/04 19:00	Laughlin	NV	Other	3 minutes	Laughlin, Nev   2004 sighting of bomerange of multiple round shapes reflecting lights from River Palm Hotel	7/16/06	35.1674880981,-114.572639465	
+5/1/04 22:00	Las Vegas	NV	Light	1 minute	Several floating lights joined in a strange V shape formation on the Las Vegas strip.	6/18/04	36.1719093323,-115.139968872	
+4/23/04 21:00	Henderson	NV	Light	2 minutes	Red light over Lake Mead viewed from Henderson, Nevada.	2/1/07	36.0308189392,-114.981086731	
+4/4/04 15:45	Las Vegas	NV	Other	10 minutes	Giant dark brown caterpillar-like object wiggles its way across the sky as it floats high above Las Vegas	4/9/04	36.1719093323,-115.139968872	
+4/2/04 22:00	Reno	NV	Light	15 minutes	Orange pulsating light that faded out and was gone	4/9/04	39.5273895264,-119.813407898	
+3/14/04 19:00	Las Vegas	NV	Light	of and on 4 days	If anyone around us has a chance, this is happening right now!  ((NUFORC Note:  Venus.  PD))	3/23/04	36.1719093323,-115.139968872	
+1/28/04 18:30	Las Vegas	NV	Unknown	4-5 minutes	The humming hearbeat sound engulfed the entire over head area.	4/9/04	36.1719093323,-115.139968872	
+1/21/04 08:30	Las Vegas	NV	Disk	2 to 3 min	We took photos of New York N.Y. Hotel, upon developing photo, disc shaped object appeared in picture.	1/31/04	36.1719093323,-115.139968872	
+1/8/04 05:00	Henderson	NV	Cylinder	12 minutes	Cylindrical luminescent craft seen hovering over Henderson, Nevada  January 08, 5:15 AM	1/17/04	36.0308189392,-114.981086731	
+1/3/04 18:30	Lake Tahoe	NV	Circle	2 seconds	Large bright white circular object travelling in a straight line at a low angle to the horizon which emitted a pendant shaped gas emiss	1/17/04	38.9575881958,-119.943069458	
+1/3/04 01:00	Reno	NV	Other	6 hours	the sky looked to me, to be alive with fireants.	1/17/04	39.5273895264,-119.813407898	
+12/14/03 19:45	North Las Vegas	NV	Fireball	3seconds	Green Fire Ball Falling From The Sky	12/19/03	36.1989593506,-115.118537903	
+11/10/03 20:00	Las Vegas	NV	Formation		Strange light formation on photo of night sky over Las Vegas	11/26/03	36.1719093323,-115.139968872	
+11/10/03 00:45	Las Vegas	NV	Light	1 min or less	7-8 objects with green lights in las vegas	11/11/03	36.1719093323,-115.139968872	
+11/6/03 19:50	Reno	NV	Circle	one minute	Bright white disc of light the size of a full moon approximately shot straight up into the sky & disapeared in less than 1 sec.	11/26/03	39.5273895264,-119.813407898	
+10/22/03 19:20	Rachel	NV	Oval	55	Iam an insurance salesman born April 9, 1947, age 56. I have lived in Northern Nevada since I was age 16. I am college educated in the	11/8/03	37.6446990967,-115.742996216	
+10/17/03 23:40	Las Vegas	NV	Triangle	1-2 minutes	Classic "V" shaped formation	7/8/04	36.1719093323,-115.139968872	
+10/3/03 06:15	Las Vegas	NV	Unknown	1 minute	blinking light vanishes into atmosphere	10/15/03	36.1719093323,-115.139968872	
+9/29/03 03:00	Verdi	NV	Oval	5 seconds	Yellow bell shaped craft in the sky west of Reno in late September, 2003.	10/15/03	39.5191688538,-119.989501953	
+9/28/03 01:04	Las Vegas (close to)	NV	Triangle	1 minute	I was returning from california I saw tree lights appear theiy were brigther than a star a little brighter that venus, they appear clos	10/7/03	36.1719093323,-115.139968872	
+9/25/03 18:30	Reno	NV	Light	45-50 seconds	6:30pm/star like object moved straight down from high in the sky and appeared to change speed.	9/28/03	39.5273895264,-119.813407898	
+9/21/03 19:00	Las Vegas	NV	Circle	3 minutes	Videotaped disc shaped craft in broad daylight	10/7/03	36.1719093323,-115.139968872	
+9/5/03 20:45	Reno	NV	Light	30 Minutes	Lights appear over football game in Northwest Reno	9/9/03	39.5273895264,-119.813407898	
+8/31/03 21:00	Great Basin NP	NV	Unknown	15 seconds	Dark object over Great Basin National Park	9/9/03	38.9382171631,-114.242935181	
+8/23/03 22:23	Henderson	NV	Oval	4 hours	3 UFOs spotted in Henderson, NV	9/4/03	36.0308189392,-114.981086731	
+8/23/03 17:00	Reno	NV	Light	45 minutes	Multiple objects over Reno	8/28/03	39.5273895264,-119.813407898	
+8/23/03 15:00	Reno	NV	Sphere	2 minutes	Moving star-like object seen in daytime sky.	9/12/03	39.5273895264,-119.813407898	
+8/21/03 20:00	Las Vegas	NV		10 minutes	We were looking West toward the mountains where there were these three lights up in the sky past the mountains.  They seemed to be play	5/24/05	36.1719093323,-115.139968872	
+8/16/03 23:00	Las Vegas	NV	Fireball	4 seconds	Las Vegas  Fireball seen at Spanish Trails after the storm passed on Saturday Aug 16, 2003	8/28/03	36.1719093323,-115.139968872	
+8/12/03 10:00	Las Vegas	NV	Cylinder	15 mins	Shiny rotating cylinders flying over Vegas	9/9/04	36.1719093323,-115.139968872	
+8/1/03	Reno	NV	Other	several minutes	ME AND MY BUDDY GOT OFF WORK AT 11:00 PM WE DROVE DOWN RED ROCK ROAD BEHIND THE AIRPORT  WE CAME TO A CANYON AREA WHERE WE NOTICED A LI	11/26/03	39.5273895264,-119.813407898	
+7/30/03 07:52	Las Vegas	NV	Egg	5 min	Multiple objects in formation that flew away at tremendous speed	8/1/03	36.1719093323,-115.139968872	
+7/12/03 22:55	Rachel	NV	Unknown	3 minutes	6 objects flying north near area 51	7/23/03	37.6446990967,-115.742996216	
+7/9/03 23:59	Reno (southwest)	NV	Other	6 hours	Star-like Object	7/16/03	39.5273895264,-119.813407898	
+7/5/03 23:15	Fallon	NV	Unknown	5 minutes	Space junk triangle traveling from West to East over Fallon, NV?	7/16/03	39.474899292,-118.777618408	
+6/30/03 00:00	Las Vegas	NV	Unknown	10minutes	I flashed my flashlight at it and it flashed back at me and started to come my way	5/15/06	36.1719093323,-115.139968872	
+6/20/03 19:10	Reno	NV	Circle	30Minutes	Four of us were driving on Reno streets trying to find a hotel, I noticed a big pie shaped object hanging above the Circus Circus parki	7/16/03	39.5273895264,-119.813407898	
+6/5/03 22:00	Henderson	NV	Other	20 min.	Two pulsating blue objects stayed motionless near Black Mountain.	6/10/03	36.0308189392,-114.981086731	
+5/18/03 23:15	Las Vegas	NV	Unknown	4 min	6 distant lights in v-shaped form flying very slowly seen over  Las Vegas Blvd, Nevada then fading as it passed overhead.	7/16/03	36.1719093323,-115.139968872	
+3/29/03 23:30	Reno	NV	Light	30 seconds	Bright light over rual Reno Area far from airports, changed colors and appeared to be following at a rapid speed	5/2/03	39.5273895264,-119.813407898	
+3/17/03 20:30	Las Vegas	NV	Light	30 minutes	Amber orbs of light above the city of Las Vegas.	1/10/09	36.1719093323,-115.139968872	
+2/22/03 14:00	Winnemucca (West of)	NV	Disk	5 minuites	the real deal!!! driving west on i80 we saw to silver disks looked to be above Cosgrove restarea. they were larger than anything ive ev	3/21/03	40.9731712341,-117.735313416	
+2/22/03 02:00	Winnemucca	NV	Disk	5 minuites	two disks hovering near Winnemucca Nevada,20 wittness, stayed untell six jets chaced, sky was clear. the real thing!!!	3/21/03	40.9731712341,-117.735313416	
+1/29/03 18:03	North Las Vegas	NV	Fireball		The U.F.O. looked very small and weird.The U.F.O. was a BRIGHT, flashing red. It moved very quikly and lop-sided. the figure moved acro	3/21/03	36.1989593506,-115.118537903	
+1/27/03 19:00	Fernley @ Intersate 80 West	NV	Fireball	40seconds	While driveing home I saw a white light in the sky then it turned red and disaperd in the clouds .The object was about the size of a si	3/21/03	36.1551933289,-115.139381409	
+1/14/03 19:15	Henderson	NV	Cylinder	15 minutes	Tubular craft and delta shaped craft both leaving glowing red debris behind after several minute sightings.	3/21/03	36.0308189392,-114.981086731	
+1/3/03 10:11	Las Vegas	NV	Teardrop	2min	6 taerdroped shaped ufos flew over are house at 10:11 and hovered over the mountains till" 10:13	3/21/03	36.1719093323,-115.139968872	
+12/29/02 14:00	Las Vegas (near)	NV	Fireball	5 min approx.	A comet shaped object, with a bright tail vanishing to a spot	3/21/03	36.1719093323,-115.139968872	
+12/15/02 14:00	Las Vegas	NV	Triangle	seconds	I didnt even notice the craft until I got home, Must have been crusing extremely fast.	6/3/03	36.1719093323,-115.139968872	
+12/7/02 10:10	Las Vegas	NV	Light	1min	Two white lights in the daytime sky	12/23/02	36.1719093323,-115.139968872	
+12/6/02 00:30	Halleck (near)	NV	Unknown	15 - 20 seconds	Top secret "X-craft" flights may be occurring in remote, rural areas well outside test facilities.	3/21/03	40.9518585205,-115.451789856	
+12/1/02 08:15	Las Vegas	NV	Unknown	45 minutes	loud noise comes from cigar shaped cloud hovering over my house	3/21/03	36.1719093323,-115.139968872	
+11/15/02 17:30	Las Vegas	NV	Other	15  SEC.	UFO  shadows observed near Las Veagas , Nevada	4/27/03	36.1719093323,-115.139968872	
+11/1/02 21:00	Las Vegas	NV	Changing	3 minutes	V shaped Morphed gliding object over the Bellagio Hotel in Vegas	11/9/02	36.1719093323,-115.139968872	
+11/1/02 18:00	Pahrump	NV	Disk	10 minutes	The craft slowly rose over the mountain with a light sweeping slowly side to side.	4/27/04	36.213558197,-115.991416931	
+10/16/02 22:15	Las Vegas	NV	Egg	20 minutes	I was looking up in the night sky, when I noticed some objects moveing of to the left of rio casino.I focused on them thinking they	9/12/03	36.1719093323,-115.139968872	
+10/14/02 20:00	Hollister	NV	Unknown	10 min	Very Bright Light in the Western Sky over Hollister, NV on 10/14/02  ((Vandenberg rocket launch.  PD))	10/15/02	36.2941398621,-115.275939941	
+10/14/02 19:30	Las Vegas	NV	Sphere	1 minute	Las Vegas, UFO sighting? ((Vandenberg rocket launch.  PD))	10/15/02	36.1719093323,-115.139968872	
+10/14/02 07:10	Ely	NV	Light	25 min	A bright white light trailing a luminous con-trail coming from the south, changing color before blinking out, lasting 25 min.	10/28/02	39.2470397949,-114.894828796	
+10/11/02 13:25	Reno	NV	Sphere	10 min	A small white sphere which stopped, hovered for 5 minutes, then took off and disapeared.	10/15/02	39.5273895264,-119.813407898	
+10/6/02 18:00	North Las Vegas	NV	Teardrop	2-4 seconds	shiny object went behind cloud, but nevr came out the other side.	7/16/03	36.1989593506,-115.118537903	
+9/15/02 23:40	Las Vegas	NV	Circle	one second	I was outside smoking observing the stars, haven't seen stars this clear for a while when I noticed a red with yellow and white object 	9/19/02	36.1719093323,-115.139968872	
+9/11/02 20:45	Reno	NV	Unknown	LESS THEN A MINUTE	I was on my way home from work.  I was coming up over a small pass about 12 miles North of Reno on Hwy 395, just before the Cold Spring	9/13/02	39.5273895264,-119.813407898	
+9/10/02 00:00	Minden	NV	Circle	about 2 minutes	Midnight Shadow On The Patio With No Visible Reason Why.	9/1/04	38.9549789429,-119.765708923	
+9/8/02 23:13	Fallon	NV	Triangle	10 seconds	Fallon Triangle seen by Ufo Television Talk Show Host	9/13/02	39.474899292,-118.777618408	
+9/3/02 21:10	Las Vegas	NV	Fireball	5 minutes	Red Glow Streaks Across Southwest -- Crashes to Earth	9/13/02	36.1719093323,-115.139968872	
+8/9/02 20:45	Las Vegas	NV	Unknown	1 hour	large glowing object over mnts west of vegas. seen by many people located in different areas of the valley. object has been there alot 	8/16/02	36.1719093323,-115.139968872	
+8/2/02 23:30	Henderson	NV	Other	5-10 minutes	On Augist 2, 2002, at 11:30 PM I saw a bright light illuminating my backyard, which then turned into two square intersecting boxes with	8/16/02	36.0308189392,-114.981086731	
+8/2/02 22:15	Las Vegas	NV	Other	2 min	On my patio i saw a square flying in the sky. it was moving from the south to the north. IT WAS ON THE WEST SIDE OF TOWN.it looked as b	3/21/03	36.1719093323,-115.139968872	
+7/20/02 02:00	Stampede Lake	NV	Other	seconds	My husband saw above tall evergreen trees near the lake two dark, boomerang shaped objects very high up in the sky - they moved rather 	7/26/02	39.3564682007,-116.655410767	
+7/5/02 02:00	Las Vegas (leaving; near Baker)	NV	Chevron	3 minutes	probably a secret from area 51	7/26/02	36.1719093323,-115.139968872	
+6/30/02 20:00	Sun Valley	NV	Light	15 seconds	I thought it was a police chopper with it's light but there was no chopper or police car behind me.	7/17/11	39.5927581787,-119.774627686	
+6/26/02 13:00	Mercury	NV	Other	20 minutes	High power broadband radio transmission observed near Area 51	7/1/02	36.6599311829,-115.999549866	
+6/6/02 23:03	Las Vegas	NV	Sphere	appx. 3 min.	Green Globes over Las Vegas	7/1/02	36.1719093323,-115.139968872	
+6/6/02 22:30	Las Vegas	NV	Oval	30 to 45 minutes	4 Oval shaped UFOs at Luxor, Las Vegas	11/11/03	36.1719093323,-115.139968872	
+6/6/02 20:30	Las Vegas	NV	Triangle	60 seconds	orange glowing triangular	6/12/02	36.1719093323,-115.139968872	
+6/4/02 23:00	Las Vegas	NV	Oval	about 10;45 pm	Our Honeymoon at the Luxor  ((NUFORC Note:  We suspect birds flying in bright spotlights.  PD))	11/8/03	36.1719093323,-115.139968872	
+6/4/02 11:30	Moapa	NV	Flash	00.50 sec.	Daytime shooting star?	6/12/02	36.6750183105,-114.620193481	
+5/13/02 10:25	Elko	NV	Unknown	20 min.	It played in the clouds	5/14/02	40.8356285095,-115.767631531	
+4/25/02 21:15	Flagstaff (near; over US 40)	NV	Other	~60 seconds	Quad-pod light metallic brushed metallic green craft sighted above US 40 outside Flagstaff.	5/14/02	36.1332015991,-115.308021545	
+4/14/02 03:00	Las Vegas	NV	Changing	20 minutes	Illuminated object that seemed to change shape flying over The Strip at night	5/14/02	36.1719093323,-115.139968872	
+3/15/02 18:15	Las Vegas	NV	Light	30 seconds	Crazy light in the sky disentegrates	3/19/02	36.1719093323,-115.139968872	
+3/15/02 18:00	Las Vegas	NV	Circle	3-4 minutes	white light in a cloud like form (but no clouds) moving slowly East and than disinigrated	4/8/02	36.1719093323,-115.139968872	
+3/10/02 00:00	Las Vegas	NV	Circle	1 hour	TEN OBJECT'S SEEN BY ME AND MY CREW OF NINE AND IT'S REAL!!!!!!!!!!!!!!!!!!!!!!!	3/19/02	36.1719093323,-115.139968872	
+2/15/02 16:06	Las Vegas	NV	Unknown	5 seconds	Blue Fireball with sparks	2/22/02	36.1719093323,-115.139968872	
+2/12/02 05:56	Las Vegas	NV	Light	5 Seconds	UFO	2/22/02	36.1719093323,-115.139968872	
+1/20/02 23:15	Las Vegas	NV	Changing	50 seconds	We saw an odd-shaped object with a tilted oval bottom and what appeared to be a triangular sail pointing off to the side.	1/29/02	36.1719093323,-115.139968872	
+1/8/02 12:40	Las Vegas	NV	Other	15 minutes	Red Sphere with Silver Ring moving over Las Vegas Strip in Broad Day Light	1/11/02	36.1719093323,-115.139968872	
+1/1/02 22:30	Las Vegas	NV	Light	5 minutes	lights over mountains chased by f-16's	7/16/03	36.1719093323,-115.139968872	
+12/24/01 01:30	Las Vegas	NV	Rectangle	2 MINUTES	I saw a large rectangle of bright white light. It stayed in one place for about a minute and then turned into one small light that look	1/11/02	36.1719093323,-115.139968872	
+11/17/01 22:30	Henderson	NV	Unknown	approx 1 hr	Bright light/red flashing lights	11/20/01	36.0308189392,-114.981086731	
+11/3/01 12:15	Las Vegas	NV	Teardrop	30min	On Nov 3,2001 me, my sister and my niece where getting of the freeway on sunset and we went towards the airport going to my other siste	12/5/01	36.1719093323,-115.139968872	
+11/3/01 08:43	Reno	NV	Diamond	30 min	Balck Diamond UFO over my house!!	11/20/01	39.5273895264,-119.813407898	
+10/28/01 04:10	Montello	NV	Unknown	one minute	Three trucks, seven people, heading out hunting.  18 miles north of Montello, Nevada.   Stars shining brightly.  No evidence of dawn ye	11/20/01	41.2614593506,-114.194122314	
+10/17/01 17:00	Las Vegas	NV	Formation	5 minutes	High altitude trangular grouping - high speed takeoff	3/4/08	36.1719093323,-115.139968872	
+9/29/01 19:00	Las Vegas	NV	Other	20 min.	Black triangular shape object tracking stealy across the sky.	10/12/01	36.1719093323,-115.139968872	
+9/28/01 08:15	Reno	NV	Fireball	5-10 min	Large fireball spotted over Nevada	10/12/01	39.5273895264,-119.813407898	
+9/22/01 22:00	Topaz Lake	NV	Oval	5min.	It was a bright hovering over the ridge of the mountains	10/8/07	38.6990089417,-119.55027771	
+9/21/01 23:00	Las Vegas	NV	Fireball	2 and half seconds	bright blue fire ball falling down in the North Las Vegas area by Nells AFB.	10/12/01	36.1719093323,-115.139968872	
+9/14/01 22:35	Yerington	NV	Chevron	10 seconds	delta winged object, flying south, no sound appeared to be very close. With the recent terroism attack, the thought occurred that it wa	10/12/01	38.9896583557,-119.163208008	
+8/25/01 20:45	Laughlin	NV	Unknown	00:15	Swarm of orange lights over Laughlin, NV	10/12/01	35.1674880981,-114.572639465	
+8/12/01 23:05	Reno	NV	Light	1min.	I'em a warehouse worker.                                                                                                               	8/20/01	39.5273895264,-119.813407898	
+8/12/01 21:05	Las Vegas (Close to AZ/CA border)	NV	Light	10-15 seconds	Randomly flashing red and green lights at night. No visible body even when illuminated by lightning. Saw from commercial airliner.	8/20/01	36.1719093323,-115.139968872	
+7/28/01 23:25	Las Vegas/Henderson	NV	Light	2  mins.	7 lights near Nellis AFB in triangular formations heading towards lake mead area - fast!	8/5/01	36.0353126526,-115.016059875	
+7/23/01 00:09	Spring Valley	NV	Cigar	5 min.	Cigar shaped craft over vegas.	12/7/06	36.1141281128,-115.242866516	
+7/19/01 11:45	North Las Vegas	NV	Cigar	6-7 seconds	cigar shaped object flys u mountain range	7/23/03	36.1989593506,-115.118537903	
+7/18/01 22:00	Las Vegas (north)	NV	Chevron	10 seconds	Flying wing, very large, silent.....	8/5/01	36.1719093323,-115.139968872	
+6/30/01 11:00	Nevada desert (rural; unspecified by witness)	NV	Oval	15 min	Nevada Desert silver oval shaped U-F-O- sighting	5/15/06	39.3564682007,-116.655410767	
+6/13/01 21:00	Wells	NV	Light	still there	My grandson and I were on our way out to get an ice cream when we seen a light in the sky that is weird to say the least.  It is more t	8/5/01	41.1055603027,-114.952072144	
+6/12/01 01:00	Goldfield (Near)	NV	Formation	3 mins	Three red objects flying by	8/5/01	37.7075500488,-117.233459473	
+6/9/01 22:00	Las Vegas	NV	Unknown	5 minutes	It was making maneuvers that would be impossible for any known aircraft to make and would have killed any person inside the aircraft	9/28/02	36.1719093323,-115.139968872	
+5/24/01 04:45	Henderson	NV	Other	1 hour	Large light in southern Nevada for over an hour.	8/5/01	36.0308189392,-114.981086731	
+5/22/01 20:00	Reno	NV	Unknown	one hour	black unmarked helicopter	8/5/01	39.5273895264,-119.813407898	
+5/21/01 21:45	Las Vegas	NV	Chevron	3 min	Bright lights larger than a plane, orangish in color over Las Vegas.	8/5/01	36.1719093323,-115.139968872	
+5/6/01 01:20	Las Vegas (70 miles from)	NV	Light	about 3 seconds	Driving back to Los Angeles from Las Vegas at 1:20 am, I looked over to my left to admire the stars, and noticed a bright, white light,	8/5/01	36.1719093323,-115.139968872	
+5/1/01 17:30	Henderson	NV	Unknown	3 minutes	I have no doubt of what I saw.	6/12/08	36.0308189392,-114.981086731	
+4/27/01 21:25	Las Vegas	NV	Formation	5 seconds	Silent and extremely fast-moving V-formation of 8 orangish lights.	8/5/01	36.1719093323,-115.139968872	
+4/26/01 04:55	Las Vegas	NV	Changing	1 1/2 minutes	Group of five lights crossed Las vegas sky from south to north constantly changing formation early am.	4/28/01	36.1719093323,-115.139968872	
+4/25/01 00:18	Valmy	NV	Cylinder	12 minutes	Cylinder flying object west on I-80 before Winnemucca, Nevada with bright strange lights.	10/12/01	40.7865486145,-117.119110107	
+4/15/01 10:00	Las Vegas	NV	Circle	30+ minutes	3 unknown objects hovered over eastside highrise for 30 minutes	3/21/03	36.1719093323,-115.139968872	
+4/10/01 16:30	Las Vegas	NV	Other	10 minutes	Sighting of U.F.O.'s  above Las Vegas during daytime	4/28/01	36.1719093323,-115.139968872	
+4/7/01 21:00	Las Vegas	NV	Formation	a long time	I heard noises like jets warming up at Nellis,Ilooked up into some clouds over head & saw 4 white balls going back & forth from a white	4/28/01	36.1719093323,-115.139968872	
+4/1/01 21:00	Pahrump	NV	Light	10 min	possible explanation for strange sights around Nellis AFB 3/30/01	4/28/01	36.213558197,-115.991416931	
+3/29/01 20:30	Las Vegas	NV	Formation	30 MIN.	The four red lights that buzzed Nellis A.F.B. && The one Orange one that played cat	4/1/01	36.1719093323,-115.139968872	
+3/27/01 23:58	Las Vegas	NV	Formation	1 minute	Flying formation of several oval/cone shaped objects over Bellagio Hotel.	1/31/04	36.1719093323,-115.139968872	
+3/22/01 00:40	Las Vegas	NV	Formation	3 minutes	12 burnt-orange lights -- each zipping from DIFFERENT directions --  maneuvered around an oval  black shape.	4/1/01	36.1719093323,-115.139968872	
+3/18/01 21:00	Las Vegas	NV	Light	a long time	Aliens being seen in the Excalabur spotlight	4/1/01	36.1719093323,-115.139968872	
+3/14/01 00:32	Las Vegas	NV	Disk	3 minutes	It's You, What happen? Somebody set up us the bomb. Take off every Zig.	4/28/01	36.1719093323,-115.139968872	
+3/12/01 20:22	Las Vegas	NV	Light	20+min	4 bright orange lights over the mountains north of Las Vegas - fading in and out and slowly moving	3/16/01	36.1719093323,-115.139968872	
+3/8/01 22:30	Las Vegas	NV	Oval	30 seconds	I saw a bright purplish colored orb floating by my bed.	3/16/01	36.1719093323,-115.139968872	
+3/8/01 21:15	Las Vegas	NV	Other	25 SECONDS	GLIDING OBJECT CHANGED SHAPE FROM BOOMERANG TO OVAL SHAPE AND BACK TO BOOMERANG	4/1/01	36.1719093323,-115.139968872	
+3/2/01 02:00	Las Vegas	NV	Circle	1 hour	WELL I WAS STAYING AT THE EXCALABUR HOTEL WHEN ABOUT 2AM I NOTICED A WHITE LITE FLYING AROUND IN THE LIGHT THAT THE LUXOR PROJECTS FROM	3/6/01	36.1719093323,-115.139968872	
+3/1/01 19:45	Henderson (Las Vegas)	NV	Light	5 minutes	Four bright orange/yellow lights in the Las Vegas Valley	3/6/01	36.0308189392,-114.981086731	
+3/1/01 02:00	Las Vegas	NV	Sphere	1 hour	well i was closeing the curtins when i noticed some brightlights cicrleing each other in the beam of light that is projected from the t	3/6/01	36.1719093323,-115.139968872	
+2/20/01 19:10	Las Vegas	NV	Unknown	20 minutes	Strange light formation over Las Vegas sky.	2/24/01	36.1719093323,-115.139968872	
+2/4/01 20:45	Las Vegas	NV	Other	20 seconds	ON SUNDAY NIGHT, 2-4-01, AT 2045 HRS, MYSELF AND A FRIEND WERE LOOKING UP AT A DARK LAS VEGAS SKY AND SAW A BOOMERANG SHAPED OBJECT, AM	2/18/01	36.1719093323,-115.139968872	
+1/27/01 19:40	Reno	NV	Unknown	3 minutes	An object with lights blinking in succession moving very slowly over Reno Nevada Saturday night, January 27, 2001.	2/18/01	39.5273895264,-119.813407898	
+1/12/01 01:45	Las Vegas	NV	Other	30 minutes	They were dancing in the sky and the air was VERY cold	2/18/01	36.1719093323,-115.139968872	
+1/5/01 17:00	Las Vegas	NV	Circle	5minutes	after a few second, I was dreadfully surprised. That big figure moved little bit, then suddenly disappeared!!	2/18/01	36.1719093323,-115.139968872	
+12/10/00 17:30	Las Vegas	NV	Triangle	5-7 seconds	We saw a totally dark, silent triangular (boomerang) shaped object flying over a casino in Las Vegas.	12/20/00	36.1719093323,-115.139968872	
+11/7/00 02:15	Reno	NV	Triangle	one minute	Large triangular craft with lights along the leading edge of the wing, silently traveling at a high velocity.	12/2/00	39.5273895264,-119.813407898	
+10/6/00 20:25	Las Vegas	NV	Other	4 min	Observed horseshoe shaped object at night front glowing yellow sides red over Las Vegas Nv.	12/2/00	36.1719093323,-115.139968872	
+9/30/00 22:25	Las Vegas	NV	Sphere	40 sec.	Two colored spheres (blue & red) seen traveling very quickly in an arc from the North to South East in a "playful" zigzag motion.	12/2/00	36.1719093323,-115.139968872	
+9/16/00 22:00	Laughlin	NV	Formation	40 - 60 seconds	8 to 9 individual craft in a chevron formation that broke briefly into 2 individual rotating circles then reverted back to the chevron.	9/21/00	35.1674880981,-114.572639465	
+8/25/00 22:00	Las Vegas	NV	Flash	15min	Four or five identical bluish-white flashes.	9/17/00	36.1719093323,-115.139968872	
+8/18/00 22:51	Gerlach	NV	Other	2 minutes	Three satellites moving across the sky in a perfect triangular formation.	11/20/01	40.6529693604,-119.351898193	
+8/18/00 21:00	Gerlach	NV				1/11/02	40.6529693604,-119.351898193	
+8/6/00 00:30	Las Vegas	NV	Formation	4mins	6 red and white strobing lights travling in the eastern sky above Las Vegas	8/19/00	36.1719093323,-115.139968872	
+8/3/00 22:30	Las Vegas	NV	Fireball	15-30seconds	Burning object spotted over the Las Vegas strip	8/19/00	36.1719093323,-115.139968872	
+7/25/00 21:30	Las Vegas	NV	Light	15-20 minutes	Las Vegas Lights	2/18/01	36.1719093323,-115.139968872	
+7/7/00 22:10	Winnemucca	NV	Light	3 minutes	We spotted a beam of light coming from a bright circle, that left a green residue in the sky.	7/11/00	40.9731712341,-117.735313416	
+7/7/00 21:30	Tonapah	NV		12 minutes	My sister-in-law, nephew and I were driving from Las Vegas toward Reno last Saturday (July 8, 2000).  It was around 9:30 (?) and we wer	7/23/00	38.0654907227,-117.231933594	
+7/7/00 21:30	Las Vegas	NV	Light	20-30min.	I was driving with a friend and saw this illuminating bright white light shining through a green haze.	7/11/00	36.1719093323,-115.139968872	
+7/7/00 21:21	Red Rock Canyon	NV	Oval	23 Minutes	Silent craft within 3 miles comes to with in 1/2 mile, very close to ground; observed for 23 minutes.	7/11/00	35.9972229004,-115.466659546	
+7/3/00 15:30	Las Vegas	NV	Oval	2 min	When I saw the objects I thought they were pretty amazing	7/11/00	36.1719093323,-115.139968872	
+7/1/00 22:00	Montgomery Pass	NV	Oval	10 seconds	WHILE PLAYING OUT SIDE MY DAUGHTER (10)  AND A FRIEND SAW 5 GREEN FIREBALL TYPE OBJECTS CROSS THE SKY SOUTH TO NORTH. THE LOCATION IS A	7/11/00	37.9735984802,-118.325996399	
+6/30/00 02:30	Las Vegas	NV	Triangle	45 sec	Boomerang  shaped  object  blended  in  with  the night  at least a mile long and about four stories high with 6 or 8 engith	2/14/10	36.1719093323,-115.139968872	
+6/26/00 22:40	Las Vegas	NV	Light	2 min.	Strange light moving over Vegas at a great speed	7/11/00	36.1719093323,-115.139968872	
+6/15/00 23:00	Sparks	NV	Light	5 min.	A craft, appearing much like a star, moved about in the Eastern sky above Sparks, NV, at 23:00 on 6/15/00.	6/21/00	39.5410003662,-119.749191284	
+4/23/00 18:40	Nevada (On west bound airplane over northern)	NV	Disk	12 seconds	Round silver object as seen from above with rounded top as a shadow was cast.	5/3/00	41.3189582825,-115.978553772	
+4/23/00 01:30	Las Vegas	NV	Circle	3 to 5 minutes	In the parking lot of Excalibur, We saw a pyramid of six lights flying above the hotel.	5/3/00	36.1719093323,-115.139968872	
+4/15/00 22:00	Beatty	NV	Formation	three hrs	Dear sir, I saw the program on ABC tonight and discovered there was someone Who would take a little time to hear what Me and my brother	5/24/05	36.90832901,-116.759429932	
+3/29/00 20:00	Reno/Carson City (between)	NV	Circle	20 seconds	Fuzzy circle of light with blue and yellow tinges, about 25% the size of a full moon.  Sighted in the SSE, stationary, 1/2 way between 	4/1/00	38.9862632751,-119.957122803	
+3/29/00	Steamboat	NV	Oval	1 minute max	There is no doubt that the sky and space around us are a curiously busy place.	1/11/02	39.3773002625,-119.744308472	
+3/22/00 11:00	Bonnie Spring (heading towards from Las Vegas)	NV	Fireball		Heading towards Bonnie Springs passanger on the back of Harley was snapping pictures.	5/11/00	36.0598602295,-115.451507568	
+3/20/00 22:00	Elko	NV	Fireball	6 hours	STOP FOR THE NIGHT TO SLEEP IN VAN. THEN NOTICE FIREBALLS FLYING ALL AROUND WITHIN 100 YARDS OF VAN. WATCHED THEM UNTIL DAYLIGHT.	5/11/00	40.8356285095,-115.767631531	
+3/18/00 23:45	Las Vegas	NV	Oval	5-7 minutes	I was on vacation in Vegas on 3-18. My friend and I were crossing from the NY hotel to Excalbur hotel when we came upon a crowd of 50 p	5/3/00	36.1719093323,-115.139968872	
+3/11/00 21:30	Las Vegas	NV	Oval	5-10 minutes	Orange colored oval object travelling slowly east from the extreme western part of Las Vegas.  The object was orbiting around in a circ	3/16/00	36.1719093323,-115.139968872	
+3/1/00 00:00	Hawthorne	NV		45 seconds	Unusual heat lightning	3/7/00	38.5252494812,-118.62461853	
+2/6/00 19:30	Las Vegas	NV	Other	5-10 sec.	Grey box-like craft, no lights, silent, being followed by a helicopter	2/27/00	36.1719093323,-115.139968872	
+2/2/00 03:00	Area 51 and Mercury	NV	Light	3 hours	returning to Mercury and then on to Area 51 to watch the "dancing stars"	2/18/01	
+1/21/00 11:30	Intersection of HWY 6 and HWY 375  Nevada	NV	Rectangle	Momentary	While on vacation, I stopped to take a picture of the "Extraterrestrial Highway" sign at the intersection of Hwy 6 and Hwy 375 in Nevad	2/16/00	
+1/18/00 18:30	Ely	NV	Sphere	2 minutes	Me and my mom were driving along the road and as soon as we were passing the KOA campground in the corner of my eye I saw a rounded obj	1/22/00	39.2470397949,-114.894828796	
+1/18/00 18:15	Dayton township	NV	Oval	:30	A bright light shone straight out of an object which appeared to be oval and surrounded by a smoke or fog like cloud. The light cut thr	1/22/00	39.3564682007,-116.655410767	
+1/9/00 00:20	Las Vegas Blvd.	NV	Light	10-15 minutes	We saw two clusters of stars moving in a strange but uniformed direction.	1/22/00	36.0982704163,-115.172821045	
+1/7/00 16:20	Las Vegas	NV	Unknown	10 min.	hypersonic arcraft entering Nevada Test Site airspace	1/22/00	36.1719093323,-115.139968872	
+1/3/00 22:43	Reno	NV	Light	3 seconds	At 22:43 Jan 03, 2000 I observed in the night sky, a bright white object traveling at a very high rate of speed from north to south. It	1/7/00	39.5273895264,-119.813407898	
+1/2/00 23:00		NV	Triangle	30 seconds	triange shaped craft with three bright lights came within ten yards of our car on hwy in Nevada	6/18/03	39.3564682007,-116.655410767	
+1/1/00 03:30	Nellis AFB (Near)	NV	Light	2 hours	stars that seem to move in an unstar-like manner.....	2/18/01	37.0462188721,-115.887626648	
+12/31/99 17:30	Las Vegas	NV	Circle	10 min.	New years eve 1999 I went to work and parked on the very top of the parking garage at work at Caesars Palace.  Iwalked to the elavators	3/2/04	36.1719093323,-115.139968872	
+12/27/99 19:30	Reno	NV	Sphere	4 minutes	Sphere with Spikes	2/18/01	39.5273895264,-119.813407898	
+12/26/99 21:00	Spring Creek	NV	Unknown	about 3 hours	Almost looked like a colorful lightning bolt traveling up and down, side to side- never losing it's lined shape	1/7/00	39.9333496094,-117.851089478	
+12/26/99 17:00	Sparks	NV	Triangle	6:00 min	It was triangular in shape, two sides were bright orange the color of the sun, but the bottom and inside was transparent.	1/7/00	39.5410003662,-119.749191284	
+12/9/99 11:00	Reno	NV	Disk	5 seconds	Saucer visible from University of Nevada, Reno looking to the east.  Color was silver with golden glow, possibly reflected sunlight.  A	12/16/99	39.5273895264,-119.813407898	
+12/7/99 03:30	Indian Springs AFB (Just outside)	NV	Light	20-30 minutes	Traveling down the Highway towards Vegas. We noted it flying,actually staying with us for several miles,probably about 2-3000 feet-due 	8/16/02	39.3564682007,-116.655410767	
+12/3/99 00:08	Warm Springs (approx. 15mi. East of 6)	NV	Sphere	two sec.	Object came into view 135 above horizon white sphere streaking down near verticle seeming to have a tail.  At 25 degrees above horizon 	12/16/99	38.1908187866,-116.370002747	
+11/28/99 20:00	Rachel/Las Vegas	NV	Sphere	5-8 seconds	Driver and passenger see a huge brilliant white ball of light that descends SE to S near the Groom Lake area on Sunday evening at 8PM, 	11/30/99	39.3564682007,-116.655410767	
+11/16/99 22:30	North Las Vegas	NV	Other	40 MINUTES	FIRST NOTICED MANY BLINKING LIGHTS NORTHERN HORIZON. FLASHING WHITE AND GREEN. NUMEROUS AND MOVING CLOSELY TOGETHER. THEY MOVED NORTH D	11/17/99	36.1989593506,-115.118537903	
+11/3/99 02:00	Area 51	NV	Circle	app 1 hour	My brother and I witnessed a bright pulsating light in the air.  We were very close to Area 51 at the time of the sighting.  I was able	2/16/00	36.9811782837,-116.160331726	
+11/1/99 04:00	Las Vegas	NV	Oval	10 seconds	Gold oval flying north to south over the Las Vegas Strip.	12/7/06	36.1719093323,-115.139968872	
+10/29/99 01:30	Rachel	NV	Light	5 min	Strange light seen outside of area 51	6/21/00	37.6446990967,-115.742996216	
+10/15/99 20:30	Yerington	NV	Chevron	less than 10 seconds	Chevron or V-shaped object with five large circular lights on the bottom, very fast.	12/23/02	38.9896583557,-119.163208008	
+10/11/99 21:00	Winnemucca	NV	Cigar	seconds	oblong, extremely large and  bright object in sky, going behind mountains. Object much larger than a meteorite.	10/19/99	40.9731712341,-117.735313416	
+10/10/99 21:00	Rachel	NV	Light	3 hours	Bright lights with incredible agility seen from mailbox at Area 51 on UFO highway in Nevada for several hourse.	5/24/05	37.6446990967,-115.742996216	
+10/1/99 19:00	Las Vegas	NV	Light	app. 15 seconds	A moving object which possibly changed speed and direction in an unorthodox manner	10/2/99	36.1719093323,-115.139968872	
+10/1/99 19:00	Nellis Air Force Base (50-100 miles east of)	NV	Light	3 minutes	On Friday October 1 around 7 in the evening I was driving south and about 50 miles east of Nellis Air Force base.I noticed an bright ob	11/17/99	36.2361106873,-115.034164429	
+9/25/99 23:08	Las Vegas	NV	Disk	4 minutes	(Peter: we discussed this over the phone with you last Saturday). My husband and I were outside in our spa in South Las Vegas. At 11:08	10/2/99	36.1719093323,-115.139968872	
+9/25/99 23:08	Las Vegas	NV	Oval	7 minutes	Location:South Las Vegas Time/Date 9/25/99 at 11:08 pm Sighting:5 round objects (about 1/2 size of the full moon)appearing one at a tim	10/2/99	36.1719093323,-115.139968872	
+9/4/99 11:00	Red Rock Canyon	NV		seconds	I took several pictures in Red Rock Canyon near Las Vegas on the fourth of Sept.  I had them developed the other day and in one of the 	10/2/99	35.9972229004,-115.466659546	
+9/1/99 21:30	Black Rock City (near Gerlach)	NV	Fireball	45 sec. - 1.5 min.	Horizon to horizon cluster of slow-miving, fragmenting fireballs with colorful trails	10/19/99	39.3564682007,-116.655410767	
+9/1/99 21:30	Reno	NV	Fireball	1 minute	A Meteor with a Difference.	9/12/99	39.5273895264,-119.813407898	
+9/1/99 21:30	Black Rock City	NV	Fireball	20 seconds	small bright lights traveling in straight line with red trails	10/2/99	39.3564682007,-116.655410767	
+8/31/99 20:30	Elko	NV	Light	1 minute,maybe 2	((HOAX))  while going to restroom in hallway of roomming house I observed lights going northeast, then they just blinked out.	9/12/99	40.8356285095,-115.767631531	
+8/31/99 20:30	Elko	NV	Light	2 to 3 minutes long	((HOAX)) seen like airplane lights under partly cloudy conditions over Elko, but vanishhing in the clear portion of the night time sky.	9/12/99	40.8356285095,-115.767631531	
+8/24/99 01:03	Reno	NV	Circle	10 sec.	object moved west-northwest for about 10 sec.  very white color, sparks flew from behind	9/12/99	39.5273895264,-119.813407898	
+8/17/99 16:00	Las Vegas	NV	Disk	20 min.	Two silver disc directly over the city.	8/30/99	36.1719093323,-115.139968872	
+7/19/99 21:30	Las Vegas	NV	Oval	5-10min.	Two round bright white ufo's were sighted on National airlines jet N7 316 Boeing 757 time 21;30 hrs just outside Las Vegas,Nevada one h	8/10/99	36.1719093323,-115.139968872	
+7/12/99 23:00	Elko/Carlin (Between; near the Independence Mts.)	NV	Other	15-20 min	While driving between Elko and Carlin, NV, I observed a large craft(?) It was mis-shapened, but came to a point in the front(?) It was 	5/11/00	39.3564682007,-116.655410767	
+7/2/99 21:00	Las Vegas	NV	Triangle	5 minutes	triangle ships fly over vegas	12/9/00	36.1719093323,-115.139968872	
+6/24/99 21:00	Snake Creek/Great Basin National Park	NV	Oval	five seconds	Luminous orange craft moving steadily, west to east, before vanishing	7/14/99	39.3564682007,-116.655410767	
+6/21/99 18:30	Hiko (outside of )	NV	Sphere	seconds	There was a bright light aqua blue sphere that moved to fast to describe.	2/1/07	37.6004486084,-115.224349976	
+6/20/99 20:00	Las Vegas	NV	Oval	5 mins	((name delete),a local reporter for ch.13 tv. news in Las Vegas, videotaped two objects, seen by many, above the new Venetian hotel in	7/5/99	36.1719093323,-115.139968872	
+6/18/99 21:45	Fallon	NV	Light	5 min	single white light moving eratically west to east	7/5/99	39.474899292,-118.777618408	
+6/18/99 01:22	Grand Canyon	NV	Cigar	3	A strange pencil like object.	1/29/02	39.3564682007,-116.655410767	
+6/15/99 02:30	Reno	NV	Triangle	5-6min	I have been an aiviation enthusiast 20+years passing my FAA exam at 97%.I am no expert but am aware of most aircraft type and capabilit	4/28/01	39.5273895264,-119.813407898	
+6/9/99 21:15	Las Vegas	NV	Light	1 min	4 quickly moving red lights in the NW sky just to the right of Venus.	6/23/99	36.1719093323,-115.139968872	
+6/9/99 21:14	Las Vegas (Over)	NV	Light	3 to 4 mins	9:14 P.M. I was in the house when my husband who had been sitting out in the yard stuck his head in the door and said to come outside t	6/23/99	36.1719093323,-115.139968872	
+6/8/99 02:00	Reno	NV	Other	10 sec	I saw some kind of craft about the size of a foot-ball field for about 10 seconds before it disappeared before my eyes. It was moving v	6/23/99	39.5273895264,-119.813407898	
+5/29/99 21:00	Las Vegas	NV	Formation	3 minutes	I was listening to you on the Art Bell show when you had a recording of the woman of whom witnessed the sighting over the Monte Carlo C	6/23/99	36.1719093323,-115.139968872	
+4/24/99 21:00	Las Vegas	NV	Light	15 minutes	4 lights/hovering/moving radically about 1 general area; gaseous area resolves to chevron formation of jewel color lights/ move slowly 	6/23/99	36.1719093323,-115.139968872	
+4/24/99 21:00	Las Vegas	NV	Chevron	15 minutes	4 lights in clear/clouds stopping/moving/hispeed @ sharp angles;lrg chevron/luminous objects form from gaseous bar/moves overhead	6/23/99	36.1719093323,-115.139968872	
+3/11/99 20:20	Las Vegas	NV	Light	10-15 minutes	Two large amber orbs appeared/hovered due North/West of the Stratosphere Tower. Hovered for five to ten minutes. They remained stationa	4/2/99	36.1719093323,-115.139968872	
+3/11/99 16:28	Las Vegas (north of)	NV			I'm a truck driver.I have made trips to the desert n. of Vegas. Out in the desert, in the middle of the night. my cargo was unknown. Bi	4/2/99	36.1719093323,-115.139968872	
+3/4/99 19:00	Wellington	NV	Fireball	5 minutes	We saw a comet-like light in the southwest sky while travelling toward Wellington Nevada	4/26/99	38.7591514587,-119.380592346	
+2/28/99 23:35	Las Vegas	NV	Circle	10 sec	Three glowing balls of light traveling right over the Luxor pyramid	4/2/99	36.1719093323,-115.139968872	
+2/27/99 21:32	Laughlin	NV	Light	6-8 min.	A group of approximately 50 adults watched 5 white lights, the apparent size of bright stars, maneuver in the night sky.	4/2/99	35.1674880981,-114.572639465	
+2/27/99 21:30	Laughlin	NV	Circle	about 10 mins	A event preceeded the following after whitch my attention was drawn straght up. thosands of ft. 5 craft fell scattered  to about 12/15 	4/2/99	35.1674880981,-114.572639465	
+2/27/99 17:35	Laughlin	NV	Circle	10min	A black or dark dot was seen hanging in the sky for a period of several minutes.	4/2/99	35.1674880981,-114.572639465	
+2/27/99 14:30	Laughlin	NV	Formation	3 MINUTES	JUST PREVIOUSLY MADE A LATER REPORT, THINK I SHOULD INCLUDE THISN EARLIER ONE ON SAME DAY.  STANDING OUTSIDE ONPROMINADE WALK WAY OUT S	4/2/99	35.1674880981,-114.572639465	
+2/24/99 19:00	Ely (20 miles north of)	NV	Chevron	5 minutes	1 craft, slow moving, less then 70 mph, appx 300 feet off of ground	8/5/01	39.2470397949,-114.894828796	
+2/6/99 23:45	Henderson	NV	Teardrop	15-20 minutes at the most	Me and two of my other friends were sitting on my windowsill when we decided to go out when we saw a necklace my friend had dropped acr	1/7/00	36.0308189392,-114.981086731	
+12/31/98 21:31	Las Vegas	NV	Disk	5 min.	I was standing on top of Parking Garage, looked up at sky, so.east, and saw to look like 12-15 disk, silver in color, and perfectly cir	10/2/99	36.1719093323,-115.139968872	
+12/29/98 00:16	Primm (5 miles west of, on I-15 Westbound	NV	Light	2 Min.	Yellow in color. with a black rectangle in the yellow light. It was traveling from west to east. North of I-15	8/5/01	
+12/6/98 18:25	Las Vegas	NV	Triangle	5 minutes	Came over Mountain to East which has Antenni and banked to South and flew just below broken cloud cover.  It had no running lights but 	1/28/99	36.1719093323,-115.139968872	
+12/5/98 21:21	Pahrump	NV	Circle	1 minute	enroute to las vegas  I observed a green orb from my rearview mirrior and the in my windsheild. It made a  slight change of directions 	1/28/99	36.213558197,-115.991416931	
+12/5/98 20:30	Las Vegas	NV	Unknown	10 seconds	Bright light shining directionally out of a cloudy shape or object, got bright and smoky and then disappered.	1/28/99	36.1719093323,-115.139968872	
+11/16/98 21:30	Las Vegas/Nellis AFB	NV	Fireball	30mins	I work for KVBC Channel 3 in Las Vegas. I didn't see the objects myself. We recieved about 30+ phone calls about fireballs over Nellis 	11/19/98	36.2416343689,-115.052345276	
+11/16/98 04:45	Las Vegas	NV	Unknown	60 secs	A bright Flash of something in the sky leaving a long trail lasting approx. 60 secs. and a long greenish hume to the tail.	11/19/98	36.1719093323,-115.139968872	
+10/19/98 01:30	Las Vegas	NV	Sphere	2 sec.	Bright green comet streak.	11/1/98	36.1719093323,-115.139968872	
+10/16/98 12:30	Las Vegas	NV	Cone	caught on camera	ive never seen anything like it in my 5 years of flying already. this was from the ground caught on my camera	6/21/00	36.1719093323,-115.139968872	
+10/14/98 19:55	Overton	NV	Fireball	10 seconds	Approx. 7:55PM on 10/14/98 while travelling North-bound from Overton, NV. I witnessed what appeared to be a "falling star" directly Nor	11/1/98	36.5397911072,-114.443283081	
+10/10/98 17:30	Las Vegas	NV	Circle	45min.	Ufo sighting in las vegas near Area51	8/30/99	36.1719093323,-115.139968872	
+10/10/98 17:30	Las Vegas	NV	Cigar	10 minutes	White, vertical cigar shape floating around in the eastern sky.	11/1/98	36.1719093323,-115.139968872	
+9/20/98 05:50	Las Vegas	NV	Other	10 sec	Driving to work. Green Bright light caught my eye going from northwest to south east. My daughter spotted it at the same time. It was b	11/1/98	36.1719093323,-115.139968872	
+9/19/98 00:00	Boulder City	NV	Triangle	5 minutes	Silent, triangular craft, lined with pale blue/white lights, headed south	1/28/99	35.9786109924,-114.834037781	
+9/7/98 17:30	Fallon	NV	Light	3 min	There were 4 this time , My neighbors ran over to my house beating on the door , I ran outside and everyone was pointing up.They were m	9/26/98	39.474899292,-118.777618408	
+8/19/98 21:45	Reno	NV	Light	15minutes	WE ATTENDED THE RENO AIR RACES FROM THURSDAY SEPT. 17 TO 20TH. RENO ALSO WAS HOSTING THE NORTHERN CALIF. HARLEY DAVIDSON DEALER SPONSOR	5/24/99	39.5273895264,-119.813407898	
+8/19/98 21:45	Reno	NV	Light	15minutes	SOMETHING WHICH LOOKED LIKE A HUGE WING IN THE DARKNES, BUT NO BRIGHT LIGHTS	11/1/98	39.5273895264,-119.813407898	
+8/18/98 20:30	Dayton (Sutro hills area, NE)	NV	Egg	15 min	In the evening playing with my daughter, back door blinds were open. My daughter SCREAMED 'LOOK DADDY LOOK, ALIENS'(She's only 3 1/2.)	11/1/98	39.2378997803,-119.589157104	
+7/31/98 03:30	Las Vegas	NV	Triangle	3-4 minutes	Triangular object travelling slow, and low to the ground	4/2/99	36.1719093323,-115.139968872	
+7/16/98 23:00	Carson City	NV	Sphere	5 sec.	I was sitting outside, looking toward the mountains, Carson in almost 5k ft, Mts. 7k to 8k, object appeared and shot off in a straight 	11/21/98	39.1648788452,-119.766998291	
+7/15/98 01:00	Rachel	NV	Other		The strange object I saw looked like a streak. It can be found at: http://members.tripod.com/~UFO359/streak.jpg I did not see it when I	8/10/99	37.6446990967,-115.742996216	
+7/9/98 20:24	Fernley	NV	Triangle	10 minutes	Was driving home and saw a black triangle craft in the air. Aplane flying by near it and I noticed it was aout 3,000feet higher than th	11/21/98	39.6012115479,-119.246368408	
+6/29/98 12:00	Reno	NV	Circle	45 minutes	objects appeared stationary at first, some floated like a hang glider. after about 15 minutes objects began to dart around sky and disa	11/21/98	39.5273895264,-119.813407898	
+6/6/98 14:18	Reno	NV	Formation	2 minutes	My wife and I were on our way to Reno. I was looking at a large cloud formation that was pouring out an unbelievable amount of rain. Wh	6/18/98	39.5273895264,-119.813407898	
+5/3/98 21:00	Las Vegas	NV	Triangle	3 min	Large dark triangle hovers, then moves off silently	8/7/07	36.1719093323,-115.139968872	
+5/1/98 00:00	Rural ("middle of nowhere")	NV	Formation	5 hours	Sighting over Nevada in 1998	9/2/05	39.3564682007,-116.655410767	
+4/24/98 00:30	Mt. Charlston	NV	Formation	2 1/2 hr's	Formations seen from Mt. Charleston, Nevada, at very south end of Nellis Air Force Base.	4/2/99	36.2597198486,-115.644897461	
+4/22/98 23:25	Reno	NV	Unknown	2 min.	We were driving down the road late at night when we saw a neon green light shoot across the sky and then it stopped on a dime. It hover	1/28/99	39.5273895264,-119.813407898	
+1/26/98 21:00	Las Vegas	NV	Sphere	3seconds	witnessed glowing bright green orb in the north west Las vegas sky. shot straight down at incredible speed and was gone.	3/7/98	36.1719093323,-115.139968872	
+1/11/98 20:10	Rachel	NV	Disk	8 minutes	At approximately 8:10 PM MST, my girlfriend and I were driving north towards Rachel on Highway 375 in Nevada.  As we descended from Han	3/7/98	37.6446990967,-115.742996216	
+12/20/97 23:00	Las Vegas	NV	Disk		I discovered images on old film from '97, with magnifier. I have 4 6x6 transparencies of New York hotel with UFO on the black sky.	6/23/99	36.1719093323,-115.139968872	
+12/9/97 18:00	Reno	NV	Circle	30min.	I was driving home on freeway going north and looked out drivers side window when i see a bright red round object in the sky right over	2/16/99	39.5273895264,-119.813407898	
+12/9/97 17:55	Reno	NV	Light	18:10	Stationary bright red light, simular to jupiter in brightness but red eventuily moved to the south of reno and dimed.and Flashed Three 	3/7/98	39.5273895264,-119.813407898	
+12/9/97 17:30	Reno	NV	Light	5 Minutes	Bright red light over Reno, NV	3/7/98	39.5273895264,-119.813407898	
+12/9/97 17:00	Reno	NV	Light	30 min.	I was driving home on the freeway going north and i looked out the drivers side window and i saw a bright red light over down town Reno	2/16/99	39.5273895264,-119.813407898	
+11/15/97 03:50	Reno	NV	Triangle	20 min	Listened to radio on the way from San Jose to Reno, NV.  We listened to Artbell on his AM talk radio.  We just viewed what we thought w	1/28/99	39.5273895264,-119.813407898	
+10/15/97 19:35	Austin/Eureka (between, Hwy. 50)	NV	light	35 seconds	I was driving west on hyw 50 and saw 6 bright lights 3 on a ship, and then they were gone!	1/28/99	39.3564682007,-116.655410767	
+10/13/97 20:15	Reno	NV	Other	60min.	We saw several objects performing naneuvers that not possible for present day aircraft to accomplish. This sighting is indescribable th	1/28/99	39.5273895264,-119.813407898	
+9/9/97 16:00	Las Vegas	NV	Formation	5 minutes	My wife and I watched 3 craft fly accross the airport grounds headed towards our hotel and become stationary above us.	7/11/00	36.1719093323,-115.139968872	
+8/3/97 02:00	Overton	NV	sphere	2:30	six spherical objects with pulsating red and green lights, one constant white light at one o'clock position unless object turns, then c	1/28/99	36.5397911072,-114.443283081	
+7/12/97 02:45	Reno/Sparks	NV	triangle	about1:30sec	Large inverted triangle light moved slowly along the flight path of the airport for about a minute then instantly vanished.	1/28/99	39.5273895264,-119.813407898	
+7/2/97 21:15	Rachel	NV	sphere	45 minutes	Orange balls of light in sky, 1 to 4 balls visible at a time, multiples were in row. Lights materialized, one at a time, then slowly fa	1/28/99	37.6446990967,-115.742996216	
+6/11/97 11:00	Reno	NV	Cylinder	3 Mins.	U.F.O.s sighted from commercial airplane.	7/30/02	39.5273895264,-119.813407898	
+5/17/97 03:30	Las Vegas (about 60 miles outside of)	NV	Triangle	5mins	I seen something at night outside of Las Vegas. In short, this whatever it was, was silent, in what seemed to be in the shape of a tria	11/30/99	36.1719093323,-115.139968872	
+5/9/97 21:00	Las Vegas	NV	Light	5 minutes	Set of 7 or 8 orange lights moving silently at airliner velocity, size and altitude over Las Vegas Nevada	8/24/10	36.1719093323,-115.139968872	
+4/20/97 23:00	Las Vegas	NV	Light	2-3 seconds	zig zagging light in the sky	2/22/02	36.1719093323,-115.139968872	
+4/20/97 04:00	Reno	NV		5 sec.	Couple in hotel room witness a very bright, white light streak from E sky to N.  VASTLY faster than any aircraft.  Unblinking.	11/2/99	39.5273895264,-119.813407898	
+4/19/97 01:30	Reno (north of)	NV	Other	4 to 5 minutes	When first seen, it was a huge, brilliant white, "bow-tie" shaped object which exploded into a much larger sphere filled with red, gree	9/26/98	39.5273895264,-119.813407898	
+4/8/97 20:00	Las Vegas	NV	Rectangle	15 sec	large, erratic, black object, movement reminiscent of paper falling, almost invisible edge on.	9/26/98	36.1719093323,-115.139968872	
+3/13/97 21:00	Henderson	NV	Formation	3 minutes	(2) extremely large, dark craft, in formation operating  at a very slow speed in total silence, overhead.	2/14/08	36.0308189392,-114.981086731	
+3/13/97	Las Vegas	NV			Two days after The Phoenix Lights - A different kind of sighting	9/6/02	36.1719093323,-115.139968872	
+3/12/97 22:20	Death Valley	NV	Triangle	2 hours	((HOAX??))  This World Nuclear Missiles Must Stop  500 Lights On Object0: Yes	2/1/07	36.1263389587,-115.062469482	
+3/12/97 20:40	Las Vegas	NV	Chevron	several minutes	Las Vegas, Nevada -MARCH 12,1997  1.5 MILE WIDE CHEVRON  FORMATION OF LIGHTS SILENTLY GLIDES W. TO E. AT 8:40 pm.	3/11/06	36.1719093323,-115.139968872	
+3/10/97 22:00	Las Vegas (north of)	NV	Light	10 minutes	orange orb traveling sse at unknown altitude, pitch black, starry night, VFR, CAVU,  totally silent, 2 people	5/15/06	36.1719093323,-115.139968872	
+3/5/97 00:00	Las Vegas	NV	light	5 minutes	Approx. 20 lights in a v-shape which did a double-helix formation downward  It then formed a v-shape and flew overhead, moving South to	1/28/99	36.1719093323,-115.139968872	
+2/14/97 18:00	Las Vegas	NV	Formation	5 minutes +/-	Formation of  balls of light travelling across the sky, one behind the other, early in 1997.	8/7/07	36.1719093323,-115.139968872	
+1/18/97 22:00	Las Vegas (SE of)	NV	Sphere	5-10 sec	Luminous sphere (white) travelling due west at a very high velocity (it slowed down and then accelerated). It moved along a ridge of a 	3/7/98	36.1719093323,-115.139968872	
+1/7/97 21:30	Don't Know	NV	Teardrop	Unknown	Unforgettable Teardrop 1997	1/5/11	39.3564682007,-116.655410767	
+12/22/96 01:45	Reno	NV		2 sec.	Young man sees a very brigh "ball of blue light" out his window.  It looked like a "single bubble of light, w/ 3-dimensional depth."	11/2/99	39.5273895264,-119.813407898	
+12/22/96 01:45	Reno	NV	Other	3 seconds	I saw a HUGE ball like flash grow and then'erupt' while looking out of my windowfacing SE. It was not lightening. I love towatch the we	3/7/98	39.5273895264,-119.813407898	
+12/9/96 05:00	Highway 15	NV		60 sec.	2 men, other cars, witness a reddish-green, very bright patch of light in a.m. sky.  "Looked like liquid."  Gigantic; moved across hwy.	11/2/99	39.3564682007,-116.655410767	
+11/17/96 21:00	Las Vegas	NV	Light	1 to 2 sec.	Saw a stationary "star" all of a sudden zip to the west, across the southwest sky.	1/28/99	36.1719093323,-115.139968872	
+11/16/96 16:30	Las Vegas	NV	Light	1 hour	number of strange lights seen in NV test site  Area 51 months before phoenix sighting	1/22/04	36.1719093323,-115.139968872	
+11/12/96 01:00		NV	Triangle	40minutes	large triangle shape flying object hovering silently above me.	7/5/05	39.3564682007,-116.655410767	
+10/13/96 03:19	Reno	NV	Triangle	40 min.	At 3:19 am, bright light seen outside window and then one small tugboat triangular shaped aircraft seen over the house and then both oc	3/7/98	39.5273895264,-119.813407898	
+9/14/96 20:00	Battle Mountain	NV	Disk	5 miutes	Full moon or just after (that time) 8 to 8-30 pm. Two seperate occasions, the first a month earlier. Disc shaped, no lights, featureles	11/1/98	40.6405487061,-116.936897278	
+6/7/96 22:00	Ely (60 Miles south of, US Highway 93)	NV	Triangle	4 Minutes	a triangular craft app 300 ft wide moved in an easterly direction  very slowly app 200 ft off the ground with no lights on itat abo	8/5/01	39.2470397949,-114.894828796	
+6/1/96 22:00	Summerlin/Las Vegas	NV	Fireball	2-3 secs	Large, fast moving, turqoise/yellowish fireball.	1/10/09	36.1935195923,-115.323570251	
+5/27/96 20:30	Amargosa Valley	NV	Light	1hr	AUTHOR'S SUMMARY:  Friend and I witnessed "flare like objects"hovered more than 10 minutes per.Obj's #ing above 20. Strange person(s)	3/7/98	36.6426391602,-116.400512695	
+4/10/96 23:00	Moundhouse	NV	Disk	Unknown	I may be the only human alive that remembers seeing the inside!	9/2/05	39.540561676,-119.775390625	
+4/4/96 02:45	Las Vegas	NV		6 sec.	Man driving S on Hwy. 215 East sees "huge falling star" descend out of night sky.  Strange, distinctly blue color.	8/5/01	36.1719093323,-115.139968872	
+4/3/96 22:30	Las Vegas	NV		5 min.	Man and family witness 5 bright, whit lights oriented in single file pass overhead slowly from E to W.  Very strange.	8/5/01	36.1719093323,-115.139968872	
+4/1/96 23:00	Dayton	NV	Disk	10 Hours	Made Eye Contact....	2/14/06	39.2378997803,-119.589157104	
+3/7/96 20:55	Henderson	NV		2 min.	Man & wife witness odd obj. w/ red and orange flashing lights fly very low over their house from the SE. Reversed direction, flew off.	11/2/99	36.0308189392,-114.981086731	
+2/16/96 18:22	Reno	NV				6/3/11	39.5273895264,-119.813407898	
+2/1/96 21:05	Las Vegas	NV		30 sec.	UFO investigator and husband witness a very bright light in W sky. Suddenly develops  greenish-blue tail, accelerates up at 45 deg..	11/2/99	36.1719093323,-115.139968872	
+12/14/95 21:40	Las Vegas (western; I-40, MM 264)	NV	Unknown	Couple of Seconds	Saw thick blue beam of light come down out of the sky accross a field and then back up again.	9/15/05	36.1719093323,-115.139968872	
+11/19/95 18:30	Carson City	NV		2 sec.	Woman calls after dramatic sighting of "a red streak of light, w/ blue in middle" moving SE to NW.  Width "as thick as my thumb!"	11/2/99	39.1648788452,-119.766998291	
+11/12/95 21:00	Las Vegas	NV		45 min.	Woman repts. two stationary, "colorful," lights to W & NW of her position.  (Description not inconsistent w/ twinkling stars.)	11/2/99	36.1719093323,-115.139968872	
+10/18/95 03:00	Tonopah (10 east bound m.m. 89)	NV	Chevron	1 minute	chevron shaped dark object with flourescent lites	9/6/02	38.0654907227,-117.231933594	
+10/5/95 19:00	North Las Vegas	NV			Young woman goes outside, see group of teenage girls looking as sky.  Large cigar-ship w/ bright lights hovering in sky.  Other rpts.	11/2/99	36.1989593506,-115.118537903	
+9/28/95 21:50	Las Vegas	NV		15 sec.	Young woman witnesses "neon green & yellow" object zigzagging overhead.  Dog very agitated, would not leave house.	11/2/99	36.1719093323,-115.139968872	
+9/20/95 03:30	Reno	NV		1 hour	Man, wife, 3 relatives witness "rounded, saucer-shape" obj. overhead.  Flashing white & colored lights. Moved like "bouncing ball."	11/2/99	39.5273895264,-119.813407898	
+9/15/95 14:00	Las Vegas	NV	Other	20-25 min	garbage can shaped object	5/24/05	36.1719093323,-115.139968872	
+9/11/95 22:15	Las Vegas	NV			Man repts. bright, multi-colored obj. in NW night sky. Disappeared while he was in house.	11/2/99	36.1719093323,-115.139968872	
+9/10/95 12:35	Las Vegas	NV		8 min.	Man, wife, son witness tiny, milk-white sphere hovering in cloudless sky. Streaks off to NW.  15 min. later see silver disc overhead.	11/2/99	36.1719093323,-115.139968872	
+9/1/95 09:30	Pahrump	NV	Light	12 minutes	9;30a.m. six starlike objects following an airforce jet spotted  in the northern sky.  11;30a.m. approximately 145 starlike objects sig	11/2/99	36.213558197,-115.991416931	
+9/1/95 09:00	Pahrump	NV	Changing	Two hours	Time 9:00 a.m. went outside to pump water up from well.  I heard an airforce jet,so I looked up.  At about 1:00 oclock high, the jet wa	6/21/00	36.213558197,-115.991416931	
+8/31/95 05:15	Reno	NV			Man goes outside to start car.  Sees "two balls of light w/ different colors around them.  Something "square" underneath, maybe doors.	11/2/99	39.5273895264,-119.813407898	
+8/13/95 18:30	Las Vegas	NV	Triangle	5 minutes	Large hovering invisible craft houvering in mid air at least triangle 300 yards.	11/11/03	36.1719093323,-115.139968872	
+8/12/95 21:00	Laughlin	NV	Light	c.15sec.	Small red light, sat in levitation for several seconds, when all viewers focused on light, it vanished.	9/21/00	35.1674880981,-114.572639465	
+8/6/95 21:00	Reno	NV	Formation	1 minute	dull orange group of craft maneuvering and rotating arround each other in the sky over reno	12/19/03	39.5273895264,-119.813407898	
+8/1/95 18:00	Las Vegas	NV	Flash	five minites	three bright light's, no sound, about a foot ball field away	12/2/00	36.1719093323,-115.139968872	
+7/2/95 23:15	Winnemucca	NV		2 sec.	Man, while out feeding horses, sees red light streak E to W across S sky.  Obj. simply "fizzles out" suddenly.  Reptd. on radio.	11/2/99	40.9731712341,-117.735313416	
+6/23/95 03:00	Austin/Eureka (between, U.S.hiway 50)	NV	Disk	5 to 10 mins.	I have 2 photographs of saucer shaped craft. I am a long haul driver and I was hesitent to speak of this but I wrote all the info on th	10/2/99	39.3564682007,-116.655410767	
+6/23/95 03:00	Austin/Eureka (near, on US Hiway 50)	NV	Disk	10 to 20 mins.	I saw 2 orange-red craft closeup felt static electric.	4/15/00	39.3564682007,-116.655410767	
+6/19/95 02:30	Las Vegas	NV	Sphere	10-15 min	Orange Sphere moves across sky and leaves green trail the entire lenght of the sky that remained long after the object was gone!	12/19/03	36.1719093323,-115.139968872	
+6/1/95 04:00	Carson City	NV		15 sec.	Man (frmr. mil. pilot)  looks SW from bathroom window, sees 5-6 bright objs. in cluster, "like galaxy of stars."  Neighbor sees same.	11/2/99	39.1648788452,-119.766998291	
+5/18/95 19:30	Las Vegas	NV		1 hour	Woman repts. obj. that descended vertically, moved left & right, surrounded by "sparks."  Very fast. Multiple witnesses.	11/2/99	36.1719093323,-115.139968872	
+5/3/95 00:54	Reno	NV		10 min.	Man reports up to nine bizarre, white  objects flying strangely overhead. (Calls 2nd time to report  they are birds.)	11/2/99	39.5273895264,-119.813407898	
+3/24/95 05:00	Las Vegas	NV			Oakland FAA calls to rept. UFO sighting rept. from comm. pilot returning from Las Vegas.	11/2/99	36.1719093323,-115.139968872	
+3/24/95 05:00	Las Vegas	NV			FAA/Joshua Approach repts. UFO sighting report from comm. pilot enroute to Las Vegas in Metroliner at 19,000'.	11/2/99	36.1719093323,-115.139968872	
+3/17/95 16:00	Lockwood	NV			Woman repts. sighting of disc, which landed, leaving burning circle in grass.  Claimed U.S. Agents present.	11/2/99	39.5074691772,-119.645172119	
+3/11/95 19:30	Las Vegas	NV			Four children witness saucer close to ground. ( Uncertain about some facts.)	11/2/99	36.1719093323,-115.139968872	
+2/24/95 20:45	Fernley	NV		20 min	Woman repts. 2 sightings of red light hovering. Turns white.  For some reason,  4-yr. old daughter frightened by sighting.	11/2/99	39.6012115479,-119.246368408	
+1/1/95 01:00	Mt. Charleston	NV	Oval	5 minutes or less	Large, dark, silent, graceful object with lights seen moving up canyon	2/18/01	36.2597198486,-115.644897461	
+10/1/94 23:00	Las Vegas	NV	Circle	5 seconds	Bright green object in flight allmost colided with my aircraft.	10/15/02	36.1719093323,-115.139968872	
+9/21/94 18:30	Montello	NV	Circle	1 minute	multi-colored circle of lights moving slowly in northerly direction above mountains.	1/28/99	41.2614593506,-114.194122314	
+9/21/94 17:45	Montello	NV	Other	30-40 sec.	A necklace of colored lights against light blue sky, about 800 yards long, moving slowly north.  Blue sky could be seen through the cen	1/28/99	41.2614593506,-114.194122314	
+7/15/94 09:00	Las Vegas	NV	Triangle	6-7 mins	I told the 911 Operator that i was looking at a "huge black triangle".	8/5/09	36.1719093323,-115.139968872	
+5/15/94 18:10	Fallon	NV	Light	45 seconds	USN trained weather observer sighted 3 "solid" colored lights, two red, one white, moving south to north silently and periodically"rock	3/7/98	39.474899292,-118.777618408	
+11/25/93 15:00	Mesquite (Approx. 15 miles west on I-15 of)	NV	Other	5 min. approx.	Two adults driving see "metallic" objects in sky.  Look like commercial aircraft but no movement.  Watch objects for a couple of minute	10/12/01	36.8039283752,-114.067222595	
+9/15/93 16:00	Reno	NV	Formation	45 seconds	Daytime sighting over Reno airport of formation consisting of three aqua spheres and two bronze elliptoids	3/21/03	39.5273895264,-119.813407898	
+5/9/93 00:00	Reno	NV	Cigar	3 to 5 min.	looking directly east, saw object slowly moving north from south, stop, drop 3 fireballs, slowly moved south and with no hesitation, to	4/1/00	39.5273895264,-119.813407898	
+10/15/92 10:15	Gardnerville	NV	Light	15 seconds	Observed object bluish/white in color streaking toward the surface of earth; then change directions instantly heading back into the s.	1/17/04	38.9411392212,-119.750137329	
+6/30/92 21:00	Las Vegas/Charleston Heights	NV	Sphere	30 minutes	Red light/sphere seen over neighborhood of Charleston Heights with street lamps blinking on and off.	12/12/09	36.1752090454,-115.147628784	
+6/15/92 22:00	Las Vegas	NV	Light	30 seconds	Green light moving north at speed through east side of las vegas.	6/18/03	36.1719093323,-115.139968872	
+6/15/92 18:00	Area 51	NV	Oval	12 hrs.	4 adults video tape object over area 51 in Nevada.  Video shown on 2 different episodes of "Unsolved Mysteries".	3/7/98	36.9811782837,-116.160331726	
+3/1/92 19:00	Lovelock	NV	Light	10-12 minutes	Huge ball of light traveled behind mountain tops, raised up briefly, accompanied by small colored lights, then left in electric flash.	11/21/10	40.1802902222,-118.475189209	
+10/1/91 21:30	Las Vegas	NV	Cigar	5 seconds	For seven years I have kept this fairly quiet. I was walking my dog on a clear dark night where I live on the north west side of Las Ve	1/28/99	36.1719093323,-115.139968872	
+7/18/91 17:00	Las Vegas	NV	Other	2 hrs	a huge shadow appeared out of nowhere, revealing a enormous boomerang shaped object. 500 Lights On Object0: Yes	2/24/07	36.1719093323,-115.139968872	
+6/6/91 20:30	W. Wendover	NV	Triangle	8  minutes	Gigantic flying "L" triangle floating slowly across Hwy. 80 in Eastern Nevada , chased by jets.	5/15/06	40.7378807068,-114.058258057	
+6/1/91 18:00	Las Vegas	NV	Other	2 Hours	I was about seven when it happened.	9/21/00	36.1719093323,-115.139968872	
+10/27/90 21:00	Wells (30 miles north of)	NV	Cylinder	15 Seconds	Cylinder Shaped w/5 Amber Lights crosses Nevada skyline (E-W) in 20 seconds silently around 9pm.	10/8/07	41.1055603027,-114.952072144	
+10/15/90 17:00	Las Vegas (North of)	NV	Light	1 hour.	strange lights north of Las Vegas	3/21/03	36.1719093323,-115.139968872	
+1/1/90 23:00		NV	Unknown	3 Hours	2 more witnesses for that UFO siting that was on tv showing the 'V' Shape formation where 1 disappeared at a time behind the mountain.	9/17/00	39.3564682007,-116.655410767	
+11/5/89 02:00	Groom Lake	NV	Egg	12secs	This is a little long, so please hang in there. On Nov.5th,1989, I, along with cousin, were listening to am radio KFI in Los Angeles.Th	11/30/99	37.2666664124,-115.800003052	
+7/15/89 03:00	Fire Mountain	NV	Triangle	unknown	12 year old sees two objects on a camping trip at fire mt 1989	7/17/11	37.4463615417,-114.366653442	
+8/15/88 22:00	Sutcliff	NV	Unknown	10 min	Seemingly impossible reverse	10/30/06	39.9702911377,-119.619407654	
+8/1/88 01:30	Rachel (Highway 318)	NV	Disk	10 minutes or less	Red Craft, Highway 318, possibly Nye Conty, NV 1am August 1988, traveling at a high rate of speed smoothly.	2/12/04	37.6446990967,-115.742996216	
+12/20/87 17:15	Las Vegas (60-70 miles north-east of, Interstate 15 North)	NV	Light	3 - 4 minutes	Viewed pairs of red strobing lights extended across wide area of Nevada desert and watched as two F-15 fighter aircraft tried to interc	3/7/98	36.1719093323,-115.139968872	
+6/25/87 23:00	Pahrump	NV	Other	20 minets	Unknown Cloud Around Object and changed color then vanished	2/22/02	36.213558197,-115.991416931	
+6/1/87 06:45	Las Vegas	NV	Unknown	00:15	Moon appears to split in half	8/5/01	36.1719093323,-115.139968872	
+5/15/87 00:30	Las Vegas	NV	Oval	2 mins	Las Vegas  Orbs display " V"  ariel perfomance in early morning sky	8/5/01	36.1719093323,-115.139968872	
+1/29/87 22:00	Las Vegas	NV	Disk	3 hrs.	TWO UFO'S SPEND NIGHT ON MOUNTAIN, SEEN THE NEXT DAY IN PLAIN DAYLIGHT	5/15/06	36.1719093323,-115.139968872	
+3/29/86 19:30	Alamo	NV	Rectangle	10-12min	trapazoid object with cluster of smaller lights following in the same direction	1/21/08	37.3684616089,-115.159957886	
+2/25/86 22:00	Nevada (on highway, northbound)	NV	Circle	unsureg	ROUND ,SPHERICAL ,TRIANGLES INSIDE OR AROUND IT WITH A SHUTTER  ,;CHANGES COLORS	7/16/06	41.3189582825,-115.978553772	
+6/1/85 21:00	Reno	NV	Other	a few minutes	A silver Ball hovering over McCarran Blvd near Idewild park	3/23/11	39.5273895264,-119.813407898	
+12/3/83 02:00	Indian Springs	NV		unknown	I was stationed at Indian Springs AFB in 1983.  One night seceral of us Airmen had dragged a keg of beer out in the middle of the deser	4/28/01	36.5778884888,-115.672653198	
+9/15/83 05:00	Minden	NV	Sphere	10 minutes	driving up mountian road,observed 3 large round balls hanging in mid-air	1/28/99	38.9549789429,-119.765708923	
+9/1/83 19:30	North Las Vegas	NV	Diamond	1 minute	as i was leaving work driving on craig rd i saw 4 very bright lights in the sky just to the right of the front of my car. i pulled over	2/16/99	36.1989593506,-115.118537903	
+6/15/83 20:00	Reno	NV	Light	5 minutes	square green flourscent light projecting a control beam of light by speed and depth from the sky to ground	2/12/04	39.5273895264,-119.813407898	
+6/1/83 10:00	Nevada (Over)	NV	Other	15min	Inflight sighting	7/26/02	41.3189582825,-115.978553772	
+2/11/83 00:00	Las Vegas	NV	Circle	seconds	First encounter happened some time in the early 1980's. My boyfriend (at that time)and i were leaving Las Vegas and had entered the des	5/24/05	36.1719093323,-115.139968872	
+7/15/82 21:00	Las Vegas	NV	Disk	uncertain	9 Years Old , Brothers & I Saw Disk/Craft Very Close.	5/11/05	36.1719093323,-115.139968872	
+5/15/82 20:00	West Reno (out on old Hwy 40)	NV	Other	1 minute	Loud boom, so loud shook house. Went outside to see what happened. Saw hole in sky cover perfect circle. Moon in center of circle,full 	3/7/98	39.5173492432,-119.849838257	
+7/1/81 22:00	Indian Springs	NV	Light	45 min.	LIGHTS IN THE SKY NORTH OF INDIAN SPRINGS	5/24/99	36.5778884888,-115.672653198	
+6/15/81 22:30	Las Vegas (desert outside of)	NV	Unknown	90 min	1981 strange gyrating lights in desert outside Las vegas	4/27/04	36.1719093323,-115.139968872	
+6/15/81 00:00	none	NV	Circle	15 minutes	I am a very practal person I have never before this encounter seen anything I couldn't explain. I was driving an 18 wheeler across the 	8/12/01	39.3564682007,-116.655410767	
+6/1/81 22:30	Reno	NV	Light	1 min+	"shooting star" does a 180, and makes off axis shifts over reno.	1/29/02	39.5273895264,-119.813407898	
+9/15/80 22:00	Elko	NV	Light	15 mins to 4 hrs	Spotted aluminum-colored square- shaped blinking lights which disappeared, car stopped & red/orange ball followed us.	12/19/03	40.8356285095,-115.767631531	
+11/15/78 20:00	Las Vegas (??)	NV	Cigar	10 min	not been noted on any sighting that i have heard of.	5/12/09	36.1719093323,-115.139968872	
+6/1/78 05:00	Las Vegas (interstate east of)	NV	Light		I THOUGHT IT WAS A MORNING STAR UNTIL A CLOUD COVER MOVED IN BEHUND IT. I PULLED OVER TO TAKE A PHOTO AND AS I AIMED MY CAMERA THE OBJE	2/27/00	36.1719093323,-115.139968872	
+9/12/77 19:00	Gabbs	NV	Triangle	3 minutes	Triangular craft w/ six amber lights over Nevada desert.	4/25/02	38.8626403809,-117.9246521	
+5/1/77 20:25	Winamuccha	NV	Cigar	1min 10 sec	I saw  a  vehicle from another planet in May of 1977,	8/7/07	39.3564682007,-116.655410767	
+11/27/76 15:00	Stead Nevada (outside of Reno)	NV	Disk	3-5min	It was Thanksgiving 1975 or 76. When I came out of our house it was hovering over our neighbors one story house. It was daylight and I 	1/28/99	39.3564682007,-116.655410767	
+8/15/76 16:30	McDermitt (NE of;  Lat 42 05'N  Lon 117 00'W	NV	cylinder	3-5 min	5 witness long tubular shaped object moving S to N low to the ground with 6-7 oval lights.  The first and last lights were colored red,	1/28/99	
+11/27/75 16:30	Reno/Stead	NV	Disk	5 min	Disk shaped craft hovering above house in Stead, Nevada	12/19/03	39.6581001282,-119.883003235	
+8/15/75 01:00	Luning (closest town)	NV	Disk	10-15 minutes	the color size, and the being looking out the window of the ufo at us	12/16/05	38.5115394592,-118.189941406	
+6/10/75 02:30	Roberts Creek Mtn. (30m N. Ely)	NV	Unknown	00:03:00  min.	White light w/electrical failure	9/4/03	39.8777084351,-116.310371399	
+5/1/75 17:00	Reno	NV	Disk	2 minutes	A disk shape hovering over my apartment building in broad daylight in a busy city.	1/3/01	39.5273895264,-119.813407898	
+4/1/75 20:00	Reno	NV	Cigar	two minutes	A cigar-shaped craft about 100-200 feet, hovering, yellowish-orange with red and white lights. 500 Lights On Object0: Yes	4/27/07	39.5273895264,-119.813407898	
+10/1/73 21:30	Beatty	NV	Disk	2 hours	Lights in the sky and lost time.	10/10/11	36.90832901,-116.759429932	
+6/1/72 12:00	Nevada Desert	NV	Oval	15 min	Biggest Ship Ever	7/16/06	39.3564682007,-116.655410767	
+8/1/71 15:00	Lamoille (above)	NV	Cigar	13/15 min.	Close Up, Broad Daylight Sighting of  a UFO.	2/14/08	40.7290687561,-115.478759766	
+10/1/70 19:00	Summit Lake Indian Reservation	NV	Oval	25min.	ball of light, turned into a doughnut shape, assention, stream, 4 witnesses,seen from higher elevation.	8/11/04	41.5218315125,-119.052520752	
+1/1/69 23:00	Nevada test site	NV	Triangle	?	Response to: Occurred : 4/1/2001 21:00 (Entered as : 04/01/01 21:00)	4/28/01	36.9811782837,-116.160331726	
+7/15/68 02:00	Pyramid Lake Indian Reservation	NV	Light	20min.(apprx)	extremely manueverable pulsating white light over Pryamid Lk. shoots straight up into the heavens after investigating(?)the lake over 2	1/29/02	39.9918136597,-119.538291931	
+6/6/68 21:00	NAS Fallon	NV	Disk	five minutes	Sighting of UFO on military base.	11/8/03	39.4220504761,-118.701957703	
+6/1/68 13:00	Las Vegas	NV	Light	approximately 10 minutes	A vivid orb of light in a completely clear blue, mid-day 1960s Las Vegas sky moved irratically within a small radius above our house.	1/22/04	36.1719093323,-115.139968872	
+4/15/68 18:30	Las Vegas	NV	Sphere	30 seconds	I was sighting in my new telescope I was on Eastern av in LV I turned my telescope in the direction of NNEtoward Nellis AFB it was alm	7/25/04	36.1719093323,-115.139968872	
+5/10/67 11:00	Fallon	NV	Oval	20 min,	05/10/1967 23:00 fallon, nevada, glow on horizen, followed by, hovering colored discs, 20 minutes	1/31/11	39.474899292,-118.777618408	
+4/1/67 17:45	Las Vegas	NV	Light	2 minutes	pulsating white round  light that changed between white and blue	7/16/03	36.1719093323,-115.139968872	
+6/1/66 09:00	Old Washoe City	NV	Disk	20 seconds	First, I would like to point out that this is a very old sighting that probably cannot possibly be confirmed.  I am only hoping that so	8/12/08	39.3564682007,-116.655410767	
+7/6/65 00:00	Winnemucca/Lovelock (between, on Hwy. 95)	NV	Light	45min.	lights moving back and forth over the mountain, thien came down on road in front of the car,stayed infront ofcar fora few seconds then 	11/2/99	39.3564682007,-116.655410767	
+6/1/65 20:00	Fallon (Chalk Mountain)	NV		15 minutes	A faint light at first thought to be telstar (communications satellite) However, light was joint by about 4 others that were pulsating.	4/16/05	39.474899292,-118.777618408	
+7/15/64 23:00	Las Vegas	NV	Circle	40 min	Saucer-shaped craft landed, rattled apt., and I watched it for some time	8/7/07	36.1719093323,-115.139968872	
+6/15/64 01:00	Winnamucca/Lovelock.	NV	Light	45 min.	lights aganst a mountain??	12/9/03	39.3564682007,-116.655410767	
+6/14/64 13:00	Reno	NV	Disk	15 minutes	I saw a luminous object which I can only desribe as a UFO...	7/30/02	39.5273895264,-119.813407898	
+7/1/60 12:00	Unknown	NV	Disk	30 minutes	Real Evidence of UFOin the 60's	8/12/08	39.3564682007,-116.655410767	
+9/15/59 01:00	Goldfield	NV	Light	1 minute	The object hovered over the pick-up, and raised it from the sand	4/16/05	37.7075500488,-117.233459473	
+9/15/59	Fallon	NV	Oval	2 hours	I was an Air Force radar operator at Fallon Navel Air Station, in the year of 1959  Iwas working the day shift on that day.  Iwas on sc	10/28/02	39.474899292,-118.777618408	
+2/17/52 18:00	Nellis AFB (Las Vegas)	NV	Disk	30 mins	We are dealing with something very real.	10/27/04	37.0462188721,-115.887626648	
+7/15/47 10:00	Las Vegas (East of)	NV	Disk	5 minutes	On July 15, 1947 I witnessed a large saucer-shaped disk outside Las Vegas, Nevada.	12/2/00	36.1719093323,-115.139968872	
+7/2/05 11:00	Sun Valley	NV	Other	5 seconds	This ball made no sound, and I saw no power source.	7/17/11	39.5927581787,-119.774627686	
+6/27/05 19:00	Sun Valley	NV	Fireball	10 seconds	There was no sound from this basketball size thing.	7/17/11	39.5927581787,-119.774627686	
+97-99appro 21:00	Las Vegas	NV	Disk	10min or more	A couple of years back...between 97-98.Im not sure.I was living in Las Vegas and I lived in a sixth floor apt. building on swenson and 	2/18/01	36.1719093323,-115.139968872	
+?/?/94 10:30	Gerlach (Pyramid Lake)	NV	Sphere	30+ sec	metalic, self propelled ball goes don the road	1/29/02	40.6529693604,-119.351898193	
+0410mst 04:10	Pequop Pass (180, east bound starting up pass)	NV	Formation	3 min.	stbound on I80 just starting up pequop pass when a small cluster of stars caught my eye. one above the other and below to the east anot	8/5/01	39.3564682007,-116.655410767	
+03:00	Sparks	NV	Other	30 sconds	A Cone shaped craft flying at unexplainable speeds with distint lighting passing in clos proximity to my location.	10/31/03	39.5410003662,-119.749191284	
+02:00	Calico  (north of)	NV	Egg	45 mins	We got lost in our motor home north of Calico, Nevada, about midnight. We wandered about for a couple of hours then shut down for the n	4/27/04	41.8525047302,-117.32674408	
+	Las Vegas	NV			((HOAX??))  This craft came up nexth to their car made no sound.	4/9/04	36.1719093323,-115.139968872	

@@ -1,0 +1,682 @@
+DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
+9/17/11 21:17	Anthony	NM	Triangle	6 seconds	While watching night sky with my head in the east-west position, a smooth, rounded, triangular craft passed over heading due south towa	10/10/11	32.0065002441,-106.581573486	
+9/17/11 10:00	Alamogordo	NM	Fireball	30 secs	Fire ball suddenly shoots up right angle and amazing speeds.	10/10/11	32.8992500305,-105.960319519	
+9/8/11 19:05	Farmington	NM	Teardrop	10-12 minutes	Weather ballon spotted over Farmington, New Mexico by many people.	10/10/11	36.7281417847,-108.205688477	
+9/4/11 19:50	Roswell  (NO JOKE)	NM	Light	3-4 minutes	A light in the sky moving in a zig-zag pattern	10/10/11	33.394821167,-104.522750854	
+8/19/11 23:55	Las Cruces	NM	Sphere	20 min. (approx.)	Enormous yellow sphere seen rising over the Organ Mts. before midnight  8-18-2011	8/21/11	32.306728363,-106.777732849	
+8/2/11 21:15	Albuquerque	NM	Circle	1 minute	Green, glowing circle being chased through the albuquerque sky by helicopter	8/7/11	35.0841789246,-106.648643494	
+6/30/11 23:09	Taos	NM	Light	35 minutes	White light over New Mexico	7/4/11	36.4115982056,-105.574249268	
+6/25/11 23:05	Texico	NM	Light	2.5min	Possible fighter jet shooting at UFO	6/27/11	34.3887290955,-103.044639587	
+5/18/11 10:00	Belen	NM	Oval	all night	It's about time someone else see those lights in the sky Id been watching them for over a year now. I live in belen and see them all ar	5/29/11	34.6607894897,-106.776916504	
+5/8/11 19:00	Albuquerque	NM	Triangle	30-35 minutes	Reddish orange glowing triangular object appearing to viewers 30-35 minutes toward the West.	8/21/11	35.0841789246,-106.648643494	
+5/4/11 09:00	Albuquerque	NM	Other	8 months	((HOAX??))  Get the metal out of my body	5/12/11	35.0841789246,-106.648643494	
+5/1/11 22:15	Farmington	NM	Changing	20-45 minutes	the crafts made form several small lights made a SOLID METALLIC DIAMOND AND hoveredand disappeared.	5/29/11	36.7281417847,-108.205688477	
+4/30/11 02:07	Santa Fe	NM	Light	15 seconds	on April 30th at 2:07 a.m., 8-10 lights in a boomerang formation was seen hovering the skies of Santa Fe, New Mexico.	5/2/11	35.6915397644,-105.937400818	
+4/9/11 23:55	Farmington	NM	Triangle	10-15 minutes	the craft had and forward object protuding out of the fornt may or may not hand something onw the fornt of the shaft, then  it what loo	5/2/11	36.7281417847,-108.205688477	
+3/19/11 20:00	Belen	NM	Unknown	2 hours	1 star shaped object with blinking lights & landings of other objects where there are no airports.	3/23/11	34.6607894897,-106.776916504	
+3/14/11 14:00	Lincoln National Forest (Sitting Bull Falls)	NM	Oval	unknown	No visual sighting but took photo in Sitting Bull Fall that shows unknown objects in the sky.  ((NUFORC Note:  Bird or insect?  PD))	3/23/11	32.9165382385,-105.389717102	
+2/14/11 18:45	Taos	NM	Light	4 seconds	A light dropped vertically, hesitated, then travelled horizontally at 5000 mph.	2/18/11	36.4115982056,-105.574249268	
+2/10/11 21:00	Ruidoso	NM	Light	5 minutes	shimmering light appears/disappears/reappears followed by plane and an apparent air force jet	2/18/11	33.3336982727,-105.68006134	
+2/2/11 16:40	New Mexico	NM	Circle	25 min	Many UFO over new mexico white and green	2/8/11	32.3068695068,-106.757522583	
+1/16/11 14:30	Roswell	NM	Egg	3 seconds	I was on flight American Airlines 1924 on January 16, 2011.  The pilot announced that we were on descent just over Nevada bordering New	1/31/11	33.394821167,-104.522750854	
+12/13/10 01:16	Fruitland (Nenahnezad Chapter House)	NM	Disk		Muliple blinking light over Nenahnezad Chapter House far below the san juan river	1/5/11	36.7393989563,-108.395698547	
+12/11/10 21:00	Albuquerque	NM	Oval	One hour	Low in the ski with colored light then turned into big bright light moving towards me and then zipped across the ski.	1/5/11	35.0841789246,-106.648643494	
+12/2/10 13:32	Albuquerque	NM	Flash	6 minutes	Flash over desert turing green and red in color flying supersonicly.	1/5/11	35.0841789246,-106.648643494	
+11/22/10 22:00	Santa Fe	NM	Sphere	5 sec	yellow sphere with orange blinks trailing it. Moved pretty slowly, and was quite low to the horizon.	1/5/11	35.6915397644,-105.937400818	
+11/21/10 10:00	Albuquerque	NM	Other	six minutes	Blue/green Hoops in the sky in Albuquerque, New Mexico.	1/5/11	35.0841789246,-106.648643494	
+11/14/10 18:00	Lovington	NM	Circle	20 min	Lovington new Mexico UFO with crash	1/5/11	32.9444503784,-103.348632812	
+10/14/10 16:30	Truth or Consequences	NM	Circle	object hovered in sky sou	Shiny object reflected sun in white sands area ufo stayed in a stable position then was gone in a flash. Ufo was circular.	11/21/10	33.1360015869,-107.231689453	
+9/9/10 22:00	Lemitar	NM	Fireball	3 to 5 mins	orange lights in the southeastern sky in New Mexico	11/21/10	34.1596984863,-106.908493042	
+9/3/10 20:00	Framington	NM	Sphere	15	red light seen over farm land saw from the parkinglot of Smiths food and Drug.	11/21/10	36.7281417847,-108.205688477	
+8/15/10 00:00	Deming	NM	Disk	presently	craft hovering over town for over a month now and presently continuing to do so!  Deming NM	8/24/10	32.268081665,-107.758666992	
+8/3/10 00:00	Albuquerque	NM	Unknown	all night	What looks to be two bright stars with flashing red and green lights over the western skys of NM	8/24/10	35.0841789246,-106.648643494	
+8/3/10 21:00	Silver City	NM	Light	1 minute	Intensely bright, slow-moving, "star-like" object that grew even brighter before it suddenly disappeared.	8/24/10	32.7699699402,-108.275001526	
+7/31/10 04:15	Albuquerque	NM	Cigar	20 seconds	Night sky turned white with a cigar shaped object in the middle of a circle of light	8/24/10	35.0841789246,-106.648643494	
+7/4/10 23:00	Las Cruces	NM	Sphere	6 minutes	Several lights appeared in a line and disappeared one after another.	7/10/10	32.306728363,-106.777732849	
+7/4/10 21:00	Albuquerque	NM	Sphere	5 minutes	A bright yellow light over Albuquerque on July 4th  1/2 hour before the city fireworks display	7/10/10	35.0841789246,-106.648643494	
+6/17/10 09:41	Los Montoyas	NM	Disk	20 Seconds..	10-15 miles S.E. of Las Vegas, New Mexico.  Silver disc or round,	6/23/10	35.4195709229,-105.207000732	
+5/31/10 20:00	Albuquerque	NM	Other	30min	lights shooting across NM sky.	6/3/10	35.0841789246,-106.648643494	
+5/29/10 20:05	Taos	NM	Formation	5 min	Two large craft that released a dozen smaller craft which dissapered as the larger craft kept flying	6/3/10	36.4115982056,-105.574249268	
+5/26/10 09:30	Santa Fe	NM	Formation	1:00	Two gold "star like" objects moving silently in formation.	6/3/10	35.6915397644,-105.937400818	
+5/25/10 22:00	Albuquerque	NM	Flash	10min	a bright light over Albuquerque NM	6/3/10	35.0841789246,-106.648643494	
+5/1/10 23:00	Tijeras	NM	Circle	5 min.	UFO over Sandia Mountains	5/12/10	35.0887908936,-106.375320435	
+4/17/10 18:39	Albuquerque	NM	Oval	5 seconds	It was around the time I stated in the beginning of this report. 1730 hours, I was sitting down on a chair smoking a cigarette. i looke	5/12/10	35.0841789246,-106.648643494	
+3/15/10 05:45	Tijeras (south of, on hwy S.14)	NM	Rectangle	5 minutes	football field size and shape silent craft floating by over S.14	6/27/11	35.0887908936,-106.375320435	
+3/3/10 06:15	Rio Rancho	NM	Fireball	10 minutes	A fireball in the sky	4/13/10	35.2415885925,-106.66002655	
+2/6/10 17:50	Albuquerque	NM	Oval	10 min	Oval ship flying over northwest albuquerque bright red, yellow, and white lights pulsing.	2/14/10	35.0841789246,-106.648643494	
+2/1/10 04:45	Socorro (west of, on Hwy 60)	NM	Rectangle	5 minutes?	Followed by at very close range, rectangular shape, orange lights approximately 75-85 mph	2/14/10	34.059928894,-106.891838074	
+1/25/10 19:15	Holloman AFB	NM	Other	1 minute	Unusual Lights Seen	2/14/10	32.8509864807,-106.101249695	
+1/22/10 18:00	Socorro	NM	Light	20 minutes	Silent red lights over Socorro, NM.  ((NUFORC Note:  Witness experienced in the field of astronomy.  PD))	1/31/11	34.059928894,-106.891838074	
+1/14/10 01:00	McGregor range	NM	Circle	1 snapshot	object over mountains	2/14/10	32.0796318054,-106.182762146	
+1/10/10 18:45	Tularosa	NM	Other	5 min.	green figure 8 followed by military aircraft	2/14/10	33.0728607178,-106.017837524	
+1/1/10 18:00	Albuquerque	NM	Light	Half an hour	My wife and I were outside in the Jacuzzi when she first saw a light.  It glowed and traveled from north to south.  It lit up again whe	2/14/10	35.0841789246,-106.648643494	
+12/21/09 00:00	Stanley	NM	Circle	1 hour	hot spot for activity ufos every night.	2/14/10	35.1484603882,-105.977333069	
+12/19/09 18:00	Stanley	NM	Sphere	4 hours	stanley and edgwood ufo seen low and obveous	2/14/10	35.1484603882,-105.977333069	
+11/30/09 20:51	Alamogordo	NM	Sphere	7 min	Bright Orange Orb traveled fairly quickly  across sky  then  hovered briefly and shot straight up.	12/12/09	32.8992500305,-105.960319519	
+11/26/09 17:30	Crystal	NM	Light	5 minutes	Two Tandem Bright Reflective Objects Traveling Southeasterly	4/13/10	36.045501709,-108.962280273	
+11/20/09 13:58	Santa Fe	NM	Formation	approx. 5 minutes	sighted a formation of many star-like objects flying through daytime sky	12/12/09	35.6915397644,-105.937400818	
+11/20/09 05:00	i-10e bound markers 2-65	NM	Rectangle	1.5 hours	I was traveling on the i-10 east in New mexico on 11-20-09,i  glanced at the horizon at about mile marker 2 and noticed an   Object in	12/12/09	33.6359901428,-105.871109009	
+11/17/09 04:10	Albuquerque	NM	Chevron	5 to 10 seconds	Saw a chevron of lights moving from north to south while watching for the Leonid meteor shower.	12/12/09	35.0841789246,-106.648643494	
+11/6/09 21:45	Farmington	NM	Disk	4 to 5 minutes	Strange saucer like object with red flashing lights decending slowly from moon	12/12/09	36.7281417847,-108.205688477	
+10/31/09 11:15	Belen	NM	Formation	15 min	Observed 4 light formation blinking red/green at a frequency of 1 per second approx 20 miles ESE of belen nm altitude approx 10000 ft.	12/12/09	34.6607894897,-106.776916504	
+10/15/09 18:00	Tucumcari	NM	Teardrop	1 hour	Object was not a weather balloon, or any known aircraft.	12/12/09	35.1785507202,-103.724861145	
+10/9/09 23:00	New Mexico	NM	Cone	20 sec	colors shined where can tell the shape of the craft, the tip was the front and the circle was the back with fire coming out of it u	12/12/09	32.3068695068,-106.757522583	
+9/20/09 06:00	Placitas	NM	Light	30 minutes	Very large star like object dropped three smaller bright objects.	12/12/09	35.3081588745,-106.436317444	
+9/19/09 17:15	Bernalillo	NM	Teardrop	2 hrs. 15 min.	Pearlescent, teardrop object stationary in sky for two hours, turns red and disappears at night fall	12/12/09	35.0515098572,-106.670150757	
+8/19/09 22:00	Albuquerque	NM	Cigar	3 hrs	Short cigar shaped object with rays of light eminating from one end; stayed in the sky for 2 hrs+.	8/27/09	35.0841789246,-106.648643494	
+8/7/09 22:20	Albuquerque	NM	Rectangle	15 min	Black Rectangle Three Green Light Bars UFO Crash seen from Albuquerque 08/07/2009	8/27/09	35.0841789246,-106.648643494	
+8/5/09 21:09	Kenna	NM	Formation	5 minutes	Lights flashing in sky.	8/27/09	33.8890190125,-103.711303711	
+8/5/09 20:45	Roswell	NM	Light	35 seconds	Large orange lights north of Roswell, NM	8/27/09	33.394821167,-104.522750854	
+8/4/09 20:57	Albuquerque	NM	Other	2 minutes	Blue/Green Glowing Figure 8 shape sighted in North East Albuquerque - followed by possible Military Aircraft	8/5/09	35.0841789246,-106.648643494	
+7/29/09 00:40	Lincoln	NM	Oval	40 min	New Mexico  bright light and many pods flying about	8/5/09	33.4930801392,-105.388961792	
+7/26/09	Chamita	NM	Light	5 -7 sec.	Me and brother in law and his wife, were waiting for famliy to come back from Toas fiesta. After a good rain we were just outside the h	8/21/11	36.0711517334,-106.098503113	
+7/24/09 21:30	Albuquerque	NM	Changing	Approximately 15 minutes	Albuquerque, New Mexico USA Object/Lights Night Sky July 24, 2009 21:31-21:51 PM	8/5/09	35.0841789246,-106.648643494	
+7/17/09 00:00	Santa Fe	NM	Light	minutes	Odd lights - objects in sky.	12/12/09	35.6915397644,-105.937400818	
+7/14/09 21:20	Las Cruces	NM	Unknown	9 seconds	A very large brightly lit object floats over buildings without a sound and disappears.	8/5/09	32.306728363,-106.777732849	
+6/23/09 23:00	Vaughn	NM	Triangle	10 sec.	Trucker witnesses very large, unlighted triangle hover above his truck.	8/5/09	34.6017417908,-105.204460144	
+6/10/09 21:10	Roswell	NM	Sphere	30 seconds approx	Single UFO flying at night splits into 2, then regroups back into 1 in skies over the desert near Roswell, NM	8/5/09	33.394821167,-104.522750854	
+6/2/09 00:40	Dulce	NM	Light	4-5 minutes	Flashlight looking lights looking for something in feild in Dulce, New Mexico.	8/5/09	36.9336090088,-106.996643066	
+6/1/09 21:03	Portales	NM	Disk	10 seconds	Massive bright lights over the plains of New Mexico on a object that is not normal in this world .	8/5/09	34.1843109131,-103.339599609	
+5/28/09 21:30	Albuquerque	NM	Light	1 Minute	Still for 5 seconds and very bright	6/9/09	35.0841789246,-106.648643494	
+5/28/09 21:30	Albuquerque	NM	Light	1 Minute	Los Ranchos Bright Light	6/9/09	35.0841789246,-106.648643494	
+5/28/09 04:00	El Rito	NM	Light	45 minutes	Bright object descended rapidly, leaving a shower of sparks, and turned in a J shape, then stayed the same.	6/9/09	34.999080658,-107.300086975	
+5/28/09	Farmington	NM	Changing	8minutes	80 to a100 strange lighted objects coming from the east skys	6/9/09	36.7281417847,-108.205688477	
+5/24/09 02:15	Las Cruces	NM	Circle	15 min	On April 23, 2009 I saw three objects with bright lights that follow our vechicle on the freeway.	8/5/09	32.306728363,-106.777732849	
+5/17/09 20:31	Las Cruces	NM	Diamond	20 min	Bright diamond shape craft stayed in one place . Looked like it changed from 1-3 crafts, appeared for about 20 min and tucked away behi	6/9/09	32.306728363,-106.777732849	
+5/17/09 20:00	Las Cruces	NM	Cone	1 hour	Light oval shaped or circular object.	6/9/09	32.306728363,-106.777732849	
+5/17/09 19:45	Las Cruces	NM	Sphere	2 hours	bright orbs in triangular formation over NASA facility in Las Cruces, NM 7:45pm 5/17/09	6/9/09	32.306728363,-106.777732849	
+5/17/09 19:00	Carlsbad	NM	Cylinder	still!	Bright shimmering  cylinder seen in sky over Carlsbad, NM  05/17/2009	6/9/09	32.4185905457,-104.229019165	
+5/16/09 10:15	Las Cruces	NM	Cylinder	8 minutes	Large white cylinder UFO around passenger jet	6/9/09	32.306728363,-106.777732849	
+5/1/09 19:30	Albuquerque (near)	NM	Light	3 minutes	Bright light heading for Earth near Albuquerque, NM	8/24/10	35.0841789246,-106.648643494	
+5/1/09 19:30	Albuquerque (near)	NM	Light	3 minutes	Bright light heading for Earth near Albuquerque, NM	8/24/10	35.0841789246,-106.648643494	
+4/29/09 22:30	Los Lunas	NM	Chevron	2 SECONDS	Chevron shaped craft with dim lights on the botton looked like 3 on each wing. Super quiet.	5/12/09	34.811630249,-106.74256897	
+4/21/09 21:40	Albuquerque	NM	Teardrop	about 30 -45 seconds	bright teardrop flys over the freeway in ALbuquerque	5/12/09	35.0841789246,-106.648643494	
+4/20/09 18:35	Las Cruces	NM	Fireball	10 minutes	Orange Fireball Traveling Northbound Over Las Cruces	5/12/09	32.306728363,-106.777732849	
+4/20/09 11:00	Continental Divide	NM	Other	8 seconds	April 20 2009 Simi Circular craft Silver in color/with a teardrop shaped white underbelly seen near entrance to Chaco Canyon New Mexico	5/12/09	35.3619003296,-108.052627563	
+4/10/09 23:50	Bernallilo (entering to Alburquerque)	NM	Cone	2 minutes	Hello! I happened to find this site, and decided to report my observation which took place quite a few months ago while in New Mexico.	2/14/10	35.0515098572,-106.670150757	
+4/8/09 05:00	Fort Sumner	NM	Light	A few seconds	Odd light	4/14/09	34.4717102051,-104.245300293	
+3/30/09 22:00	Truth or Consequences	NM	Light	1 min	um ..... saw light moveing in the night sky while working on truck	4/14/09	33.1360015869,-107.231689453	
+3/28/09 21:30	Winston (near)	NM	Fireball	3-5 seconds	Meteor or Fireball between Cuchillo and Winston NM March 28 2009  about 9:30 PM very light and very big.	4/14/09	33.3555908203,-107.639427185	
+3/20/09 10:40	Deming	NM	Other	15 minutes	I observed a hovering object along N.M. highway 11 south of Deming N.M. at 10:40 am for 15 minutes as I drove north.	4/14/09	32.268081665,-107.758666992	
+1/31/09 02:30	Gladstone (near; hiway 56, mile marker 56)	NM	Light	40 minutes	Extremely close large object hovering over side of road with immense lighting in unworldly strobe motion suddenly object was miles away	3/19/09	36.3051185608,-104.00415802	
+1/28/09 12:05	Albuquerque	NM		1 minute	UFO Sighted at school in Albuquerque, NM	3/19/09	35.0841789246,-106.648643494	
+1/20/09 19:00	Lordsburg (east of)	NM	Rectangle	45 min.	very strange object	5/12/09	32.3498306274,-108.708808899	
+1/16/09 18:30	Albuquerque	NM	Other	30 seconds	Three spheres of light connected in a club like shape, lower lights soft whitish, upper light yellowish orangish traveling silently.	3/19/09	35.0841789246,-106.648643494	
+12/14/08 02:15	Grants	NM	Unknown	30min still going	2 orange flashing lights with 2 different color lights at bottom. The top light keep blinking.  ((NUFORC Note:  Star??  PD))	1/10/09	35.1506309509,-107.849876404	
+11/28/08 18:30	Hobbs	NM	Light	15 min	2 BRIGHT LIGHTS OVER THE S SKY OVER HOBBS,N.M.  ((NUFORC Note:  Venus and Jupiter??  PD))	1/10/09	32.6965713501,-103.128211975	
+11/21/08 22:00	Las Cruces	NM	Light	19 Minutes	Two seperate lights hovering and moving in circular motion.	1/10/09	32.306728363,-106.777732849	
+11/8/08 04:00	Mt. Dora	NM		5 seconds	I seen a bright green light with a green streak behind it headed toward the ground at a massive speed. I looked for an impact but their	1/10/09	36.5183410645,-103.489860535	
+11/3/08 00:00	Albuquerque	NM	Rectangle	20 minutes	Super fast neon rectangle being chased by Air Force jets.	1/10/09	35.0841789246,-106.648643494	
+10/28/08 19:38	Medanales	NM	Fireball	2 minutes	I saw a chartreuse green fireball with a trail of orange sparks as I was driving on the night of Oct. 28, 2008.	10/31/08	36.1754188538,-106.183151245	
+10/28/08 19:29	Albuquerque	NM	Fireball	7-10 seconds	Large bright breen object north of Albuquerque that appeared to be breaking up.	10/31/08	35.0841789246,-106.648643494	
+10/19/08 02:00	Albuquerque	NM	Other	about 5 seconds	Unknown shape  ( known sound )	10/31/08	35.0841789246,-106.648643494	
+10/12/08 09:00	Rio Rancho	NM	Disk	30 seconds-1 minute	The UFO was a sacer shaped, silver object.	10/31/08	35.2415885925,-106.66002655	
+10/11/08 22:20	Albuquerque	NM	Fireball	2 minutes	Vehicle out of southern sky thought to be shooting star hovers over city.	10/31/08	35.0841789246,-106.648643494	
+10/7/08 12:00	Angel Fire	NM	Other	5 seconds	Noticed object in photo while downloading from camera to computer. ((NUFORC Note:  We believe obj. is flower petal, or butterfly.  PD))	10/31/08	36.3940696716,-105.286178589	
+10/6/08 22:00	Albuquerque	NM	Light	5min	In the ssw, about degrees above the horizon, seemingly under some low clouds, my wife and I saw an upright cylinder shaped light that w	10/31/08	35.0841789246,-106.648643494	
+10/5/08 21:18	Albuquerque	NM	Unknown	2-3 seconds	Two "Exhaust Port" white lights streaking across the sky in Albuquerque that instantly vanished.	10/31/08	35.0841789246,-106.648643494	
+9/30/08 01:25	Las Vegas	NM	Diamond	2 minutes	4 Lights moving in unison then diappeared after a sudden bright flash of light over Mora county, NM	10/31/08	35.5956802368,-105.216278076	
+9/27/08 00:30	Santa Rosa	NM	Fireball	20 seconds	A large yellow fireball traveling slowly and nearly horizontal across the night sky	10/31/08	34.9410400391,-104.688552856	
+9/15/08 18:30	Roswell	NM	Changing	30-45 min.	bright blue illuminating object  above the buildings hanging out in the sky changed shapes and colors	10/31/08	33.394821167,-104.522750854	
+9/3/08 22:37	Quemado	NM	Sphere	45 minutes	Color changing sphere in the sky for about 45 minutes	10/31/08	34.3424110413,-108.494163513	
+8/30/08 21:00	McIntosh	NM		30 min.	The 2 orange spheres just stayed in place and one would flash bright then the other, they didn't move other than that.	3/19/09	34.8767318726,-106.052818298	
+8/22/08 20:30	Las Cruces	NM	Light	5-8 MINUTES	SOMETHING ON FIRE MOVING RAPIDLY AWAY SILENTLY AND DISAPPEARING	10/31/08	32.306728363,-106.777732849	
+8/17/08 10:30	Ocean City	NM	Oval	15 MINUTES	BLIMP SHAPPED OBJECT IN THE SKY. 500 Lights On Object0: Yes	10/31/08	34.42137146,-106.108383179	
+8/14/08 12:03	New Mexico (location unknown)	NM	Unknown	35 SECONDS	Whitesh Grey creature in southern new mexico,  ON I-10 Just east of a  a rest  stop	12/12/09	32.3068695068,-106.757522583	
+8/9/08 19:03	Roswell	NM	Light	3 min.	09/08/08  Roswell, NM  Light (object reflecting setting sun light)  still, then dash e/se in less than one sec.to horizon	10/31/08	33.394821167,-104.522750854	
+8/5/08 21:54	Hobbs	NM	Teardrop	20-30 Seconds	Large, pear shaped (upside down teardrop shape) object glowing orange, then drifted away.	8/12/08	32.6965713501,-103.128211975	
+8/4/08 21:53	Roswell	NM	Unknown	4-6 seconds	Unidentified Circle of Light accelerates and disappears at very high altitude	8/12/08	33.394821167,-104.522750854	
+7/31/08 00:15	Santa Fe	NM	Light	One hour plus	Bright, multicolor light hovering in air in rural Santa Fe	8/12/08	35.6915397644,-105.937400818	
+7/26/08 22:29	Isleta	NM	Unknown	3 Seconds	Sudden loss of signal on my Sirius satellite radio and police scanner.	8/12/08	34.9069595337,-106.688591003	
+7/24/08 23:30	Aztec	NM	Fireball	5-6 seconds	huge, bright meteor seen over Aztec, New Mexico...again.	8/12/08	36.826171875,-107.992668152	
+7/23/08 23:30	Aztec	NM	Other	5-6 seconds	huge, bright meteor seen over Aztec, New Mexico	8/12/08	36.826171875,-107.992668152	
+7/19/08 18:24	Albuquerque	NM	Disk	3-5 Minutes	Black round disk over Albuquerque	8/12/08	35.0841789246,-106.648643494	
+7/18/08 03:15	Albuquerque	NM	Light	15 minutes	When first sighting the light it was moving unusually fast and changed course after a few minutes and then conducted erratic movements.	8/12/08	35.0841789246,-106.648643494	
+7/4/08 22:30	Albuquerque	NM	Sphere	4 seconds	Sphere seen at Fourth of July Fireworks Albuquerque	7/5/08	35.0841789246,-106.648643494	
+6/29/08 21:00	Las Cruces	NM	Unknown	90 mins	UFO's Over Las Cruces?	7/5/08	32.306728363,-106.777732849	
+6/28/08 05:10	Alamogordo	NM	Light	40 seconds	Bright red light hauling ass through the sky.	7/5/08	32.8992500305,-105.960319519	
+6/20/08 10:00	Unknown	NM	Cylinder	5 seconds	We were flying to Ontario, California from Atlanta, Georgia and were about 1 1/2 hours away from landing. My guess is we were over New	10/31/08	34.42137146,-106.108383179	
+6/9/08	Roswell	NM			((HOAX))  I WAS AROUND SEVEN YEARS OLD WE WERE COMING HOME AROUND EIGHT AT NIGHT.	6/12/08	33.394821167,-104.522750854	
+6/8/08 20:20	Ruidoso	NM	Sphere	10 minutes	Ruidoso, Mexico observed a light object followed by an aircraft traveling west to east it was a sphere bright in color	6/12/08	33.3336982727,-105.68006134	
+6/8/08 19:30	Albuquerque	NM	Other	approx 10 min	Bright stationary circular object in high atmosphere in broad daylight gives way to five smaller moving crescents	6/12/08	35.0841789246,-106.648643494	
+5/31/08 17:00	Sante Fe	NM	Light	15 minutes	Stationary bright white non-twinkling light in sunny late aftenoon in the expansive Sante Fe NM sky.	10/31/08	35.6915397644,-105.937400818	
+5/20/08 07:25	Santa Fe	NM	Circle	30seconds	A bright solid round light above mountain south of Santa Fe, NM.	6/12/08	35.6915397644,-105.937400818	
+5/9/08 00:00	Albuquerque	NM	Unknown	10-15 seconds	Im not too sure on the time a hour or two after nightfall. So maby 10=11pm. I was in back yard smoking and looking into the south west	6/12/08	35.0841789246,-106.648643494	
+4/20/08 15:00	Moriarty	NM	Light	3 minutes	the ufo was moving fast and erraticly it was moving in immposible ways	7/5/08	35.0066490173,-106.045150757	
+4/18/08 21:25	Gallup	NM	Other	2 minutes	huge bright white  horeshoe lit object	6/12/08	35.5278396606,-108.743560791	
+3/29/08 00:05	Los Lunas	NM	Circle	~4	Large bright orange light in the northern sky twards Albuquerque.	3/31/08	34.811630249,-106.74256897	
+3/28/08 00:05	Las Cruces	NM	Light	10 minutes	Two unexplainable lights over  the southern horizon near Las Cruces, New Mexico.	3/31/08	32.306728363,-106.777732849	
+3/26/08 20:00	Albuquerque	NM	Light	2 minutes	a very birght and steady light at high altitude moving from south to north over Albuquerque, NM at a high rate of speed.	3/31/08	35.0841789246,-106.648643494	
+3/24/08 20:45	Las Cruces	NM	Unknown	1 - 2 min.	Saw 2 white lights fly very close to airplane then disappear by fading away.	3/31/08	32.306728363,-106.777732849	
+3/23/08 13:45	Gallup	NM	Formation	20 minutes	12 object formation over NW New Mexico on Easter Sunday	6/12/08	35.5278396606,-108.743560791	
+3/23/08 12:55	Albuquerque	NM	Flash	two to three mins.	Small flashing white light & large fast white oval......	3/31/08	35.0841789246,-106.648643494	
+3/22/08 14:00	Gallup	NM	Changing	15-20 minutes	2 shape shifting objects and one small turquoise object sighted over NW New Mexico in daylight	4/17/08	35.5278396606,-108.743560791	
+3/22/08 14:00	Gallup	NM	Changing	15-20 minutes	2 shape shifting objects and one small turquoise object sighted over NW New Mexico in daylight	6/12/08	35.5278396606,-108.743560791	
+3/20/08 17:00	Carlsbad	NM	Circle		bouncing ufo	6/12/08	32.4185905457,-104.229019165	
+3/16/08 03:15	Deming	NM	Light	7 seconds	I saw a ball of  white light with a green glow drop down get brighter and change direction and speed	6/9/09	32.268081665,-107.758666992	
+3/16/08 03:00		NM	Unknown		Thought it was a shooting star but it kept getting larger then stopped and disappeared	3/31/08	34.42137146,-106.108383179	
+3/13/08 20:45	Albuquerque	NM	Light	2 minutes	Colorful light 1 mile N. I-40 & Coors	3/31/08	35.0841789246,-106.648643494	
+3/8/08 02:45	La Luz	NM	Oval	2 min	Large Oval shape above tree line, move slow than darts fast, hover, move slow, red light & green lights blinking	3/31/08	32.9779205322,-105.943069458	
+2/27/08 22:30	Santa Fe	NM	Chevron	~3-4 min	We saw a triangular shaped object moving across the sky.	3/4/08	35.6915397644,-105.937400818	
+2/22/08 18:50	Santa Fe	NM	Fireball	about 5 minutes	Pretty large, very bright, white ball with flames coming out, caused power to go out in friend's house.	3/4/08	35.6915397644,-105.937400818	
+2/18/08 20:30	Vaughn (Hwy 285; south of)	NM	Light	15 minutes	12+ pulsing red lights, low on ground.  Could be distant radio towers, but some things don't fit.	3/4/08	34.6017417908,-105.204460144	
+2/11/08 23:00	Tijeras	NM	Triangle	ufo	Triangle Ufo	2/14/08	35.0887908936,-106.375320435	
+1/25/08 22:45	Albuquerque	NM	Light	10 sec	high bright red light that disappeared	2/14/08	35.0841789246,-106.648643494	
+12/3/07 17:35	Albuquerque	NM	Unknown	15 seconds	Observed extremely high altidude single bright round light go from bright to dim and slowly float away. ((NUFORC Note:  Irisium??  PD))	3/4/08	35.0841789246,-106.648643494	
+12/3/07 17:30	El Valle	NM	Sphere	~ 4 minutes	Bright spherical object turning from white/yellow/orange/red moving NE across sky - just disappeared.	3/4/08	36.1075706482,-105.725311279	
+12/3/07 15:35	Albuquerque	NM	Unknown	10 seconds	saw a blue meteor falling in eorth east ski burnning out twenty seconds later saw bright lite in sky the light fadded out then dissapea	3/4/08	35.0841789246,-106.648643494	
+11/15/07 13:15	Albuquerque	NM	Light	5 minutes	light in sky - disappears	11/28/07	35.0841789246,-106.648643494	
+11/8/07 23:30	Aztec	NM	Fireball	1 hour	aztec crash??	11/28/07	36.826171875,-107.992668152	
+11/6/07 03:40	White Sand Missile Range - North Ocuro Peak	NM	Sphere	39 sec	I video something we cannot identify, although there may be a logical explanation	1/21/08	33.0748214722,-106.357917786	
+11/5/07 05:30	Youngsville	NM	Cigar	30 Seconds	Nothern New Mexico AM Hunt	1/21/08	36.1882019043,-106.560287476	
+11/1/07 22:00	Las Cruces	NM	Oval	5 minutes	Approx. 2200. 11/01/07 large defined bright oval traveled across Las Cruces from East (White Sands) to West before Aggie game ended.	11/28/07	32.306728363,-106.777732849	
+10/27/07 23:00	Santa Fe	NM	Flash	5 minutes	Many flashing lights in the eastern night sky above Santa Fe	11/28/07	35.6915397644,-105.937400818	
+10/26/07 23:06	Albuquerque	NM	Light	3 minutes	Witnessed 6-7 jet aircraft following small orange light which became extremely bright and shot off	11/28/07	35.0841789246,-106.648643494	
+10/4/07 05:20	Taos	NM	Light	3 minutes	Two bright objects traveling from south to the north disappeared	10/8/07	36.4115982056,-105.574249268	
+9/24/07 15:15	LosAlamos	NM	Rectangle	3sec	9,24,07 A huge dark gray object in the clear blue sky at 100miles altitude travelling at 50,00o MPH  to the SE,no sound,no orbit	11/28/07	35.8806381226,-106.304389954	
+9/22/07 17:30	La Mesilla	NM	Circle	approx 90 minutes	Saw a light above & to right of moon that moved steadily at a very low rate of speed to L of moon.  ((NUFORC Note:  Jupiter?  PD))	10/8/07	35.9498100281,-106.070777893	
+9/21/07 12:20	Albuquerque	NM	Cigar	30-60 seconds	Bright White disk shape hovering, then suddeny dissapears. Very shocking.	10/8/07	35.0841789246,-106.648643494	
+9/21/07 10:34	Bisti	NM	Cigar	Approx 5 sec	Bright White Cigar Shaped Craft Hovered Near Bisti and Took Off, Left No Trace.	10/8/07	36.7205200195,-108.229408264	
+9/20/07 21:00	Kingston	NM	Triangle	2 minutes	10/20/07 21:00 Kingston NM Triangle 2-3 mins Three Black Triangular aircraft manuvered acros the horizon and then hovered over our loca	11/28/07	32.9119987488,-107.706443787	
+9/13/07 19:30	Farmington	NM	Circle	15 minutes	Four objects in  circular reddish moving in the sky over Farmington and Kirtland, NM.	10/8/07	36.7281417847,-108.205688477	
+9/13/07 19:20	Santa Fe	NM	Light	35 minutes	motionless bright lights dimmed and disappeared with the sundown.  ((NUFORC Note:  Possible sighting of Jupiter??  PD))	10/8/07	35.6915397644,-105.937400818	
+9/13/07 18:35	Los Alamos	NM	Diamond	20:00	Bright diamond-shaped object	10/8/07	35.8806381226,-106.304389954	
+9/13/07 18:30	New Mexico (above; in flight)	NM	Teardrop	15 min.	I noticed out of the airplane window while flying from NC to Los Angeles approx. 6:30pm pt until around 6:45pm pt a very unusual light.	10/8/07	32.3068695068,-106.757522583	
+9/13/07 13:50	Santa Fe	NM	Sphere	20 minutes	Translucent Spherical object Motionless in sky for extended period	10/8/07	35.6915397644,-105.937400818	
+9/5/07 23:55	Roswell	NM	Changing	10-15 seconds	dim lights moving in u shaped formation over Roswell	10/8/07	33.394821167,-104.522750854	
+8/3/07 08:50	Clovis	NM	Light	5 minutes	Looked like a bright star moving quite fast	8/7/07	34.4052314758,-103.205337524	
+7/9/07 05:05	Deming	NM	Oval	seconds	anomaly in the southern new mexico sky	8/7/07	32.268081665,-107.758666992	
+7/9/07 05:05	New Mexico (southwest)	NM	Oval	seconds	anomaly in the western sky in southwest New Mexico	8/7/07	32.3068695068,-106.757522583	
+6/16/07 03:15	Silver City	NM	Unknown	45 min	Strange happenings on I-25 in New Mexico	8/7/07	32.7699699402,-108.275001526	
+6/11/07 09:00	Las Cruces	NM	Changing	7 hours	Bright object in sky moving at extremely fast speed and changing course abruptly	6/12/08	32.306728363,-106.777732849	
+6/6/07 00:00	White City	NM	Fireball	BIG GLOWING RED MOON	I was standing next to a Big Red glowing lava Moon that was turning off and on creating a storm.	8/12/08	32.1751594543,-104.374519348	
+6/4/07 13:00	New Mexico	NM	Disk		2 pictures taken from a airplane of an object up close.	8/7/07	32.3068695068,-106.757522583	
+5/30/07 22:00	Albuquerque	NM	Disk	45 minutes	Multi colored object(s) and one object emitting white light only in the Far West Mesa area	6/12/07	35.0841789246,-106.648643494	
+5/28/07 07:30	Albuquerque	NM	Sphere	2hrs+	white round object motionless over albuwuerque	6/12/07	35.0841789246,-106.648643494	
+5/26/07 23:58	Albuquerque	NM	Circle	0	Beige object west of Sandia Crest, Albuquerque, NM	8/7/07	35.0841789246,-106.648643494	
+5/13/07 23:00	Clovis	NM	Disk	4 minutes	bright disk shaped object going down	6/12/07	34.4052314758,-103.205337524	
+5/1/07 01:30	Isleta	NM	Triangle	60 second	At 1:30 am,  observed large black triangular craft flying southbound over Isleta Reservation,  NM.	10/8/07	34.9069595337,-106.688591003	
+4/30/07 22:03	Santa Fe	NM	Formation	52 mins	~1 hour over ABQ, began descent halfway through observation. Three color-changing, pulsing lights that retained formation.	6/12/07	35.6915397644,-105.937400818	
+4/25/07 23:30	Santa Fe	NM	Sphere	1min.	Bright blue and yellow glowing orb streaking accross the sky at warp-speed	8/14/07	35.6915397644,-105.937400818	
+4/20/07 01:50	Albuquerque	NM	Light	5	floating light over desert	4/27/07	35.0841789246,-106.648643494	
+3/25/07 21:05	Santa Fe	NM	Unknown	30 min	Venus moves by itself?	4/27/07	35.6915397644,-105.937400818	
+3/25/07 15:10	Las Cruces	NM	Triangle	20 minutes	Triangular UFO with tentacles.	4/27/07	32.306728363,-106.777732849	
+3/17/07 14:45	Edgewood	NM	Triangle	2-3 minutes	Triagular object	4/27/07	35.0608787537,-106.191452026	
+3/13/07 21:10	Santa Fe	NM	Unknown	5 Seconds	An object with two lights flying across the western sky -- didn't seem like airplane.	4/27/07	35.6915397644,-105.937400818	
+3/12/07 21:00	Silver City	NM	Changing	20 Minutes	UFO With Green, Red, And Blue Lights That Split Into 2, Formed Back Into One, Then Shut Off And Fell From The Sky Followed By 2 Circles	4/27/07	32.7699699402,-108.275001526	
+3/12/07 19:00	Gallup (30 miles east of; on I-40)	NM	Oval	30 mimutes	Bright circular object turns into 3 discs over western New Mexican skys.	8/7/07	35.5278396606,-108.743560791	
+3/6/07 20:00	Albuquerque	NM	Circle	15 minutes	UFO sighted on southern boulevard , on the west mesa in albuquerque.	4/27/07	35.0841789246,-106.648643494	
+3/5/07 19:40	Silver City	NM	Disk	2 to 3 sec.	Dark red Saucer follows Military aircraft.	3/8/07	32.7699699402,-108.275001526	
+3/1/07 21:35	Albuquerque	NM	Sphere	~60 seconds	Cobalt blue sphere being chased at hight speed SE to NW from ABQ, New Mexico juxtaposition @ aprox. 9:30-9:35pm.	3/8/07	35.0841789246,-106.648643494	
+2/20/07 20:45	Albuquerque	NM	Chevron	1-1.5 minutes	Watched a vee formation of 7 glowing gold chevron/B-1 bomber shaped objects fly silently overhead in night sky.	4/27/07	35.0841789246,-106.648643494	
+12/24/06 19:30	Santa Fe	NM	Diamond	.30 MIN	bright orange lights spliting into multiple objects over Santa Fe, NM.	2/1/07	35.6915397644,-105.937400818	
+12/13/06 18:07	Tularosa	NM	Fireball	20 Sec	Flying Object Crash by Tularosa,NM around 18:00 hours	12/14/06	33.0728607178,-106.017837524	
+12/12/06 04:12	Highway 371	NM	Triangle	30 Seconds	Black Triangular Craft flew overhead	2/1/07	34.42137146,-106.108383179	
+12/8/06 21:50	Valencia	NM	Rectangle	3-5 seconds	rectangular bright white object falling from night sky	12/14/06	34.79845047,-106.700866699	
+12/8/06 21:50	Santa Fe/Glorieta	NM	Rectangle	3-4 seconds	Solid, bright white and red rectangular object fall from night sky near Glorieta, New Mexico	12/14/06	34.42137146,-106.108383179	
+12/5/06 18:17	Farmington	NM	Light	approx 5 seconds.	Brilliant White Object Parallels the southern horizon.	12/7/06	36.7281417847,-108.205688477	
+12/5/06 11:45	Albuquerque	NM	Disk	5 min.	UFO Sampling Jets Contrail at 39,000 feet	12/14/06	35.0841789246,-106.648643494	
+11/20/06 23:00	Truth or Consequences	NM	Circle	45+minutes	Looked like a Fourth Of July sparkler--like a colored pinwheel.	12/7/06	33.1360015869,-107.231689453	
+11/18/06 22:50	Albuquerque	NM	Other	approx 10 sec	Crescent-shaped object observed	12/7/06	35.0841789246,-106.648643494	
+11/5/06 16:35	Albuquerque	NM	Light	about a minute	Bright light moving south and dimming out.	12/7/06	35.0841789246,-106.648643494	
+10/18/06 00:40	Albuquerque	NM	Other	4 seconds	A wedge formation of seven garden spade shaped craft.	10/30/06	35.0841789246,-106.648643494	
+10/16/06 21:05	Silver City	NM	Flash	15 minutes	Very faint flashing strobe.	10/30/06	32.7699699402,-108.275001526	
+10/15/06 19:00	Las Cruces	NM	Light	seconds	Made me think of UFO.  Unsure what this was.  No camera available.  Solitary witness.	1/21/08	32.306728363,-106.777732849	
+10/3/06 23:15	Santa Fe	NM	Cone	approx 1 minute	Fiery object moving south to north which separated into approx 5 small objects which trailed it in a straight line	10/30/06	35.6915397644,-105.937400818	
+10/2/06 03:00	Santa Fe/Los Alamos	NM	Light	1hr	Possible UFO over Santa Fe/Los Alamos	10/30/06	35.6915397644,-105.937400818	
+10/1/06 23:40	San Antonio	NM	Circle	20 SECONDS	ON SUNDAY 10 01 06 MY WIFE AND I WERE DRIVING HOME FROM WHITE RUIDOSO NEW MEXICO. APPROXIMATLEY AT 11:20 PM I NOTICED OFF TO MY LEFT BO	10/30/06	33.9177818298,-106.868087769	
+10/1/06 23:32	Farmington	NM	Light	10 -14 sec	a bright lights traveling very fast with a green tail that exploded into four lights!	10/30/06	36.7281417847,-108.205688477	
+10/1/06 23:20	Raton	NM	Formation	30 secs	7 bright lights over northeast new mexico	10/30/06	36.905330658,-104.439002991	
+10/1/06 23:20	Raton	NM	Formation	30secs	7 bright lights over northeast new mexico	10/30/06	36.905330658,-104.439002991	
+10/1/06 23:20	Raton	NM	Formation	less than a minute	Seven Bright Lights in New Mexico Skies	10/30/06	36.905330658,-104.439002991	
+10/1/06 23:15	Taos	NM	Formation	2.5mins	segmented flashing formation w/ "v" formation of glowing lights leading S. to N.E., Taos NM (Northern NM)	2/1/07	36.4115982056,-105.574249268	
+10/1/06 23:15	Santa Fe	NM	Light	30-45 seconds	about 23:15   sunday, 10/1/06--a slow-moving horizontal strip of white light that shown into my room and then truned blue and moved off	10/30/06	35.6915397644,-105.937400818	
+10/1/06 23:00	Glorieta	NM	Changing	seconds	Large, meteor-type light seen near Santa Fe, NM.	10/30/06	35.5829811096,-105.768943787	
+10/1/06 23:00	Silver City	NM	Light	3 minutes	UFO over Silver City, New Mexico at very low altitude.	10/30/06	32.7699699402,-108.275001526	
+10/1/06 22:00	Santa Fe	NM	Fireball	20 seconds	Several bright lights headed slowly towards horizon	10/30/06	35.6915397644,-105.937400818	
+10/1/06 01:00	Rio Rancho	NM	Oval	2-3 seconds	From inside my home I witnessed an oval shaped green light travel low and slow from my window. It was completely silent.	10/30/06	35.2415885925,-106.66002655	
+9/30/06 23:00	Las Cruces	NM	Triangle	about an hour	09/30/06 Las Cruces NM Triangle spoted under the Pleiades for 30 min	10/30/06	32.306728363,-106.777732849	
+9/30/06 19:00	Albuquerque	NM	Unknown	seconds	3 UFOs seen in one weekend	10/30/06	35.0841789246,-106.648643494	
+9/28/06 03:16	Jemez Springs	NM	Light	15 Seconds	Large bright light passed from West To East through a Valley	3/4/08	35.7667884827,-106.693237305	
+9/13/06 20:45	Melrose	NM	Circle	3 minutes	aircraft following unknown object	10/30/06	34.4245185852,-103.629432678	
+8/13/06 01:15	Springer (on 1-25; north of)	NM	Oval	20 MINS	The object appeared to be the shape of a giant florescent M and M candy.  It moved left to right across the desert floor then...n to s	10/30/06	36.361038208,-104.596549988	
+7/20/06	Albuquerque	NM	Disk	4:36	Hoovering Probe!..	10/30/06	35.0841789246,-106.648643494	
+7/19/06 19:20	Albuquerque	NM	Cigar	30 seconds	white, cigar shaped, silent and seemed to glow	10/30/06	35.0841789246,-106.648643494	
+7/15/06 14:30	New Mexico (north; while fishing)	NM	Disk	?	We didn't here anything, or see anything for that matter until later.	2/1/07	32.3068695068,-106.757522583	
+7/14/06 01:00	Espanola	NM	Unknown	1hr off and on	brilliantly flashing flying objects	10/30/06	35.9907798767,-106.080299377	
+7/12/06 05:15	Silver City	NM	Circle	30 minutes	2 ufo sightings silver city new mexico July 12, 2006	7/16/06	32.7699699402,-108.275001526	
+7/12/06 05:00	Silver City	NM	Changing	1.5 hours	Unusual cloudlike formation with extending tendrils seen over Silver City, New Mexico	10/30/06	32.7699699402,-108.275001526	
+7/7/06 00:00		NM	Unknown		UFO's dont exsist	10/30/06	34.42137146,-106.108383179	
+6/18/06 21:23	Pie Town	NM	Cone	3 minutes	Object the color, magnitude, size of Jupiter  appeared, was still and then moved at steady speed south to north	7/16/06	34.3003082275,-108.134780884	
+6/17/06 21:30	Carlsbad	NM	Sphere	2 HOURS	STATIONARY BLINKING  SOS OR MORRIS CODE MESSAGE FROM SPACE	7/16/06	32.4185905457,-104.229019165	
+6/17/06 17:30	Carlsbad	NM	Light	15-20 minutes	2 red-orange "dots"& one white "dot" over Carlsbad, New Mexico...	7/16/06	32.4185905457,-104.229019165	
+6/2/06 04:00	Las Cruces	NM	Disk	15 minutes	White disk hover over New Mexico	4/13/10	32.306728363,-106.777732849	
+5/11/06 20:30	Carlsbad	NM	Light	1 minute	Strange light moving by moon.  ((NUFORC Note:  Space Station flew over Carlsbad, NM, at 2022-2026 hrs. on this date.  PD))	5/15/06	32.4185905457,-104.229019165	
+5/11/06 20:30	Carlsbad	NM	Light	1 minute	Strange light moving by moon.  ((NUFORC Note:  International Space Station seen over Carlsbad at 20:22 hrs. on this date.  PD))	5/15/06	32.4185905457,-104.229019165	
+5/3/06 21:00	McIntosh	NM	Triangle	45 min.	9pm on the 3rd. of may saw the bright  colored star moving fast over the trigo fire, it stopped steady for 45 min. I took a picture.	6/12/08	34.8767318726,-106.052818298	
+4/22/06 23:00	Chupadero	NM	Disk	20 minutes	2 bright lights chase each other within an illuminated cloud for 20 minutes north of santa fe, new mexico	5/15/06	35.8218002319,-105.915138245	
+4/21/06 21:40	Albuquerque	NM	Triangle	10-12 sec	Strange light in a triangular formation	5/15/06	35.0841789246,-106.648643494	
+4/15/06 21:09	Kirtland	NM	Light	Approx 5 Mins.	Object sighted in NW NM was witnessed by 3 people, bright white and moved acrossed the sky and faded out.	5/15/06	36.7340316772,-108.360977173	
+4/8/06 12:30	Pecos	NM	Disk	10 mins	Object with broad center area following airplane.	5/15/06	32.6875,-104.29750061	
+3/1/06 00:30	Carlsbad	NM	Rectangle	7 seconds	Silent football field sized and shaped metalic UFO is sited on Pecos River in Carlsbad, New Mexico.	10/30/06	32.4185905457,-104.229019165	
+2/28/06 20:57	Taos	NM	Triangle	3 seconds	At night, huge triangle craft with three red lights zooming towards Taos Mountain at an unimaginable speed	3/11/06	36.4115982056,-105.574249268	
+2/27/06 00:00	Floa Vista	NM	Other	fast	It happed fast and silently.	3/11/06	36.8040504456,-108.083580017	
+2/26/06 18:30	Santa Fe	NM	Light	2 minutes	brilliant light skids low across sky without a sound	3/11/06	35.6915397644,-105.937400818	
+2/24/06 13:12	Albuquerque	NM	Disk	20 seconds	Disk shaped object over Albuquerque, NM hovered and sped away at high rate of speed.	3/11/06	35.0841789246,-106.648643494	
+2/15/06 14:00		NM	Egg	15 min	We were driving along the interstate 20/10 westbound heading to Arizona when we look to the South and see an odd shape in the sky. It d	3/11/06	34.42137146,-106.108383179	
+2/6/06 05:00	Ruidoso	NM	Light	1 hour	BRIGHT OBJECT!!! sighting   Ruidoso New Mexico  ((NUFORC Note:  Probably Venus.  PD))	2/14/06	33.3336982727,-105.68006134	
+1/5/06 18:45	Roswell	NM	Flash	1 second	Unknown flash of light, High altitude	2/14/06	33.394821167,-104.522750854	
+1/2/06 11:39	Pie Town	NM	Diamond	3 hours	14 dimond shaped objects cought on NRAO website cam	2/14/06	34.3003082275,-108.134780884	
+1/1/06 17:00	Albuquerque	NM	Changing	1 minute	Vertical, white cigar shaped object, seperated into 3 white round spinning objects, disappeared and a gold metallic object appeard.	3/11/06	35.0841789246,-106.648643494	
+10/29/05 19:00	Farmington	NM	Other	picture captured	aproxamitally 7:30pm in Farmington, NM  trying to capture a picture of mars and captured a picture of what appears to be a round ufo	11/3/05	36.7281417847,-108.205688477	
+10/23/05 12:00	Espanola	NM	Fireball	12:00 to 4:00	AMAZING DIFERENT FORMING UFO UNLIKE ANY OTHER IN ESPANOLA NEW MEXICO!  ((Possibly Sirius??  PD))	2/14/06	35.9907798767,-106.080299377	
+10/22/05 15:00	Silver City	NM	Light	20 minutes	Daytime sighting of white "star-like" objects that moved in formations and also had the ability to suspend themselves motionless.	11/3/05	32.7699699402,-108.275001526	
+10/14/05 21:00	Correo	NM	Light	15 minutes	Bright light emits smaller light	10/20/05	34.95470047,-107.18296051	
+10/1/05 09:30	Albuquerque	NM	Disk	10 minutes	Two blue pinpoints of light merge onto one silver disk.	10/20/05	35.0841789246,-106.648643494	
+9/22/05 20:43	Silver City	NM	Light	8TO 9 SECONDS	bright object emits spherical cloud like something out of WAR OF THE WORLDS.	10/11/05	32.7699699402,-108.275001526	
+9/22/05 20:10	Silver City	NM		5 minutes	my wife and i saw a half-moon shaped light emerge to the northwest of town....perfectly symmetrical it expanded for about 5 minutes to	10/11/05	32.7699699402,-108.275001526	
+9/20/05 19:30	Albuquerque	NM		20 min	from the flightline of Kirtland AFB looking west, an extremly bright light was witnessesed. the light was stationary and viewed by 6 ai	10/11/05	35.0841789246,-106.648643494	
+9/20/05 19:28	Albuquerque	NM	Light	10 minutes	Brilliant white light west of Albuquerque	10/11/05	35.0841789246,-106.648643494	
+9/13/05 21:45	Taos Pueblo	NM	Triangle	3.5 min	On the above night stated, a friend and I were driving on Pueblo Lands.  (Closed to non-tribal members of Taos Pueblo Indain Reservatio	10/20/05	36.4399414062,-105.544784546	
+9/13/05 21:00	Clovis	NM	Light	2 hours	UFO seen, possible govt test	10/11/05	34.4052314758,-103.205337524	
+9/12/05 21:00	Clovis	NM	Light	1.5 hours	Performing maneuvers near Clovis, NM, same craft as 9/11	10/11/05	34.4052314758,-103.205337524	
+9/11/05 22:30	Clovis	NM	Light	2.5 hours	I acrobatic, 3 in formation, bright light coming from ground near ranches	10/11/05	34.4052314758,-103.205337524	
+9/11/05 05:25	Albuquerque	NM	Circle	10 seconds	A dim orange sphere, traveling in a sweeping curve.	10/11/05	35.0841789246,-106.648643494	
+9/6/05 02:00	Grants/Albuquerque	NM	Diamond	5 - 10 minutes	we were driving on I 40 E, a long diamond shaped craft appeared on the passenger side, approximately 300 ft in length with flashing red	10/11/05	35.3474578857,-106.601089478	
+8/31/05	Crownpoint	NM	Changing		Published newspaper article  Navajo Nation Messenger on 8/31/05. Giant V and  crash near Standing Rock NM	10/11/05	35.6777915955,-108.153129578	
+8/20/05 03:30	San Pedro Mountain Area	NM	Light	30 seconds	Bright white light moving slowly near South Mountain in Santa Fe County	7/16/06	34.42137146,-106.108383179	
+8/15/05 02:00	Lamy	NM	Unknown	5 secs	I couldn't sleep and got out of bed at 2AM during the annual Perseid meteor shower. Looking north west towards Santa Fe, I saw what	2/1/07	35.4791717529,-105.886901855	
+8/5/05 22:00	Espanola	NM	Circle	20 MINUTES	INTENSELY BRIGHT LIGHT APPEAR AND DISAPPEAR, HOVER AND MOVE FROM ONE AREA TO ANOTHER.	9/2/05	35.9907798767,-106.080299377	
+7/7/05 00:00	Shiprock	NM	Circle	2 minuties	Blue Neon Craft	7/13/05	36.6906852722,-108.840270996	
+6/22/05 22:00	Carrizozo	NM	Cigar	3 hours	LIGHTED CLOUD IN SKY	7/5/05	33.6460800171,-105.871437073	
+6/19/05 12:50	Albuquerque	NM	Unknown	about 5 min	A brightly flashing object was seen in broad daylight.  It rose suddenly, hovered, then dived and sped away.	6/20/05	35.0841789246,-106.648643494	
+6/6/05 13:28	Deming	NM	Disk	1 minute?	Surprised to find flying disk in photograph	6/20/05	32.268081665,-107.758666992	
+6/1/05 15:00	Albuquerque	NM	Circle	1/2 hour	1 circular partially clear object sat in sky for about 1/2 hour and did not move. It changed opacity several times, stayed in same posi	6/20/05	35.0841789246,-106.648643494	
+5/21/05 09:58	Edgewood	NM	Circle	30 seconds	flying lights hoovering over mountain silent.	5/24/05	35.0608787537,-106.191452026	
+5/18/05 20:00	Holloman AFB	NM	Light	10 minutes	Large stationary light, approx. 5 times larger than largest star-light out, no stars visible.  ((NUFORC Note:  Possible balloon.  PD))	5/24/05	32.8509864807,-106.101249695	
+5/18/05 19:30	Santa Rosa	NM	Sphere	appx 1 hr 10 min.	Stationary Spherical Light 1 Hour Duration over Santa Rosa, NM.  ((NUFORC Note:  Possible high-altitude balloon.  PD))	5/24/05	34.9410400391,-104.688552856	
+5/15/05 05:33	Clovis	NM	Unknown	20 minutes	saw bright, small object in the sky. may be hot air balloon	5/15/06	34.4052314758,-103.205337524	
+5/7/05 17:08	Corrales	NM	Sphere	1min	Sphere, cloud high	5/11/05	35.2230987549,-106.615921021	
+4/7/05 17:01	Deming (somewhere near)	NM	Changing	20 minutes	 ((NUFORC Note:  Helium-filled heliostat.  PD)) The shape-shifting object danced around at various speed, height and direction.	5/11/05	32.268081665,-107.758666992	
+3/10/05 21:00	Laguna Pueblo	NM	Circle	3 Evenings	The object  was a 3/4 spherical framework.  Size undetermined.  No sound. Drawing attached.	12/7/06	34.42137146,-106.108383179	
+12/13/04 12:29	Dulce	NM	Disk	Photo	Small u.f.o. hovering over Archuleta Mesa in Dulce, NM.	9/2/05	36.9336090088,-106.996643066	
+11/17/04 21:00	Cuba/San Isidro (between)	NM	Triangle	5 minutes	Moving around 20 MPH and did not make a sound as it passed right in front of me	12/3/04	34.42137146,-106.108383179	
+10/1/04 20:00	Albuquerque	NM	Oval	1hr	lights	10/27/04	35.0841789246,-106.648643494	
+9/18/04 21:30	Placitas	NM	Disk	30 min	Lights in the sky	9/29/04	35.3081588745,-106.436317444	
+9/16/04 19:30	Albuquerque	NM	Light	30 min	Possible Weather Balloon?	9/29/04	35.0841789246,-106.648643494	
+9/16/04 19:00	Truth or Consequences	NM	Light	1 hour	Possible metalic object reflected sun's light very brightly for over  an hour.	9/29/04	33.1360015869,-107.231689453	
+9/1/04 11:04	Pie Town	NM	Sphere	5 minutes	White plane-like object with two gold orbs above it-very noisey.	9/9/04	34.3003082275,-108.134780884	
+8/31/04 16:10	Albuquerque	NM	Circle	60 sec	White circular object rising straight up faster than balloon.	9/1/04	35.0841789246,-106.648643494	
+8/31/04 02:00	Santa Fe	NM	Other	Unknown	Cane shaped UFO seen in Santa Fe, NM on 8/30-31/04.	9/9/04	35.6915397644,-105.937400818	
+8/30/04 21:45	Albuquerque	NM	Unknown	3 minutes	The object's lights were different and its rapid gyrations were most violent to be a normal aircraft.	9/1/04	35.0841789246,-106.648643494	
+8/23/04 21:00	Silver City	NM	Light	30 MINUTES	Metallic orange lights over mountains Silver City, New Mexico	8/24/04	32.7699699402,-108.275001526	
+8/20/04 11:30	Taos	NM	Disk	1 min	flashing lights, sky cloudness	9/1/04	36.4115982056,-105.574249268	
+8/15/04 00:16	Roswell	NM	Disk	13 min	Freaky Lights and Sound i feel very cold 10 degrees	8/7/07	33.394821167,-104.522750854	
+8/14/04 16:00	Albuquerque	NM		5 min	It was pale yellow and orange in a traingle shape.	3/19/09	35.0841789246,-106.648643494	
+8/3/04 14:00	Albuquerque (20 miles east of)	NM	Sphere	approx 30 sec	Silver sphere seen over mountain in New Mexico	8/11/04	35.0841789246,-106.648643494	
+7/31/04 19:35	Albuquerque	NM	Circle	3 minutes	Bright white sphere traveled across Albuquerque sky	8/11/04	35.0841789246,-106.648643494	
+7/27/04 01:30	New Mexico (Interstate 25, Exit 138)	NM	Other	2-3 mins	sighting in NM	8/11/04	32.3068695068,-106.757522583	
+7/7/04 07:10	Carlbad	NM	Sphere	SECONDS	phone camera captured as quick as we could see the object in the camera.	1/19/05	32.4185905457,-104.229019165	
+6/24/04 21:29	Edgewood	NM	Light	10 SECONDS	APPROXIMATELY THIS TIME THURSDAY EVENING ON A DARK NIGHT 6/24/04 9:29P.M. I SAW 2 WHITE LIGHTS, PERHAPS A MATCH HEAD IN SIZE AT ARMS LE	7/8/04	35.0608787537,-106.191452026	
+6/5/04 15:00	Cloud Croft	NM	Unknown	30 seconds	mysterious object chased	2/14/06	32.9577102661,-105.745506287	
+6/3/04 15:40	Albuquerque	NM	Sphere	1-2 min	The object appeared to be a metallic looking sphere that flew in an erratic manner.	6/4/04	35.0841789246,-106.648643494	
+5/27/04 23:00	Albuquerque	NM	Light	15 minutes	6 white lights over Albuquerque	6/4/04	35.0841789246,-106.648643494	
+5/18/04	Silver City	NM	Circle	one minuet	white object seen going north to south may 18,2004 in western sky over Silver city,nm. in a.m.	6/4/04	32.7699699402,-108.275001526	
+5/16/04 23:00	Gallup	NM	Light		In the newspaper it was reported that several people saw strange lights and moved at unbelieveable speeds & simply stopped and hover	6/4/04	35.5278396606,-108.743560791	
+5/13/04 21:00	Roswell	NM	Light	3-5 min	High, fast moving, silent "light" flew horizon to horizon and was followed by 2 military aircraft within minutes, then filled the sky.	6/4/04	33.394821167,-104.522750854	
+5/5/04 20:30	Santa Fe	NM	Oval	1/2 hour	three nights, in one week, glowing green and red, pulsating and then silver, very fast	6/4/04	35.6915397644,-105.937400818	
+5/3/04 21:00	Socorro (approx 30 miles S. of, on I-25)	NM	Light	2 to 3 hours	Driving North on I-25 south of Socorro, NM, my mother and I saw a bright light to the west that followed us to Albuquerque.  ((Venus?))	6/4/04	34.059928894,-106.891838074	
+4/28/04 22:00	Socorro	NM	Light	minutes	as i was driving on highway 60 just west of socorro nm an orange light-ball shaped-seen going south to north across windshield at low a	4/30/04	34.059928894,-106.891838074	
+4/21/04 00:40	Santa Fe	NM	Circle	30 sec.	There were three balls of light flying in a long triangle	4/27/04	35.6915397644,-105.937400818	
+4/12/04 22:10	Shiprock	NM	Light	10 minutes	Blinking red light not a route of any aircraft of any sort.	4/27/04	36.6906852722,-108.840270996	
+4/3/04 11:45	Alcalde	NM	Disk	55 minutes +	Daylight disk near Alcalde, NM	6/18/04	36.08934021,-106.055892944	
+3/23/04 21:00	Las Cruces	NM	Unknown	unkown	Blackedout  Helo Ops in Las Cruces, NM	3/28/04	32.306728363,-106.777732849	
+3/13/04 20:08	Albuquerque	NM	Chevron	25sec	ufo fly over  out of this world sighting	3/17/04	35.0841789246,-106.648643494	
+3/10/04 21:50	Gallup	NM	Light	30+ minutes	Extremely bright white light with yellow and green strobing, long duration ((NUFORC Note:  Sighting of Sirius??  PD))	7/25/04	35.5278396606,-108.743560791	
+3/4/04 03:00	Springer (I-25)	NM	Oval	two hours	seen two light blue lights,area had low clouds around Springer N.M. was travelling north on I-25. I went over Raton Pass and lights rea	3/9/04	36.361038208,-104.596549988	
+2/29/04 19:30	Roswell	NM	Changing	3 Hrs	Emerala shape,stationary in the South west sky atabout a 45 Degee attitude from horizion,seemed to be following earth rotation.	3/17/04	33.394821167,-104.522750854	
+1/22/04 12:45	Albuquerque	NM	Other	15 minutes	In my car on Juan Tabo and Central Ave, at 12:45 I noticed an object flying from an auto car dealership and a silver object that looked	1/31/04	35.0841789246,-106.648643494	
+1/21/04 23:40	Silver City	NM	Fireball	2 minutes ?	Something explodes in the skies over Silver City, New Mexico	1/31/04	32.7699699402,-108.275001526	
+1/14/04 19:00	Mariano Lake	NM	Oval	10 minutes	A low flying oval shaped craft with no noise whatsoever just above the treeline in our vicinity.	2/12/04	35.5777015686,-108.321792603	
+1/12/04 02:00	Santa Fe	NM	Light	10 minutes	Multiple red lights decending towards earth	5/24/05	35.6915397644,-105.937400818	
+12/30/03 21:30	Tatum	NM	Circle	45 seconds	hovering object,circle of lights,in field that shot straight up and stopped 2 times then lights went out and object vanished	1/17/04	33.2569694519,-103.318267822	
+12/19/03 08:35	Deming	NM	Oval	10 minutes	Double Ovoid object photographed NE of Deming, NM	1/17/04	32.268081665,-107.758666992	
+12/16/03 18:00	Cliff	NM	Light	6-7 seconds	Six bright orange lights appear exactly same distance apart, to be followed after 3 sightings by many twinkling lights.	12/19/03	32.9632492065,-108.613243103	
+12/4/03 16:30	Deming	NM	Other	30-45 minutes	Black stationary object seen south of I-10 in New Mexico at dusk	12/9/03	32.268081665,-107.758666992	
+11/28/03 15:00	Cloudcroft	NM	Other	on going	HBCCUFO CANADIAN REPORT:  Possible Elk Mutilation  ((NUFORC Note:  Mystery may have been solved at this writing.  PD))	12/9/03	32.9577102661,-105.745506287	
+11/20/03 17:30	El Rito	NM	Fireball	15 minutes	A bright yellow egg-shaped firey object suddenly appeared in the west on 11/20/03 at l7:30 hours, suddenly vanishing and leaving a smok	11/26/03	34.999080658,-107.300086975	
+11/15/03 17:00	Sky CIty	NM	Other	5 min.	New Mexico and UFOS	11/26/03	35.0410804749,-107.618759155	
+11/15/03 15:00	Albuquerque	NM	Oval	10 SECONDS	WHITE OBJECT OVER ABQ, NM.	5/4/04	35.0841789246,-106.648643494	
+11/4/03 20:50	Deming	NM	Disk	15 sec.	Orange glowing disk  south west of Deming NM  on night of 11/04/03	11/8/03	32.268081665,-107.758666992	
+10/31/03 02:00	Roswell	NM	Flash	5 seconds	Green flash traveling at high velocity	12/19/03	33.394821167,-104.522750854	
+10/25/03 13:00	New Mexico	NM	Other	?	Pictures of a landscape in New Mexico where my husband and father-in-law were hunting, in the pictures unidetified objects are seen.	5/12/10	32.3068695068,-106.757522583	
+10/22/03 02:45	Las Cruces	NM	Unknown	ongoing	...Just a little to weird to be a star.	10/31/03	32.306728363,-106.777732849	
+10/16/03 20:17	Pinos Altos	NM	Unknown	1.5 - 2.0 sec.	Very unusual atmospheric entry of unknown Craft.	10/31/03	32.8638496399,-108.221626282	
+10/10/03 22:00	Albuquerque	NM	Light	3 minutes	Three bright lights that were huddled together than began to seperate and disappeared.	2/1/07	35.0841789246,-106.648643494	
+10/7/03 06:20	Las Cruces	NM	Triangle	15 minutes	Along I-10 about 15 miles south of Las Cruces, large triangular craft outlined with very bright, white, lights. There was a lighted dom	10/7/03	32.306728363,-106.777732849	
+9/28/03 19:30	Santa Fe	NM	Teardrop	15 min	I saw a short teardrop shape brighter than Mars with a small bright object following, with a bright letter " D" in the center.	10/7/03	35.6915397644,-105.937400818	
+9/28/03 18:00	Santa Fe	NM	Egg	1 hour at least	A large bright egg shaped object that moved slightly.	10/7/03	35.6915397644,-105.937400818	
+9/22/03 19:30	Santa Fe	NM		still ongoing	there is a small "moon" in the sky maybe 1/10th the size of our normal moon or less. many people at the whole foods grocery store were	10/7/03	35.6915397644,-105.937400818	
+9/19/03 19:00	Albuquerque	NM	Light	5 min	Bright red light in Albuquerques southwestern sky.	9/24/03	35.0841789246,-106.648643494	
+9/19/03 19:00	Albuquerque	NM	Sphere	1 hour	Bright star like light visible in daylight, faded to faint star at night.	9/24/03	35.0841789246,-106.648643494	
+9/19/03 18:50	Belen	NM	Oval	1 1/2 hour	Intense glowing object changing colors	9/24/03	34.6607894897,-106.776916504	
+9/19/03 14:30	Peralta/Albuquerque	NM	Teardrop	4+ hours	Glowing tear drop-shape in the South West	1/17/04	35.1650085449,-106.534683228	
+9/15/03 17:50	Socorro (outside of)	NM	Rectangle	Approx 1-2 minutes	Silent flying rectangle with lit windows at dusk close to the ground out in the desert flying in the direction of White Sands	2/8/05	34.059928894,-106.891838074	
+9/8/03 23:00	Santa Fe	NM	Light		Blinking red and green lights.	9/24/03	35.6915397644,-105.937400818	
+8/30/03 23:55	Albuquerque	NM	Light	30 seconds	Saw two steady red lights moving very fast, very silently, jerking around, East to West over Albuquerque, NM.	9/4/03	35.0841789246,-106.648643494	
+8/15/03 14:00	Conchas Dam	NM	Circle	about 5minutes or so	rather large cigar shaped object	1/22/04	34.42137146,-106.108383179	
+8/10/03 19:00	Albuquerque	NM	Unknown	100 minutes	Stationary object over New Mexico	6/18/04	35.0841789246,-106.648643494	
+8/10/03 14:00	Albuquerque	NM		10 minutes	gloing ball, no sound	8/5/09	35.0841789246,-106.648643494	
+8/3/03 23:59	Santa Fe	NM	Cylinder	5 seconds	It was the fastest thing I had ever seen!	8/28/03	35.6915397644,-105.937400818	
+8/1/03 19:30		NM	Light	3 minutes	Bright light turning into a tiny red dot in the New Mexico skies	8/5/09	34.42137146,-106.108383179	
+7/24/03 23:10	Rio Rancho	NM	Light	1 hour	Hovering bright light fades in and out.	8/1/03	35.2415885925,-106.66002655	
+7/18/03 22:00	Albuquerque	NM	Triangle	20 seconds	TRIANGLE SHAPED PHOSFLORESANTLY LIGHTED STRINGRAY SHAPED CRAFT	7/23/03	35.0841789246,-106.648643494	
+7/7/03 16:00	New Mexico (rural)	NM	Other	2 minutes	A photographic encounter with an unexplained object in the New Mexico desert.	10/27/04	32.3068695068,-106.757522583	
+7/5/03 10:30	Crystal	NM	Cigar	less than a min.	a silvery object was moving across the clear blue sky at a slow speed.	7/16/03	36.045501709,-108.962280273	
+6/28/03 04:00	Albuquerque	NM	Circle	1 minute or so	Photos of UFO in sky above Sandia Peak, NM	10/31/03	35.0841789246,-106.648643494	
+6/22/03 02:30	Tatum	NM	Oval	30-60 SECONDS	BRIGHT LIGHT THAT HOVERED THEN MOVED AT GREAT SPEED.	7/16/03	33.2569694519,-103.318267822	
+6/18/03 18:15	Rio Ranchi	NM	Disk	2 minutes	Hovering ship 15 feet above headand missing time - propulsion of ship gave off no heat	4/13/10	35.2415885925,-106.66002655	
+6/12/03 21:00	Albuquerque	NM	Unknown	less than one second	Bright green dot made a half circle maneuver in the New Mexico sky, and i heard to sound	3/2/04	35.0841789246,-106.648643494	
+5/21/03 12:00	Alburquerque	NM	Triangle	Approx 5 sec	The item I believe I saw was at approx 12:00 noon on 05/21/03.I was working as a gateguard. I looked up into the Northern clear blue sk	5/27/03	35.0841789246,-106.648643494	
+4/28/03 06:06	Los Chavez	NM	Disk	10 minutes	Early morning, flying craft, thought it was helicopter til radical movements began, then it departed at high rate of speed. (See Photo)	6/3/03	34.6119384766,-106.339996338	
+4/20/03 02:00	Gallup	NM	Light	3:00 minutes	SW view. Very sharp, fast flashing red light. Very similar to what I thought was an airplane.  Light was traveling SW at a slow pace. S	4/22/03	35.5278396606,-108.743560791	
+4/5/03 22:30	Albuquerque	NM	Chevron	15 minutes	Extemely large "flying wing" hovering above a shopping center in Albuquerque NM then left southbound at slow speeds.	2/12/04	35.0841789246,-106.648643494	
+3/29/03 05:35	Albuquerque	NM	Light	15+ min. still happening	Small white light slowely gaining altatude over Albuquerque Morning sky!	4/22/03	35.0841789246,-106.648643494	
+3/3/03 03:33	Albuquerque	NM	Triangle	33 minutes	scariest wierdest night of my life	11/26/03	35.0841789246,-106.648643494	
+1/15/03 02:00	Taos	NM	Unknown	30 min	it was about 2:00 am. and i could not sleep so i went outside to the porch for some air. i was looking up at the sky when i noticed two	4/22/03	36.4115982056,-105.574249268	
+11/29/02 15:00	Deming	NM	Other	30 MINUTES	Goldfish cracker shaped object seen in Deming, New Mexico on 11/29/02	12/23/02	32.268081665,-107.758666992	
+11/24/02 06:25	Santa Fe	NM	Chevron	two hours	slow moving object evolves from a light green colored embryo shape to a full saucer with tent top and wht bulb like trim.	3/21/03	35.6915397644,-105.937400818	
+10/16/02 20:30	Chaco Canyon National Historic Park	NM	Light	3 minutes?	Two large, unblinking, silent, extremely bright objects travel in tandem, then disappear over Chaco Canyon.	11/4/02	34.42137146,-106.108383179	
+10/7/02 19:00	Sky City	NM	Fireball	3 to 5 second	Greenish and Orange fireball that lasted about 3 to 5 seconds and then exploded making a ring of fire.	1/17/04	35.0410804749,-107.618759155	
+10/6/02 15:00	Taos	NM	Disk	1 hour or more	About 3:30 p.m. in Taos, New Mexico, my mother called me into the living room to look through the window. There was a Bright "star". Th	10/15/02	36.4115982056,-105.574249268	
+10/5/02 16:49	Las Cruces	NM	Disk	unknown	Disk shaped object and other less distinct object was photographed over Las Cruces, NM.  10-05-02 @4:49 pm.	10/15/02	32.306728363,-106.777732849	
+10/5/02 07:45	Las Cruces	NM		90 sec. arpox	More than one saw the object over Las Cruces	10/28/02	32.306728363,-106.777732849	
+10/2/02 07:30	Santa Fe	NM	Egg	unknown	Oct. ?,2002, Santa Fe, NM, egg or football shaped object discovered after downloading photo	9/24/03	35.6915397644,-105.937400818	
+10/1/02 16:00	Grants	NM	Fireball	3 to 10 seconds	In October 2002, I was driving east on Interestate 40 (close to mile marker 100),  when I saw a greenish "comet-like" shape movng very	4/22/03	35.1506309509,-107.849876404	
+10/1/02 08:30	Santa Fe	NM	Egg	unknown	Oct, 2002 , 8:30 AM, Santa Fe, NM, caught while photographing Santa Fe RR train station, duration unknown	9/24/03	35.6915397644,-105.937400818	
+9/15/02	Taos	NM		1 second	Have video image of nine light crafts traveling at around three miles per sec dark lines in front of clouds shift to light as they pass	3/21/03	36.4115982056,-105.574249268	
+9/13/02 20:30	Jal	NM	Light	5 Seconds	Fast Moving object...Traveling from South to North	9/19/02	32.1134185791,-103.193359375	
+9/3/02 22:00	Roswell	NM	Unknown	2 minutes	Humming, oscillating sounds outside of Roswell, NM	9/13/02	33.394821167,-104.522750854	
+8/27/02 21:00	Albuquerque	NM	Light	30 seconds	High velocity redish-orange light makes 90 degree turn without deceleration.	9/6/02	35.0841789246,-106.648643494	
+8/23/02 03:45	Albuquerque	NM	Flash	5sec	I was smoking a cigarette when I looked up and saw a little brite light  moving slow for about 5 seconds. Then i saw it flash with a br	8/28/02	35.0841789246,-106.648643494	
+8/22/02 21:00	Fort Sumner	NM	Unknown	1hr 1/2	Triangular shaped objects with lights the same shape with red and gold coloring as well as the trail behind it.	8/28/02	34.4717102051,-104.245300293	
+8/22/02 21:00	Fort Sumner	NM	Unknown	1hr 1/2	Littel points of light moving acrost the sky.We saw at least 50 light in the sky behind a blinking object. It was not a usual air c	8/28/02	34.4717102051,-104.245300293	
+8/13/02 20:00	Albuquerque	NM	Other	20:30pm	very able to make out shape and colors.	8/16/02	35.0841789246,-106.648643494	
+8/11/02 04:20	Albuquerque	NM	Circle	2 MIN.	SIX  DIFFERENT  CIRCLULAR  OBJECTS  MANOUVER  OVER  HOME  AND  DRIFT  FROM  VIEW.	8/28/02	35.0841789246,-106.648643494	
+7/31/02 20:00	Aztec/Farmington	NM	Disk	4 minuts	I was travelling from Duarngo, CO to Tallup, NM on my way to Roswell for a rush load..I passed the state line on southwestern CO and no	11/16/02	36.8340301514,-107.980506897	
+7/31/02 04:24	Roswell	NM	Oval	5 seconds	Flashing red and green	8/16/02	33.394821167,-104.522750854	
+7/30/02 14:00	Mesquite	NM	Triangle	5 min	It was parked (floating) there, how long, I dont know...	3/21/03	32.1650085449,-106.69682312	
+7/28/02 10:00	Truth or Consequences	NM	Changing	5 min	shinny square no windows with 2 rotating blades on bottom	6/20/05	33.1360015869,-107.231689453	
+7/26/02 05:45	Socorro/Belen (between)	NM	Triangle	45 minutes	object is not the average lil green thing,, more like "we are about to learn stuff" we might not want to know	7/30/02	34.8096923828,-106.750816345	
+7/15/02 00:00	Sears Point (BLM property)	NM	Light	90 minutes	Light  being directed straight at us?  ((NUFORC Note:  Celestial body, perhaps?  PD))	7/25/04	32.828918457,-104.418014526	
+7/3/02 01:45	Las Cruces	NM	Cylinder	3 seconds	Huge bright lime green Cylinder Shaped Object	7/26/02	32.306728363,-106.777732849	
+6/19/02 19:00	Socorro	NM	Cylinder	45 minutes	apparently two lighted objects showed themselves for nearly one hour moving, blinking,ect,	7/1/02	34.059928894,-106.891838074	
+6/17/02 21:30	Hurley	NM	Other	3 seconds	Check this meteor out!	7/26/02	32.6977806091,-108.135070801	
+6/15/02	Clovis	NM	Oval		Pictures of UFO's that appear during stormy weather near Clovis, New Mexico.	7/23/03	34.4052314758,-103.205337524	
+5/25/02 00:00	Albuquerque	NM	Circle	45 min.	CRAFT AND IT'S PROBE MOTIONLESS OVER NUCLEAR DEPOT ONE HOUR AT AFB IN ALB,N.M.	10/31/03	35.0841789246,-106.648643494	
+5/3/02 15:28	Quemado	NM	Teardrop	1/2 second	A bright silver tiny object was observed descending at  an unusual rate of speed  on a 45 degree angle.	5/14/02	34.3424110413,-108.494163513	
+4/2/02 20:50	Rio Rancho	NM	Light	10 second	It covered half the sky in just three seconds, stopped, did a half circle and faded to nothing.	4/8/02	35.2415885925,-106.66002655	
+4/1/02 23:00	Lincoln County	NM	Light	45 min.	More details on the New Mexico Light Shows	6/18/03	33.7452507019,-105.459251404	
+4/1/02 12:00	Flora Vista (north of; Hwy. 574)	NM	Triangle	3 mins	Black Triangular Craft Emits Buzzing Sounds.	8/7/07	36.8040504456,-108.083580017	
+3/15/02 20:30	Gallup	NM	Light	5 minutes	Strange star-like object emits lights from sky.	2/12/04	35.5278396606,-108.743560791	
+3/13/02 20:00	Chama	NM	Cone	2 hrs.	A large light was seen from a distance and it changed directions. After about 30 mins of watching this strobing light more lights were 	3/19/02	36.9016113281,-106.579689026	
+3/9/02 16:00	Glenwood	NM	Flash	3 min	the object made a yellowish beam and made a strange fire like noise.	3/19/02	33.3276290894,-108.885971069	
+2/21/02 21:30	Datil/Magdalena (between)	NM	Light	Approx. 20 min	The lights moved in unprecedented manuevers and speed and emitted other beams from them.	3/19/02	34.42137146,-106.108383179	
+2/8/02 22:55	Las Cruces	NM	Light	6 seconds	White ball of light moving fast to the norheast.	2/22/02	32.306728363,-106.777732849	
+1/30/02 01:42	Navajo	NM	Triangle	3 min. 39 sec.	Four triangle objects hovering over Navajo, New Mexico.	2/22/02	35.9003105164,-109.029457092	
+1/7/02 21:10	Roswell	NM		2-3 seconds	saw and here a shooting star	1/29/02	33.394821167,-104.522750854	
+1/7/02 21:07	New Mexico (southeast)	NM		2-3 sec.	Very dramatic "electrophonic" meteor.	1/11/02	32.3068695068,-106.757522583	
+1/7/02 08:25	Las Vegas	NM	Other	30 mins	bye bye footage	1/11/02	35.5956802368,-105.216278076	
+12/30/01 14:30	Las Vegas/Truth or Consequences (between)	NM	Disk	1 minute	small black disk flying fast in sunny NM sky	1/29/02	34.42137146,-106.108383179	
+12/2/01 18:45	Albuquerque	NM	Formation	45 min	Formation - White Triangle, String of Lights, and Large Red Glow	12/5/01	35.0841789246,-106.648643494	
+12/1/01 21:20	Albuquerque	NM	Fireball	10 minutes	5 blue-white spheres w/bright, glowing trails, traveling slowly from south to north over Albuquerque, 9:20 pm, 12/01/01	1/11/02	35.0841789246,-106.648643494	
+12/1/01 21:15	Silver City	NM	Triangle	1 minute	Trangular shaped translucent object with lights	12/5/01	32.7699699402,-108.275001526	
+12/1/01 21:15	Alamogordo	NM	Triangle	about 5-10 mins.	Witnessed a large object with lights, changing size, pausing in front of me, changing direction, then going down behind a mountain.	12/5/01	32.8992500305,-105.960319519	
+11/9/01 00:00	Edgewood	NM	Disk	15 minutes	I had been feeding my dogs an a blueish object caught my eye	1/11/02	35.0608787537,-106.191452026	
+10/31/01 20:00	Roswell	NM	Unknown	photo	3 high speed objects caught on film	11/28/07	33.394821167,-104.522750854	
+9/21/01 20:10	Albuquerque	NM	Oval	5-7 seconds	A couple of friends, my wife and I were staying in Albuquerque (87104) at the Sheraton Old Town hotel on September 21, 2001.  We were s	10/12/01	35.0841789246,-106.648643494	
+9/11/01 21:22	Santa Fe	NM	Cone	1 1/2 hours	We saw objects in the sky that could not have been stars. We observed them through bionoculars and saw 9 objects that hovered, pulsated	10/12/01	35.6915397644,-105.937400818	
+9/11/01 11:30	Albuquerque	NM	Sphere	10 minutes	Spherical silver balls which emitted bright white light	5/24/05	35.0841789246,-106.648643494	
+8/25/01 21:00	Jemez Springs	NM	Light	1hour	High altitude, very rapidly moving lights.	10/12/01	35.7667884827,-106.693237305	
+8/15/01 22:00	Roswell	NM	Triangle	3-4 minutes	Dark Triangle, silent craft "floating" with 3 lights on the bottom heading NNE over SW Roswell between July-Sept 2001	10/31/03	33.394821167,-104.522750854	
+8/13/01 02:30	Las Vegas (north of)	NM	Unknown	5 min totol	Yellowish bright light approached the rear of my car at a extremely high rate of speed two times and then it was gone.	8/20/01	35.5956802368,-105.216278076	
+8/9/01 23:45	Los Alamos	NM	Light	15 seconds	Jet chasing object over Los Alamos National Labs	8/12/01	35.8806381226,-106.304389954	
+7/18/01 21:00	Roswell	NM	Chevron	2 minutes	low iredescent  V shaped light	8/5/01	33.394821167,-104.522750854	
+7/12/01 02:30	Ruidoso (Bonita Lake)	NM	Flash	10 seconds	Flash of Light, followed by a orange fireball	8/5/01	33.3336982727,-105.68006134	
+6/19/01 00:30	Chama River (El Vado dam)	NM	Light	1 second	Brighter than a falling star...appeared to leave a light trail...parallel to the horizon	10/12/01	35.2896881104,-106.594268799	
+6/15/01 03:00	Santa Fe	NM	Unknown	O4:30 +	Three extremely bright objects observed in various locations over the skies of Santa Fe and Los Alamos, New Mexico.	8/5/01	35.6915397644,-105.937400818	
+5/26/01 19:30	Socorro	NM	Other	25 Minutes	Object seen in western sky stationary at 7:00 o'clock position from the Moon. Sky was light blue as the Sun was already behind the Moun	8/5/01	34.059928894,-106.891838074	
+5/26/01 02:00	Albuquerque	NM	Disk	2 hrs so far	First look, I knew it wasn't something human made.	8/5/01	35.0841789246,-106.648643494	
+5/9/01 20:15	Tularosa	NM	Light	10 minutes	A light that changed color, that moved at a high rate of speed and hovered, that was silent.	5/27/03	33.0728607178,-106.017837524	
+3/30/01 23:00	Cloudcroft (outside of)	NM	Light	couple hours	White beams that shot high into the sky and a bright red glow that seemed to be coming from behind a mountain.	4/1/01	32.9577102661,-105.745506287	
+3/19/01 10:00	((unspecified))	NM	Disk	1 minute	Short timed sighting over mountain	4/1/01	34.42137146,-106.108383179	
+3/12/01 19:50	Hobbs	NM	Flash	seconds	AT APPROX 19:50, I WAS OUT SIDE IN MY FRONT YARD, I FELT AND HEARD A SONIC-BOOM.  I IMMEDIATELY LOOKED UP AND SAW THREE TO FOUR JETS FL	3/16/01	32.6965713501,-103.128211975	
+2/20/01 01:15	Farmington	NM	Fireball	1 minute	lg green fireball!	2/24/01	36.7281417847,-108.205688477	
+1/11/01 21:50	Las Vegas	NM	Fireball	2-4 seconds	Green Fireball, falling from 15 to 20 degrees above the horizon in a straight line to the horizon from my view, leaving a trail.	2/18/01	35.5956802368,-105.216278076	
+1/8/01 07:00	Santa Fe	NM	Cigar	15 minutes	large  cigar shaped craft	2/18/01	35.6915397644,-105.937400818	
+12/28/00 11:00	Cerrilillo	NM	Unknown	5-10 minutes	Secret Jet propulsion system seen in New Mexico Sky	1/3/01	34.42137146,-106.108383179	
+12/9/00 18:00	Carlsbad	NM	Light	45 seconds	We saw two very fast-moving objects take off.	12/20/00	32.4185905457,-104.229019165	
+12/6/00 18:16	Roswell	NM	Triangle	5-6 Minutes	Helicopter into a triangle at Roswell	1/11/02	33.394821167,-104.522750854	
+11/23/00 18:37	El Paso and Alamogordo (Between )	NM	Cigar	3 minutes	A dark cigar-shaped object with no lights that was at least 100 meters wide.	12/2/00	34.42137146,-106.108383179	
+10/25/00 21:05	Alma	NM	Light	10 seconds	Light goes into cloud and what comes out on the other end as three MEGA Size lights 2x the size of our 28 ft. trailer.	12/2/00	33.3741188049,-108.903182983	
+10/1/00 20:45	Albuquerque	NM	Triangle	ONGOING	TRIANGLE VERY LARGE THREE LIGHTS AT POINTS SHADOW BUT EVER FEW SECONDS YOU COULD SEE A FLASH FROM POINT TO POINT FACING TO THE NORTHEAT	12/2/00	35.0841789246,-106.648643494	
+9/25/00 19:30	Albuquerque	NM	Light	30 minutes	At twilight we saw through binoculars three bright lights arranged in an inverted triangle making small darting movements in place.	12/2/00	35.0841789246,-106.648643494	
+9/15/00 22:00	Pinos Altos	NM	Circle	one minute or less	An orange ball of light moved out from behind a far off cliff - stopped and stayed in one place for about a minute (my feeling was that	9/29/04	32.8638496399,-108.221626282	
+9/15/00 20:37	Ruidsoso	NM	Light	15 minutes	2 points of light, diplaying bizzare behavior, while travelling throught the sky.	9/17/00	33.3336982727,-105.68006134	
+9/12/00 17:00	Lordsburg/Deming	NM	Changing	1hr or longer	Spotted  a hovering, color-changing object over the desert east of Lordsburg, New Mexico on Sept. 12, 2000 from I-10.	12/2/00	34.42137146,-106.108383179	
+9/10/00 01:11	Roswell	NM		??	In Sept of this year my wife and I took a road trip back to Illinois to visit our daughter we decided to go through Roswell NM as we ha	12/2/00	33.394821167,-104.522750854	
+9/9/00 20:30	Alamogordo	NM	Disk	5 minutes	Grey Metallic Aircraft Floating Behind the Clouds.	12/2/00	32.8992500305,-105.960319519	
+9/1/00 17:00	Albuquerque	NM	Diamond		i was shooting photographs of the balloons and one of the pictures had this disk at the very top of the image.	2/22/02	35.0841789246,-106.648643494	
+8/20/00 05:30	Santa Fe	NM	Light	approx10sec	I am a college graduate and I was an officer in the US Army.  I am almost 60 years old and I have never seen a UFO before.  The date th	2/18/01	35.6915397644,-105.937400818	
+8/9/00 12:48	Albuquerque	NM	Circle	20 seconds	i was taking pictures of the sunset and didn't notice until later what had passed in front of my lense.	5/24/05	35.0841789246,-106.648643494	
+8/5/00 07:30	White Sands	NM	Circle	momentary	Older relative has picture taken at dusk with 3 glowing white round lights with cone shaped metal tops barely visible. Was vacationing	1/31/04	32.765827179,-106.303939819	
+6/28/00 02:00	Albuquerque	NM	Light	10 minutes	the star in the night sky stated dancing, only to return back, hidden.	7/29/00	35.0841789246,-106.648643494	
+6/3/00 20:30	Bluewater Village	NM	Oval	40minutes	Large, bright, stationary, oval object spotted in Western New Mexico skies, that the sighting lasted about 40 minutes.	6/6/00	35.2503700256,-107.976699829	
+6/3/00 20:00	Bluewater Village	NM	Disk	40-50 min.	update on previous report	7/11/00	35.2503700256,-107.976699829	
+6/3/00 14:30	Albuquerque	NM	Sphere	1 hour	Saw a large, bright, spherical object being stationery in windy skies over the Albuquerque International Airport.	6/21/00	35.0841789246,-106.648643494	
+6/3/00 14:00	Placitas	NM	Circle	30	Translucent balloon moved INTO the wind.	6/6/00	35.3081588745,-106.436317444	
+6/1/00 21:30	Santa Fe	NM	Triangle	3 minutes	Huge triangular object in Jemez Mountians, New Mexico	11/28/07	35.6915397644,-105.937400818	
+6/1/00 15:00	Albuquerque	NM	Light	40 minutes	On a clear cloudless summer afternoon in the summer of 2000, I was hiking alone in the Sandia Mountains just east of Albuquerque, NM.	11/21/10	35.0841789246,-106.648643494	
+5/28/00 20:00	White Sands	NM	Light	2 hours	bright lights playing tic-tac-toe in the sky for over 2 hours	6/6/00	32.765827179,-106.303939819	
+4/17/00 20:00	Santa Fe	NM	Cylinder	2-3 hours	I was closing the kitchen curtains when I glanced upward and saw a bright, yellow cylinder, very sparkly moving slowly--I thought it wa	4/26/00	35.6915397644,-105.937400818	
+4/16/00 10:25	Albuquerque	NM	Rectangle	5 min	saw first light, then second light, parked car to better observe, and saw third light light seemed very high alt. light intensity fluct	4/26/00	35.0841789246,-106.648643494	
+4/4/00 05:20	Sedillo Hill	NM	Light	5 min.	Ball of light eminating several red "beams".	4/15/00	34.0247917175,-107.044761658	
+4/1/00 22:00	Los Alamos (Near)	NM		5 seconds	Meteor Sound	1/29/02	35.8806381226,-106.304389954	
+3/19/00 09:05	Albuquerque	NM	Oval	1 minute	white/silvery elliptical craft seen 45 degrees above horizon, due west, circling in the air rapidly before speeding off northwest.	4/1/00	35.0841789246,-106.648643494	
+2/29/00 20:45	Las Vegas	NM	Sphere	unknown	female called our office advised that about 2045 she saw a "very pretty green light in the sky" was north of Las Vegas NM	3/7/00	35.5956802368,-105.216278076	
+1/26/00 21:45	Sante Fe (near)	NM	Other	3 min	3-5 round yellow lights appearing on parallel course at tip of wing of commercial aircraft then changing position to parallel back of w	2/16/00	35.6915397644,-105.937400818	
+1/23/00 15:00	Rio Rancho	NM	Sphere	3 hrs	Black object hanging in the sky possible cause of geese flock disappearance	8/16/02	35.2415885925,-106.66002655	
+12/22/99 19:15	White Sands	NM	Light	2 min	A  starlike object descended vertically for 2 minutes changing color from a very bright white to gold  the closer it got to the ground.	1/7/00	32.765827179,-106.303939819	
+12/19/99 02:30	Santa Fe	NM	Circle	10 seconds	UFO floats over, truck stops, distributor is stuck to inside of roof, magnetized.	10/31/03	35.6915397644,-105.937400818	
+12/4/99 02:00	Deming	NM	Changing	40-60 Min	Driving I10 west of Las Cruces NM a random shape object visable for more than 60 mins seem to follow my U-Hall truck.	12/7/06	32.268081665,-107.758666992	
+11/6/99 20:30	Chaco Canyon	NM	Other	5	Viewed a single craft, followed in approx 1 minute by three more.  The crafts were long thin enlongated rectangles, appearing as flying	11/9/99	36.0583343506,-107.958885193	
+10/15/99 03:00	Clines Corners (I-40 Eastbound)	NM	Light	20:00	Was traveling eastbound on I-40 in New Mexico around 3:00am. Noticed to the southwest and southeast numerous flashing bright blue light	9/19/02	35.0106086731,-105.668418884	
+10/13/99 09:45	Santa Fe	NM	Disk	25 seconds	while driving east something unusuall grabed my sight to the sky, there was 3 objects (plus 2 fighters afar)i kept looking at them and 	10/19/99	35.6915397644,-105.937400818	
+8/28/99 18:00	Albuquerque	NM		less than 8-10 sec.	It looked like a long  silver gray parasail canopy.  Huge. Swooped  down over the city & quickly shot  up where it stayed on a fairly e	8/30/99	35.0841789246,-106.648643494	
+8/15/99 23:18	Aztec	NM	Light	3min	I saw an incredibly brilliant bluish white light  traveling at an uncomprehendable speed!	7/1/02	36.826171875,-107.992668152	
+8/15/99 23:18	Albuquerque	NM	Unknown	2 secons	An extremely bright flash of light lit up the sky and groud and appeared to travel from SW to NE.	7/1/02	35.0841789246,-106.648643494	
+8/15/99 23:18	Las Cruces	NM	Fireball	10-20 seconds	a close friend of mine witnessed the same phenomenon (sp?) that was reported in northern new mexico 250 miles south of albuquerque, in 	7/1/02	32.306728363,-106.777732849	
+8/15/99 23:18	Gallup/Albuquerque (between)	NM		2sec	We were driving East on I40 toward Alb when I saw a flash of blue light that lit up the whole sky. I saw no craft with this light. li	7/1/02	35.0934791565,-106.674255371	
+8/15/99 23:18	Bosque	NM		4 sec.	Bright bluish-greenish-white light trail splitting into multiple radians	7/1/02	34.5363502502,-106.794250488	
+8/15/99 23:18	Tularosa	NM	Flash		Just to let you know the light over Aztec N.M. was seen here also.  It was reported  by Joel Vincent on AM 1270 for several days after 	7/1/02	33.0728607178,-106.017837524	
+8/15/99 23:10	Jemez Springs	NM	Unknown	2 seconds	Brightly lighted clouds observered.	9/12/99	35.7667884827,-106.693237305	
+8/15/99 23:00	Rio Rancho/Bernillo (between)	NM	Other	a few minutes	my mom and i were driving home from work we saw the sky lite up almost like day light a few seconds later we saw this trail like thing 	12/23/02	35.3063621521,-106.584449768	
+8/15/99 22:30	Los Lunas	NM		2-5 seconds	I saw a bright flash through my skylights (facing West) in my home on August 15. I verified that I checked out a movie on that day rece	10/2/99	34.811630249,-106.74256897	
+8/15/99 22:30	Socorro	NM	Other	5-7 sec	Falling Object	8/30/99	34.059928894,-106.891838074	
+7/3/99 01:30	Albuquerque	NM			Fireball streak across the sky; and two semi-trucks stopped side by side in the desert in the middle of the night on I-40 E in New Mexi	8/5/01	35.0841789246,-106.648643494	
+6/30/99 23:20	Herron Lake State Park	NM	Cigar	1 minute	2 separate sightings- just minutes apart, may have been the same object.	7/5/99	36.6900100708,-106.687843323	
+6/29/99 16:00	Navajo Lake	NM	Cigar	30 seconds	shiney object moved across the sky horizontally & did not appear to be a plane.	7/5/99	36.9768981934,-107.438308716	
+6/10/99 23:50	Cuba	NM	Triangle	5 seconds	two women witness a triangular shaped craft	6/23/99	36.0219612122,-106.956489563	
+6/10/99 22:30	Alburquerqe (near)	NM	Light	30 minutes	Two VERY bright "stars" ...one on left suddenly moved across sky to left in downward arc and up then stopped abruptly.  Object on right	8/30/99	35.0841789246,-106.648643494	
+5/1/99 21:00	Portales	NM	Formation	10 seconds	Briefly observed an asymmetrical v-shaped formation of 7 solid, silent, unblinking lights.	7/11/00	34.1843109131,-103.339599609	
+4/22/99 23:40	Albuquerque	NM	Triangle	20-30 Seconds	I was looking out the east facing window of my bedroom when I noticed three dim amber colored lights that seemingly appeared out of now	5/24/99	35.0841789246,-106.648643494	
+4/22/99 22:50	Albuquerque	NM	Fireball	4 seconds	A red & green light streaked across the sky, south of Osuna, from East to West then dissappeared.	5/24/99	35.0841789246,-106.648643494	
+4/18/99 19:00	New Mexico (southern)	NM	Other	45mints	witnessed 5 to 6 aleins glowing red in color on the ground under crafts lights.	6/23/99	32.3068695068,-106.757522583	
+4/10/99 02:58	VLA Radio Telescope (near, Hwy. 60)	NM	Light	16 minutes	LIGHT THE SIZE OF SILVER DOLLAR AT ARM'S LENGTH SEEN HOVERING JUST ABOVE HIGHWAY. RAPIDLY CHANGING COLORS FROM WHITE-RED-BLUE-GREEN-ORA	5/24/99	
+4/7/99 03:20	Las Cruces	NM	Oval	less than a minute	Black disc with greenish/bluish/white corona traveled parallel with I10 between Las Cruces and El Paso.	4/26/99	32.306728363,-106.777732849	
+4/2/99 22:03	Tijeras (south of)	NM	Sphere	20 seconds	Very bright amber sphere traveled just above tree top level. Size of dime @ arms length. Object 50 - 300 yds away. Observed by myself &	4/26/99	35.0887908936,-106.375320435	
+3/16/99 11:40	Albuquerque	NM	Sphere	5 minutes +	I saw a silver sphere shaped craft that was following in the contrail of a passenger or military aircraft.	4/2/99	35.0841789246,-106.648643494	
+2/23/99 19:00	Las Vegas/Montezuma	NM	Light	5 min.	Two horizontal, parallel rows of lights, approximately 1/4 mile up, moving  from the south to the north.	4/2/99	35.6209602356,-105.206642151	
+2/12/99 17:10	Albuquerque	NM	Sphere	10 minutes	object hovered due east.flickering brightness.disapeared.reappeared in different but close proximity C130's landing .	4/2/99	35.0841789246,-106.648643494	
+1/13/99 07:15	Rio Rancho	NM	Circle	2-3 seconds	Driving east from Rio Rancho into Albuquerque on Paseo Del Norte, I viewed a perfectly lit circle above the Sandia Mountains.  The circ	2/16/99	35.2415885925,-106.66002655	
+1/5/99 20:00	Alamogordo	NM	Disk	15 minutes	LARGE BRITE WHITE SAUCER SPED ACROSS THE SKY; STOPPED HOVERED APROX.5 MIN. SHOT STRAIGHT UP;DISSAPEARED.	5/24/99	32.8992500305,-105.960319519	
+1/1/99 21:00	Coyoty Canyon	NM	Disk	1	My brother in-law and i were coming back from gallup and we were going east bound on hwy 9 and i saw to the south east a object that wa	8/30/99	35.7726402283,-108.624511719	
+12/15/98 22:00	Albuquerque	NM	Cross	15 seconds	large cross shaped ship flew over the city .	2/16/99	35.0841789246,-106.648643494	
+11/4/98 15:30	Albuquerque	NM	Oval	4-5 mins.	5 u.f.o objects seen in sky.One comes close to ground where i ride a bicycle .In daytime.	8/14/07	35.0841789246,-106.648643494	
+10/29/98 18:45	Los Alamos (viewed from)	NM	Unknown	20 minutes	Went outside at approximately 18:40, and witnessed a very large non-random group of white lights located to the east to slightly southe	5/24/99	35.8806381226,-106.304389954	
+10/13/98 02:30	Heron State Park (between Dulce and Taos)	NM	Changing	approx. 1hr	Watched a strange light for about an hour. During its flight, it made numerous odd flight changes, including bouncing up and down like 	2/16/99	36.6900100708,-106.687843323	
+10/4/98 02:45	Albuquerque	NM		1 minute +	VERY bright white light,  appeared to be about half the diameter of the moon.	11/1/98	35.0841789246,-106.648643494	
+10/1/98 04:30	Rio Rancho	NM	Fireball	2 min.	Sighted during the major meteor shower last year.	4/2/99	35.2415885925,-106.66002655	
+9/25/98 23:00	Bosque Farms	NM	Unknown	~3 minutes	Well I was looking at the cresent moon with my celestron 4.5 telescope and I saw a shadow traveling across the moon.	11/20/02	34.85105896,-106.706008911	
+9/22/98 22:00	Cedar Crest	NM	Fireball	4 sec.	Walking our dogs at 10:00 pm 9-22-98 looking south a large ball of light with a tail 3 times larger than the ball that sparked and flic	11/1/98	35.1091804504,-106.374099731	
+9/11/98 00:00	Roswell	NM	Diamond	5 seconds	My sister and I were  driving south to Carlsbad and were about 5 to 10 miles outside of  Roswell, NM.  All of a sudden a bright, pulsat	9/26/98	33.394821167,-104.522750854	
+8/27/98 23:00	Villa Nueva State Park	NM	Cigar	2 minutes	steadily moved across the sky & then hovered, 2x, creating a triangle formation & then dissapearing.	7/5/99	35.2613449097,-105.358413696	
+8/24/98 13:00	Albuquerque (Outside of)	NM	Triangle	10 Seconds	My family and I were driving through the United States, and my father took a back road...and we stopped the car to take pictures of the	12/2/00	35.0841789246,-106.648643494	
+8/19/98 00:00	Albuquerque	NM	Light	3min	light in the sky heading west that changed color and like a rubberband it zipped back heading east into space disapearing in the stars	5/24/05	35.0841789246,-106.648643494	
+8/10/98 06:00	Albuquerque	NM	Fireball	20 min	Object seen streaking across sky, leaveing huge contrail, it was across the horizon over head, and heading east to west, along hwy40(ro	8/5/01	35.0841789246,-106.648643494	
+8/1/98 23:00	Albuquerque	NM	Triangle	10 Minutes	Triangular UFO over South Valley High School	6/20/05	35.0841789246,-106.648643494	
+7/15/98 01:30	Albuquerque	NM	Fireball	1-2 minutes	Green Fireball Sighted Near Albuquerque Moving Directly Up From the Ground	5/15/06	35.0841789246,-106.648643494	
+7/2/98 04:30	Bluewater Lake	NM	Light	20 min	my son and i witnessed an orange light fly above the lake shore five different times in about a 20-25 min span. it made no sound and th	1/28/99	35.3007774353,-108.127304077	
+6/25/98 22:18	Las Cruces	NM	Circle	3 minutes	My father and i were driving home from El Paso, Texas, to Las Cruses, New Mexico. Half way to las cruses,(which is about a 30 min. driv	11/21/98	32.306728363,-106.777732849	
+6/15/98 11:00	Navajo Lake	NM	Sphere	10 secs	A Shiny (metalic) sphere was seen, by me, above a ridge. It was slowly moving away from my position at an altitude of apr. 500ft. The S	4/2/99	36.9768981934,-107.438308716	
+5/28/98 20:30	Santa Fe	NM	Fireball	7 min.	We saw the object in the sky south of Santa Fe just after sunset. It looked like a glowing white sphere against the indigo sky, and was	11/21/98	35.6915397644,-105.937400818	
+3/15/98 00:00	Roswell	NM	Triangle	1 min	We were traveling north on US285 about 35 miles north of Roswell NM.  A large triangular shaped craft appeared seemingly from nowhere a	4/14/09	33.394821167,-104.522750854	
+3/12/98 04:30	Red River	NM	Cylinder	3 hours	There were 2 extremely bright objects stationary in the sky, side by side for over 2 hours south of Red River	1/28/99	36.7077484131,-105.405700684	
+2/1/98 00:30	Four Corners	NM	Other	30 MINS	Unknown bright lights, and triangular shapes over Four Corners, New Mexico	7/16/06	36.9971313477,-109.043830872	
+1/27/98 17:00	Las Cruces (on Interstate 10,west of)	NM	Disk	2 hours or more	Driving west on I-10 in N.M. we watched a HUGE object hover without moving for about 2 hours.	4/25/02	32.306728363,-106.777732849	
+11/23/97 05:50	Albuquerque	NM	Fireball		there was a red light over the petroglyph national park it went up from the ground then changed to yellow orange color then span really	2/18/01	35.0841789246,-106.648643494	
+11/22/97 17:30	Albuquerque	NM	Other	3 minutes	A black object that at first looked like a hot air balloon, then a 747, then roundish. It appeared black against the twilight blue sky.	1/28/99	35.0841789246,-106.648643494	
+7/27/97 21:30	Las Cruces	NM	Light	1 hr approx	Witness reports an "orange ball of light" at approx 500 feet from ground, was surrounded by helicopters circling it repeatedly. Number 	6/2/98	32.306728363,-106.777732849	
+7/22/97 13:00	Arabela (near Roswell)	NM	triangle	2.5 hrs	I was on a ranch that I was living on at the base of the capitain mountains, and was sitting outside the house under a tree, when he to	9/19/02	33.5877304077,-105.172363281	
+7/15/97 22:30	Las Cruces	NM	Fireball	45--60 min	Orange, glowing ball moving at height of 50 to 300 feet over and around a city park (Apodaka Park). Pursued by 2--3 helos w/searchlight	11/1/98	32.306728363,-106.777732849	
+7/15/97 20:30	Caballo	NM	Triangle	30 seconds	Low flying, (approx. 200ft. altitude), SAND colored triangle, passed directly over my house at an approx. speed of 75-100mph.	2/22/02	32.9718894958,-107.309112549	
+7/7/97 20:45	Las Cruces	NM	Changing	30 minutes	It was never anything I have seen before.	10/12/01	32.306728363,-106.777732849	
+7/7/97 20:45	White Sands Missile Range	NM	Circle	30 minutes/less	It looked like a standard house lightbulb very bright and luminous.	7/25/04	33.0748214722,-106.357917786	
+6/30/97 23:00	Tijeras	NM	Cigar	2 minutes	steadily moved across the sky & then hovered, 2x, creating a triangle formation & then dissapearing.	7/5/99	35.0887908936,-106.375320435	
+6/29/97 23:45	Farmington (Approx. 3 miles N of)	NM	Unknown	3 minutes	Saw what appeared to be two satellites flying in formation, but don't believe that objects were satellites or airplanes.	11/20/02	36.7281417847,-108.205688477	
+6/17/97 04:55	Roswell	NM	Circle		i had a dream about an abductions the year before	3/21/03	33.394821167,-104.522750854	
+6/15/97 23:00	Silver City	NM	Unknown	30 seconds	the object had no nav. light and moved about in a strange pattern	7/25/04	32.7699699402,-108.275001526	
+6/1/97 23:00	Raton (South of; Ft. Lincoln rest stop)	NM	Unknown	3 minutes	Observed unknown high speed, high altitude objects make non-balistic course changes.	1/28/99	36.905330658,-104.439002991	
+6/1/97 03:30	New Mexico	NM	Disk	3min	on hwy 10east going to elpaso texas.,,, slow moving object, passed right in front of me no sound, but had a bright light, just flooted 	4/26/99	32.3068695068,-106.757522583	
+4/1/97 22:00	Santa Fe	NM	Unknown	10 seconds	1997 Santa fe, MN A enormous "metropolis" looking ship landing and our memories wiped away, lost time	8/7/07	35.6915397644,-105.937400818	
+3/23/97 16:30	Albuquerque (over, from Tent Rocks)	NM	Other	2.30 Hr.	have photograph  2,1/4 negative 250mm Zeis len.some detail not much. object hovered over albuquerque shining in the afternoon light.	1/28/99	35.0841789246,-106.648643494	
+3/20/97 13:00	Santa Fe	NM	Triangle	8 hours	Was MACHINED by ME ((name deleted)) at LOS ALAMOS NATIONAL labs.  Triangle of BERYLIUM METAL.	11/26/03	35.6915397644,-105.937400818	
+3/12/97 23:00	Santa Fe	NM	Other	2 minutes	THE TIME IT TOOK PLACE WAS THE DAY BEFORE THE ARIZONA SIGHTS OF MULTIPLE SHIPS.	12/2/00	35.6915397644,-105.937400818	
+3/12/97 06:30	Holloman AFB	NM	Unknown		Abnormal contrails seen over two US Air Force Bases in New Mexico	3/21/03	32.8509864807,-106.101249695	
+2/5/97 22:00	Albuquerque	NM	Flash	3 min	Two crafts flying onto field	1/22/04	35.0841789246,-106.648643494	
+12/12/96 02:06	I-10, Marker 174	NM		7 min.	Truck driver & other trucks see 2x bright white lights, which split apart. 1 ascends vert., other paces truck, streaks.  Many CB repts.	11/2/99	33.6359901428,-105.871109009	
+10/9/96 15:30	Deming (near)	NM	Other	30 seconds	Silent, jet-shaped, beige hovering object viewed. Magnetic interference with watches.	3/19/02	32.268081665,-107.758666992	
+10/3/96 20:00	Santa Fe	NM	Rectangle	:05	Thought it was a plane coming FROM the SE (moving NNW), it moved at a very regular plane-like speed.  Felt it might have been a militar	5/24/99	35.6915397644,-105.937400818	
+8/8/96 20:30	Tularosa	NM	Sphere	35-45sec	Glowing orb of light follows test sled and then shoots off toward viewer.	6/18/04	33.0728607178,-106.017837524	
+8/1/96 02:00	Raton	NM	Light	15-20	Green light that turn curves of mountains.	11/3/05	36.905330658,-104.439002991	
+7/15/96 19:30	Alamogordo	NM	Changing	10min	I opened the window to tell my dog to be quiet then about 2 sec later a yellow glowing craft about 70 feet away from me how high it was	8/5/01	32.8992500305,-105.960319519	
+6/15/96 12:00	Carlsbad	NM	Disk		"Flying saucer" in southeastern New Mexico	9/6/02	32.4185905457,-104.229019165	
+4/20/96 00:00	Socorro	NM	Triangle	50 sec.	Triangular shaped object seen over Socorro New Mexico	11/28/07	34.059928894,-106.891838074	
+12/10/95 06:00	Clayton	NM		45 min.	Nurse & daughter see 2 very bright objs. in a.m. sky, flashing red, white, blue lights in constant pattern. Both moved.  Not stars.	11/2/99	36.4519500732,-103.183670044	
+12/4/95 02:00	Deming	NM	Changing	40 -60 Min	Driving I10 west of Las Cruces NM a random shape object visable for more than 60 mins seem to follow my U-Hall truck.	12/7/06	32.268081665,-107.758666992	
+9/5/95 18:00	Albuquerque	NM	Triangle	20 sec.	It moved fast and stopped over my head. Then, it hovered for 10 sec. before it speed off like it had turned. But the object never turne	4/1/00	35.0841789246,-106.648643494	
+8/2/95 19:34	Deming	NM		30 min.	Man sees TV coverage of obj. over Salida, CO (27AU95).  He and many other bus riders W of Deming, NM, saw same object!	11/2/99	32.268081665,-107.758666992	
+7/25/95 09:35	Ocate	NM	Light	2 min	4 observers view 2 point of light above horizon moving erratically up and down.  Darted off very rapidly.  Miltary aircraft buzzed.	8/5/01	36.1727294922,-105.051719666	
+7/1/95 01:00	Farmington	NM	Cone	appx 1 hour	Large white and green object spotted for appx 1 hour.	8/16/02	36.7281417847,-108.205688477	
+6/22/95 13:30	Raton	NM		5 min.	Two men installing TV dish witness strange obj. in clear sky.  No visible wings, exhaust; silent.  Very good view.  Obj. drifted off.	11/2/99	36.905330658,-104.439002991	
+6/15/95 19:30	Albuquerque	NM	Disk	30 sec	Three disk shaped objects appeared to the north. Objects were blue in color, nearly the color of the background sky. They were about ha	11/2/99	35.0841789246,-106.648643494	
+5/28/95 16:00	Deming (south of)	NM	Unknown	2min???	travelling westbound on amtrak.....recorded object on video tape.....never timed it...just guessing....just found your website	11/19/98	32.268081665,-107.758666992	
+5/1/95 12:00	White Sands	NM	Chevron		Large, unusually-shaped metallic object over White Sands NM, May 1995	10/31/08	32.765827179,-106.303939819	
+3/7/95 04:00	Tucumcari	NM		3 sec.	Man at mile marker 337 on I-40 sees strange light in distance descend to horizon.  No tail or explosion.	11/2/99	35.1785507202,-103.724861145	
+2/20/95 13:00	Albuquerque	NM			Retired Sandia Labs. engineer calls seeking plans for building UFO detector.	11/2/99	35.0841789246,-106.648643494	
+2/16/95 19:26	Albuquerque	NM			Man calls to report large disc witnessed by occupants of 7 cars 40 mi. NW of Albuquerque.  Streaks off fast.	11/2/99	35.0841789246,-106.648643494	
+9/1/94 16:00	Tucumcari (on I-40 westbound)	NM	Triangle	3 TO 4 MINUTES	WAS TRAVELING WEST BOUND I-40 WEST OF TUCUMCARI NM AND OBSERVED A TRINGULAR OBJECT MOVING AT MY SPEED CLOSER TO ME THAN THE BACK DROP T	10/2/99	35.1785507202,-103.724861145	
+6/1/94 19:00	Farmington	NM	Triangle	2 minutes	Triangular object seen in Farmington .	12/16/05	36.7281417847,-108.205688477	
+4/30/94 23:55	Capulin Mountain	NM	Sphere	2	Globe shaped object decends at above normal speed, makes impossible turn, and changes colors in flight.	2/18/01	36.7823791504,-103.963813782	
+4/25/94 02:00	Albuquerque	NM	Sphere	3 seconds	Glowing sphere makes figure eight around two people.	7/5/05	35.0841789246,-106.648643494	
+4/24/94 00:01	Albuquerque	NM	Sphere	2-3sec	I was on my way down from the Sandia Mountain peak ( on a tramway) when I saw a bright orange flash and an ornange ball of light speed 	6/2/98	35.0841789246,-106.648643494	
+2/21/94 19:00	New Mexico	NM	Light	10min	flashing bright lights following 60mph auto at its level	3/2/04	32.3068695068,-106.757522583	
+1/3/94 23:30	Albuquerque (30-60 miles west of city)	NM	Triangle	3-4 minutes?	Saw triangular craft approaching from horizon from the N.W., approached slowly, silently, and low to the ground.  Passed directly over 	1/28/99	35.0841789246,-106.648643494	
+11/11/93 22:00	Albuquerque	NM	Triangle	Ten seconds	Triangle.	10/31/03	35.0841789246,-106.648643494	
+11/1/93 23:45	Albuquerque	NM	Cigar	10 min.	A colorful object was hovering over the Petroglyphs, which backed up to my back yard, and it had no sound.	4/2/99	35.0841789246,-106.648643494	
+4/21/93 19:30	Alamogordo	NM	Light	10 minutes	strange, amber lights unlike conventional airplane lights	4/13/10	32.8992500305,-105.960319519	
+3/19/93 15:25	Los Alamos/Pojoaque	NM	Disk	
+	Three very large disks seemed to land in a hole in the ground and could be seen from 15-20 miles away.	7/25/04	35.986579895,-106.080413818	
+11/22/92	Deming (I-10 NEAR, RT 11)	NM	Cigar	KEPT DRIVING	SAW LARGE GRAY CIGAR SHAPED OBJECT HOVERING OVER DESERT AREA SOUTH OF I 10.NOT A BLIMP NO LIGHTS NO CABLES NO MOTORS TO LARGE TO BE ANY	1/22/00	32.268081665,-107.758666992	
+10/11/92 10:00	Albuquerque	NM	Sphere	15 minutes	Six Spheres of light move into my vision over the 92 Albuquerque Balloon Fiesta,then vanish straight up.	3/6/01	35.0841789246,-106.648643494	
+6/15/92 00:30	Tinnie	NM	Formation	3 min.	Lights flying in the formation of the shape of a small aircraft, split into 3-4 seperate and different colored orbs and flew off fast!	10/31/03	33.3700294495,-105.227371216	
+9/1/91 20:30	Holloman AFB	NM	Oval	3 minutes	We were out side talking.  I noticed a star that was orange. Then it began to move at speeds and G's thats humans can't handle.	2/27/00	32.8509864807,-106.101249695	
+6/15/91 11:00	Trementina	NM	Cylinder	5 min	Saw hoverering cylinderical object in the air withkout wings. Saw one small light at the top.	5/24/05	35.5053100586,-104.400588989	
+6/1/91	Rio Rancho	NM	Disk		This picture was at first thought and taken as a spiritual vision re:  Virgin Mary.  A closer look (rotated)reveals that it may be a UF	7/16/06	35.2415885925,-106.66002655	
+5/30/91 09:10	Las Cruces	NM	Fireball	10-15 seconds	a hollow blue ball of lighting that turned to a fireball then took and umbrella shape and loomed for a second then disapeared.	7/16/06	32.306728363,-106.777732849	
+5/5/91 20:30	Grants (southeast of)	NM	Light	2 minutes	bright light travelling normal speed stops above us for minutes then shoots off in nighttime NM sky.	8/28/03	35.1506309509,-107.849876404	
+3/19/91 02:00	Chihuahua Mts (north of, mexican border)	NM	Light	20min	I was conducting survielance for the military on the Mexican border with ground survielance radar, rembass ground sensors, and night vi	11/1/98	34.42137146,-106.108383179	
+7/12/90 11:00	Tularosa	NM	Unknown	16 HRS	IN 1990 I WAS WORKING A MINING CLAIM NORTH WEST OF TULAROSA NM. I WAS ALONE I DONT DRINK OR DO DRUGS. I WAS EATING MY LUNCH AT 1100 THE	8/5/01	33.0728607178,-106.017837524	
+5/28/90 17:00	Sante Fe	NM	Triangle	2 hours	While driving on hwy from east of Santa Fe to Albuquerque I observed large bright white triangular object high in sky for over 2 hours.	10/31/08	35.6915397644,-105.937400818	
+4/27/90 07:20	Datil	NM	Disk	5 seconds	Silver disc flies over mountain in New Mexico dawn April 27, 1990 seen by car driver.	6/9/09	34.144618988,-107.84462738	
+6/20/89 22:45	Albuquerque	NM	Formation	less than 10 minutes	14 lighted objects on a clear night in New Mexico.	8/7/11	35.0841789246,-106.648643494	
+6/1/89 00:00	New Mexico	NM	Sphere	15 minuts	metalic orb huvering above the ground in new mexico	10/31/08	32.3068695068,-106.757522583	
+6/1/89 23:00	Roswell	NM		4 hours	Roswell	1/5/11	33.394821167,-104.522750854	
+11/27/88 21:00	Alamogordo	NM	Light	15-20 minutes	saw 5 objects doing amazing manuevers for 20 minutes	6/12/08	32.8992500305,-105.960319519	
+9/1/88 21:00	Vaughn	NM	Unknown	uncertain	Flashing Lights Surround MY PU TRU:CK	8/12/08	34.6017417908,-105.204460144	
+9/1/88 17:30	Roswell (West side)	NM	Disk	matter of seconds	examples page will not come up	6/12/02	33.394821167,-104.522750854	
+8/20/88 23:00	Farmington	NM	Unknown	8 minutes	Slow moving yellow/orange colored lights above Crouch Mesa	12/7/06	36.7281417847,-108.205688477	
+7/15/88	Corona	NM	Cross	4 min	lights seen outside Corona NM	6/12/08	34.2516212463,-105.594657898	
+6/1/88 21:30	Albuquerque	NM	Sphere	Appx 3 minutes	Silent sphere with multicolored lights floats slowly over Albuquerque then shoots north then west out of sight.	1/5/11	35.0841789246,-106.648643494	
+3/15/88 19:30	Gallup (~10 miles west of on I-40)	NM	Cylinder	1 minute	Driving west on I-40 just after dark, saw lights strobing over median of hwy. Thought it might be a helicopter, but there was no noise 	2/24/01	35.5278396606,-108.743560791	
+10/28/87 20:30	Las Cruces	NM	Changing	30 minutes	Las Cruces lights.	4/27/04	32.306728363,-106.777732849	
+9/20/87 16:00	Santa Fe	NM	Unknown	15 minutes	Groups of bright shiny lights in the sky moving around during the daytime.	4/8/02	35.6915397644,-105.937400818	
+7/15/86 22:00	Pecos	NM	Other		Large craft, suondless hovers quietly  over mountains near Pecos NM	1/19/05	32.6875,-104.29750061	
+7/15/86 19:30	Albuquerque	NM	Chevron	5 min.	My friend and I were relaxing in a park during the summer of 1986 not far from a friends house where we had left about a half hour earl	10/30/06	35.0841789246,-106.648643494	
+7/15/86 07:30	Las Vegas	NM	Changing	around 2-3 minutes	luminous object hangs in air, disappears rapidly in the distance	8/28/03	35.5956802368,-105.216278076	
+8/1/85 01:00	Cimarron	NM	Circle	fifteen minutes	three males observed a low altitude craft pass silently overhead and was then joined by three others in incredible aerial manuevers.  l	12/16/99	36.5108795166,-104.919258118	
+7/14/85 23:00	Carlsbad	NM	Light		This is my UFO experience in 1985 I work for a potash company out of Carlsbad New Mexico is about a 30 min. to the road that heads to t	8/7/11	32.4185905457,-104.229019165	
+9/1/84 21:00	Medanales	NM	Light	1min	tHIS IS ALL I SAW.. LOOKING WEST FROM WINDOW AT NIGHT , I SAW A RED BRILLIANT LIGHT ON LAND ABOUT 11/2 ACRE AWAY. AS I STARED AT THE LI	11/28/07	36.1754188538,-106.183151245	
+7/15/84 02:00	Deming area	NM	Cylinder	one hour+	Cylindrical object hovering above the car as we traveled in the New Mexico desert.	1/21/08	34.42137146,-106.108383179	
+9/15/83 21:00	Clovis	NM	Triangle	5 minutes	it blocked out the stars as it slowly tracked across town towards Cannon AFB, so I could make out its giant triangular shape easily	10/31/08	34.4052314758,-103.205337524	
+12/1/81 19:00	Albuquerque	NM	Rectangle	10 minutes?	Rectangular, checkmark shaped craft in NM near Albu. in Dec. 1981	6/6/00	35.0841789246,-106.648643494	
+7/30/81 19:30	Hobbs	NM	Cone	1 1/2 min	ufo came from thu8nderstorm	2/18/01	32.6965713501,-103.128211975	
+6/18/81 03:00	Mondel	NM	Unknown	10-15 minutes	We did not make out an object, the light was too bright.	1/19/05	32.2604904175,-108.916610718	
+12/1/80 00:01	Roswell	NM			It was back in 1980.....we were four girls driving trough New Mexico, when we suddently saw a light. It was a big flash, and even thoug	12/2/00	33.394821167,-104.522750854	
+7/22/80 23:00	Pecos	NM	Triangle	approx 30 seconds	two florescent triangles, huge	4/16/05	32.6875,-104.29750061	
+12/8/79 20:30	Albuquerque	NM	Circle	10-minutes	The night when I saw the disk UFO!	2/1/07	35.0841789246,-106.648643494	
+1/15/79 20:00	Clines Corners/Tijeras (between)	NM	Triangle	20 - 25 minutes	25 minute event of a Triangle shaped object seen by many on Interstate 40 in New Mexico, between Clines Corner and Tijera,New Mexico	7/28/10	34.42137146,-106.108383179	
+8/7/78 22:00	Pecos	NM	Disk	8 seconds	Carrier craft picks up scout ship	9/24/03	32.6875,-104.29750061	
+7/15/78 00:00	Santa Fe (Pecos Wilderness)	NM	Light	15 mins, plus	Dull red giant "bracelet" at Santa Fe Baldy mountain,summer 1978, Pecos Wilderness, New Mexico	1/19/05	35.6915397644,-105.937400818	
+4/15/78 18:00	Albuquerque	NM	Disk	2 minutes	red glowing object in daytime sky	7/25/04	35.0841789246,-106.648643494	
+4/1/78 04:00	Farmington	NM	Circle	7-10 min.	Daytime ufos that appeared above Farmington New Mexico in 1978.	7/26/02	36.7281417847,-108.205688477	
+7/24/77 07:00	Albuquerque	NM	Oval	1 hour	A gaint greyish football moving through the sky	4/16/05	35.0841789246,-106.648643494	
+7/15/77 21:00	Albuquerque	NM	Chevron	10 minutes	The object appeared to be a giant piece of glass.	4/16/05	35.0841789246,-106.648643494	
+6/15/76 23:00	Hobbs	NM	Flash	1 second	Large Flash of Light observed from an FAA control tower in New Mexico.	3/21/03	32.6965713501,-103.128211975	
+1/6/76 01:00	Cannon AFB	NM	Disk	Weeks	Air Force scrambles armed fighters after "bogeys" and subsequent cover-up (1976)	10/30/06	34.4044189453,-103.318061829	
+6/1/75 22:00	Clovis	NM	Unknown	a few minutes	Saw oscillating light from a distance streak to the left then up and to the right out of sight so fast I could hardly believe what I ha	2/16/99	34.4052314758,-103.205337524	
+6/1/75 18:46	Cannon AFB/Clovis	NM		7+-days	unidentified flying objects sighted around Cannon AFB and Clovis NM. The rough year was 1975/1976.	1/28/99	34.42137146,-106.108383179	
+6/1/75	Clovis (Cannon AFB)	NM	Light	2-3 days	I was stationed at Cannon AFB, NM in the 1970's.  There was a period of approximately one week in which lights appeared over the base f	4/8/02	34.4052314758,-103.205337524	
+6/30/73	Los Alamos	NM			I just read the siting report that you attributed to 1973. A friend of mine told me a story about how he and a group of very smart	1/10/09	35.8806381226,-106.304389954	
+6/15/73 08:00	Los Alamos	NM	Cigar	30 sec.	Has anyone else reported a ufo over LOS ALAMOS NATIONAL LABORATORIES around this time? I know of at least 2 others that saw it. It was 	8/5/01	35.8806381226,-106.304389954	
+3/1/73 01:00	Santa Fe (near, on highway)	NM	Unknown	10 minutes	I had an Out of Body experience while driving down the road at night.	2/12/04	35.6915397644,-105.937400818	
+1/12/73 03:00	Farmington (SE of, deserted area, Hwy 44)	NM	Light	aprox:2-3 min	A large bright light apeared seemingly from nowhere.It followed my 18 wheeler for 1-2 min. then disapeared as quickly. It wasn't a pr. 	11/20/02	36.7281417847,-108.205688477	
+5/1/72 01:00	New Mexico (rural, northern part of)	NM	Unknown	5-10 minutes	Out of Body Experience not caused by drugs	1/31/04	32.3068695068,-106.757522583	
+3/15/72 01:00	Los Lunas	NM	Unknown	20 minutes	What I saw shone a light like I have never seen before or since and aerodynamic capabilities beyond what we have.	4/27/07	34.811630249,-106.74256897	
+12/5/70 20:00	Albuquerque	NM	Other	a few min	1970 Sighting over Kirtland Airforce base in New Mexico.	9/2/05	35.0841789246,-106.648643494	
+9/22/67 22:30	Albuquerque	NM	Unknown	~1hr	A property search and a  "close encounter" with unknowns?	6/18/04	35.0841789246,-106.648643494	
+8/15/67 14:00	Albuquerque	NM	Cigar	half an hour	three terrified kids	9/19/02	35.0841789246,-106.648643494	
+10/21/66 22:15	Santa Fe	NM	Disk	-5 minutes	My sighting in Santa Fe,New Mexico	10/30/06	35.6915397644,-105.937400818	
+10/20/66 02:00	Albuquerque	NM	Diamond	3 minutes	Former wife and I saw a saucer shaped craft, rotating counter clockwise, as seen from under-full moon night, or near- 1/4 to 1/2 mile a	2/16/00	35.0841789246,-106.648643494	
+6/30/66 22:30	Santa Fe	NM	Disk	5 minutes	three eyewitness's and picture in news paper of ufo	1/31/11	35.6915397644,-105.937400818	
+6/30/66 00:01	New Mexico	NM	Disk	15 minutes	followed for about 15 minutes by saucer like object  which disappeared at low level across desert in New Mexico in 1966.	2/14/06	32.3068695068,-106.757522583	
+10/1/65 02:00	Desert	NM	Disk	15 minutes	While traveling at night we saw what appeared to be a glowing dish in the distance about 600 yards away and 200 ft  high. The car light	6/2/98	33.0787162781,-106.062538147	
+8/8/65 12:30	Tularosa	NM	Disk	Five minutes	Object in the skys, 1963 or 65?	11/8/03	33.0728607178,-106.017837524	
+6/20/65 02:00	Albuquerque	NM	Disk	5 minutes	Traveling in a pick up truck, we saw a bright glowing green disk fly over us.  It made the engine & electrical of the truck stop immedi	5/24/99	35.0841789246,-106.648643494	
+6/1/65 05:00	Deming	NM	Disk	6 hous	Just a large round silver disk and acorn type craft hovering low in around the center of Deming in around 1965.	2/14/10	32.268081665,-107.758666992	
+5/15/62 21:00	Acoma	NM	Cylinder	30min.	On this date my Mother and cousin and I were traveling west on the interstate40 ,between albuquerque and the lava fields outside acoma.	1/28/99	34.8964385986,-107.581718445	
+8/20/59 03:00	Lake Bonita	NM	Fireball	0330	it landed and lit up the mountian like day. there were some sort of peoplw with lights that where they put them it wasa like daylight.	11/9/99	33.4558334351,-105.731666565	
+8/15/59 15:00	Roswell	NM	Unknown	45 min.	The experience left everyone in a quandry, and had the effect of trauma suffered.	12/7/06	33.394821167,-104.522750854	
+6/15/53	Roswell	NM		4 hours	My oldest sister was born at Walker AFB (Roswell) NM in 1952, I was born there as well in 1954.  My Dad, now deceased, was an Air Force	2/18/01	33.394821167,-104.522750854	
+11/15/51 06:00	Holloman AFB	NM	Circle	10sec	What I saw was reported in the Albuquerque newspaper as a "green fireball".  It streaked across the proving grounds at a very low eleva	3/21/03	32.8509864807,-106.101249695	
+3/22/50	Roswell	NM			Link to declassified, redacted, USAF document (March 22, 1950),  which alludes to UFO recovery at Roswell, NM.	10/31/08	33.394821167,-104.522750854	
+7/20/47 22:00	Raton/Des Moines	NM	Oval	45 Min	The object followed us (our car) over 40 miles and then stayed 100 feet off the ground for about 10 minutes.  It then went straight up	3/23/04	36.5898780823,-103.614654541	
+7/11/47	Roswell	NM		One hour	Information	6/18/04	33.394821167,-104.522750854	
+7/7/47	Roswell	NM			Roswell dates vs. USAF Question	1/10/09	33.394821167,-104.522750854	
+12/15/45 02:00	Roswell	NM	Sphere	1 minute	Sphere in Roswell. Were aliens looking for thier dead ?	12/23/02	33.394821167,-104.522750854	
+8/16/45 11:30	San Antonio	NM	Oval	8-9 DAYS	THE CRAFT APPEARED TO HAVE DECENDED AT AN ANGL, SKIDDED OVER A HUNDRED YARDS PUSHING THE DIRT IN FRONT OF IT AND BURIED IT'S SELF	11/11/03	33.9177818298,-106.868087769	
+6/1/44 12:00	Los Alamos	NM	Disk	1+ Hour	Disk hovers over Los Alamos during the development of the atomic bombs; pursued by planes.	5/12/09	35.8806381226,-106.304389954	
+4/2/44 11:00	Clovis	NM	Disk	1:30	Saw UFO in 1944 over an airbase in New Mexico, not very far from, Roswell.	4/16/05	34.4052314758,-103.205337524	
+12/00/98 22:30	Santa Fe	NM	Other	1-2min.	Craft floated over, truck stopped, while I was getting truck off road, left.  Truck wouldn't start.  Pieces magnetized and stuck on ins	10/2/99	35.6915397644,-105.937400818	
+july 13:00	Blue Water	NM	Changing	3 hrs	object was bright, not natural, IT was not a planet or star, or weather balloon. I HAVE PHOTO's!	9/17/00	35.2503700256,-107.976699829	
+07/00/84 06:30	Dulce	NM	Disk	6 hrs.	Three saucer shaped craft in a triangular pattern lifting off behind some pinon/juniper tree approximately 20 ft in height. Observered 	12/2/00	36.9336090088,-106.996643066	
