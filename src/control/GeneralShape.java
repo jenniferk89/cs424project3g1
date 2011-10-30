@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public abstract class GeneralShape {
 	private String generalShape;
 	private ArrayList<Sighting> generalSightings;
-	//TODO make color
 
 	public GeneralShape(String generalShape) {
 		super();
