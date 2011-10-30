@@ -1,19 +1,24 @@
 package control;
 
+import GUI.Utils;
+
+import com.modestmaps.core.Point2f;
+import com.modestmaps.geo.Location;
+
 public class Sighting {
 	private Time time;
-	private Location location;
+	private control.Location location;
 	private Shape shape;
 	private String description;
 	private Integer numOfSightings; //affected by granularity of data
-	
+
 	public Sighting() {
 		super();
 	}
-	
-	
 
-	public Sighting(Time time, Location location, Shape shape,
+
+
+	public Sighting(Time time, control.Location location, Shape shape,
 			String description, Integer numOfSightings) {
 		super();
 		this.time = time;
@@ -33,11 +38,11 @@ public class Sighting {
 		this.time = time;
 	}
 
-	public Location getPosition() {
+	public control.Location getPosition() {
 		return location;
 	}
 
-	public void setLocation(Location location) {
+	public void setLocation(control.Location location) {
 		this.location = location;
 	}
 
@@ -64,7 +69,7 @@ public class Sighting {
 	public void setNumOfSightings(Integer numOfSightings) {
 		this.numOfSightings = numOfSightings;
 	}
-	
+
 	public void incNumOfSightings(Integer num){
 		this.numOfSightings += num;
 	}
@@ -76,7 +81,7 @@ public class Sighting {
 		final int prime = 31;
 		int result = 1;
 		result = prime * result
-				+ ((location == null) ? 0 : location.hashCode());
+		+ ((location == null) ? 0 : location.hashCode());
 		result = prime * result + ((shape == null) ? 0 : shape.hashCode());
 		result = prime * result + ((time == null) ? 0 : time.hashCode());
 		return result;
@@ -110,11 +115,18 @@ public class Sighting {
 			return false;
 		return true;
 	}
-	
-	
-	
-	
-	
-	
-	
+
+
+	public void draw(){
+		control.Location p = (control.Location)this.getPosition();
+		com.modestmaps.geo.Location l = new Location((float)p.getLatitude(), (float)p.getLongitude());
+		Shape s = this.getShape();
+		Utils.globalProcessing.fill(255,0,0); //TODO color
+		Point2f p1 = Utils.globalMap.locationPoint(l);
+		Utils.globalProcessing.ellipse(p1.x, p1.y, 3, 3); //should we take into account the number of sightings in that spot?
+	}
+
+
+
+
 }
