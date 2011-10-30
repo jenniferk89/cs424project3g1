@@ -31,6 +31,8 @@ public class MainSketch extends PApplet{
 	PanButton down = new PanButton(14,57,14,14,DOWN);
 	PanButton left = new PanButton(5,41,14,14,LEFT);
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
+	
+    HBar theScroll = new HBar(100,600,25,924);
 
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
@@ -61,14 +63,16 @@ public class MainSketch extends PApplet{
 
 	  // set a default font for labels
 	  font = createFont("Helvetica", 12);
-
+	  
 	  // enable the mouse wheel, for zooming
 	  addMouseWheelListener(new java.awt.event.MouseWheelListener() { 
 	    public void mouseWheelMoved(java.awt.event.MouseWheelEvent evt) { 
 	      mouseWheel(evt.getWheelRotation());
 	    }
 	  }
-	  ); 
+	  );
+	  
+	 
 
 	}
 
@@ -160,7 +164,7 @@ public class MainSketch extends PApplet{
 	    Utils.globalProcessing.fill(255,255,0);
 	    Utils.globalProcessing.textAlign(RIGHT, BOTTOM);
 	    Utils.globalProcessing.text("map: " + location, width-5, height-5);
-
+	    
 	/*
 	    location = new Location(51.500, -0.126);
 	    Point2f p = map.locationPoint(location);
@@ -168,6 +172,7 @@ public class MainSketch extends PApplet{
 	    fill(0,255,128);
 	    stroke(255,255,0);
 	    ellipse(p.x, p.y, 10, 10); */
+	    theScroll.drawContent();
 	  }  
 	  
 	  //println((float)map.sc);
