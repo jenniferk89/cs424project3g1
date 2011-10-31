@@ -1,3 +1,0 @@
-DateTime	City	State	Shape	Duration	Summary	Posted	Coordinates
-10/25/97 22:00	St. Thomas, (U. S. Virgin Islands)	VI	Light	5-8 SECDS	Was staring at a very clear night sky over the Caribbean when overhead I saw what appeared to be a satellite (I see them very often).  	3/7/98	18.3484210968,-64.9367752075	
-01/15/70 22:30	Melbourne (VIC, Australia)	VI	Circle	45 mins	We were sitting outside on a hot night, when one of us observed what looked like a star moving across the sky.	1/28/99	-37.8175315857,144.967147827	
