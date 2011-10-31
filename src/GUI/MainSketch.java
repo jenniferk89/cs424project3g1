@@ -42,7 +42,7 @@ public class MainSketch extends PApplet{
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
 
 	HBar theScroll = new HBar(250,600,600,25);
-	
+	CircleButton mycb;
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
 			in, out, up, down, left, right };
@@ -71,7 +71,7 @@ public class MainSketch extends PApplet{
 		Utils.globalMap = map;
 		
 		theMenu = new Menu(200);
-		
+		mycb = new CircleButton (50,50,50,50,50);
 		
 		//set the colors //TODO crappy colors
 		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
@@ -193,6 +193,7 @@ public class MainSketch extends PApplet{
 		for(WeatherStation w: Utils.allWeatherStations)
 			w.draw();
 		
+		mycb.display();
 		/*int min = Utils.allSightings.get(0).getNumOfSightings();
 		int max = Utils.allSightings.get(0).getNumOfSightings();
 		for(Sighting s: Utils.allSightings){
