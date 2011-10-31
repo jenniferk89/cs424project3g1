@@ -70,10 +70,10 @@ public class MainSketch extends PApplet{
 		// create a new map, optionally specify a provider
 		map = new InteractiveMap(this, new Microsoft.RoadProvider());
 		Utils.globalMap = map;
-		
+
 		theMenu = new Menu(200);
 		mycb = new CircleButton (50,50,50,50,50);
-		
+
 
 		Utils.showGraph = false;
 
@@ -189,17 +189,11 @@ public class MainSketch extends PApplet{
 
 		//Utils.globalProcessing.smooth();
 
-		if(!Utils.showGraph){
-			//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
-			/*for(Airport a: Utils.allAirports)
-			a.draw();*/
-			/*for(MilitaryBase mb: Utils.allBases)
-			mb.draw();
-			 */
-			/*for(WeatherStation w: Utils.allWeatherStations)
-				w.draw();
-			 */
-			ArrayList<Sighting> dataToPlot = new ArrayList<Sighting>();
+		
+		ArrayList<Sighting> dataToPlot = new ArrayList<Sighting>();
+		if(theMenu.buttonAll.pressed)
+			dataToPlot = Utils.allSightings;
+		else{
 			if(theMenu.buttonLight.pressed){
 				GeneralShape light = Utils.returnGeneralShape("light");
 				dataToPlot.addAll(light.getGeneralSightings());
@@ -207,7 +201,7 @@ public class MainSketch extends PApplet{
 
 			if(theMenu.buttonRound.pressed){
 				GeneralShape gs = Utils.returnGeneralShape("round");
-				
+
 				dataToPlot.addAll(gs.getGeneralSightings());
 			}
 			if(theMenu.buttonArrow.pressed){
@@ -230,9 +224,22 @@ public class MainSketch extends PApplet{
 				GeneralShape gs = Utils.returnGeneralShape("other");
 				dataToPlot.addAll(gs.getGeneralSightings());
 			}
+		}
+		dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
+		
+		
+		if(!theMenu.buttonGraph.pressed){
+			//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
+			/*for(Airport a: Utils.allAirports)
+			a.draw();*/
+			/*for(MilitaryBase mb: Utils.allBases)
+			mb.draw();
+			 */
+			/*for(WeatherStation w: Utils.allWeatherStations)
+				w.draw();
+			 */
 			
-			dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
-			
+
 			/*int min = Utils.allSightings.get(0).getNumOfSightings();
 		int max = Utils.allSightings.get(0).getNumOfSightings();
 		for(Sighting s: Utils.allSightings){
@@ -262,10 +269,9 @@ public class MainSketch extends PApplet{
 			}
 		}
 
-		if(Utils.showGraph){
+		if(theMenu.buttonGraph.pressed){
 			ArrayList<Sighting> list = new ArrayList<Sighting>();
-			for(int i = 0; i < 100; i++)
-				list.add(Utils.allSightings.get(i));
+			list.addAll(dataToPlot);
 			ParallelGraph.draw(list);
 		}
 
@@ -406,7 +412,7 @@ public class MainSketch extends PApplet{
 		else if (right.mouseOver()) {
 			map.panRight();
 		}
-		
+
 		if (theMenu.buttonLight.mouseOver()){
 			if(theMenu.buttonLight.pressed == false)
 				theMenu.buttonLight.pressed = true;
@@ -420,14 +426,14 @@ public class MainSketch extends PApplet{
 			else if (theMenu.buttonRound.pressed == true)
 				theMenu.buttonRound.pressed = false;
 		}
-		
+
 		if (theMenu.buttonArrow.mouseOver()){
 			if(theMenu.buttonArrow.pressed == false)
 				theMenu.buttonArrow.pressed = true;
 			else if (theMenu.buttonArrow.pressed == true)
 				theMenu.buttonArrow.pressed = false;
 		}
-		
+
 		if (theMenu.buttonPolygon.mouseOver()){
 			if(theMenu.buttonPolygon.pressed == false)
 				theMenu.buttonPolygon.pressed = true;
@@ -441,7 +447,7 @@ public class MainSketch extends PApplet{
 			else if (theMenu.buttonFormation.pressed == true)
 				theMenu.buttonFormation.pressed = false;
 		}
-		
+
 		if (theMenu.buttonChanging.mouseOver()){
 			if(theMenu.buttonChanging.pressed == false)
 				theMenu.buttonChanging.pressed = true;

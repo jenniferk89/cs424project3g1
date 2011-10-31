@@ -9,10 +9,10 @@ import control.*;
 public class ParallelGraph {
 
 	public static void draw(ArrayList<Sighting> data){ //TODO refine and make better with relationships
-		int backgroundColor = Utils.globalProcessing.color(120, 120, 120, 50);
+		int backgroundColor = Utils.globalProcessing.color(120, 120, 120);
 		Utils.globalProcessing.fill(backgroundColor);
 
-		Utils.globalProcessing.rect(200, 0, 1024, 768);
+		Utils.globalProcessing.rect(300, 0, 1024, 768);
 		//Utils.globalProcessing.rectMode(Utils.globalProcessing.CORNERS);
 		ArrayList<Shape> shapes = new ArrayList<Shape>();
 		ArrayList<Time> times = new ArrayList<Time>();
