@@ -8,6 +8,7 @@ public class Shape extends GeneralShape {
 
 	public Shape(String shape) {
 		super("other");
+		sightings = new ArrayList<Sighting>();
 		this.shape = shape;
 		String general;
 		if(shape.equalsIgnoreCase("flash") || shape.equalsIgnoreCase("light") || shape.equalsIgnoreCase("flare") || shape.equalsIgnoreCase("fireball"))

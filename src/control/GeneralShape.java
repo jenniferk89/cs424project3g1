@@ -14,7 +14,8 @@ public abstract class GeneralShape {
 	public GeneralShape(String generalShape) {
 		super();
 		this.generalShape = generalShape;
-
+		generalSightings = new ArrayList<Sighting>();
+		
 		//manage color based by shape
 		if(generalShape.equals("light"))
 			this.color = Utils.lightColor;
@@ -76,9 +77,14 @@ public abstract class GeneralShape {
 		return result;
 	}
 
+	
 
 
 
+
+	public void setGeneralSightings(ArrayList<Sighting> generalSightings) {
+		this.generalSightings = generalSightings;
+	}
 
 	public int getColor() {
 		return color;

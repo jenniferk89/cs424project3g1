@@ -6,7 +6,7 @@ import control.City;
 import control.County;
 import control.Import;
 import control.Shape;
-import control.Sighting;
+import control.*;
 import control.State;
 import control.Test;
 import processing.core.*;
@@ -59,6 +59,7 @@ public class MainSketch extends PApplet{
 		Utils.allCounties = new ArrayList<County>();
 		Utils.allCities = new ArrayList<City>();
 		Utils.allShapes = new ArrayList<Shape>();
+		Utils.allGeneralShapes = new ArrayList<GeneralShape>();
 		// create a new map, optionally specify a provider
 		map = new InteractiveMap(this, new Microsoft.RoadProvider());
 		Utils.globalMap = map;
@@ -75,8 +76,10 @@ public class MainSketch extends PApplet{
 		
 		
 		
-		map.MAX_IMAGES_TO_KEEP = 128; //using less images to preserve heap space
-		Import.ufoHandler("ndxlAL.html.txt");
+		map.MAX_IMAGES_TO_KEEP = 80; //using less images to preserve heap space
+		Import.createStates("States.txt");
+		Import.ufoHandler("all.txt");
+		/*Import.ufoHandler("ndxlAL.html.txt");
 		Import.ufoHandler("ndxlAR.html.txt");
 		Import.ufoHandler("ndxlAZ.html.txt");
 		Import.ufoHandler("ndxlCA.html.txt");
@@ -128,7 +131,7 @@ public class MainSketch extends PApplet{
 		Import.ufoHandler("ndxlWA.html.txt");
 		Import.ufoHandler("ndxlWI.html.txt");
 		Import.ufoHandler("ndxlWV.html.txt");
-		Import.ufoHandler("ndxlWY.html.txt");
+		Import.ufoHandler("ndxlWY.html.txt");*/
 		// others would be "new Microsoft.HybridProvider()" or "new Microsoft.AerialProvider()"
 		// the Google ones get blocked after a few hundred tiles
 		// the Yahoo ones look terrible because they're not 256px squares :)
