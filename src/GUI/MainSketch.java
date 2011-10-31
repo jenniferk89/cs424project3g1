@@ -95,7 +95,7 @@ public class MainSketch extends PApplet{
 		Import.militaryBasesHandler("militaryBases.txt");
 		Import.airportHandler("airports.txt");
 		Import.ufoHandler("all.txt");
-		
+		Import.mergeDatasets();
 		/*Import.ufoHandler("ndxlAL.html.txt");
 		Import.ufoHandler("ndxlAR.html.txt");
 		Import.ufoHandler("ndxlAZ.html.txt");
