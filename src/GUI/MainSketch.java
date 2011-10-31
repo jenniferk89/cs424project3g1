@@ -94,7 +94,6 @@ public class MainSketch extends PApplet{
 		Import.ufoHandler("ndxlNC.html.txt");
 		Import.ufoHandler("ndxlND.html.txt");
 		Import.ufoHandler("ndxlNE.html.txt");
-		Import.ufoHandler("ndxlNF.html.txt");
 		Import.ufoHandler("ndxlNH.html.txt");
 		Import.ufoHandler("ndxlNJ.html.txt");
 		Import.ufoHandler("ndxlNM.html.txt");
