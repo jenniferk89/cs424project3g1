@@ -1,8 +1,13 @@
 package control;
 
+import GUI.Utils;
+
+import com.modestmaps.core.Point2f;
+import com.modestmaps.geo.Location;
+
 public class Sighting {
 	private Time time;
-	private Location location;
+	private control.Location location;
 	private Shape shape;
 	private String description;
 	private Integer numOfSightings; //affected by granularity of data
@@ -13,7 +18,7 @@ public class Sighting {
 	
 	
 
-	public Sighting(Time time, Location location, Shape shape,
+	public Sighting(Time time, control.Location location, Shape shape,
 			String description, Integer numOfSightings) {
 		super();
 		this.time = time;
@@ -33,11 +38,11 @@ public class Sighting {
 		this.time = time;
 	}
 
-	public Location getPosition() {
+	public control.Location getPosition() {
 		return location;
 	}
 
-	public void setLocation(Location location) {
+	public void setLocation(control.Location location) {
 		this.location = location;
 	}
 
@@ -112,7 +117,14 @@ public class Sighting {
 	}
 	
 	
-	
+	public void draw(int min, int max){
+		control.Location here = this.getPosition();
+		Location l = new Location((float)here.getLatitude(), (float)here.getLongitude());
+		Utils.globalProcessing.fill(this.getShape().getColor());
+		Point2f p = Utils.globalMap.locationPoint(l);
+		float dimension = Utils.globalProcessing.map(this.getNumOfSightings(), min, max, 3, 12);
+		Utils.globalProcessing.ellipse(p.x, p.y, dimension, dimension);
+	}
 	
 	
 	

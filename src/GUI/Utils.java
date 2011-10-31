@@ -2,6 +2,8 @@ package GUI;
 
 import java.util.ArrayList;
 
+import com.modestmaps.InteractiveMap;
+
 import control.*;
 
 
@@ -13,6 +15,7 @@ import processing.core.PApplet;
 
 public class Utils {
 	public static PApplet globalProcessing;
+	public static InteractiveMap globalMap;
 	public static ArrayList<Sighting> allSightings;
 	public static ArrayList<Location> allLocations;
 	public static ArrayList<State> allStates;
@@ -34,10 +37,20 @@ public class Utils {
 	public int timeAggregationLevel;
 	//time different levels
 	public static final int DAY = 0;
-	public static final int WEEK = 0;
-	public static final int MONTH = 0;
-	public static final int YEAR = 0;
-    //From http://en.wikipedia.org/wiki/Haversine_formula
+	public static final int WEEK = 1;
+	public static final int MONTH = 2;
+	public static final int YEAR = 3;
+    
+	public static int lightColor;
+	public static int roundColor;
+	public static int arrowColor;
+	public static int polygonColor;
+	public static int formationColor;
+	public static int changingColor;
+	public static int otherColor;
+	
+	
+	//From http://en.wikipedia.org/wiki/Haversine_formula
     public double haversine(double lat1, double lng1, double lat2, double lng2) {
         double dLat = Math.toRadians(lat2 - lat1);
         double dLon = Math.toRadians(lng2 - lng1);

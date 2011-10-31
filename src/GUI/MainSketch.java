@@ -61,7 +61,20 @@ public class MainSketch extends PApplet{
 		Utils.allShapes = new ArrayList<Shape>();
 		// create a new map, optionally specify a provider
 		map = new InteractiveMap(this, new Microsoft.RoadProvider());
-
+		Utils.globalMap = map;
+		
+		//set the colors
+		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
+		Utils.roundColor = Utils.globalProcessing.color(239, 234, 91);
+		Utils.arrowColor = Utils.globalProcessing.color(42, 134, 72);
+		Utils.polygonColor = Utils.globalProcessing.color(50, 40, 234);
+		Utils.formationColor = Utils.globalProcessing.color(205, 131, 223);
+		Utils.otherColor = Utils.globalProcessing.color(123, 159, 163);
+		Utils.changingColor = Utils.globalProcessing.color(195, 147, 109);
+		
+		
+		
+		
 		map.MAX_IMAGES_TO_KEEP = 128; //using less images to preserve heap space
 		Import.ufoHandler("ndxlAL.html.txt");
 		Import.ufoHandler("ndxlAR.html.txt");
@@ -73,7 +86,7 @@ public class MainSketch extends PApplet{
 		Import.ufoHandler("ndxlDE.html.txt");
 		Import.ufoHandler("ndxlFL.html.txt");
 		Import.ufoHandler("ndxlGA.html.txt");
-/*		Import.ufoHandler("ndxlHI.html.txt");
+		Import.ufoHandler("ndxlHI.html.txt");
 		Import.ufoHandler("ndxlIA.html.txt");
 		Import.ufoHandler("ndxlID.html.txt");
 		Import.ufoHandler("ndxlIL.html.txt");
@@ -115,7 +128,7 @@ public class MainSketch extends PApplet{
 		Import.ufoHandler("ndxlWA.html.txt");
 		Import.ufoHandler("ndxlWI.html.txt");
 		Import.ufoHandler("ndxlWV.html.txt");
-		Import.ufoHandler("ndxlWY.html.txt");*/
+		Import.ufoHandler("ndxlWY.html.txt");
 		// others would be "new Microsoft.HybridProvider()" or "new Microsoft.AerialProvider()"
 		// the Google ones get blocked after a few hundred tiles
 		// the Yahoo ones look terrible because they're not 256px squares :)
@@ -152,12 +165,18 @@ public class MainSketch extends PApplet{
 
 		//Utils.globalProcessing.smooth();
 
+		int min = Utils.allSightings.get(0).getNumOfSightings();
+		int max = Utils.allSightings.get(0).getNumOfSightings();
+		for(Sighting s: Utils.allSightings){
+			if(s.getNumOfSightings()>max)
+				max = s.getNumOfSightings();
+			else if(s.getNumOfSightings()<min)
+				min = s.getNumOfSightings();
+		}
+		
 		for(int i = 0; i < Utils.allSightings.size(); i++){
 			Sighting s = Utils.allSightings.get(i);
-			Location l = new Location((float)s.getPosition().getLatitude(), (float)s.getPosition().getLongitude());
-			Utils.globalProcessing.fill(255,0,0);
-			Point2f p = map.locationPoint(l);
-			Utils.globalProcessing.ellipse(p.x, p.y, 3, 3);
+			s.draw(min, max);
 			//System.out.println(p.x);
 		}
 		
