@@ -455,6 +455,13 @@ public class MainSketch extends PApplet{
 			else if (theMenu.buttonGraph.pressed == true)
 				theMenu.buttonGraph.pressed = false;
 		}
+
+		if (theMenu.buttonOther.mouseOver()){
+			if(theMenu.buttonOther.pressed == false)
+				theMenu.buttonOther.pressed = true;
+			else if (theMenu.buttonOther.pressed == true)
+				theMenu.buttonOther.pressed = false;
+		}
 	}
 	/*	
 
