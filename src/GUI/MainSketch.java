@@ -1,14 +1,11 @@
 package GUI;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 
-import control.City;
-import control.County;
-import control.Import;
-import control.Shape;
 import control.*;
-import control.State;
-import control.Test;
 import processing.core.*;
 import com.modestmaps.InteractiveMap;
 import com.modestmaps.StaticMap;
@@ -16,7 +13,8 @@ import com.modestmaps.core.Coordinate;
 import com.modestmaps.core.Point2f;
 import com.modestmaps.geo.Location;
 import com.modestmaps.providers.*;
-
+import controlP5.ControlP5;
+import controlP5.Textfield;
 
 public class MainSketch extends PApplet{
 
@@ -31,7 +29,7 @@ public class MainSketch extends PApplet{
 
 	// this is the only bit that's needed to show a map:
 	InteractiveMap map;
-
+	
 	Menu theMenu;
 	// buttons take x,y and width,height:
 	ZoomButton out = new ZoomButton(5,5,14,14,false);
@@ -42,17 +40,32 @@ public class MainSketch extends PApplet{
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
 
 	HBar theScroll = new HBar(250,600,600,25);
-	
+	ControlP5 controlP5;
+	String textValue = "MM/dd/YYYY";
+	Textfield startDatefield;
+	Textfield endDatefield;
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
 			in, out, up, down, left, right };
 
 	PFont font;
-
+	int startDateMonth;
+	int startDateYear;
+	int startDateDay;
+	int endDateMonth;
+	int endDateYear;
+	int endDateDay;
+	
 	boolean gui = true;
-
+	SimpleDateFormat format = new SimpleDateFormat("MM/dd/yyyy");
 	public void setup() {
-
+		//Text fields for start and end date.
+		
+		controlP5 = new ControlP5(this);
+		startDatefield = controlP5.addTextfield("Start",10,670,70,20);
+		endDatefield = controlP5.addTextfield("End",10,720,70,20);
+		
+		
 		Utils.globalProcessing = this;
 		Utils.globalProcessing.size(1024, 768);
 		Utils.globalProcessing.smooth();
@@ -380,7 +393,34 @@ public class MainSketch extends PApplet{
 	}
 
 	 */
-
+	@SuppressWarnings("deprecation")
+	public void Start(String theText) {
+		Date result = null;
+		 try {
+			result = format.parse(theText);
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		 
+		 endDateDay = result.getDay();
+		 endDateMonth = result.getMonth();
+		 endDateYear = result.getYear();
+		}
+	@SuppressWarnings("deprecation")
+	public void End(String theText) {
+		Date result = null;
+		 try {
+			result = format.parse(theText);
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		 
+		 startDateDay = result.getDay();
+		 startDateMonth = result.getMonth();
+		 startDateYear = result.getYear();
+		}
 
 	public static void main(String [] args) {
 		PApplet.main(new String[] { "--present", "MainSketch" });
