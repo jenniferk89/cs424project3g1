@@ -25,6 +25,7 @@ public class Utils {
 	public static ArrayList<MilitaryBase> allBases; //are belong to us
 	public static ArrayList<Shape> allShapes;
 	public static ArrayList<GeneralShape> allGeneralShapes;
+	public static ArrayList<WeatherStation> allWeatherStations;
 	 
 	public static final int DEFAULT_RADIUS = 50; //50 miles as default
 	public double radius = DEFAULT_RADIUS;
@@ -49,6 +50,9 @@ public class Utils {
 	public static int formationColor;
 	public static int changingColor;
 	public static int otherColor;
+	public static int militaryBaseColor;
+	public static int AirportColor;
+	public static int weatherStationColor;
 	
 	
 	//From http://en.wikipedia.org/wiki/Haversine_formula

@@ -8,12 +8,12 @@ import com.modestmaps.geo.Location;
 import GUI.Drawable;
 import GUI.Utils;
 
-public class Airport extends control.Location implements Drawable{
+public class WeatherStation extends control.Location implements Drawable{
 	private ArrayList<Sighting> nearSightings;
 
 
 	
-	public Airport(String name, double latitude, double longitude) {
+	public WeatherStation(String name, double latitude, double longitude) {
 		super(name, latitude, longitude);
 		nearSightings = new ArrayList<Sighting>();
 	}
@@ -28,12 +28,18 @@ public class Airport extends control.Location implements Drawable{
 	
 	public void draw(){
 		Location l = new Location((float)super.getLatitude(), (float)super.getLongitude());
+		Utils.globalProcessing.strokeWeight(2);
+		Utils.globalProcessing.stroke(Utils.weatherStationColor);
 		Point2f p = Utils.globalMap.locationPoint(l);
-		Utils.globalProcessing.fill(Utils.AirportColor);
-		Utils.globalProcessing.stroke(Utils.AirportColor);
-		Utils.globalProcessing.triangle(p.x, p.y+1, p.x-2, p.y-2, p.x+2, p.y-2);
+		Utils.globalProcessing.beginShape();
+		Utils.globalProcessing.vertex(p.x-2, p.y-2);
+		Utils.globalProcessing.vertex(p.x+2, p.y+2);
+		Utils.globalProcessing.endShape();
+		Utils.globalProcessing.beginShape();
+		Utils.globalProcessing.vertex(p.x+2, p.y-2);
+		Utils.globalProcessing.vertex(p.x-2, p.y+2);
+		Utils.globalProcessing.endShape();
+		Utils.globalProcessing.strokeWeight(1);
 		Utils.globalProcessing.noStroke();
-		Utils.globalProcessing.noFill();
-		//Utils.globalProcessing.strokeWeight(1);
 	}
 }
