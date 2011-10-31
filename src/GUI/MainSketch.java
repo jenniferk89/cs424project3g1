@@ -21,13 +21,14 @@ import com.modestmaps.providers.*;
 public class MainSketch extends PApplet{
 
 
+
 	//
 	// This is a test of the interactive Modest Maps library for Processing
 	// the modestmaps.jar in the code folder of this sketch might not be 
 	// entirely up to date - you have been warned!
 	//
 
-	
+
 
 	// this is the only bit that's needed to show a map:
 	InteractiveMap map;
@@ -73,6 +74,9 @@ public class MainSketch extends PApplet{
 		theMenu = new Menu(200);
 		
 		
+
+		Utils.showGraph = false;
+
 		//set the colors //TODO crappy colors
 		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
 		Utils.roundColor = Utils.globalProcessing.color(239, 234, 91);
@@ -84,9 +88,9 @@ public class MainSketch extends PApplet{
 		Utils.militaryBaseColor = Utils.globalProcessing.color(255, 0, 0);
 		Utils.AirportColor = Utils.globalProcessing.color(0, 120, 120, 45);
 		Utils.weatherStationColor = Utils.globalProcessing.color(120, 120, 0, 20);
-		
-		
-		
+
+
+
 		map.MAX_IMAGES_TO_KEEP = 80; //using less images to preserve heap space
 		Import.createStates("States.txt");
 		Import.weatherStationHandler("weatherStation.txt");
@@ -185,17 +189,51 @@ public class MainSketch extends PApplet{
 
 		//Utils.globalProcessing.smooth();
 
-		
-		//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
-		/*for(Airport a: Utils.allAirports)
+		if(!Utils.showGraph){
+			//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
+			/*for(Airport a: Utils.allAirports)
 			a.draw();*/
-		/*for(MilitaryBase mb: Utils.allBases)
+			/*for(MilitaryBase mb: Utils.allBases)
 			mb.draw();
-		*/
-		for(WeatherStation w: Utils.allWeatherStations)
-			w.draw();
-		
-		/*int min = Utils.allSightings.get(0).getNumOfSightings();
+			 */
+			/*for(WeatherStation w: Utils.allWeatherStations)
+				w.draw();
+			 */
+			ArrayList<Sighting> dataToPlot = new ArrayList<Sighting>();
+			if(theMenu.buttonLight.pressed){
+				GeneralShape light = Utils.returnGeneralShape("light");
+				dataToPlot.addAll(light.getGeneralSightings());
+			}
+
+			if(theMenu.buttonRound.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("round");
+				
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonArrow.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("arrow");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonPolygon.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("polygon");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonFormation.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("formation");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonChanging.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("changing");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonOther.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("other");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			
+			dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
+			
+			/*int min = Utils.allSightings.get(0).getNumOfSightings();
 		int max = Utils.allSightings.get(0).getNumOfSightings();
 		for(Sighting s: Utils.allSightings){
 			if(s.getNumOfSightings()>max)
@@ -203,16 +241,16 @@ public class MainSketch extends PApplet{
 			else if(s.getNumOfSightings()<min)
 				min = s.getNumOfSightings();
 		}
-		
+
 		for(int i = 0; i < Utils.allSightings.size(); i++){
 			Sighting s = Utils.allSightings.get(i);
 			s.draw(min, max);
 			//System.out.println(p.x);
 		}*/
-		
-		
-		
-		
+
+
+		}
+
 		theScroll.drawContent();
 		theMenu.drawContent();
 		// draw all the buttons and check for mouse-over
@@ -224,6 +262,12 @@ public class MainSketch extends PApplet{
 			}
 		}
 
+		if(Utils.showGraph){
+			ArrayList<Sighting> list = new ArrayList<Sighting>();
+			for(int i = 0; i < 100; i++)
+				list.add(Utils.allSightings.get(i));
+			ParallelGraph.draw(list);
+		}
 
 
 		// if we're over a button, use the finger pointer
@@ -289,7 +333,7 @@ public class MainSketch extends PApplet{
 	    fill(0,255,128);
 	    stroke(255,255,0);
 	    ellipse(p.x, p.y, 10, 10); */
-			
+
 		}  
 
 		//println((float)map.sc);
@@ -339,7 +383,7 @@ public class MainSketch extends PApplet{
 		else if (delta < 0) {
 			map.sc *= 1.0/1.05; 
 		}
-	
+
 	}
 
 	// see if we're over any buttons, and respond accordingly:
