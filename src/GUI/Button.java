@@ -53,7 +53,12 @@ class Button extends PApplet {
 	    }
 	  }
 	  
-
+	  Button(float x, float y, float w, float h) {
+	    this.x = x;
+	    this.y = y;
+	    this.w = w;
+	    this.h = h;
+	  } 
 	  
 	  boolean mouseOver() {
 	    return (Utils.globalProcessing.mouseX > x && Utils.globalProcessing.mouseX < x + w && Utils.globalProcessing.mouseY > y && Utils.globalProcessing.mouseY < y + h);
@@ -72,10 +77,7 @@ class Button extends PApplet {
 	  boolean in = false;
 	  
 	  ZoomButton(float x, float y, float w, float h, boolean in) {
-		    this.x = x;
-		    this.y = y;
-		    this.w = w;
-		    this.h = h;
+	    super(x, y, w, h);
 	    this.in = in;
 	  }
 	  
@@ -95,10 +97,7 @@ class Button extends PApplet {
 	  int dir = UP;
 	  
 	  PanButton(float x, float y, float w, float h, int dir) {
-		    this.x = x;
-		    this.y = y;
-		    this.w = w;
-		    this.h = h;
+	    super(x, y, w, h);
 	    this.dir = dir;
 	  }
 	  
@@ -133,13 +132,10 @@ class Button extends PApplet {
 	  
 	  class CircleButton extends Button
 	  { 
-		int ihighlight = Utils.globalProcessing.color(128, 128, 0);
+		  int ihighlight = Utils.globalProcessing.color(128, 128, 0);
 	    CircleButton(float ix, float iy, int isize, int icolor, int ihighlight) 
 	    {
-	    	x = ix;
-	    	y = iy;
-	    	size = isize;
-	    	basecolor = icolor;
+	    	super(ix,iy,isize,icolor);
 	    	this.ihighlight = ihighlight;
 	    }
 
@@ -155,11 +151,11 @@ class Button extends PApplet {
 	      }
 	    }
 
-	    public void display() 
+	    void display() 
 	    {
-	      Utils.globalProcessing.stroke(255);
-	      Utils.globalProcessing.fill(currentcolor);
-	      Utils.globalProcessing.ellipse(x, y, size, size);
+	      stroke(255);
+	      fill(currentcolor);
+	      ellipse(x, y, size, size);
 	    }
 	  }
 	

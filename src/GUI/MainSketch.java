@@ -195,7 +195,6 @@ public class MainSketch extends PApplet{
 		for(WeatherStation w: Utils.allWeatherStations)
 			w.draw();
 		
-		mycb.display();
 		/*int min = Utils.allSightings.get(0).getNumOfSightings();
 		int max = Utils.allSightings.get(0).getNumOfSightings();
 		for(Sighting s: Utils.allSightings){
