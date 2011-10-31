@@ -420,7 +420,7 @@ public class Import {
 			a = (Airport)Utils.findNearestLocation(c, list);
 			//System.out.println("found");
 			c.setDistanceAirport((float)Utils.haversine(c.getLatitude(), c.getLongitude(), a.getLatitude(), a.getLongitude()));
-			System.out.println(c.getDistanceAirport());
+			//System.out.println(c.getDistanceAirport());
 			c.setAirport(a);
 			for(Sighting s: c.getSightings())
 				a.addNearSightings(s);

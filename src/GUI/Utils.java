@@ -26,7 +26,9 @@ public class Utils {
 	public static ArrayList<Shape> allShapes;
 	public static ArrayList<GeneralShape> allGeneralShapes;
 	public static ArrayList<WeatherStation> allWeatherStations;
-
+	
+	
+	public static boolean showGraph;
 	public static final int DEFAULT_RADIUS = 50; //50 miles as default
 	public double radius = DEFAULT_RADIUS;
 	public static Location centerLocation;
