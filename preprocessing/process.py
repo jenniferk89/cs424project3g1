@@ -6,7 +6,10 @@ import re
 
 from geopy import geocoders
 import codecs
-g = geocoders.GeoNames()
+
+g = geocoders.Bing('ArmauG20ATPgdlu1RYF1s1MfZGxS5ZhdtdYO1555qmzNgMB5Y1swAU6Gn8TDciXE')
+
+#g = geocoders.GeoNames()
 path = '/Users/zitterbewegung/Dropbox/school/cs424/project3/www.nuforc.org/webreports/'
 listing = os.listdir(path)
 def get_text(el, class_name):
@@ -44,7 +47,12 @@ for infile in listing:
                     string = string + "\n"
                     continue
                 templist = list(g.geocode(city + "," + state, exactly_one=False))
-                
+                if(templist == []):
+                    print city
+                    print state
+                    counter = 1
+                    string = string + "\n"
+                    continue
                 string = string + str(templist[0][1][0]) + "," + str(templist[0][1][1]) + "\t"
                 string = string + "\n"
                 counter = 0
