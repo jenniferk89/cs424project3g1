@@ -2,13 +2,35 @@ package control;
 
 import java.util.ArrayList;
 
+import GUI.Utils;
+
 public abstract class GeneralShape {
 	private String generalShape;
 	private ArrayList<Sighting> generalSightings;
+	private int color;
+
+
 
 	public GeneralShape(String generalShape) {
 		super();
 		this.generalShape = generalShape;
+
+		//manage color based by shape
+		if(generalShape.equals("light"))
+			this.color = Utils.lightColor;
+		else if(generalShape.equals("round"))
+			this.color = Utils.roundColor;
+		else if(generalShape.equals("arrow"))
+			this.color = Utils.arrowColor;
+		else if(generalShape.equals("polygon"))
+			this.color = Utils.polygonColor;
+		else if(generalShape.equals("formation"))
+			this.color = Utils.formationColor;
+		else if(generalShape.equals("changing"))
+			this.color = Utils.changingColor;
+		else
+			this.color = Utils.otherColor;
+
 		generalSightings = new ArrayList<Sighting>();
 	}
 
@@ -18,9 +40,24 @@ public abstract class GeneralShape {
 
 	public void setGeneralShape(String generalShape) {
 		this.generalShape = generalShape;
+		//manage color based by shape
+		if(generalShape.equals("light"))
+			this.color = Utils.lightColor;
+		else if(generalShape.equals("round"))
+			this.color = Utils.roundColor;
+		else if(generalShape.equals("arrow"))
+			this.color = Utils.arrowColor;
+		else if(generalShape.equals("polygon"))
+			this.color = Utils.polygonColor;
+		else if(generalShape.equals("formation"))
+			this.color = Utils.formationColor;
+		else if(generalShape.equals("changing"))
+			this.color = Utils.changingColor;
+		else
+			this.color = Utils.otherColor;
 	}
-	
-	
+
+
 
 	public ArrayList<Sighting> getGeneralSightings() {
 		return generalSightings;
@@ -35,8 +72,20 @@ public abstract class GeneralShape {
 		final int prime = 31;
 		int result = 1;
 		result = prime * result
-				+ ((generalShape == null) ? 0 : generalShape.hashCode());
+		+ ((generalShape == null) ? 0 : generalShape.hashCode());
 		return result;
+	}
+
+
+
+
+
+	public int getColor() {
+		return color;
+	}
+
+	public void setColor(int color) {
+		this.color = color;
 	}
 
 	@Override
@@ -60,8 +109,8 @@ public abstract class GeneralShape {
 	public String toString() {
 		return "generalShape= " + generalShape;
 	}
-	
-	
-	
-	
+
+
+
+
 }

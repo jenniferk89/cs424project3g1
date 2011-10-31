@@ -7,9 +7,30 @@ public class Shape extends GeneralShape {
 	private ArrayList<Sighting> sightings;
 
 	public Shape(String shape) {
-		//TODO make a mapping function from shape to generalShape
-		super("Goofy");
+		super("other");
 		this.shape = shape;
+		String general;
+		if(shape.equalsIgnoreCase("flash") || shape.equalsIgnoreCase("light") || shape.equalsIgnoreCase("flare") || shape.equalsIgnoreCase("fireball"))
+			general  = new String("light");
+		else if(shape.equalsIgnoreCase("round") || shape.equalsIgnoreCase("disk") || shape.equalsIgnoreCase("sphere") || shape.equalsIgnoreCase("circle")||
+				shape.equalsIgnoreCase("egg") || shape.equalsIgnoreCase("oval") || shape.equalsIgnoreCase("teardrop") || shape.equalsIgnoreCase("dome")||
+				shape.equalsIgnoreCase("crescent") || shape.equalsIgnoreCase("cone") || shape.equalsIgnoreCase("cylinder"))
+			general = new String("round");
+		else if(shape.equalsIgnoreCase("triangle") || shape.equalsIgnoreCase("delta") || shape.equalsIgnoreCase("cigar") || shape.equalsIgnoreCase("chevron"))
+			general = new String("arrow");
+		else if(shape.equalsIgnoreCase("hexagon") || shape.equalsIgnoreCase("rectangle") || shape.equalsIgnoreCase("diamond") || shape.equalsIgnoreCase("cross"))
+			general = new String("polygon");
+		else if(shape.equalsIgnoreCase("formation"))
+			general = new String("formation");
+		else if(shape.equalsIgnoreCase("changed") || shape.equalsIgnoreCase("changing"))
+			general = new String("changing");
+		else 
+			general = new String("other");
+		if(shape.equalsIgnoreCase("br"))
+			shape = new String("-");
+		super.setGeneralShape(general);
+		
+		
 	}
 
 	public String getShape() {
@@ -59,9 +80,9 @@ public class Shape extends GeneralShape {
 		return "shape = " + shape + " " +super.toString();
 	}
 
-	
-	
-	
-	
-	
+
+
+
+
+
 }
