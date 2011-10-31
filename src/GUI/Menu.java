@@ -14,6 +14,7 @@ public class Menu {
 		 Button buttonPolygon = new Button (20,270,30,30,"Polygon");
 		 Button buttonFormation = new Button (20,310,30,30,"Formation");
 		 Button buttonChanging = new Button (20,350,30,30,"Changing");
+		 Button buttonOther = new Button (20,390,30,30,"Other");
 		 Button buttonGraph = new Button (20,450,30,30);
 		 
 		  Menu(float w)
@@ -47,7 +48,12 @@ public class Menu {
 			Utils.globalProcessing.text("Changing",180, 370);
 			buttonGraph.draw();
 			Utils.globalProcessing.fill(255,255,255);
+			Utils.globalProcessing.text("Other",180, 410);
+			buttonOther.draw();
+			Utils.globalProcessing.fill(255,255,255);
 			Utils.globalProcessing.text("Graph",180, 470);
+			
+			
 			Utils.globalProcessing.textFont(font, 14);
 		    Utils.globalProcessing.fill(255,255,255);
 		    Utils.globalProcessing.text("UFO Sightings 2001-2010",180, 100);
