@@ -31,9 +31,10 @@ public class HBar {
 	    Utils.globalProcessing.rect(newX2, y, 14, h);
 	  }
 	  
-	  public boolean contentPressed(float lx, float ly)
+	  public boolean mousePressed(float lx, float ly)
 	  {
-	    if((ly <= h -7) && (ly >= 7)){
+	    if((ly <= x) && (ly >= x+w)){
+	    	Utils.globalProcessing.println("Yep");
 	    	
 	    
 	    }

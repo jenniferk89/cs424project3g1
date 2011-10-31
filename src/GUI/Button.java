@@ -1,9 +1,58 @@
 package GUI;
+import GUI.Utils;
 import processing.core.PApplet;
+import processing.core.*;
 
 class Button extends PApplet {
-	  
+	 
+	  CircleButton circle1, circle2, circle3;
 	  float x, y, w, h;
+	  boolean locked = false;
+	  int currentcolor = Utils.globalProcessing.color(128,0,0);
+
+	  int size;
+	  int basecolor, highlightcolor;
+	  boolean over = false;
+	  boolean pressed = false;   
+
+	  void update() 
+	  {
+	    if(over()) {
+	      currentcolor = highlightcolor;
+	    } 
+	    else {
+	      currentcolor = basecolor;
+	    }
+	  }
+
+	  boolean pressed() 
+	  {
+	    if(over) {
+	      locked = true;
+	      return true;
+	    } 
+	    else {
+	      locked = false;
+	      return false;
+	    }    
+	  }
+
+	  boolean over() 
+	  { 
+	    return true; 
+	  }
+
+	  boolean overCircle(float x, float y, int diameter) 
+	  {
+	    float disX = x - mouseX;
+	    float disY = y - mouseY;
+	    if(sqrt(sq(disX) + sq(disY)) < diameter/2 ) {
+	      return true;
+	    } 
+	    else {
+	      return false;
+	    }
+	  }
 	  
 	  Button(float x, float y, float w, float h) {
 	    this.x = x;
@@ -79,5 +128,35 @@ class Button extends PApplet {
 	        break;
 	    }
 	  }
-	  
+	
 	}
+	  
+	  class CircleButton extends Button
+	  { 
+		  int ihighlight = Utils.globalProcessing.color(128, 128, 0);
+	    CircleButton(float ix, float iy, int isize, int icolor, int ihighlight) 
+	    {
+	      super(ix, iy,isize,icolor);
+	      this.ihighlight = ihighlight;
+	    }
+
+	    boolean over() 
+	    {
+	      if( overCircle(x, y, size) ) {
+	        over = true;
+	        return true;
+	      } 
+	      else {
+	        over = false;
+	        return false;
+	      }
+	    }
+
+	    void display() 
+	    {
+	      stroke(255);
+	      fill(currentcolor);
+	      ellipse(x, y, size, size);
+	    }
+	  }
+	

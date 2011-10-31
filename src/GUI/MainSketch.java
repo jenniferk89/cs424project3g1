@@ -20,12 +20,7 @@ import com.modestmaps.providers.*;
 
 public class MainSketch extends PApplet{
 
-	
-	
-	
-	
-	
-	
+
 	//
 	// This is a test of the interactive Modest Maps library for Processing
 	// the modestmaps.jar in the code folder of this sketch might not be 
@@ -37,6 +32,7 @@ public class MainSketch extends PApplet{
 	// this is the only bit that's needed to show a map:
 	InteractiveMap map;
 
+	Menu theMenu;
 	// buttons take x,y and width,height:
 	ZoomButton out = new ZoomButton(5,5,14,14,false);
 	ZoomButton in = new ZoomButton(22,5,14,14,true);
@@ -46,7 +42,7 @@ public class MainSketch extends PApplet{
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
 
 	HBar theScroll = new HBar(250,600,600,25);
-	Menu theMenu = new Menu(200);
+	
 
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
@@ -75,6 +71,8 @@ public class MainSketch extends PApplet{
 		map = new InteractiveMap(this, new Microsoft.RoadProvider());
 		Utils.globalMap = map;
 		
+		theMenu = new Menu(200);
+		
 		//set the colors //TODO crappy colors
 		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
 		Utils.roundColor = Utils.globalProcessing.color(239, 234, 91);
@@ -94,7 +92,7 @@ public class MainSketch extends PApplet{
 		Import.weatherStationHandler("weatherStation.txt");
 		Import.militaryBasesHandler("militaryBases.txt");
 		Import.airportHandler("airports.txt");
-		Import.ufoHandler("all.txt");
+		//Import.ufoHandler("all.txt");
 		
 		/*Import.ufoHandler("ndxlAL.html.txt");
 		Import.ufoHandler("ndxlAR.html.txt");
