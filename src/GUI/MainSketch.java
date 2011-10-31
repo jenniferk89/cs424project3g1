@@ -11,6 +11,7 @@ import control.State;
 import control.Test;
 import processing.core.*;
 import com.modestmaps.InteractiveMap;
+import com.modestmaps.StaticMap;
 import com.modestmaps.core.Coordinate;
 import com.modestmaps.core.Point2f;
 import com.modestmaps.geo.Location;
@@ -74,6 +75,47 @@ public class MainSketch extends PApplet{
 		Import.ufoHandler("ndxlHI.html.txt");
 		Import.ufoHandler("ndxlIA.html.txt");
 		Import.ufoHandler("ndxlID.html.txt");
+		Import.ufoHandler("ndxlIL.html.txt");
+		Import.ufoHandler("ndxlIN.html.txt");
+		Import.ufoHandler("ndxlKS.html.txt");
+		Import.ufoHandler("ndxlKY.html.txt");
+		Import.ufoHandler("ndxlLA.html.txt");
+		Import.ufoHandler("ndxlMA.html.txt");
+		Import.ufoHandler("ndxlMB.html.txt");
+		Import.ufoHandler("ndxlMD.html.txt");
+		Import.ufoHandler("ndxlME.html.txt");
+		Import.ufoHandler("ndxlMI.html.txt");
+		Import.ufoHandler("ndxlMN.html.txt");
+		Import.ufoHandler("ndxlMO.html.txt");
+		Import.ufoHandler("ndxlMS.html.txt");		
+		Import.ufoHandler("ndxlMT.html.txt");
+		Import.ufoHandler("ndxlNB.html.txt");
+		Import.ufoHandler("ndxlNC.html.txt");
+		Import.ufoHandler("ndxlND.html.txt");
+		Import.ufoHandler("ndxlNE.html.txt");
+		Import.ufoHandler("ndxlNF.html.txt");
+		Import.ufoHandler("ndxlNH.html.txt");
+		Import.ufoHandler("ndxlNJ.html.txt");
+		Import.ufoHandler("ndxlNM.html.txt");
+		Import.ufoHandler("ndxlNV.html.txt");
+		Import.ufoHandler("ndxlNY.html.txt");
+		Import.ufoHandler("ndxlOH.html.txt");
+		Import.ufoHandler("ndxlOK.html.txt");
+		Import.ufoHandler("ndxlOR.html.txt");
+		Import.ufoHandler("ndxlPA.html.txt");
+		Import.ufoHandler("ndxlRI.html.txt");
+		Import.ufoHandler("ndxlSC.html.txt");
+		Import.ufoHandler("ndxlSD.html.txt");
+		Import.ufoHandler("ndxlTN.html.txt");
+		Import.ufoHandler("ndxlTX.html.txt");
+		Import.ufoHandler("ndxlUT.html.txt");
+		Import.ufoHandler("ndxlVA.html.txt");
+		Import.ufoHandler("ndxlVI.html.txt");
+		Import.ufoHandler("ndxlVT.html.txt");
+		Import.ufoHandler("ndxlWA.html.txt");
+		Import.ufoHandler("ndxlWI.html.txt");
+		Import.ufoHandler("ndxlWV.html.txt");
+		Import.ufoHandler("ndxlWY.html.txt");
 		// others would be "new Microsoft.HybridProvider()" or "new Microsoft.AerialProvider()"
 		// the Google ones get blocked after a few hundred tiles
 		// the Yahoo ones look terrible because they're not 256px squares :)
@@ -119,7 +161,7 @@ public class MainSketch extends PApplet{
 			//System.out.println(p.x);
 		}
 
-
+		theScroll.drawContent();
 		// draw all the buttons and check for mouse-over
 		boolean hand = false;
 		if (gui) {
@@ -194,7 +236,7 @@ public class MainSketch extends PApplet{
 	    fill(0,255,128);
 	    stroke(255,255,0);
 	    ellipse(p.x, p.y, 10, 10); */
-			theScroll.drawContent();
+			
 		}  
 
 		//println((float)map.sc);
@@ -237,12 +279,14 @@ public class MainSketch extends PApplet{
 
 	// zoom in or out:
 	public void mouseWheel(int delta) {
+
 		if (delta > 0) {
 			map.sc *= 1.05;
 		}
 		else if (delta < 0) {
 			map.sc *= 1.0/1.05; 
 		}
+	
 	}
 
 	// see if we're over any buttons, and respond accordingly:
