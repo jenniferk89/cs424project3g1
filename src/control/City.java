@@ -2,7 +2,7 @@ package control;
 
 import java.util.ArrayList;
 
-public class City extends Location {
+public class City extends Location{
 	private County county;
 	private float populationDensity;
 	private Airport airport;
@@ -64,6 +64,17 @@ public class City extends Location {
 	public void addSighting(Sighting sighting) {
 		this.sightings.add(sighting);
 	}
+	
+	public boolean equals(Object o){
+		return super.equals(o);
+	}
+	
+	public int hashCode(){
+		return super.hashCode();
+	}
+
+
+	
 	
 	
 	

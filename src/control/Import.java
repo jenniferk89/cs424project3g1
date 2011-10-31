@@ -1,6 +1,7 @@
 package control;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.HashMap;
@@ -71,9 +72,72 @@ public class Import {
 	}
 
 
+	public static void militaryBasesHandler(String filePath){
+		String strings[] = Utils.globalProcessing.loadStrings(filePath);
+		for(int i = 0; i < strings.length; i++){
+			String pieces[] = strings[i].split(",");
+			/*for(int j = 0; j < pieces.length; j++)
+				System.out.println(j +" "+ pieces[j]);*/
+			if(pieces[4].contains("HI")||pieces[4].contains("AK"))
+				continue;
+			String name = pieces[3];
+			double lat = Double.parseDouble(pieces[0]);
+			double longi = Double.parseDouble(pieces[1]);
+			MilitaryBase base = new MilitaryBase(name, lat, longi);
+			Utils.allBases.add(base);
+			//System.out.println(name + " " + lat +" " +longi);
+			Collections.sort(Utils.allBases, Location.lcCoord);
+		}
+	}
+	
+	public static void weatherStationHandler(String filePath){
+		String strings[] = Utils.globalProcessing.loadStrings(filePath);
+		for(int i = 0; i < strings.length; i++){
+			String pieces[] = strings[i].split("\t");
+			/*for(int j = 0; j < pieces.length; j++)
+				System.out.println(j+" "+pieces[j]);*/
+			if(!states.containsKey(pieces[3]))
+				continue;
+			try{
+				String name = pieces[5];
+				double lat = Double.parseDouble(pieces[29]);
+				double longi = Double.parseDouble(pieces[30]);
+				WeatherStation w = new WeatherStation(name, lat,longi);
+				//System.out.println(name +" "+lat+" "+longi);
+				Utils.allWeatherStations.add(w);
+				Collections.sort(Utils.allWeatherStations, Location.lcCoord);
+			}
+			catch(NumberFormatException e){
+				
+			}
+		}
+	}
+	
+	
+	
+	public static void airportHandler(String filePath){
+		String strings[] = Utils.globalProcessing.loadStrings(filePath);
+		for(int i = 0; i < strings.length; i++){
+			String pieces[] = strings[i].split("\t");
+			/*for(int j = 0; j < pieces.length; j++)
+				System.out.println(j +" "+pieces[j]);*/
+			if(!states.containsKey(pieces[10]))
+				continue;
+			String name = pieces[0];
+			double lat = Double.parseDouble(pieces[4]);
+			double longi = Double.parseDouble(pieces[5]);
+			Airport airport = new Airport(name, lat, longi);
+			Utils.allAirports.add(airport);
+			Collections.sort(Utils.allAirports, Location.lcCoord);
+		}
+	}
+	
+	
+	
 
 	public static void ufoHandler(String filepath){
-
+		
+		GregorianCalendar start = new GregorianCalendar();
 
 		String line;
 
@@ -84,6 +148,12 @@ public class Import {
 			parseSighting(line);
 		}
 		System.out.println(exceptionCount);
+		Collections.sort(Utils.allLocations, Location.lcCoord);
+		Collections.sort(Utils.allCities);
+		Collections.sort(Utils.allCounties);
+		Collections.sort(Utils.allStates);
+		GregorianCalendar stop = new GregorianCalendar();
+		System.out.println(stop.getTimeInMillis()-start.getTimeInMillis());
 
 	}
 
@@ -340,11 +410,15 @@ public class Import {
 	}
 
 
-/*	public static void main(String [] args){
+	public static void main(String [] args){
 		MainSketch m = new MainSketch();
+		setStates();
 		Utils.globalProcessing = m;
-		m.setup();
-		createStates("States.txt");
-		ufoHandler("Al.txt");
-	}*/
+		//m.setup();
+		//militaryBasesHandler("militaryBases.txt");
+		//airportHandler("airports.txt");
+		weatherStationHandler("weatherStation.txt");
+		//createStates("States.txt");
+		//ufoHandler("Al.txt");
+	}
 }

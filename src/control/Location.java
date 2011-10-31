@@ -2,11 +2,12 @@ package control;
 
 import java.util.Comparator;
 
-public abstract class Location {
+public abstract class Location implements Comparable{
 	private String name;
 	private double latitude;
 	private double longitude;
-	public static LocationComparator lc;
+	public static LocationComparator lcCoord;
+	
 
 
 
@@ -100,6 +101,15 @@ public abstract class Location {
 
 	}
 
+	
+	@Override
+	public int compareTo(Object arg0) {
+		if(arg0.getClass()!=this.getClass())
+			return 0;
+		Location c0 = (Location)arg0;
+		return(this.getName().compareToIgnoreCase(c0.getName()));
+	}
+	
 
 
 	@Override

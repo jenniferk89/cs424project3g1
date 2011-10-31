@@ -20,11 +20,19 @@ import com.modestmaps.providers.*;
 
 public class MainSketch extends PApplet{
 
+	
+	
+	
+	
+	
+	
 	//
 	// This is a test of the interactive Modest Maps library for Processing
 	// the modestmaps.jar in the code folder of this sketch might not be 
 	// entirely up to date - you have been warned!
 	//
+
+	
 
 	// this is the only bit that's needed to show a map:
 	InteractiveMap map;
@@ -60,11 +68,14 @@ public class MainSketch extends PApplet{
 		Utils.allCities = new ArrayList<City>();
 		Utils.allShapes = new ArrayList<Shape>();
 		Utils.allGeneralShapes = new ArrayList<GeneralShape>();
+		Utils.allBases = new ArrayList<MilitaryBase>();
+		Utils.allAirports = new ArrayList<Airport>();
+		Utils.allWeatherStations = new ArrayList<WeatherStation>();
 		// create a new map, optionally specify a provider
 		map = new InteractiveMap(this, new Microsoft.RoadProvider());
 		Utils.globalMap = map;
 		
-		//set the colors
+		//set the colors //TODO crappy colors
 		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
 		Utils.roundColor = Utils.globalProcessing.color(239, 234, 91);
 		Utils.arrowColor = Utils.globalProcessing.color(42, 134, 72);
@@ -72,13 +83,19 @@ public class MainSketch extends PApplet{
 		Utils.formationColor = Utils.globalProcessing.color(205, 131, 223);
 		Utils.otherColor = Utils.globalProcessing.color(123, 159, 163);
 		Utils.changingColor = Utils.globalProcessing.color(195, 147, 109);
-		
+		Utils.militaryBaseColor = Utils.globalProcessing.color(255, 0, 0);
+		Utils.AirportColor = Utils.globalProcessing.color(0, 120, 120, 45);
+		Utils.weatherStationColor = Utils.globalProcessing.color(120, 120, 0, 20);
 		
 		
 		
 		map.MAX_IMAGES_TO_KEEP = 80; //using less images to preserve heap space
 		Import.createStates("States.txt");
+		Import.weatherStationHandler("weatherStation.txt");
+		Import.militaryBasesHandler("militaryBases.txt");
+		Import.airportHandler("airports.txt");
 		Import.ufoHandler("all.txt");
+		
 		/*Import.ufoHandler("ndxlAL.html.txt");
 		Import.ufoHandler("ndxlAR.html.txt");
 		Import.ufoHandler("ndxlAZ.html.txt");
@@ -168,7 +185,17 @@ public class MainSketch extends PApplet{
 
 		//Utils.globalProcessing.smooth();
 
-		int min = Utils.allSightings.get(0).getNumOfSightings();
+		
+		//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
+		/*for(Airport a: Utils.allAirports)
+			a.draw();*/
+		/*for(MilitaryBase mb: Utils.allBases)
+			mb.draw();
+		*/
+		for(WeatherStation w: Utils.allWeatherStations)
+			w.draw();
+		
+		/*int min = Utils.allSightings.get(0).getNumOfSightings();
 		int max = Utils.allSightings.get(0).getNumOfSightings();
 		for(Sighting s: Utils.allSightings){
 			if(s.getNumOfSightings()>max)
@@ -181,7 +208,10 @@ public class MainSketch extends PApplet{
 			Sighting s = Utils.allSightings.get(i);
 			s.draw(min, max);
 			//System.out.println(p.x);
-		}
+		}*/
+		
+		
+		
 		
 		theScroll.drawContent();
 		theMenu.drawContent();

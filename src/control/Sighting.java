@@ -1,5 +1,6 @@
 package control;
 
+import GUI.Drawable;
 import GUI.Utils;
 
 import com.modestmaps.core.Point2f;
