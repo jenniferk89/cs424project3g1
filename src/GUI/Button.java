@@ -1,15 +1,14 @@
 package GUI;
 import GUI.Utils;
 import processing.core.PApplet;
-import processing.core.*;
 
 class Button extends PApplet {
 	 
 	  CircleButton circle1, circle2, circle3;
 	  float x, y, w, h;
 	  boolean locked = false;
-	  int currentcolor = Utils.globalProcessing.color(128,0,0);
-
+	  int currentcolor;
+	  
 	  int size;
 	  int basecolor, highlightcolor;
 	  boolean over = false;

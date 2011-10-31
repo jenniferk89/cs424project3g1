@@ -43,7 +43,6 @@ public class MainSketch extends PApplet{
 
 	HBar theScroll = new HBar(250,600,600,25);
 	
-
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
 			in, out, up, down, left, right };
@@ -72,6 +71,7 @@ public class MainSketch extends PApplet{
 		Utils.globalMap = map;
 		
 		theMenu = new Menu(200);
+		
 		
 		//set the colors //TODO crappy colors
 		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
