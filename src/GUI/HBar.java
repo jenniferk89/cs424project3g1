@@ -20,10 +20,8 @@ public class HBar {
 	  {
 	    Utils.globalProcessing.noFill();
 	    Utils.globalProcessing.stroke(0);
-	    Utils.globalProcessing.fill(255);
-	    Utils.globalProcessing.rect(x, y, h, w);
-	    Utils.globalProcessing.fill(128);
-	    Utils.globalProcessing.rect(x, y, h, w);
+	    Utils.globalProcessing.fill(128,128,128,128);
+	    Utils.globalProcessing.rect(x, y, w, h);
 	  }
 	  
 	  public boolean contentPressed(float lx, float ly)

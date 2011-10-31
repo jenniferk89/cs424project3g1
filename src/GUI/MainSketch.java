@@ -37,7 +37,8 @@ public class MainSketch extends PApplet{
 	PanButton left = new PanButton(5,41,14,14,LEFT);
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
 
-	HBar theScroll = new HBar(100,600,25,924);
+	HBar theScroll = new HBar(250,600,600,25);
+	Menu theMenu = new Menu(200);
 
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
@@ -72,7 +73,7 @@ public class MainSketch extends PApplet{
 		Import.ufoHandler("ndxlDE.html.txt");
 		Import.ufoHandler("ndxlFL.html.txt");
 		Import.ufoHandler("ndxlGA.html.txt");
-		Import.ufoHandler("ndxlHI.html.txt");
+/*		Import.ufoHandler("ndxlHI.html.txt");
 		Import.ufoHandler("ndxlIA.html.txt");
 		Import.ufoHandler("ndxlID.html.txt");
 		Import.ufoHandler("ndxlIL.html.txt");
@@ -115,13 +116,13 @@ public class MainSketch extends PApplet{
 		Import.ufoHandler("ndxlWA.html.txt");
 		Import.ufoHandler("ndxlWI.html.txt");
 		Import.ufoHandler("ndxlWV.html.txt");
-		Import.ufoHandler("ndxlWY.html.txt");
+		Import.ufoHandler("ndxlWY.html.txt");*/
 		// others would be "new Microsoft.HybridProvider()" or "new Microsoft.AerialProvider()"
 		// the Google ones get blocked after a few hundred tiles
 		// the Yahoo ones look terrible because they're not 256px squares :)
 
 		// set the initial location and zoom level to London:
-		map.setCenterZoom(new Location(34.04f, -95.69f), 4);
+		map.setCenterZoom(new Location(34.04f, -100.69f), 4);
 		// zoom 0 is the whole world, 19 is street level
 		// (try some out, or use getlatlon.com to search for more)
 
@@ -160,8 +161,9 @@ public class MainSketch extends PApplet{
 			Utils.globalProcessing.ellipse(p.x, p.y, 3, 3);
 			//System.out.println(p.x);
 		}
-
+		
 		theScroll.drawContent();
+		theMenu.drawContent();
 		// draw all the buttons and check for mouse-over
 		boolean hand = false;
 		if (gui) {
