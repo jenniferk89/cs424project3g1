@@ -74,7 +74,7 @@ public class MainSketch extends PApplet{
 		// create a new map, optionally specify a provider
 		map = new InteractiveMap(this, new Microsoft.RoadProvider());
 		Utils.globalMap = map;
-		Utils.showGraph = true;
+		Utils.showGraph = false;
 		//set the colors //TODO crappy colors
 		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
 		Utils.roundColor = Utils.globalProcessing.color(239, 234, 91);
@@ -192,9 +192,43 @@ public class MainSketch extends PApplet{
 			/*for(MilitaryBase mb: Utils.allBases)
 			mb.draw();
 			 */
-			for(WeatherStation w: Utils.allWeatherStations)
+			/*for(WeatherStation w: Utils.allWeatherStations)
 				w.draw();
+			 */
+			ArrayList<Sighting> dataToPlot = new ArrayList<Sighting>();
+			if(theMenu.buttonLight.pressed){
+				GeneralShape light = Utils.returnGeneralShape("light");
+				dataToPlot.addAll(light.getGeneralSightings());
+			}
 
+			if(theMenu.buttonRound.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("round");
+				
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonArrow.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("arrow");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonPolygon.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("polygon");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonFormation.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("formation");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonChanging.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("changing");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonOther.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("other");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			
+			dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
+			
 			/*int min = Utils.allSightings.get(0).getNumOfSightings();
 		int max = Utils.allSightings.get(0).getNumOfSightings();
 		for(Sighting s: Utils.allSightings){
