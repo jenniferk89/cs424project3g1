@@ -19,13 +19,14 @@ import controlP5.Textfield;
 public class MainSketch extends PApplet{
 
 
+
 	//
 	// This is a test of the interactive Modest Maps library for Processing
 	// the modestmaps.jar in the code folder of this sketch might not be 
 	// entirely up to date - you have been warned!
 	//
 
-	
+
 
 	// this is the only bit that's needed to show a map:
 	InteractiveMap map;
@@ -44,6 +45,7 @@ public class MainSketch extends PApplet{
 	String textValue = "MM/dd/YYYY";
 	Textfield startDatefield;
 	Textfield endDatefield;
+	CircleButton mycb;
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
 			in, out, up, down, left, right };
@@ -82,10 +84,13 @@ public class MainSketch extends PApplet{
 		// create a new map, optionally specify a provider
 		map = new InteractiveMap(this, new Microsoft.RoadProvider());
 		Utils.globalMap = map;
-		
+
 		theMenu = new Menu(200);
-		
-		
+		mycb = new CircleButton (50,50,50,50,50);
+
+
+		Utils.showGraph = false;
+
 		//set the colors //TODO crappy colors
 		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
 		Utils.roundColor = Utils.globalProcessing.color(239, 234, 91);
@@ -97,16 +102,18 @@ public class MainSketch extends PApplet{
 		Utils.militaryBaseColor = Utils.globalProcessing.color(255, 0, 0);
 		Utils.AirportColor = Utils.globalProcessing.color(0, 120, 120, 45);
 		Utils.weatherStationColor = Utils.globalProcessing.color(120, 120, 0, 20);
-		
-		
-		
+
+
+
 		map.MAX_IMAGES_TO_KEEP = 80; //using less images to preserve heap space
 		Import.createStates("States.txt");
 		Import.weatherStationHandler("weatherStation.txt");
 		Import.militaryBasesHandler("militaryBases.txt");
-		Import.airportHandler("airports.txt");
+		//Import.airportHandler("airports.txt");
+
 		//Import.ufoHandler("all.txt");
-		
+		Import.mergeDatasets();
+
 		/*Import.ufoHandler("ndxlAL.html.txt");
 		Import.ufoHandler("ndxlAR.html.txt");
 		Import.ufoHandler("ndxlAZ.html.txt");
@@ -197,16 +204,57 @@ public class MainSketch extends PApplet{
 		//Utils.globalProcessing.smooth();
 
 		
-		//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
-		/*for(Airport a: Utils.allAirports)
-			a.draw();*/
-		/*for(MilitaryBase mb: Utils.allBases)
-			mb.draw();
-		*/
-		for(WeatherStation w: Utils.allWeatherStations)
-			w.draw();
+		ArrayList<Sighting> dataToPlot = new ArrayList<Sighting>();
+		if(theMenu.buttonAll.pressed)
+			dataToPlot = Utils.allSightings;
+		else{
+			if(theMenu.buttonLight.pressed){
+				GeneralShape light = Utils.returnGeneralShape("light");
+				dataToPlot.addAll(light.getGeneralSightings());
+			}
+
+			if(theMenu.buttonRound.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("round");
+
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonArrow.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("arrow");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonPolygon.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("polygon");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonFormation.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("formation");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonChanging.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("changing");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonOther.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("other");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+		}
+		dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
 		
-		/*int min = Utils.allSightings.get(0).getNumOfSightings();
+		
+		if(!theMenu.buttonGraph.pressed){
+			//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
+			/*for(Airport a: Utils.allAirports)
+			a.draw();*/
+			/*for(MilitaryBase mb: Utils.allBases)
+			mb.draw();
+			 */
+			/*for(WeatherStation w: Utils.allWeatherStations)
+				w.draw();
+			 */
+			
+
+			/*int min = Utils.allSightings.get(0).getNumOfSightings();
 		int max = Utils.allSightings.get(0).getNumOfSightings();
 		for(Sighting s: Utils.allSightings){
 			if(s.getNumOfSightings()>max)
@@ -214,16 +262,16 @@ public class MainSketch extends PApplet{
 			else if(s.getNumOfSightings()<min)
 				min = s.getNumOfSightings();
 		}
-		
+
 		for(int i = 0; i < Utils.allSightings.size(); i++){
 			Sighting s = Utils.allSightings.get(i);
 			s.draw(min, max);
 			//System.out.println(p.x);
 		}*/
-		
-		
-		
-		
+
+
+		}
+
 		theScroll.drawContent();
 		theMenu.drawContent();
 		// draw all the buttons and check for mouse-over
@@ -235,6 +283,11 @@ public class MainSketch extends PApplet{
 			}
 		}
 
+		if(theMenu.buttonGraph.pressed){
+			ArrayList<Sighting> list = new ArrayList<Sighting>();
+			list.addAll(dataToPlot);
+			ParallelGraph.draw(list);
+		}
 
 
 		// if we're over a button, use the finger pointer
@@ -300,7 +353,7 @@ public class MainSketch extends PApplet{
 	    fill(0,255,128);
 	    stroke(255,255,0);
 	    ellipse(p.x, p.y, 10, 10); */
-			
+
 		}  
 
 		//println((float)map.sc);
@@ -350,7 +403,7 @@ public class MainSketch extends PApplet{
 		else if (delta < 0) {
 			map.sc *= 1.0/1.05; 
 		}
-	
+
 	}
 
 	// see if we're over any buttons, and respond accordingly:
@@ -372,6 +425,62 @@ public class MainSketch extends PApplet{
 		}
 		else if (right.mouseOver()) {
 			map.panRight();
+		}
+
+		if (theMenu.buttonLight.mouseOver()){
+			if(theMenu.buttonLight.pressed == false)
+				theMenu.buttonLight.pressed = true;
+			else if (theMenu.buttonLight.pressed == true)
+				theMenu.buttonLight.pressed = false;
+		}
+
+		if (theMenu.buttonRound.mouseOver()){
+			if(theMenu.buttonRound.pressed == false)
+				theMenu.buttonRound.pressed = true;
+			else if (theMenu.buttonRound.pressed == true)
+				theMenu.buttonRound.pressed = false;
+		}
+
+		if (theMenu.buttonArrow.mouseOver()){
+			if(theMenu.buttonArrow.pressed == false)
+				theMenu.buttonArrow.pressed = true;
+			else if (theMenu.buttonArrow.pressed == true)
+				theMenu.buttonArrow.pressed = false;
+		}
+
+		if (theMenu.buttonPolygon.mouseOver()){
+			if(theMenu.buttonPolygon.pressed == false)
+				theMenu.buttonPolygon.pressed = true;
+			else if (theMenu.buttonPolygon.pressed == true)
+				theMenu.buttonPolygon.pressed = false;
+		}
+
+		if (theMenu.buttonFormation.mouseOver()){
+			if(theMenu.buttonFormation.pressed == false)
+				theMenu.buttonFormation.pressed = true;
+			else if (theMenu.buttonFormation.pressed == true)
+				theMenu.buttonFormation.pressed = false;
+		}
+
+		if (theMenu.buttonChanging.mouseOver()){
+			if(theMenu.buttonChanging.pressed == false)
+				theMenu.buttonChanging.pressed = true;
+			else if (theMenu.buttonChanging.pressed == true)
+				theMenu.buttonChanging.pressed = false;
+		}
+
+		if (theMenu.buttonGraph.mouseOver()){
+			if(theMenu.buttonGraph.pressed == false)
+				theMenu.buttonGraph.pressed = true;
+			else if (theMenu.buttonGraph.pressed == true)
+				theMenu.buttonGraph.pressed = false;
+		}
+
+		if (theMenu.buttonOther.mouseOver()){
+			if(theMenu.buttonOther.pressed == false)
+				theMenu.buttonOther.pressed = true;
+			else if (theMenu.buttonOther.pressed == true)
+				theMenu.buttonOther.pressed = false;
 		}
 	}
 	/*	

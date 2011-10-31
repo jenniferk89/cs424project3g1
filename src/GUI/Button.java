@@ -9,6 +9,8 @@ class Button extends PApplet {
 	  boolean locked = false;
 	  int currentcolor;
 	  
+	  boolean hasShape = false;
+	  
 	  int size;
 	  int basecolor, highlightcolor;
 	  boolean over = false;
@@ -24,16 +26,16 @@ class Button extends PApplet {
 	    }
 	  }
 
-	  boolean pressed() 
-	  {
-	    if(over) {
-	      locked = true;
-	      return true;
-	    } 
-	    else {
-	      locked = false;
-	      return false;
-	    }    
+
+	  
+	  public void mouseClicked(){
+		  Utils.globalProcessing.println("yep");
+		  if ((mouseOver()) && (pressed == false)){
+			  pressed = true;
+			  Utils.globalProcessing.println("lol");
+		  }
+		  else
+			  pressed = false;
 	  }
 
 	  boolean over() 
@@ -53,20 +55,48 @@ class Button extends PApplet {
 	    }
 	  }
 	  
+	  boolean overRect(float x, float y, float width, float height) 
+	  {
+	    if (mouseX >= x && mouseX <= x+width && 
+	      mouseY >= y && mouseY <= y+height) {
+	      return true;
+	    } 
+	    else {
+	      return false;
+	    }
+	  }
+	  
 	  Button(float x, float y, float w, float h) {
 	    this.x = x;
 	    this.y = y;
 	    this.w = w;
 	    this.h = h;
+	    
 	  } 
 	  
+	  Button(float x, float y, float w, float h, String shape)
+	  {
+	    this.x = x;
+	    this.y = y;
+	    this.w = w;
+	    this.h = h;
+	    hasShape = true;
+	    String myShape = shape;
+	    
+	  }
+	  
 	  boolean mouseOver() {
+		  
 	    return (Utils.globalProcessing.mouseX > x && Utils.globalProcessing.mouseX < x + w && Utils.globalProcessing.mouseY > y && Utils.globalProcessing.mouseY < y + h);
 	  }
 	  
 	  public void draw() {
 	    Utils.globalProcessing.stroke(80);
 	    Utils.globalProcessing.fill(mouseOver() ? 255 : 220);
+	    if(pressed == true)
+	    	Utils.globalProcessing.fill(255,255,220);
+	    else
+	    	Utils.globalProcessing.fill(220);
 	    Utils.globalProcessing.rect(x,y,w,h); 
 	  }
 	  
@@ -135,8 +165,8 @@ class Button extends PApplet {
 		  int ihighlight = Utils.globalProcessing.color(128, 128, 0);
 	    CircleButton(float ix, float iy, int isize, int icolor, int ihighlight) 
 	    {
-	      super(ix, iy,isize,icolor);
-	      this.ihighlight = ihighlight;
+	    	super(ix,iy,isize,icolor);
+	    	this.ihighlight = ihighlight;
 	    }
 
 	    boolean over() 

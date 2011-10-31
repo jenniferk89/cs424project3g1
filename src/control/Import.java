@@ -12,10 +12,10 @@ import GUI.MainSketch;
 import GUI.Utils;
 
 public class Import {
-	
-	
+
+
 	private static int exceptionCount = 0;
-	
+
 	private static HashMap<String, String> states;
 
 	public static void setStates(){ 
@@ -89,7 +89,7 @@ public class Import {
 			Collections.sort(Utils.allBases, Location.lcCoord);
 		}
 	}
-	
+
 	public static void weatherStationHandler(String filePath){
 		String strings[] = Utils.globalProcessing.loadStrings(filePath);
 		for(int i = 0; i < strings.length; i++){
@@ -108,13 +108,13 @@ public class Import {
 				Collections.sort(Utils.allWeatherStations, Location.lcCoord);
 			}
 			catch(NumberFormatException e){
-				
+
 			}
 		}
 	}
-	
-	
-	
+
+
+
 	public static void airportHandler(String filePath){
 		String strings[] = Utils.globalProcessing.loadStrings(filePath);
 		for(int i = 0; i < strings.length; i++){
@@ -131,12 +131,12 @@ public class Import {
 			Collections.sort(Utils.allAirports, Location.lcCoord);
 		}
 	}
-	
-	
-	
+
+
+
 
 	public static void ufoHandler(String filepath){
-		
+
 		GregorianCalendar start = new GregorianCalendar();
 
 		String line;
@@ -221,7 +221,7 @@ public class Import {
 			for(int i = 0; i < Utils.allStates.size(); i++){
 				//System.out.println(Utils.allStates.get(i).getName());
 				if(Utils.allStates.get(i).getName().equalsIgnoreCase(states.get(pieces[2]))){
-					
+
 					state = Utils.allStates.get(i);
 				}
 			}
@@ -279,7 +279,7 @@ public class Import {
 			}
 
 		} catch (Exception e) {
-			
+
 			//System.out.println("Unparsable line - skipping");
 			exceptionCount++;
 		}
@@ -409,8 +409,39 @@ public class Import {
 		}
 	}
 
+	public static void mergeDatasets(){
+		//first, we find the nearest airport for each city
+		ArrayList<Location> list = new ArrayList<Location>();
+		for(Airport a : Utils.allAirports)
+			list.add(a);
+		System.out.println(Utils.allAirports.size());
+		for(City c : Utils.allCities){
+			Airport a;
+			a = (Airport)Utils.findNearestLocation(c, list);
+			//System.out.println("found");
+			c.setDistanceAirport((float)Utils.haversine(c.getLatitude(), c.getLongitude(), a.getLatitude(), a.getLongitude()));
+			//System.out.println(c.getDistanceAirport());
+			c.setAirport(a);
+			for(Sighting s: c.getSightings())
+				a.addNearSightings(s);
 
-	public static void main(String [] args){
+		}
+		//then we do the same thing, but with the military base
+		list = new ArrayList<Location>();
+		for(MilitaryBase m: Utils.allBases)
+			list.add(m);
+		for(City c: Utils.allCities){
+			MilitaryBase m;
+			m = (MilitaryBase)Utils.findNearestLocation(c, list);
+			c.setMilitaryBase(m);
+			c.setDistanceBase((float)Utils.haversine(c.getLatitude(), c.getLongitude(), m.getLatitude(), m.getLongitude()));
+			for(Sighting s: c.getSightings())
+				m.addNearSightings(s);
+		}
+	}
+
+
+	/*	public static void main(String [] args){
 		MainSketch m = new MainSketch();
 		setStates();
 		Utils.globalProcessing = m;
@@ -420,5 +451,5 @@ public class Import {
 		weatherStationHandler("weatherStation.txt");
 		//createStates("States.txt");
 		//ufoHandler("Al.txt");
-	}
+	}*/
 }
