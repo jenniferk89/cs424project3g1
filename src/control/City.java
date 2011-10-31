@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class City extends Location {
 	private County county;
-	private int population;
+	private float populationDensity;
 	private Airport airport;
 	private MilitaryBase militaryBase;
 	private ArrayList<Sighting> sightings;
@@ -21,13 +21,13 @@ public class City extends Location {
 	}
 
 
-	public int getPopulation() {
-		return population;
+	public float getPopulationDensity() {
+		return populationDensity;
 	}
 
 
-	public void setPopulation(int population) {
-		this.population = population;
+	public void setPopulationDensity(float population) {
+		this.populationDensity = population;
 	}
 
 

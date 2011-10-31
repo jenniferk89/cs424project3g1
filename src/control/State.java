@@ -3,7 +3,7 @@ package control;
 import java.util.ArrayList;
 
 public class State extends Location{
-	private int population;
+	private float populationDensity;
 	private ArrayList<County> counties;
 	private ArrayList<City> cities;
 	private ArrayList<Sighting> sightings;
@@ -37,13 +37,24 @@ public class State extends Location{
 	}
 
 
-	public int getPopulation() {
-		return population;
+	
+
+
+	
+
+
+	public float getPopulationDensity() {
+		return populationDensity;
 	}
 
 
-	public void setPopulation(int population) {
-		this.population = population;
+	public void setPopulationDensity(float populationDensity) {
+		this.populationDensity = populationDensity;
+	}
+
+
+	public void setSightings(ArrayList<Sighting> sightings) {
+		this.sightings = sightings;
 	}
 
 

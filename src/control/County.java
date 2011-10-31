@@ -3,14 +3,14 @@ package control;
 import java.util.ArrayList;
 
 public class County extends Location{
-	private int population;
+	private float populationDensity;
 	private State state;
-	private ArrayList<City> cities;
+	private ArrayList<Location> cities;
 	private ArrayList<Sighting> sightings;
 
 	public County(String name, double latitude, double longitude) {
 		super(name, latitude, longitude);
-		this.cities = new ArrayList<City>();
+		this.cities = new ArrayList<Location>();
 		sightings = new ArrayList<Sighting>();
 	}
 
@@ -22,7 +22,7 @@ public class County extends Location{
 		this.state = state;
 	}
 
-	public ArrayList<City> getCities() {
+	public ArrayList<Location> getCities() {
 		return cities;
 	}
 
@@ -30,12 +30,14 @@ public class County extends Location{
 		this.cities.add(city);
 	}
 
-	public int getPopulation() {
-		return population;
+	
+
+	public float getPopulationDensity() {
+		return populationDensity;
 	}
 
-	public void setPopulation(int population) {
-		this.population = population;
+	public void setPopulationDensity(float populationDensity) {
+		this.populationDensity = populationDensity;
 	}
 
 	public ArrayList<Sighting> getSightings() {
@@ -46,7 +48,7 @@ public class County extends Location{
 		this.sightings.add(sighting);
 	}
 
-	public void setCities(ArrayList<City> cities) {
+	public void setCities(ArrayList<Location> cities) {
 		this.cities = cities;
 	}
 	
