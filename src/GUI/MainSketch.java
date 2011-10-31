@@ -43,7 +43,7 @@ public class MainSketch extends PApplet{
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
 
 	HBar theScroll = new HBar(250,600,600,25);
-	
+	CircleButton mycb;
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
 			in, out, up, down, left, right };
@@ -72,7 +72,7 @@ public class MainSketch extends PApplet{
 		Utils.globalMap = map;
 		
 		theMenu = new Menu(200);
-		
+		mycb = new CircleButton (50,50,50,50,50);
 		
 
 		Utils.showGraph = false;
@@ -95,9 +95,9 @@ public class MainSketch extends PApplet{
 		Import.createStates("States.txt");
 		Import.weatherStationHandler("weatherStation.txt");
 		Import.militaryBasesHandler("militaryBases.txt");
-		Import.airportHandler("airports.txt");
+		//Import.airportHandler("airports.txt");
 
-		Import.ufoHandler("all.txt");
+		//Import.ufoHandler("all.txt");
 		Import.mergeDatasets();
 
 		/*Import.ufoHandler("ndxlAL.html.txt");
@@ -405,6 +405,55 @@ public class MainSketch extends PApplet{
 		}
 		else if (right.mouseOver()) {
 			map.panRight();
+		}
+		
+		if (theMenu.buttonLight.mouseOver()){
+			if(theMenu.buttonLight.pressed == false)
+				theMenu.buttonLight.pressed = true;
+			else if (theMenu.buttonLight.pressed == true)
+				theMenu.buttonLight.pressed = false;
+		}
+
+		if (theMenu.buttonRound.mouseOver()){
+			if(theMenu.buttonRound.pressed == false)
+				theMenu.buttonRound.pressed = true;
+			else if (theMenu.buttonRound.pressed == true)
+				theMenu.buttonRound.pressed = false;
+		}
+		
+		if (theMenu.buttonArrow.mouseOver()){
+			if(theMenu.buttonArrow.pressed == false)
+				theMenu.buttonArrow.pressed = true;
+			else if (theMenu.buttonArrow.pressed == true)
+				theMenu.buttonArrow.pressed = false;
+		}
+		
+		if (theMenu.buttonPolygon.mouseOver()){
+			if(theMenu.buttonPolygon.pressed == false)
+				theMenu.buttonPolygon.pressed = true;
+			else if (theMenu.buttonPolygon.pressed == true)
+				theMenu.buttonPolygon.pressed = false;
+		}
+
+		if (theMenu.buttonFormation.mouseOver()){
+			if(theMenu.buttonFormation.pressed == false)
+				theMenu.buttonFormation.pressed = true;
+			else if (theMenu.buttonFormation.pressed == true)
+				theMenu.buttonFormation.pressed = false;
+		}
+		
+		if (theMenu.buttonChanging.mouseOver()){
+			if(theMenu.buttonChanging.pressed == false)
+				theMenu.buttonChanging.pressed = true;
+			else if (theMenu.buttonChanging.pressed == true)
+				theMenu.buttonChanging.pressed = false;
+		}
+
+		if (theMenu.buttonGraph.mouseOver()){
+			if(theMenu.buttonGraph.pressed == false)
+				theMenu.buttonGraph.pressed = true;
+			else if (theMenu.buttonGraph.pressed == true)
+				theMenu.buttonGraph.pressed = false;
 		}
 	}
 	/*	
