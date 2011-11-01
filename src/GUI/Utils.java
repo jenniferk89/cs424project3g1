@@ -104,6 +104,8 @@ public class Utils {
 	}
 	
 	public static ArrayList<Sighting> groupBySpacialTemporalAggregation(ArrayList<Sighting> dataToPlot){
+		
+		
 		return dataToPlot; //TODO need temporal and spacial boundaries to group data.
 	}
 	
