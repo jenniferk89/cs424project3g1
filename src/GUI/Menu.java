@@ -15,7 +15,8 @@ public class Menu {
 		 Button buttonFormation = new Button (20,310,30,30,"Formation");
 		 Button buttonChanging = new Button (20,350,30,30,"Changing");
 		 Button buttonOther = new Button (20,390,30,30,"Other");
-		 Button buttonGraph = new Button (20,450,30,30);
+		 Button buttonAll = new Button (20,430,30,30,"All");
+		 Button buttonGraph = new Button (20,500,30,30,"Graph");
 		 
 		  Menu(float w)
 		  {
@@ -51,7 +52,10 @@ public class Menu {
 			Utils.globalProcessing.text("Other",180, 410);
 			buttonOther.draw();
 			Utils.globalProcessing.fill(255,255,255);
-			Utils.globalProcessing.text("Graph",180, 470);
+			Utils.globalProcessing.text("All",180, 450);
+			buttonAll.draw();
+			Utils.globalProcessing.fill(255,255,255);
+			Utils.globalProcessing.text("Graph",180, 520);
 			
 			
 			Utils.globalProcessing.textFont(font, 14);

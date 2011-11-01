@@ -1,14 +1,11 @@
 package GUI;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 
-import control.City;
-import control.County;
-import control.Import;
-import control.Shape;
 import control.*;
-import control.State;
-import control.Test;
 import processing.core.*;
 import com.modestmaps.InteractiveMap;
 import com.modestmaps.StaticMap;
@@ -16,19 +13,15 @@ import com.modestmaps.core.Coordinate;
 import com.modestmaps.core.Point2f;
 import com.modestmaps.geo.Location;
 import com.modestmaps.providers.*;
-
+import controlP5.ControlP5;
+import controlP5.Textfield;
 
 public class MainSketch extends PApplet{
-
-
-
 	//
 	// This is a test of the interactive Modest Maps library for Processing
 	// the modestmaps.jar in the code folder of this sketch might not be 
 	// entirely up to date - you have been warned!
 	//
-
-
 
 	// this is the only bit that's needed to show a map:
 	InteractiveMap map;
@@ -42,17 +35,33 @@ public class MainSketch extends PApplet{
 	PanButton left = new PanButton(5,41,14,14,LEFT);
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
 
-	HBar theScroll = new HBar(250,600,600,25);
+	//HBar theScroll = new HBar(250,600,600,25);
+	ControlP5 controlP5;
+	String textValue = "MM/dd/YYYY";
+	Textfield startDatefield;
+	Textfield endDatefield;
 	CircleButton mycb;
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
 			in, out, up, down, left, right };
 
 	PFont font;
+	int startDateMonth;
+	int startDateYear;
+	int startDateDay;
+	int endDateMonth;
+	int endDateYear;
+	int endDateDay;
 
 	boolean gui = true;
-
+	SimpleDateFormat format = new SimpleDateFormat("MM/dd/yyyy");
 	public void setup() {
+		//Text fields for start and end date.
+
+		controlP5 = new ControlP5(this);
+		startDatefield = controlP5.addTextfield("Start",10,520,70,20);
+		endDatefield = controlP5.addTextfield("End",10,600,70,20);
+
 
 		Utils.globalProcessing = this;
 		Utils.globalProcessing.size(1024, 768);
@@ -190,40 +199,41 @@ public class MainSketch extends PApplet{
 
 
 		ArrayList<Sighting> dataToPlot = new ArrayList<Sighting>();
-		//if(theMenu.buttonAll.pressed)
-		//	dataToPlot = Utils.allSightings;
-		//else{
-		if(theMenu.buttonLight.pressed){
-			GeneralShape light = Utils.returnGeneralShape("light");
-			dataToPlot.addAll(light.getGeneralSightings());
-		}
+		if(theMenu.buttonAll.pressed)
+			dataToPlot = Utils.allSightings;
+		else{
+			if(theMenu.buttonLight.pressed){
+				GeneralShape light = Utils.returnGeneralShape("light");
+				dataToPlot.addAll(light.getGeneralSightings());
+			}
 
-		if(theMenu.buttonRound.pressed){
-			GeneralShape gs = Utils.returnGeneralShape("round");
+			if(theMenu.buttonRound.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("round");
 
-			dataToPlot.addAll(gs.getGeneralSightings());
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonArrow.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("arrow");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonPolygon.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("polygon");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonFormation.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("formation");
+				dataToPlot.addAll(gs.getGeneralSightings());
+
+			}
+			if(theMenu.buttonChanging.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("changing");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+			if(theMenu.buttonOther.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("other");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
 		}
-		if(theMenu.buttonArrow.pressed){
-			GeneralShape gs = Utils.returnGeneralShape("arrow");
-			dataToPlot.addAll(gs.getGeneralSightings());
-		}
-		if(theMenu.buttonPolygon.pressed){
-			GeneralShape gs = Utils.returnGeneralShape("polygon");
-			dataToPlot.addAll(gs.getGeneralSightings());
-		}
-		if(theMenu.buttonFormation.pressed){
-			GeneralShape gs = Utils.returnGeneralShape("formation");
-			dataToPlot.addAll(gs.getGeneralSightings());
-		}
-		if(theMenu.buttonChanging.pressed){
-			GeneralShape gs = Utils.returnGeneralShape("changing");
-			dataToPlot.addAll(gs.getGeneralSightings());
-		}
-		if(theMenu.buttonOther.pressed){
-			GeneralShape gs = Utils.returnGeneralShape("other");
-			dataToPlot.addAll(gs.getGeneralSightings());
-		}
-		//}
 		dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
 
 
@@ -237,6 +247,7 @@ public class MainSketch extends PApplet{
 			/*for(WeatherStation w: Utils.allWeatherStations)
 				w.draw();
 			 */
+
 
 			int min = Utils.allSightings.get(0).getNumOfSightings();
 			int max = Utils.allSightings.get(0).getNumOfSightings();
@@ -255,7 +266,7 @@ public class MainSketch extends PApplet{
 
 		}
 
-		theScroll.drawContent();
+		//theScroll.drawContent();
 		theMenu.drawContent();
 		// draw all the buttons and check for mouse-over
 		boolean hand = false;
@@ -476,6 +487,12 @@ public class MainSketch extends PApplet{
 			else if (theMenu.buttonOther.pressed == true)
 				theMenu.buttonOther.pressed = false;
 		}
+		if (theMenu.buttonAll.mouseOver()){
+			if(theMenu.buttonAll.pressed == false)
+				theMenu.buttonAll.pressed = true;
+			else if (theMenu.buttonAll.pressed == true)
+				theMenu.buttonAll.pressed = false;
+		}
 	}
 	/*	
 
@@ -496,7 +513,34 @@ public class MainSketch extends PApplet{
 	}
 
 	 */
+	@SuppressWarnings("deprecation")
+	public void Start(String theText) {
+		Date result = null;
+		try {
+			result = format.parse(theText);
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
+		endDateDay = result.getDay();
+		endDateMonth = result.getMonth();
+		endDateYear = result.getYear();
+	}
+	@SuppressWarnings("deprecation")
+	public void End(String theText) {
+		Date result = null;
+		try {
+			result = format.parse(theText);
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		startDateDay = result.getDay();
+		startDateMonth = result.getMonth();
+		startDateYear = result.getYear();
+	}
 
 	public static void main(String [] args) {
 		PApplet.main(new String[] { "--present", "MainSketch" });
