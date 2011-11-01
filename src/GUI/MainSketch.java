@@ -35,7 +35,7 @@ public class MainSketch extends PApplet{
 	PanButton left = new PanButton(5,41,14,14,LEFT);
 	PanButton right = new PanButton(22,41,14,14,RIGHT);
 
-	HBar theScroll = new HBar(250,600,600,25);
+	//HBar theScroll = new HBar(250,600,600,25);
 	ControlP5 controlP5;
 	String textValue = "MM/dd/YYYY";
 	Textfield startDatefield;
@@ -274,7 +274,7 @@ public class MainSketch extends PApplet{
 
 		}
 
-		theScroll.drawContent();
+		//theScroll.drawContent();
 		theMenu.drawContent();
 		// draw all the buttons and check for mouse-over
 		boolean hand = false;
