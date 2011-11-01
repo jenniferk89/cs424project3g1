@@ -98,7 +98,7 @@ public class Utils {
 	
 	public static GeneralShape returnGeneralShape(String shape){
 		for(GeneralShape gs: Utils.allGeneralShapes)
-			if(gs.getGeneralShape().equalsIgnoreCase(shape))
+			if(gs.getGeneralShape().equalsIgnoreCase(shape))  //This is never true.
 				return gs;
 		return null;
 	}

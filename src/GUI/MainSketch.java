@@ -59,10 +59,8 @@ public class MainSketch extends PApplet{
 		//Text fields for start and end date.
 		
 		controlP5 = new ControlP5(this);
-		startDatefield = controlP5.addTextfield("Start",10,520,70,20);
+		startDatefield = controlP5.addTextfield("Start",10,550,70,20);
 		endDatefield = controlP5.addTextfield("End",10,600,70,20);
-		
-		
 		Utils.globalProcessing = this;
 		Utils.globalProcessing.size(1024, 768);
 		Utils.globalProcessing.smooth();
@@ -104,9 +102,9 @@ public class MainSketch extends PApplet{
 		Import.createStates("States.txt");
 		Import.weatherStationHandler("weatherStation.txt");
 		Import.militaryBasesHandler("militaryBases.txt");
-		//Import.airportHandler("airports.txt");
+		Import.airportHandler("airports.txt");
 
-		//Import.ufoHandler("all.txt");
+		Import.ufoHandler("all.txt");
 		Import.mergeDatasets();
 
 		/*Import.ufoHandler("ndxlAL.html.txt");
@@ -187,6 +185,10 @@ public class MainSketch extends PApplet{
 	}
 
 	public void draw() {
+		
+	    println(Integer.toString(startDateMonth) + Integer.toString(startDateYear) + Integer.toString(startDateDay));
+	    println(Integer.toString(endDateMonth) + Integer.toString(endDateYear) + Integer.toString(endDateDay));
+
 		Utils.globalProcessing.background(0);
 		//if(true){
 		//  ParallelGraph.draw(Utils.allSightings);
@@ -519,10 +521,10 @@ public class MainSketch extends PApplet{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		 
-		 endDateDay = result.getDay();
-		 endDateMonth = result.getMonth();
-		 endDateYear = result.getYear();
+		 println(theText);
+		 startDateDay = result.getDate();
+		 startDateMonth = result.getMonth() + 1;
+		 startDateYear = result.getYear() + 1900;
 		}
 	@SuppressWarnings("deprecation")
 	public void End(String theText) {
@@ -533,10 +535,11 @@ public class MainSketch extends PApplet{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		 
-		 startDateDay = result.getDay();
-		 startDateMonth = result.getMonth();
-		 startDateYear = result.getYear();
+		 println(theText);
+		 endDateDay = result.getDate();
+		 endDateMonth = result.getMonth() + 1;
+		 endDateYear = result.getYear() + 1900;
+		
 		}
 
 	public static void main(String [] args) {
