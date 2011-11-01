@@ -91,10 +91,10 @@ public class MainSketch extends PApplet{
 		//set the colors //TODO crappy colors
 		Utils.lightColor = Utils.globalProcessing.color(112, 47, 47);
 		Utils.roundColor = Utils.globalProcessing.color(239, 234, 91);
-		Utils.arrowColor = Utils.globalProcessing.color(42, 134, 72);
+		Utils.arrowColor = Utils.globalProcessing.color(148,0,211);
 		Utils.polygonColor = Utils.globalProcessing.color(50, 40, 234);
 		Utils.formationColor = Utils.globalProcessing.color(205, 131, 223);
-		Utils.otherColor = Utils.globalProcessing.color(123, 159, 163);
+		Utils.otherColor = Utils.globalProcessing.color(0,255,255);
 		Utils.changingColor = Utils.globalProcessing.color(195, 147, 109);
 		Utils.militaryBaseColor = Utils.globalProcessing.color(255, 0, 0);
 		Utils.AirportColor = Utils.globalProcessing.color(0, 120, 120, 25);
