@@ -107,11 +107,7 @@ public class Utils {
 	}
 
 	public static ArrayList<Sighting> groupBySpacialTemporalAggregation(ArrayList<Sighting> dataToPlot){
-<<<<<<< HEAD
-		
-		
-		return dataToPlot; //TODO need temporal and spacial boundaries to group data.
-=======
+
 		ArrayList<Sighting> result = new ArrayList<Sighting>();
 		SimpleDateFormat format = new SimpleDateFormat("MM/dd/yyyy");
 		for(Sighting s: dataToPlot){
@@ -128,7 +124,7 @@ public class Utils {
 
 		}
 		return result;
->>>>>>> now dates work
+
 	}
 
 }
