@@ -36,8 +36,8 @@ public class ParallelGraph {
 		yPlote = 700;
 
 		float maxDistance = 0;
-		float minPopulationDensity = locations.get(0).getPopulationDensity();
-		float maxpopulationDensity = locations.get(0).getPopulationDensity();
+		float minPopulationDensity = Utils.allCities.get(0).getPopulationDensity();
+		float maxpopulationDensity = Utils.allCities.get(0).getPopulationDensity();
 		for(City c: locations){
 			if(c.getDistanceAirport() > maxDistance)
 				maxDistance = c.getDistanceAirport();
