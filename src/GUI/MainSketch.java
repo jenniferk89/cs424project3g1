@@ -64,8 +64,8 @@ public class MainSketch extends PApplet{
 		//Text fields for start and end date.
 		
 		controlP5 = new ControlP5(this);
-		startDatefield = controlP5.addTextfield("Start",10,670,70,20);
-		endDatefield = controlP5.addTextfield("End",10,720,70,20);
+		startDatefield = controlP5.addTextfield("Start",10,520,70,20);
+		endDatefield = controlP5.addTextfield("End",10,600,70,20);
 		
 		
 		Utils.globalProcessing = this;
