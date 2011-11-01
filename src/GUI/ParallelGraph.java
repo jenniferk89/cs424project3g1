@@ -12,7 +12,7 @@ public class ParallelGraph {
 		int backgroundColor = Utils.globalProcessing.color(120, 120, 120);
 		Utils.globalProcessing.fill(backgroundColor);
 
-		Utils.globalProcessing.rect(300, 0, 1024, 768);
+		Utils.globalProcessing.rect(300, 50, 1024, 768);
 		//Utils.globalProcessing.rectMode(Utils.globalProcessing.CORNERS);
 		ArrayList<Shape> shapes = new ArrayList<Shape>();
 		ArrayList<Time> times = new ArrayList<Time>();
@@ -28,10 +28,10 @@ public class ParallelGraph {
 				locations.add((City)s.getPosition());
 		}
 		float xPloti, xPlote, yPloti, yPlote;
-		xPloti = 60;
-		xPlote = 1024;
-		yPloti = 30;
-		yPlote = 778;
+		xPloti = 350;
+		xPlote = 950;
+		yPloti = 100;
+		yPlote = 700;
 
 		float maxDistance = 0;
 		float minPopulationDensity = locations.get(0).getPopulationDensity();

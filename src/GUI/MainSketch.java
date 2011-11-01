@@ -95,9 +95,8 @@ public class MainSketch extends PApplet{
 		Import.createStates("States.txt");
 		Import.weatherStationHandler("weatherStation.txt");
 		Import.militaryBasesHandler("militaryBases.txt");
-		//Import.airportHandler("airports.txt");
-
-		//Import.ufoHandler("all.txt");
+		Import.airportHandler("airports.txt");
+		Import.ufoHandler("all.txt");
 		Import.mergeDatasets();
 
 		/*Import.ufoHandler("ndxlAL.html.txt");
@@ -189,45 +188,45 @@ public class MainSketch extends PApplet{
 
 		//Utils.globalProcessing.smooth();
 
-		
+
 		ArrayList<Sighting> dataToPlot = new ArrayList<Sighting>();
-		if(theMenu.buttonAll.pressed)
-			dataToPlot = Utils.allSightings;
-		else{
-			if(theMenu.buttonLight.pressed){
-				GeneralShape light = Utils.returnGeneralShape("light");
-				dataToPlot.addAll(light.getGeneralSightings());
-			}
-
-			if(theMenu.buttonRound.pressed){
-				GeneralShape gs = Utils.returnGeneralShape("round");
-
-				dataToPlot.addAll(gs.getGeneralSightings());
-			}
-			if(theMenu.buttonArrow.pressed){
-				GeneralShape gs = Utils.returnGeneralShape("arrow");
-				dataToPlot.addAll(gs.getGeneralSightings());
-			}
-			if(theMenu.buttonPolygon.pressed){
-				GeneralShape gs = Utils.returnGeneralShape("polygon");
-				dataToPlot.addAll(gs.getGeneralSightings());
-			}
-			if(theMenu.buttonFormation.pressed){
-				GeneralShape gs = Utils.returnGeneralShape("formation");
-				dataToPlot.addAll(gs.getGeneralSightings());
-			}
-			if(theMenu.buttonChanging.pressed){
-				GeneralShape gs = Utils.returnGeneralShape("changing");
-				dataToPlot.addAll(gs.getGeneralSightings());
-			}
-			if(theMenu.buttonOther.pressed){
-				GeneralShape gs = Utils.returnGeneralShape("other");
-				dataToPlot.addAll(gs.getGeneralSightings());
-			}
+		//if(theMenu.buttonAll.pressed)
+		//	dataToPlot = Utils.allSightings;
+		//else{
+		if(theMenu.buttonLight.pressed){
+			GeneralShape light = Utils.returnGeneralShape("light");
+			dataToPlot.addAll(light.getGeneralSightings());
 		}
+
+		if(theMenu.buttonRound.pressed){
+			GeneralShape gs = Utils.returnGeneralShape("round");
+
+			dataToPlot.addAll(gs.getGeneralSightings());
+		}
+		if(theMenu.buttonArrow.pressed){
+			GeneralShape gs = Utils.returnGeneralShape("arrow");
+			dataToPlot.addAll(gs.getGeneralSightings());
+		}
+		if(theMenu.buttonPolygon.pressed){
+			GeneralShape gs = Utils.returnGeneralShape("polygon");
+			dataToPlot.addAll(gs.getGeneralSightings());
+		}
+		if(theMenu.buttonFormation.pressed){
+			GeneralShape gs = Utils.returnGeneralShape("formation");
+			dataToPlot.addAll(gs.getGeneralSightings());
+		}
+		if(theMenu.buttonChanging.pressed){
+			GeneralShape gs = Utils.returnGeneralShape("changing");
+			dataToPlot.addAll(gs.getGeneralSightings());
+		}
+		if(theMenu.buttonOther.pressed){
+			GeneralShape gs = Utils.returnGeneralShape("other");
+			dataToPlot.addAll(gs.getGeneralSightings());
+		}
+		//}
 		dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
-		
-		
+
+
 		if(!theMenu.buttonGraph.pressed){
 			//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
 			/*for(Airport a: Utils.allAirports)
@@ -238,22 +237,20 @@ public class MainSketch extends PApplet{
 			/*for(WeatherStation w: Utils.allWeatherStations)
 				w.draw();
 			 */
-			
 
-			/*int min = Utils.allSightings.get(0).getNumOfSightings();
-		int max = Utils.allSightings.get(0).getNumOfSightings();
-		for(Sighting s: Utils.allSightings){
-			if(s.getNumOfSightings()>max)
-				max = s.getNumOfSightings();
-			else if(s.getNumOfSightings()<min)
-				min = s.getNumOfSightings();
-		}
+			int min = Utils.allSightings.get(0).getNumOfSightings();
+			int max = Utils.allSightings.get(0).getNumOfSightings();
+			for(Sighting s : dataToPlot){
+				if(s.getNumOfSightings()< min)
+					min = s.getNumOfSightings();
+				else if(s.getNumOfSightings() > max)
+					max = s.getNumOfSightings();
+			}
+			for(Sighting s : dataToPlot){
+				s.draw(min, max);
+			}
 
-		for(int i = 0; i < Utils.allSightings.size(); i++){
-			Sighting s = Utils.allSightings.get(i);
-			s.draw(min, max);
-			//System.out.println(p.x);
-		}*/
+
 
 
 		}
@@ -271,8 +268,19 @@ public class MainSketch extends PApplet{
 
 		if(theMenu.buttonGraph.pressed){
 			ArrayList<Sighting> list = new ArrayList<Sighting>();
-			list.addAll(dataToPlot);
-			ParallelGraph.draw(list);
+			if(dataToPlot.size()<=0){
+				theMenu.buttonGraph.pressed = false;
+			}
+			else if(dataToPlot.size()> 300){
+				for(int i = 0; i < 300; i++)
+					list.add(dataToPlot.get(i));
+				ParallelGraph.draw(list);
+			}
+			else
+			{
+				list.addAll(dataToPlot);
+				ParallelGraph.draw(list);
+			}
 		}
 
 
