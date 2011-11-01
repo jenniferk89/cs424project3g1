@@ -60,11 +60,18 @@ public class MainSketch extends PApplet{
 		
 		controlP5 = new ControlP5(this);
 
+<<<<<<< HEAD
+=======
+		
+>>>>>>> cp5 field moved
 		startDatefield = controlP5.addTextfield("Start",10,570,70,20);
-		endDatefield = controlP5.addTextfield("End",10,650,70,20);
+		endDatefield = controlP5.addTextfield("End",10,620,70,20);
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cp5 field moved
 		Utils.globalProcessing = this;
 		Utils.globalProcessing.size(1024, 768);
 		Utils.globalProcessing.smooth();
