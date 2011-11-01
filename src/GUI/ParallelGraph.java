@@ -9,10 +9,10 @@ import control.*;
 public class ParallelGraph {
 
 	public static void draw(ArrayList<Sighting> data){ //TODO refine and make better with relationships
-		int backgroundColor = Utils.globalProcessing.color(120, 120, 120);
+		int backgroundColor = Utils.globalProcessing.color(120, 120, 120, 80);
 		Utils.globalProcessing.fill(backgroundColor);
 
-		Utils.globalProcessing.rect(300, 50, 1024, 768);
+		Utils.globalProcessing.rect(200, 0, 1024, 768);
 		//Utils.globalProcessing.rectMode(Utils.globalProcessing.CORNERS);
 		ArrayList<Shape> shapes = new ArrayList<Shape>();
 		ArrayList<Time> times = new ArrayList<Time>();
@@ -28,8 +28,8 @@ public class ParallelGraph {
 				locations.add((City)s.getPosition());
 		}
 		float xPloti, xPlote, yPloti, yPlote;
-		xPloti = 350;
-		xPlote = 950;
+		xPloti = 200;
+		xPlote = 1024;
 		yPloti = 100;
 		yPlote = 700;
 
@@ -54,12 +54,12 @@ public class ParallelGraph {
 			Utils.globalProcessing.stroke(s.getShape().getColor());
 			Utils.globalProcessing.beginShape();
 			//Utils.globalProcessing.stroke(120);
-			float x = Utils.globalProcessing.map((xPlote-xPloti)/7, xPloti, xPlote, xPloti, xPlote);
+			float x = Utils.globalProcessing.map((float)1/7, 0, 1, xPloti, xPlote);
 			float y = Utils.globalProcessing.map(((City)s.getPosition()).getDistanceAirport(), 0, maxDistance, yPloti, yPlote);
 
 			Utils.globalProcessing.vertex(x,y); // distance
 
-			x = Utils.globalProcessing.map(2*(xPlote-xPloti)/7, xPloti, xPlote, xPloti, xPlote);
+			x = Utils.globalProcessing.map((float)2/7, 0, 1, xPloti, xPlote);
 			y = Utils.globalProcessing.map(((City)s.getPosition()).getPopulationDensity(), minPopulationDensity, maxpopulationDensity, yPloti, yPlote);
 
 			Utils.globalProcessing.vertex(x,y); //populationDensity
@@ -69,7 +69,7 @@ public class ParallelGraph {
 
 			Utils.globalProcessing.vertex(x,y);
 
-			x = Utils.globalProcessing.map(3*(xPlote-xPloti)/7, xPloti, xPlote, xPloti, xPlote);
+			x = Utils.globalProcessing.map((float)3/7, 0, 1, xPloti, xPlote);
 			if(s.getTime().getBeginTime().get(Calendar.HOUR_OF_DAY)<19 &&s.getTime().getBeginTime().get(Calendar.HOUR_OF_DAY)>=7)
 				y = Utils.globalProcessing.map(1, 0, 3, yPloti, yPlote); //day 
 			else	
@@ -80,7 +80,7 @@ public class ParallelGraph {
 			Utils.globalProcessing.beginShape();
 			
 			Utils.globalProcessing.vertex(x,y);
-			x = Utils.globalProcessing.map(4*(xPlote-xPloti)/7, xPloti, xPlote, xPloti, xPlote);
+			x = Utils.globalProcessing.map((float)4/7, 0, 1, xPloti, xPlote);
 			y = Utils.globalProcessing.map(s.getTime().getBeginTime().get(Calendar.MONTH)+1, 0, 13, yPloti, yPlote);
 			Utils.globalProcessing.vertex(x, y); //month of the year
 			
@@ -88,7 +88,7 @@ public class ParallelGraph {
 			Utils.globalProcessing.beginShape();
 			
 			Utils.globalProcessing.vertex(x, y);
-			x = Utils.globalProcessing.map(5*(xPlote-xPloti)/7, xPloti, xPlote, xPloti, xPlote);
+			x = Utils.globalProcessing.map((float)5/7, 0, 1, xPloti, xPlote);
 			if(s.getTime().getBeginTime().get(Calendar.MONTH)==Calendar.MARCH || s.getTime().getBeginTime().get(Calendar.MONTH) == Calendar.APRIL ||
 					s.getTime().getBeginTime().get(Calendar.MONTH) == Calendar.MAY) //Spring
 			y = Utils.globalProcessing.map(1, 0, 5, yPloti, yPlote);
@@ -107,11 +107,14 @@ public class ParallelGraph {
 			
 			Utils.globalProcessing.vertex(x, y);
 			
-			x = Utils.globalProcessing.map(6*(xPlote-xPloti)/7, xPloti, xPlote, xPloti, xPlote);
+			x = Utils.globalProcessing.map((float)6/7, 0, 1, xPloti, xPlote);
 			y = Utils.globalProcessing.map(s.getTime().getBeginTime().get(Calendar.YEAR), 2000, 2011, yPloti, yPlote);
 			Utils.globalProcessing.vertex(x, y); //years
 			Utils.globalProcessing.endShape();
 		}
+		//draw vertical lines
+		//for(int i = 1; i < 7 ; i++)
+		//	float
 
 	}
 
