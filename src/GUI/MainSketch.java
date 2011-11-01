@@ -17,16 +17,11 @@ import controlP5.ControlP5;
 import controlP5.Textfield;
 
 public class MainSketch extends PApplet{
-
-
-
 	//
 	// This is a test of the interactive Modest Maps library for Processing
 	// the modestmaps.jar in the code folder of this sketch might not be 
 	// entirely up to date - you have been warned!
 	//
-
-
 
 	// this is the only bit that's needed to show a map:
 	InteractiveMap map;
@@ -238,6 +233,12 @@ public class MainSketch extends PApplet{
 				GeneralShape gs = Utils.returnGeneralShape("other");
 				dataToPlot.addAll(gs.getGeneralSightings());
 			}
+
+			if(theMenu.buttonAll.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("all");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+
 		}
 		dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
 		
@@ -252,6 +253,7 @@ public class MainSketch extends PApplet{
 			/*for(WeatherStation w: Utils.allWeatherStations)
 				w.draw();
 			 */
+
 			
 
 			/*int min = Utils.allSightings.get(0).getNumOfSightings();
@@ -481,6 +483,12 @@ public class MainSketch extends PApplet{
 				theMenu.buttonOther.pressed = true;
 			else if (theMenu.buttonOther.pressed == true)
 				theMenu.buttonOther.pressed = false;
+		}
+		if (theMenu.buttonAll.mouseOver()){
+			if(theMenu.buttonAll.pressed == false)
+				theMenu.buttonAll.pressed = true;
+			else if (theMenu.buttonAll.pressed == true)
+				theMenu.buttonAll.pressed = false;
 		}
 	}
 	/*	
