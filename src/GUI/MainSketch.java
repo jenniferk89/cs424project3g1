@@ -38,8 +38,8 @@ public class MainSketch extends PApplet{
 	//HBar theScroll = new HBar(250,600,600,25);
 	ControlP5 controlP5;
 	String textValue = "MM/dd/YYYY";
-	Textfield startDatefield;
-	Textfield endDatefield;
+	public static Textfield startDatefield;
+	public static Textfield endDatefield;
 	CircleButton mycb;
 	// all the buttons in one place, for looping:
 	Button[] buttons = { 
@@ -64,7 +64,8 @@ public class MainSketch extends PApplet{
 		startDatefield = controlP5.addTextfield("Start",10,570,70,20);
 		endDatefield = controlP5.addTextfield("End",10,620,70,20);
 
-
+		
+		
 		Utils.globalProcessing = this;
 		Utils.globalProcessing.size(1024, 768);
 		Utils.globalProcessing.smooth();

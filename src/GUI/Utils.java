@@ -1,6 +1,9 @@
 package GUI;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 
 import com.modestmaps.InteractiveMap;
 
@@ -26,8 +29,8 @@ public class Utils {
 	public static ArrayList<Shape> allShapes;
 	public static ArrayList<GeneralShape> allGeneralShapes;
 	public static ArrayList<WeatherStation> allWeatherStations;
-	
-	
+
+
 	public static boolean showGraph;
 	public static final int DEFAULT_RADIUS = 50; //50 miles as default
 	public double radius = DEFAULT_RADIUS;
@@ -95,20 +98,39 @@ public class Utils {
 		return result;
 	}
 
-	
+
 	public static GeneralShape returnGeneralShape(String shape){
 		for(GeneralShape gs: Utils.allGeneralShapes)
 			if(gs.getGeneralShape().equalsIgnoreCase(shape))  //This is never true.
 				return gs;
 		return null;
 	}
-	
+
 	public static ArrayList<Sighting> groupBySpacialTemporalAggregation(ArrayList<Sighting> dataToPlot){
+<<<<<<< HEAD
 		
 		
 		return dataToPlot; //TODO need temporal and spacial boundaries to group data.
+=======
+		ArrayList<Sighting> result = new ArrayList<Sighting>();
+		SimpleDateFormat format = new SimpleDateFormat("MM/dd/yyyy");
+		for(Sighting s: dataToPlot){
+			try {
+				Date start = format.parse(MainSketch.startDatefield.getText());
+				Date stop =  format.parse(MainSketch.endDatefield.getText());
+				if(s.getTime().getBeginTime().getTime().getTime()>= start.getTime() && s.getTime().getBeginTime().getTime().getTime() <= stop.getTime())
+					result.add(s);
+			} catch (ParseException e) {
+				return new ArrayList<Sighting>();
+
+			}
+
+
+		}
+		return result;
+>>>>>>> now dates work
 	}
-	
+
 }
 
 
