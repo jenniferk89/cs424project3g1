@@ -25,7 +25,7 @@ public class MainSketch extends PApplet{
 
 	// this is the only bit that's needed to show a map:
 	InteractiveMap map;
-
+	
 	Menu theMenu;
 	// buttons take x,y and width,height:
 	ZoomButton out = new ZoomButton(5,5,14,14,false);
@@ -52,15 +52,17 @@ public class MainSketch extends PApplet{
 	int endDateMonth;
 	int endDateYear;
 	int endDateDay;
-
+	
 	boolean gui = true;
 	SimpleDateFormat format = new SimpleDateFormat("MM/dd/yyyy");
 	public void setup() {
 		//Text fields for start and end date.
-
+		
 		controlP5 = new ControlP5(this);
-		startDatefield = controlP5.addTextfield("Start",10,520,70,20);
-		endDatefield = controlP5.addTextfield("End",10,600,70,20);
+
+		startDatefield = controlP5.addTextfield("Start",10,570,70,20);
+		endDatefield = controlP5.addTextfield("End",10,650,70,20);
+
 
 
 		Utils.globalProcessing = this;
@@ -95,8 +97,8 @@ public class MainSketch extends PApplet{
 		Utils.otherColor = Utils.globalProcessing.color(123, 159, 163);
 		Utils.changingColor = Utils.globalProcessing.color(195, 147, 109);
 		Utils.militaryBaseColor = Utils.globalProcessing.color(255, 0, 0);
-		Utils.AirportColor = Utils.globalProcessing.color(0, 120, 120, 45);
-		Utils.weatherStationColor = Utils.globalProcessing.color(120, 120, 0, 20);
+		Utils.AirportColor = Utils.globalProcessing.color(0, 120, 120, 25);
+		Utils.weatherStationColor = Utils.globalProcessing.color(120, 120, 0, 40);
 
 
 
@@ -105,6 +107,7 @@ public class MainSketch extends PApplet{
 		Import.weatherStationHandler("weatherStation.txt");
 		Import.militaryBasesHandler("militaryBases.txt");
 		Import.airportHandler("airports.txt");
+
 		Import.ufoHandler("all.txt");
 		Import.mergeDatasets();
 
@@ -186,6 +189,10 @@ public class MainSketch extends PApplet{
 	}
 
 	public void draw() {
+		
+//	    println(Integer.toString(startDateMonth) + Integer.toString(startDateYear) + Integer.toString(startDateDay));
+//	    println(Integer.toString(endDateMonth) + Integer.toString(endDateYear) + Integer.toString(endDateDay));
+
 		Utils.globalProcessing.background(0);
 		//if(true){
 		//  ParallelGraph.draw(Utils.allSightings);
@@ -197,7 +204,7 @@ public class MainSketch extends PApplet{
 
 		//Utils.globalProcessing.smooth();
 
-
+		
 		ArrayList<Sighting> dataToPlot = new ArrayList<Sighting>();
 		if(theMenu.buttonAll.pressed)
 			dataToPlot = Utils.allSightings;
@@ -223,7 +230,6 @@ public class MainSketch extends PApplet{
 			if(theMenu.buttonFormation.pressed){
 				GeneralShape gs = Utils.returnGeneralShape("formation");
 				dataToPlot.addAll(gs.getGeneralSightings());
-
 			}
 			if(theMenu.buttonChanging.pressed){
 				GeneralShape gs = Utils.returnGeneralShape("changing");
@@ -233,35 +239,39 @@ public class MainSketch extends PApplet{
 				GeneralShape gs = Utils.returnGeneralShape("other");
 				dataToPlot.addAll(gs.getGeneralSightings());
 			}
+
+			if(theMenu.buttonAll.pressed){
+				GeneralShape gs = Utils.returnGeneralShape("all");
+				dataToPlot.addAll(gs.getGeneralSightings());
+			}
+
 		}
 		dataToPlot = Utils.groupBySpacialTemporalAggregation(dataToPlot);
-
-
+		
+		
 		if(!theMenu.buttonGraph.pressed){
-			//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
-			/*for(Airport a: Utils.allAirports)
-			a.draw();*/
-			/*for(MilitaryBase mb: Utils.allBases)
+			
+			for(Airport a: Utils.allAirports)
+			a.draw();
+			for(MilitaryBase mb: Utils.allBases)
 			mb.draw();
-			 */
-			/*for(WeatherStation w: Utils.allWeatherStations)
+			 
+			for(WeatherStation w: Utils.allWeatherStations)
 				w.draw();
-			 */
-
+			 
 
 			int min = Utils.allSightings.get(0).getNumOfSightings();
 			int max = Utils.allSightings.get(0).getNumOfSightings();
-			for(Sighting s : dataToPlot){
+			
+			for(Sighting s: dataToPlot){
 				if(s.getNumOfSightings()< min)
 					min = s.getNumOfSightings();
 				else if(s.getNumOfSightings() > max)
 					max = s.getNumOfSightings();
 			}
-			for(Sighting s : dataToPlot){
+			for(Sighting s: dataToPlot)
 				s.draw(min, max);
-			}
-
-
+				
 
 
 		}
@@ -282,16 +292,13 @@ public class MainSketch extends PApplet{
 			if(dataToPlot.size()<=0){
 				theMenu.buttonGraph.pressed = false;
 			}
-			else if(dataToPlot.size()> 300){
+			else if(dataToPlot.size()>300){
 				for(int i = 0; i < 300; i++)
 					list.add(dataToPlot.get(i));
 				ParallelGraph.draw(list);
 			}
-			else
-			{
-				list.addAll(dataToPlot);
-				ParallelGraph.draw(list);
-			}
+			list.addAll(dataToPlot);
+			ParallelGraph.draw(list);
 		}
 
 
@@ -516,31 +523,32 @@ public class MainSketch extends PApplet{
 	@SuppressWarnings("deprecation")
 	public void Start(String theText) {
 		Date result = null;
-		try {
+		 try {
 			result = format.parse(theText);
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
-		endDateDay = result.getDay();
-		endDateMonth = result.getMonth();
-		endDateYear = result.getYear();
-	}
+//		 println(theText);
+		 startDateDay = result.getDate();
+		 startDateMonth = result.getMonth() + 1;
+		 startDateYear = result.getYear() + 1900;
+		}
 	@SuppressWarnings("deprecation")
 	public void End(String theText) {
 		Date result = null;
-		try {
+		 try {
 			result = format.parse(theText);
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
-		startDateDay = result.getDay();
-		startDateMonth = result.getMonth();
-		startDateYear = result.getYear();
-	}
+//		 println(theText);
+		 endDateDay = result.getDate();
+		 endDateMonth = result.getMonth() + 1;
+		 endDateYear = result.getYear() + 1900;
+		
+		}
 
 	public static void main(String [] args) {
 		PApplet.main(new String[] { "--present", "MainSketch" });
