@@ -521,7 +521,7 @@ public class MainSketch extends PApplet{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		 println(theText);
+//		 println(theText);
 		 startDateDay = result.getDate();
 		 startDateMonth = result.getMonth() + 1;
 		 startDateYear = result.getYear() + 1900;
@@ -535,7 +535,7 @@ public class MainSketch extends PApplet{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		 println(theText);
+//		 println(theText);
 		 endDateDay = result.getDate();
 		 endDateMonth = result.getMonth() + 1;
 		 endDateYear = result.getYear() + 1900;
