@@ -97,8 +97,8 @@ public class MainSketch extends PApplet{
 		Utils.otherColor = Utils.globalProcessing.color(123, 159, 163);
 		Utils.changingColor = Utils.globalProcessing.color(195, 147, 109);
 		Utils.militaryBaseColor = Utils.globalProcessing.color(255, 0, 0);
-		Utils.AirportColor = Utils.globalProcessing.color(0, 120, 120, 45);
-		Utils.weatherStationColor = Utils.globalProcessing.color(120, 120, 0, 20);
+		Utils.AirportColor = Utils.globalProcessing.color(0, 120, 120, 25);
+		Utils.weatherStationColor = Utils.globalProcessing.color(120, 120, 0, 40);
 
 
 
@@ -250,32 +250,28 @@ public class MainSketch extends PApplet{
 		
 		
 		if(!theMenu.buttonGraph.pressed){
-			//TODO draw airport only after a certain zoomLevel, otherwise we'll be submerged my annoying triangles
-			/*for(Airport a: Utils.allAirports)
-			a.draw();*/
-			/*for(MilitaryBase mb: Utils.allBases)
-			mb.draw();
-			 */
-			/*for(WeatherStation w: Utils.allWeatherStations)
-				w.draw();
-			 */
-
 			
+			for(Airport a: Utils.allAirports)
+			a.draw();
+			for(MilitaryBase mb: Utils.allBases)
+			mb.draw();
+			 
+			for(WeatherStation w: Utils.allWeatherStations)
+				w.draw();
+			 
 
-			/*int min = Utils.allSightings.get(0).getNumOfSightings();
-		int max = Utils.allSightings.get(0).getNumOfSightings();
-		for(Sighting s: Utils.allSightings){
-			if(s.getNumOfSightings()>max)
-				max = s.getNumOfSightings();
-			else if(s.getNumOfSightings()<min)
-				min = s.getNumOfSightings();
-		}
-
-		for(int i = 0; i < Utils.allSightings.size(); i++){
-			Sighting s = Utils.allSightings.get(i);
-			s.draw(min, max);
-			//System.out.println(p.x);
-		}*/
+			int min = Utils.allSightings.get(0).getNumOfSightings();
+			int max = Utils.allSightings.get(0).getNumOfSightings();
+			
+			for(Sighting s: dataToPlot){
+				if(s.getNumOfSightings()< min)
+					min = s.getNumOfSightings();
+				else if(s.getNumOfSightings() > max)
+					max = s.getNumOfSightings();
+			}
+			for(Sighting s: dataToPlot)
+				s.draw(min, max);
+				
 
 
 		}
@@ -293,6 +289,14 @@ public class MainSketch extends PApplet{
 
 		if(theMenu.buttonGraph.pressed){
 			ArrayList<Sighting> list = new ArrayList<Sighting>();
+			if(dataToPlot.size()<=0){
+				theMenu.buttonGraph.pressed = false;
+			}
+			else if(dataToPlot.size()>300){
+				for(int i = 0; i < 300; i++)
+					list.add(dataToPlot.get(i));
+				ParallelGraph.draw(list);
+			}
 			list.addAll(dataToPlot);
 			ParallelGraph.draw(list);
 		}

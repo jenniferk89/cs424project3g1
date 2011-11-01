@@ -9,7 +9,7 @@ import control.*;
 public class ParallelGraph {
 
 	public static void draw(ArrayList<Sighting> data){ //TODO refine and make better with relationships
-		int backgroundColor = Utils.globalProcessing.color(120, 120, 120, 80);
+		int backgroundColor = Utils.globalProcessing.color(120, 120, 120, 60);
 		Utils.globalProcessing.fill(backgroundColor);
 
 		Utils.globalProcessing.rect(200, 0, 1024, 768);
@@ -113,9 +113,10 @@ public class ParallelGraph {
 			Utils.globalProcessing.endShape();
 		}
 		//draw vertical lines
-		//for(int i = 1; i < 7 ; i++)
-		//	float
-
+		for(int i = 1; i < 7 ; i++){
+			float x = Utils.globalProcessing.map((float)i/7, 0, 1, xPloti, xPlote);
+			//Utils.globalProcessing.
+		}
 	}
 
 }
